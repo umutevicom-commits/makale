@@ -345,6 +345,21 @@ VIDEO_HOST_HINTS = (
     "youtube.com/embed", "youtube-nocookie.com/embed", "player.vimeo.com",
 )
 
+# TechCrunch, makalenin başlığı (h1) ile entry-content arasında, öne çıkan
+# (featured/hero) görseli/videoyu genelde AYRI bir <figure>/<div> bloğunda
+# (ör. "wp-block-post-featured-image", "post-thumbnail") render eder — bu
+# blok entry-content'in İÇİNDE DEĞİL, ondan önceki bir kardeş elemandır. Bu
+# yüzden extract_body() (yalnızca entry-content/articleBody kapsayıcısını
+# tarar) bu öne çıkan görseli/videoyu YAKALAYAMAZ; bu ipuçları, sayfa
+# genelinde ayrıca aranan öne çıkan medyayı bulmak için kullanılır.
+FEATURED_IMAGE_HINTS = (
+    "featured-image", "post-thumbnail", "hero-image", "wp-post-image",
+    "attachment-post-thumbnail", "single-featured-image",
+)
+FEATURED_VIDEO_HINTS = (
+    "featured-video", "hero-video", "post-video",
+)
+
 
 def _is_ad_src(src: str) -> bool:
     low = src.lower()
@@ -354,6 +369,62 @@ def _is_ad_src(src: str) -> bool:
 def _is_known_video_host(src: str) -> bool:
     low = src.lower()
     return any(hint in low for hint in VIDEO_HOST_HINTS)
+
+
+def _el_hint_match(el, hints: tuple[str, ...]) -> bool:
+    """Elemanın class/id'si verilen ipuçlarından birini içeriyor mu?"""
+    if not hasattr(el, "get"):
+        return False
+    classes = " ".join(el.get("class") or []).lower()
+    el_id = (el.get("id") or "").lower()
+    combined = f"{classes} {el_id}"
+    return any(hint in combined for hint in hints)
+
+
+def find_featured_image(soup) -> dict | None:
+    """Sayfa genelinde (entry-content sınırıyla kısıtlı olmadan) öne çıkan
+    (featured/hero) görseli arar: önce bilinen class/id ipucu taşıyan bir
+    <figure>/<div>/<img> içindeki ilk <img>'i dener; hiçbiri bulunamazsa
+    son çare olarak og:image / twitter:image meta etiketine düşer (bu meta
+    etiketleri WordPress tarafından HER ZAMAN öne çıkan görselle doldurulur,
+    dolayısıyla en güvenilir yedektir). Reklam kaynağı ise (AD_SRC_HINTS)
+    yok sayılır. Bulunamazsa None döner."""
+    for el in soup.find_all(["figure", "div", "img"]):
+        if not _el_hint_match(el, FEATURED_IMAGE_HINTS):
+            continue
+        if _ancestor_has_hint(el):
+            continue
+        img = el if el.name == "img" else el.find("img")
+        if not img:
+            continue
+        src = img.get("src") or img.get("data-src") or ""
+        if src and not _is_ad_src(src):
+            return {"url": src, "alt": img.get("alt", "")}
+    for prop in ("og:image", "twitter:image"):
+        meta = soup.find("meta", attrs={"property": prop}) or soup.find(
+            "meta", attrs={"name": prop}
+        )
+        if meta and meta.get("content"):
+            return {"url": meta["content"], "alt": ""}
+    return None
+
+
+def find_featured_video(soup) -> dict | None:
+    """Sayfa genelinde, bilinen class/id ipucu taşıyan bir öne çıkan/hero
+    video sarmalayıcısı içindeki, bilinen bir video barındırma servisine
+    (YouTube/Vimeo) ait ilk <iframe>'i arar. Bulunamazsa None döner."""
+    for el in soup.find_all(["figure", "div"]):
+        if not _el_hint_match(el, FEATURED_VIDEO_HINTS):
+            continue
+        if _ancestor_has_hint(el):
+            continue
+        iframe = el.find("iframe")
+        if not iframe:
+            continue
+        src = iframe.get("src") or iframe.get("data-src") or ""
+        if src and _is_known_video_host(src):
+            return {"url": src, "title": iframe.get("title", "")}
+    return None
 
 
 
@@ -847,6 +918,21 @@ def parse_article(url: str, html: str) -> Article:
         for vid in raw_videos
         if vid.get("url")
     ]
+
+    # Öne çıkan (featured/hero) görsel ve video — bunlar entry-content'in
+    # DIŞINDA render edildiğinden yukarıdaki extract_body() taramasına asla
+    # dahil olmazlar; bu yüzden sayfa genelinde AYRICA aranır ve varsa
+    # (yinelenmeyecek şekilde) gövdeden çıkarılan listenin BAŞINA eklenir.
+    featured_image = find_featured_image(soup)
+    if featured_image and featured_image.get("url"):
+        featured_image_url = fix_url(featured_image["url"], url)
+        if not any(img["url"] == featured_image_url for img in images):
+            images.insert(0, {"url": featured_image_url, "alt": featured_image.get("alt", "")})
+    featured_video = find_featured_video(soup)
+    if featured_video and featured_video.get("url"):
+        featured_video_url = fix_url(featured_video["url"], url)
+        if not any(vid["url"] == featured_video_url for vid in videos):
+            videos.insert(0, {"url": featured_video_url, "title": featured_video.get("title", "")})
 
     # Etiketler — href="/tag/<slug>/" veya href="/category/<slug>/" kalıbındaki
     # linkleri topla (class adından bağımsız); makalenin altındaki "Topics"
