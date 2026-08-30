@@ -1,12 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title></title>
-    <link>https://techcrunch.com</link>
-    <atom:link href="https://techcrunch.com/rss.xml" rel="self" type="application/rss+xml" />
-    <description>TechCrunch haberlerinin eksiksiz Türkçe çevirisi</description>
-    <language>tr</language>
-    <lastBuildDate>Sun, 30 Aug 2026 15:57:56 +0000</lastBuildDate>
     <item>
       <title>Caterpillar, madenciliği otomatikleştirmekten öğrendiklerini yapay zeka dağıtımına getiriyor</title>
       <link>https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/</link>
@@ -27,5 +18,3 @@
 <p>Ancak bu geçiş, Caterpillar için yeni bir zorluk yaratıyor: 118.000 çalışanını eğitmek. Mineart, şirketin işgücünü yapay zeka, özerklik ve robotik alanlarında eğitmek için önümüzdeki 5 yıl içinde 100 milyon $ harcamayı planladığını söyledi.</p>
 <p>Bu yatırım muhtemelen şirketin yapay zeka altyapısındaki daha geniş patlamadan en iyi şekilde yararlanmasına yardımcı olmak için yapılıyor ve bu da zaten en üst seviyeye ulaşmasına yardımcı oluyor. Caterpillar'ın üç aylık geliri, veri merkezlerinde kullanılan güç üretimi ekipmanlarına olan güçlü talebin de yardımıyla ikinci çeyrekte tüm zamanların en yüksek seviyesi olan 20,5 milyar $ seviyesine ulaştı. Güç üretimi bölümü satışlarda % 72 artışla 3.10 milyar $ 'a yükseldi ve CEO Joe Creed, bulut bilişim ve üretken yapay zeka altyapısı talebi söz konusu olduğunda &quot;kimsenin yavaşlamadığını&quot; söyledi.</p>]]></content:encoded>
     </item>
-  </channel>
-</rss>
