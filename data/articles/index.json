@@ -1,22 +1,42 @@
 [
   {
-    "slug": "musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem",
-    "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+    "slug": "techcrunch-mobility-the-hidden-human-cost-of-robotaxis",
+    "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
     "date": "30 August 2026",
-    "fetched_at": "2026-08-30T20:56:28.504692+00:00",
+    "fetched_at": "2026-08-30T22:20:53.298110+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "4ab06b5aad21e9e5b0fbb905b030e97fc7e9b81d2991b4d8f07bdb9c4d70abd4"
+    "content_hash": "6e5a6dce3d63bcc50c5ff3162e7663cdee0673101708741166367ac9b958c6fe"
   },
   {
-    "slug": "liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals",
-    "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+    "slug": "caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
+    "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
     "date": "30 August 2026",
-    "fetched_at": "2026-08-30T20:55:42.772288+00:00",
+    "fetched_at": "2026-08-30T22:20:20.050270+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "17fb4fca02d4d942a73dee7bfbab7bb03204a612cde6b7b1602d72e2a97fd1ff"
+    "content_hash": "dee7528cba1d163bced62af7f10c133ef42b06f826bc430becd79450b1e09d9c"
+  },
+  {
+    "content_hash": "4ab06b5aad21e9e5b0fbb905b030e97fc7e9b81d2991b4d8f07bdb9c4d70abd4",
+    "date": "30 August 2026",
+    "fetched_at": "2026-08-30T20:56:28.504692+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
+  },
+  {
+    "content_hash": "17fb4fca02d4d942a73dee7bfbab7bb03204a612cde6b7b1602d72e2a97fd1ff",
+    "date": "30 August 2026",
+    "fetched_at": "2026-08-30T20:55:42.772288+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/"
   }
 ]

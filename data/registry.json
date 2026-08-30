@@ -1,12 +1,12 @@
 {
   "caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining": {
-    "content_hash": "",
+    "content_hash": "dee7528cba1d163bced62af7f10c133ef42b06f826bc430becd79450b1e09d9c",
     "date": "30 August 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Caterpillar is bringing to AI deployment what it learned fro'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-08-30T22:20:20.050270+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
   },
   "liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals": {
@@ -30,13 +30,13 @@
     "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
   },
   "techcrunch-mobility-the-hidden-human-cost-of-robotaxis": {
-    "content_hash": "",
+    "content_hash": "6e5a6dce3d63bcc50c5ff3162e7663cdee0673101708741166367ac9b958c6fe",
     "date": "30 August 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Mubadala Capital, the alternative asset management arm of Mu'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-08-30T22:20:53.298110+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "techcrunch-mobility-the-hidden-human-cost-of-robotaxis",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/"
   }
 }
