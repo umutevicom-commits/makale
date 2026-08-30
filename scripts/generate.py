@@ -64,7 +64,7 @@ RSS_ITEM_LIMIT = 60
 # (docs/rss.xml şu an bu domainde canlı) varsayılan değerdir; farklı bir
 # GitHub Pages adresine taşınırsa PAGES_BASE_URL ortam değişkeniyle geçilebilir.
 PAGES_BASE_URL = (
-    os.environ.get("PAGES_BASE_URL") or "https://umutevicom-commits.github.io/tarihte"
+    os.environ.get("PAGES_BASE_URL") or "https://umutevicom-commits.github.io/makale"
 ).rstrip("/")
 IMAGES_DIR = DATA_DIR / "images"
 # İndirilecek görseller için bilinen/izin verilen uzantılar; URL'de bunlardan
@@ -635,7 +635,7 @@ def download_image(url: str, dest_dir: Path, used_names: set[str]) -> str | None
 def localize_images(article: Article) -> Article:
     """Makalenin article.images listesindeki her görseli data/images/<slug>/
     altına indirir ve URL'sini yayınlanan (GitHub Pages) adresle değiştirir,
-    ör: https://umutevicom-commits.github.io/tarihte/data/images/<slug>/<dosya>.
+    ör: https://umutevicom-commits.github.io/makale/data/images/<slug>/<dosya>.
     İndirme başarısız olan tekil bir görsel varsa (ağ hatası vb.) o görsel
     için sadece orijinal TechCrunch URL'i korunur; diğer görseller ve makalenin
     geri kalanı etkilenmez.
