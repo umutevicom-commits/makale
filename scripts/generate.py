@@ -1226,6 +1226,32 @@ def build_item_xml(article: Article) -> str:
     author_xml = f"<author>{_xml_escape(article.author)}</author>" if article.author else ""
     pub_date = _rfc822_date(article.date, article.fetched_at)
     content_html = article_to_html(article)
+
+    # ÖNE ÇIKAN GÖRSEL/VİDEO İÇİN AYRI MEDYA ETİKETLERİ: çoğu RSS okuyucu
+    # (Feedly, Inoreader, RSS.app, Apple News vb.) makale listesindeki küçük
+    # kapak görselini/oynatıcıyı content:encoded içindeki <img>'i AYRIŞTIRARAK
+    # değil, standart <media:content>/<media:thumbnail>/<enclosure>
+    # etiketlerinden okur. Bunlar olmadan görsel sadece makale AÇILDIĞINDA
+    # görünür, liste/önizleme kartında görünmez. İlk görsel (varsa öne çıkan
+    # hero görsel) burada ayrıca, gövdeye ek olarak (gövdeden ÇIKARILMADAN)
+    # yayınlanır.
+    media_xml = ""
+    if article.images:
+        lead_image_url = article.images[0]["url"]
+        guessed_type = mimetypes.guess_type(lead_image_url)[0] or "image/jpeg"
+        media_xml += (
+            f'      <media:content url="{_xml_escape(lead_image_url)}" '
+            f'medium="image" type="{_xml_escape(guessed_type)}" />\n'
+            f'      <media:thumbnail url="{_xml_escape(lead_image_url)}" />\n'
+            f'      <enclosure url="{_xml_escape(lead_image_url)}" '
+            f'type="{_xml_escape(guessed_type)}" length="0" />\n'
+        )
+    if article.videos:
+        lead_video_url = article.videos[0]["url"]
+        media_xml += (
+            f'      <media:content url="{_xml_escape(lead_video_url)}" medium="video" />\n'
+        )
+
     return (
         "    <item>\n"
         f"      <title>{_xml_escape(title)}</title>\n"
@@ -1234,6 +1260,7 @@ def build_item_xml(article: Article) -> str:
         f"      <pubDate>{pub_date}</pubDate>\n"
         f"      {author_xml}\n"
         f"      <description>{_xml_escape(description)}</description>\n"
+        f"{media_xml}"
         f"      <content:encoded>{_cdata(content_html)}</content:encoded>\n"
         "    </item>"
     )
@@ -1245,12 +1272,18 @@ def build_rss_envelope(items_xml: list[str]) -> str:
     her çalıştırmada tazelenir; item içerikleri buraya olduğu gibi girer."""
     build_date = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S %z")
     channel_link = SITE_URL or BASE_URL
+    # SITE_NAME ortam değişkeni GitHub Actions'ta TANIMLI ama BOŞ ("") olarak
+    # ayarlanmışsa os.environ.get(..., varsayılan) devreye girmez (anahtar zaten
+    # var), bu yüzden burada AYRICA "or" ile korunur — kanal başlığı asla boş
+    # kalmaz.
+    channel_title = SITE_NAME or "TechCrunch Türkçe"
     return (
         '<?xml version="1.0" encoding="UTF-8"?>\n'
         '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" '
-        'xmlns:content="http://purl.org/rss/1.0/modules/content/">\n'
+        'xmlns:content="http://purl.org/rss/1.0/modules/content/" '
+        'xmlns:media="http://search.yahoo.com/mrss/">\n'
         "  <channel>\n"
-        f"    <title>{_xml_escape(SITE_NAME)}</title>\n"
+        f"    <title>{_xml_escape(channel_title)}</title>\n"
         f"    <link>{_xml_escape(channel_link)}</link>\n"
         f"    <atom:link href=\"{_xml_escape(channel_link)}/rss.xml\" rel=\"self\" type=\"application/rss+xml\" />\n"
         "    <description>TechCrunch haberlerinin eksiksiz Türkçe çevirisi</description>\n"
