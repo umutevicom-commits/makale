@@ -934,16 +934,13 @@ def parse_article(url: str, html: str) -> Article:
         if not any(vid["url"] == featured_video_url for vid in videos):
             videos.insert(0, {"url": featured_video_url, "title": featured_video.get("title", "")})
 
-    # Etiketler — href="/tag/<slug>/" veya href="/category/<slug>/" kalıbındaki
-    # linkleri topla (class adından bağımsız); makalenin altındaki "Topics"
-    # bölümünde bulunurlar.
+    # ETİKET/KATEGORİ ARTIK HİÇ TOPLANMAZ (kullanıcı isteği): TechCrunch'ın
+    # makale altındaki "Topics" (/tag/, /category/ linkleri) bölümü ve RSS
+    # çıktısındaki <category> alanı bilinçli olarak boş bırakılır — bu bir
+    # yapısal reklam/gezinme öğesidir, makale İÇERİĞİNİN bir parçası değildir.
+    # (İlgili TAG_LINK_RE deseni script'in başka bir yerinde kullanılmadığı
+    # için tanımlı kalması zararsızdır, sadece burada artık çağrılmaz.)
     tags: list[str] = []
-    seen_tags: set[str] = set()
-    for a in soup.find_all("a", href=TAG_LINK_RE):
-        tag = a.get_text(strip=True)
-        if tag and tag != author and tag != date_str and tag not in seen_tags:
-            seen_tags.add(tag)
-            tags.append(tag)
 
     id_match = ARTICLE_URL_RE.match(url)
     news_id = id_match.group(4) if id_match else slug
@@ -973,7 +970,9 @@ def translate_article(article: Article) -> Article:
     article.body_paragraphs_tr = [
         translate_text(p) for p in article.body_paragraphs
     ]
-    article.tags_tr = [translate_text(t) for t in article.tags]
+    # Etiket/kategori artık hiç toplanmadığından (bkz. parse_article) çevrilecek
+    # bir şey de yok; article.tags her zaman boştur, tags_tr da boş kalır.
+    article.tags_tr = []
     print(f"  [çeviri-tamam] {article.slug}")
     return article
 
@@ -1224,8 +1223,6 @@ def build_item_xml(article: Article) -> str:
     title = article.title_tr or article.title
     paragraphs = article.body_paragraphs_tr or article.body_paragraphs
     description = paragraphs[0] if paragraphs else ""
-    tags = article.tags_tr or article.tags
-    categories = "".join(f"<category>{_xml_escape(t)}</category>" for t in tags)
     author_xml = f"<author>{_xml_escape(article.author)}</author>" if article.author else ""
     pub_date = _rfc822_date(article.date, article.fetched_at)
     content_html = article_to_html(article)
@@ -1236,7 +1233,6 @@ def build_item_xml(article: Article) -> str:
         f"      <guid isPermaLink=\"true\">{_xml_escape(article.url)}</guid>\n"
         f"      <pubDate>{pub_date}</pubDate>\n"
         f"      {author_xml}\n"
-        f"      {categories}\n"
         f"      <description>{_xml_escape(description)}</description>\n"
         f"      <content:encoded>{_cdata(content_html)}</content:encoded>\n"
         "    </item>"
