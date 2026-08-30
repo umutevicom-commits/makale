@@ -1,0 +1,29 @@
+# Musk'ın daha fazla gaz türbinine giden daha hızlı yolu kirlilik sorunuyla birlikte geliyor
+
+Elon Musk, üretilmesi zor bir türbin parçasını kendisi yaparak yapay zekanın en büyük darboğazlarından birini çözmenin bir yolunu bulduğunu söylüyor.
+
+Musk cumartesi günü SpaceX'in Bastrop, Teksas'ta inşa ettiği gizli bir dökümhanenin ne için olduğunu doğruladı. Bu, ayrıntılara çoktan yaklaşan bir hikayeye bariz bir yanıttı. Günün erken saatlerinde The Information, bir "bıçak ve kanat dökümhanesinden" açıkça bahseden iş listelerinin yanı sıra bülteninde yapay zeka altyapı sitelerinin ayrıntılı incelemelerini yazan ve SpaceX'in Mart ve Haziran ayları arasında Bastrop'taki mevcut Starlink fabrikasının yakınında yaklaşık 830 dönümlük alan satın aldığını bildiren durum tespiti uzmanı Corey Trinetti'nin bulgularına atıfta bulunan bir rapor yayımladı.
+
+Musk cumartesi günü X'te "SpaceX ve Tesla'nın her biri yılda 100 GW'lık güneş enerjisi üretim kapasitesini mümkün olduğunca hızlı inşa ediyor" diye yazdı. Musk, "Ancak güneş enerjisini desteklemek ve önyüklemek için birkaç yıl daha doğal gaza ihtiyaç duyulacak. Nat gaz türbini üretimi için sınırlayıcı faktör, kanatların ve kanatların dökülmesidir. SpaceX'te kurum içi oyuncu seçimi yaparak, çevrimiçi hale gelen doğal gaz türbinlerini 18 aya kadar hızlandırabiliriz, bu da büyük bir oyun değiştirici ."
+
+Tüm bunların "nedeni ", şu anda yapay zeka endüstrisinin karşılaştığı en büyük zorluklardan birine dayanıyor. GPU sıkıntısı hala bir sorun — örneğin Nvidia'nın en yeni Blackwell çipleri hala birkaç aylık teslim süreleriyle çalışıyor — ancak fiziksel güç şebekesi olan ikinci bir kısıtlama ortaya çıktı. Uluslararası Enerji Ajansı, küresel veri merkezi elektrik kullanımının 2030 yılına kadar kabaca iki katına çıkacağını öngörüyor ve gaz türbini üreticisi GE Vernova, büyük ölçüde yapay zeka altyapısı talebi nedeniyle 2030 yılına kadar üretim kapasitesinin tükendiğini söylüyor.
+
+Bu kıtlık, şebekede beklemek yerine veri merkezlerinin yanına özel gazla çalışan tesisler inşa etmenin Amazon, Google, Meta, OpenAI ve Microsoft gibi hiper ölçekleyiciler için her yerde bulunan bir strateji haline gelmesinin nedenidir. Yıllarca rüzgar ve güneşe öncelik verdikten sonra, şimdi hepsi veri merkezlerini daha hızlı çevrimiçi hale getirmek için doğal gaza yatırım yapıyor.
+
+The Information'a göre, özellikle döküm darboğazına gelince, bir gaz türbininin en sıcak bölümündeki kanatlar, 3.000 ila 3.600 derece Fahrenheit arasındaki sıcaklıklarda çalışır, bu da yapıldığı metal alaşımının erime noktasından yaklaşık 800 derece daha sıcaktır. Bu, yalnızca kanatların iç soğutma kanalları ve termal bariyer kaplamalarının yanı sıra her bir bıçağın özel döküm şekli nedeniyle mümkündür. Dünya çapında sadece dört şirket, döküm sürecinde onları endüstriyel ölçekte üretecek kadar ustalaştı ve hepsi şu anda elenmiş durumda.
+
+Her şeyi özellikle zorlaştıran şey, her bir bıçağın, sıradan dökme metalin stres altında çatlamasına izin veren mikroskobik dikişler olmadan, bir vakum fırınının içinde yavaşça büyüyen, tek, kırılmamış bir kristal olarak dökülmesi gerektiğidir. Jet motorlarında kullanılan daha küçük kanatlar için bile zor bir süreçtir; güç santrali türbinlerindeki kanatlar oldukça büyüktür, bu da onları bu ölçekte ve hatasız üretmeyi daha da zorlaştırır.
+
+SpaceX bunu başarırsa — ki bunu söylemek yapmaktan daha kolay — Musk kontrolündeki bir kuruluşun şu anda diğer tüm yapay zeka altyapı üreticilerinin küçük bir oligopoliye bağlı olduğu bir üretim kapasitesine sahip olduğu ve SpaceXAI'ye iyi finanse edilen ancak üretim yapmayan herhangi bir rakibin hızlı bir şekilde kopyalaması için zor bir avantaj sağladığı anlamına gelir.
+
+Ancak bu aynı zamanda daha fazla gaz türbininin hızla devreye girmesi anlamına geliyor ve yerdeki türbinler halihazırda yaydıkları kirlilikle ilgili federal davaları ve hakemli sağlık araştırmalarını çekiyor.
+
+SpaceXAI'nin 2024 'ten bu yana Colossus veri merkezlerine güç sağlamak için gaz türbinleri işlettiği Memphis'te NAACP, şirketi federal yasaların gerektirdiği izinler veya kirlilik kontrolleri olmadan türbin işletmekle defalarca suçladı. Kuruluşun endişesi, bu tür türbinlerin duman oluşturan bileşikler ve formaldehit, astımla bağlantılı kirleticiler, solunum yolu hastalıkları ve bazı kanserler gibi tehlikeli kimyasallar yaymasıdır. (Site, halihazırda ağır endüstriyel kirlilikle karşı karşıya olan mahallelerin yakınında yer alıyor ve Memphis Üniversitesi araştırmacıları, kuşkusuz sınırlı analizlerinde hava kirliliğinin veri merkezi nedeniyle "biraz daha kötüleştiğini" söyledi.)
+
+Ama Memphis en göze çarpan vaka. Aynı mücadele, gaz türbinlerinin veri merkezi güç kesintileri için varsayılan düzeltme haline geldiği her yerde de devam ediyor. Virginia'nın "Veri Merkezi Sokağı" nda, Piedmont Çevre Konseyi tarafından yaptırılan ve EPA'nın kendi KOBRA sağlık etkisi modelini kullanan bir çalışma, tek bir tesisin sekiz tam zamanlı gaz türbininden kaynaklanan emisyonların birden fazla ülkede 2,5 milyondan fazla insana ulaşabileceğini ve en ağır etkinin zaten marjinalleşmiş topluluklara indiğini ve yılda tahmini 3,4 ila 6,5 ek erken ölüme neden olduğunu ve bunun da 53 $ milyar dolara ulaştığını ortaya koydu. yıllık sağlıkla ilgili zararlardan 99 milyon $ 'a kadar. Ama Memphis en göze çarpan vaka. Aynı mücadele, gaz türbinlerinin veri merkezi güç kesintileri için varsayılan düzeltme haline geldiği her yerde de devam ediyor.
+
+---
+
+## Görseller
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/Elon-Musk.jpg)

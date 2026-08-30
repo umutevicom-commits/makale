@@ -1,0 +1,59 @@
+# Liux'un Big mikro otomobili, Çinli rakipleriyle mücadele etmek için sürdürülebilirlik üzerine bahse giriyor
+
+Avrupa şehirlerindeki arabalar her zamankinden daha küçük. Ancak Avrupa'nın mikro arabalara olan iştahı arttıkça, sevimli İtalyan ‘yoğurt tencereleri’ büyük ölçüde küçük Çin elektrikli araçlarına yol açtı. İkonik ultra kompakt otomobil markası Smart bile üretimi Çin'e taşıdı.
+
+İspanyol girişim Liux, sürdürülebilirlik üzerine inşa edilmiş küçük bir elektrikli otomobille kalabalık bir pazarda rekabet edebileceğini düşünüyor.
+
+İsviçre'den çıkan Microlino'nun izlerini takip eden Liux, yaklaşmakta olan mikro otomobili Liux Big ile pazarda bir yer edinmeye çalışıyor. “Büyük” ismi bir şakadır. Kaldırıma dik bir açıyla park edecek kadar küçüktür; ancak isim, nadiren beklenen rotayı izleyen bir ekibin büyük boy hırslarını da yansıtır.
+
+Liux kurucu ortağı Antonio Espinosa de los Monteros, TechCrunch'a verdiği demeçte, "Avrupa arabası fikri diye bir şey yok" dedi. Arabaları zaten "İspanya'da üretildiği" için manşetlere çıkan bir girişimin CEO'sundan gelen bu açıklama şaşırtıcıydı ve şirketin öncelikleri hakkında çok şey ortaya koyuyor.
+
+Liux'un 30 yılı aşkın bir süredir İspanya'nın ilk yeni otomobil fabrikasını açtığı doğrudur. Ancak zarif showroomunda otururken, Espinosa ve kurucu ortağı David Sancho, tamamen bağımsız bir tedarik zincirinin elde edilemez olduğu sonucuna vardıklarını söyledi. Bunun yerine Liux, sürdürülebilirliği kuzey yıldızı olarak tutarken bu gerçeklikte gezinmeye çalışıyor.
+
+Liux'un bataryaları Avrupa'da üretilmiyor ancak güneş panellerinden üretilen güç de dahil olmak üzere evde şarj edilebiliyor. Otomobilin bakımının kolay olması ve modern otomobillerin daha hızlı eskime döngülerinden kaçınması da amaçlanıyor. Belki de en önemlisi, elyaf gövdesi, malzemenin daha sonra ekstrakte edilebilmesi ve geri dönüştürülebilmesi için tasarlanmış yeni bir keten bazlı biyokompozitten yapılmıştır.
+
+"David ve benim için çok açık olan bir şey var ki o da geri dönüşümün sadece bir laboratuvar konsepti olmadığı. Bir laboratuvarda neredeyse her şeyi geri dönüştürebilirsiniz. Bir şeyi geri dönüştürülebilir yapan şey, nasıl inşa edildiğidir" dedi. "Bir şey inşa ettiğinizde, ikinci bir yaşamın mümkün olması için malzemenin ve bileşenlerin bütünlüğünü korumaya çalışmalısınız ."
+
+"Gerçek döngüsellik" Espinosa'nın geldiği yerdir; daha önce hem geri dönüştürülmüş hem de geri dönüştürülebilir şişelerde doğal maden suyu satan bir İspanyol B Corp olan Auara'yı kurdu. Ancak daha büyük bir oyuncu bu başarılı markayı edindikten sonra, Sancho ile yardımcı pilot olarak yeni bir sayfa açtı.
+
+Otomobiller söz konusu olduğunda, Sancho radarda düşük emisyonlarla sürücü koltuğundadır. Uzmanlık alanı, gazla çalışan araçlara rakip olabilecek elektrikli araçlar üretmektir. Liux'dan önce en etkileyici başarısı, 2017 'de 24 Saat Le Mans'ta tanıtılan hibrit bir süper otomobil olan Bóreas'tı. Ancak eski ortaklarıyla yaşadığı bir patlamanın ardından o ve Espinosa, Liux'yu bulmak için bir araya geldi.
+
+Liux'un ilk prototipi olan Animal, uzmanlıklarını birleştirdi: Tamamen elektrikli beş kişilik otomobil neredeyse tamamen geri dönüştürülmüş veya bitki bazlı malzemelerden yapıldı. Yine de, iki kurucu ortak, SUV'yi 2022 'de dünyaya tanıttıktan kısa bir süre sonra dönmeye karar verdi. O zaman, homologasyonu tamamlama olasılıklarının daha küçük bir araba ile çok daha yüksek olacağını belirlediler.
+
+2026 'ya kadar hızlı bir şekilde ilerleyen Liux, gelecek yılın ilk yarısında satışa başlamayı beklediği Liux Big için Avrupa çapında bir homologasyon sağladı. Bu arada, şirket 65 çalışana ulaştı ve İspanya'daki üç tesiste üretimi artırmaya hazırlanıyor.
+
+Bunlar arasında TechCrunch'ın Madrid'in merkezine arabayla yaklaşık bir saat uzaklıktaki Azuqueca de Henares'te ziyaret ettiği tesis de yer alıyor.
+
+Daha önce Münih'te BMW için çalışan İspanya doğumlu mühendis Beatriz Belda González, Liux'un Azuqueca fabrikasının Toyota'nın "yalın yönetim" ilkelerini izlediği ve sürecin yalnızca son adımlarını gerçekleştirdiği için küçük olduğunu söyledi. Ancak boyutunun sizi yanıltmasına izin vermeyin: Liux, üretim kapasitesinin 2030 yılına kadar yılda 20.000 otomobile ulaşabileceğini söylüyor.
+
+Talebi ölçmek için henüz çok erken ama Liux Big için bekleme listesine 7.500 'den fazla kişi katıldı. Katılmak bir ücret gerektirmez, ancak liste girişimin potansiyel alıcıları hakkında daha fazla bilgi edinmesine yardımcı oldu. En çok temsil edilen profil 55 -60 yaşlarında bir şehir sakini ve Liux şimdi Liux Big'in genellikle bir hane halkının ikinci arabası olacağını varsayıyor.
+
+Espinosa, bunun mikro otomobillerin geleneksel otomobil sahipliğine meydan okuyabileceği umutlarını azaltabileceğini, ancak Liux'nun savaşlarını seçmek zorunda olduğunu söyledi. Startup, pazarın nereye gittiğini veya ne kadar hızlı gittiğini tahmin etmeye çalışmak yerine, B2B filolarını yöneten şirketler ve arabalarını otonom hale getirmeye yardımcı olabilecek diğer şirketlerle ortaklıklara kapıyı açık tutuyor.
+
+Espinosa için Liux Big, aynı zamanda uygun fiyatlı daha sürdürülebilir bir seçenek sunarak zaten bir fark yaratabilir. Girişim nihai fiyat etiketini henüz onaylamadı, ancak potansiyel EV sübvansiyonlarından önce 18.000 € 'ın (yaklaşık 21.000 $) altında olacağını söyledi. Bu, onu mikro arabalar için fiyat aralığının daha yüksek ucuna getiriyor, ancak Liux, kelimenin tam anlamıyla ağırlığının üzerinde yumruk atacağını umuyor.
+
+Liux'un Ar - Ge başkanı Celso Fernández Llorens'e göre, ağırlık ve boyut sınırlamaları bu kategoride büyük bir kısıtlamadır. Ona göre, Avrupalı yetkililer ultra hafif L6e dört tekerleklileri biraz daha ağır L7e'lerden ayırt etmelerine rağmen, çoğu mikro araba oldukça benzerdir. Ancak Liux, L7e homologasyonundan en iyi şekilde yararlanmak için bu kısıtlamalar etrafında çalıştı.
+
+Büyük ve küçük bir dizi karar sayesinde, startup arabaya 260 litrelik bir bagaj sığdırmayı başardı. Ancak çabalarının çoğu, kullanıcıların iki tekerlekli bir araç yerine araba kullanıyormuş gibi hissetmelerini sağlamaya yönelikti. Sancho, bunun da güvenlikle yakından bağlantılı olduğunu söyledi: Çerçevesi bir çarpışmaya dayanamadığı için sadece hafif olan veya ilk virajda devrilecek bir araba istemezsiniz.
+
+Bunu akılda tutarak ve kategorisinin çarpışma testleri bile gerektirmemesine rağmen, Liux, Liux Big'in slalom, frenleme ve diğer manevraları gerçekleştirme yeteneğini test ediyor ve sergiliyor. Girişim, önümüzdeki off - road versiyonunda kısa bir sürüş ve test sürüşü sırasında bu yeteneklerden bazılarını TechCrunch'a gösterdi.
+
+Şimdilik, ana modeli iki versiyona sahip olacak: 15 kWh ve 20 kWh. Bir kargo versiyonu da planlanıyor ve takımda Sancho ile bir süper otomobil inşa etme cazibesi asla uzak değil. Bir LinkedIn gönderisinde şirket, "tek araçlık bir marka" olma niyetinde olmadığını belirtti.
+
+İlk olarak, Liux, Liux Big'in kentsel versiyonunu Avrupa'daki otomobil bayileriyle ortaklıklar yoluyla pazara sunmak için şimdiye kadar elde ettiği 16 milyon Euro'yu (Avrupa finansmanı da dahil olmak üzere yaklaşık 18,5 milyon dolar) kullanacak.
+
+Ana Terrado Leyva, tanıştığımız showroom'un aynı zamanda Liux'un gelecekteki satış deneyiminin bir önizlemesi olduğunu söyledi. Tekstil ekranlarına, Liux Big'in üç renk seçeneğini (Ford T'den iki tane daha fazla) sergileyen 3D modellere ve ketene selam olarak bir muşamba zemine işaret etti. Liux, bu estetik seçimlerin Liux'un Çinli rakiplerinden sıyrılmayı umduğu başka bir yol olduğunu söyledi.
+
+Belki de bir Avrupa arabası fikri var.
+
+---
+
+## Görseller
+
+![LIUX BIG in Factory](https://umutevicom-commits.github.io/makale/data/images/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/LIUX-BIG-Factory-001.png)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/LIUX-BIG-interiors.jpg)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/Liux-Hitch-Planta.jpg)
+
+![Liux showroom](https://umutevicom-commits.github.io/makale/data/images/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/Liux-showroom.jpg)
