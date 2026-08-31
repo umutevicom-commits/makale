@@ -1,5 +1,35 @@
 [
   {
+    "slug": "tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder",
+    "url": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/",
+    "date": "31 August 2026",
+    "fetched_at": "2026-08-31T18:41:39.458388+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "41827aa86611e546ba82f20ad0c09c739d32acf72be9bd09433f3e5f4faea49f"
+  },
+  {
+    "slug": "ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt",
+    "url": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/",
+    "date": "31 August 2026",
+    "fetched_at": "2026-08-31T18:41:04.063806+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "26099ddff39965eb02701a89bddf522384f82c98d1599182fdfe26920a39ccdb"
+  },
+  {
+    "slug": "hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson",
+    "url": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
+    "date": "31 August 2026",
+    "fetched_at": "2026-08-31T18:40:35.790787+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "184877b721fceb1abe26e55de5e6cca22b1d816734d41c28374b1252fe16e4c1"
+  },
+  {
     "content_hash": "6e5a6dce3d63bcc50c5ff3162e7663cdee0673101708741166367ac9b958c6fe",
     "date": "30 August 2026",
     "fetched_at": "2026-08-30T22:20:53.298110+00:00",

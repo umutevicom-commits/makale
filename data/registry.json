@@ -9,6 +9,26 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
   },
+  "hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson": {
+    "content_hash": "184877b721fceb1abe26e55de5e6cca22b1d816734d41c28374b1252fe16e4c1",
+    "date": "31 August 2026",
+    "fetched_at": "2026-08-31T18:40:35.790787+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/"
+  },
+  "how-ai-could-make-it-harder-for-governments-to-use-hacking-tools": {
+    "content_hash": "",
+    "date": "31 August 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'How AI could make it harder for governments to use hacking t'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/"
+  },
   "liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals": {
     "content_hash": "17fb4fca02d4d942a73dee7bfbab7bb03204a612cde6b7b1602d72e2a97fd1ff",
     "date": "30 August 2026",
@@ -18,6 +38,36 @@
     "slug": "liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals",
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/"
+  },
+  "mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario": {
+    "content_hash": "",
+    "date": "31 August 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'MapQuest’s app surges to No. 1 in Navigation after refusing '...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/"
+  },
+  "meet-the-brands-activating-at-techcrunch-disrupt-2026-this-october": {
+    "content_hash": "",
+    "date": "31 August 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'A handful of the highest-demand sponsor placements — AI Trac'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/08/31/meet-the-brands-activating-at-techcrunch-disrupt-2026-this-october/"
+  },
+  "meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers": {
+    "content_hash": "",
+    "date": "31 August 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Meeting note-taker Circleback adds a free tier to attract mo'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/"
   },
   "musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem": {
     "content_hash": "4ab06b5aad21e9e5b0fbb905b030e97fc7e9b81d2991b4d8f07bdb9c4d70abd4",
@@ -29,6 +79,26 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
   },
+  "nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout": {
+    "content_hash": "",
+    "date": "31 August 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Bi'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
+  },
+  "ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt": {
+    "content_hash": "26099ddff39965eb02701a89bddf522384f82c98d1599182fdfe26920a39ccdb",
+    "date": "31 August 2026",
+    "fetched_at": "2026-08-31T18:41:04.063806+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/"
+  },
   "techcrunch-mobility-the-hidden-human-cost-of-robotaxis": {
     "content_hash": "6e5a6dce3d63bcc50c5ff3162e7663cdee0673101708741166367ac9b958c6fe",
     "date": "30 August 2026",
@@ -38,5 +108,35 @@
     "slug": "techcrunch-mobility-the-hidden-human-cost-of-robotaxis",
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/"
+  },
+  "three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation": {
+    "content_hash": "",
+    "date": "31 August 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Clipto uses AI to search terabytes of video and is now value'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"
+  },
+  "tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder": {
+    "content_hash": "41827aa86611e546ba82f20ad0c09c739d32acf72be9bd09433f3e5f4faea49f",
+    "date": "31 August 2026",
+    "fetched_at": "2026-08-31T18:41:39.458388+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/"
+  },
+  "vlc-crosses-7-billion-downloads": {
+    "content_hash": "",
+    "date": "31 August 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'VLC crosses 7 billion downloads'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/"
   }
 }

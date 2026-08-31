@@ -1,0 +1,49 @@
+{
+  "url": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
+  "slug": "hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson",
+  "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
+  "news_id": "hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson",
+  "date": "31 August 2026",
+  "author": "Zack Whittaker",
+  "tags": [],
+  "body_paragraphs": [
+    "A prolific hacking group has taken credit for last week’s cyberattack against U.S. pharmaceutical distribution giant McKesson, leading to the latest spill of highly sensitive health data by an American healthcare company in recent months.",
+    "McKesson confirmed Friday in a statement on its website that hackers broke into several of its cloud-hosted accounts earlier in the week and exfiltrated data, and that the company expected “intermittent service degradation” related to the incident. In a separate notice to customers, the company’s chief technology officer, Francisco Fraga, said the stolen data relates to its oncology & multispecialty and medical-surgical units.",
+    "The Texas-based company is one of the largest American distributors of pharmaceuticals, medicines, medical supplies, and technology to hospitals and healthcare providers across the United States, and as such handles a large amount of patient data.",
+    "The ShinyHunters hacking group — one of the most active data-extortion crews of the past two years — told TechCrunch that it hacked the company’s cloud environment by tricking several employees into granting the hackers’ access to McKesson’s network by using phishing and social engineering tricks, which the group is known for.",
+    "The hackers said they stole a range of personal information, such as names, addresses, and Social Security numbers, as well as protected health information, including diagnoses, medications, allergies, and patient notes. The hackers say they took millions of rows of patient data from the company’s cloud-hosted Snowflake and Salesforce environments, but that they are unsure of how many individuals are ultimately affected.",
+    "The stolen data also included McKesson employees’ information, such as home addresses.",
+    "ShinyHunters shared screenshots and a sample of the stolen data with TechCrunch, and we verified a small subset of it against public records.",
+    "Bleeping Computer, which first reported the link to the ShinyHunters hacking group, said the hackers demanded a $55 million ransom from the company in exchange for not publicly releasing the stolen files.",
+    "A spokesperson for McKesson did not respond to TechCrunch’s request for comment on Monday.",
+    "McKesson is the latest healthcare company or medical device maker to be targeted in a string of cyberattacks in recent months, as hackers aim to steal large amounts of sensitive medical and health data that they can use to extort the companies into paying a ransom to keep it from being published.",
+    "Last week, medical device maker Boston Scientific was hit by a cyberattack that knocked much of the company’s network offline. The cyberattack had a similar effect to an incident earlier this year at another medical device maker Stryker, in which hackers abused a company’s internal tools to remotely wipe thousands of employee devices. Abbott Laboratories and Medtronic have also experienced cyberattacks, while electronic patient records provider CareCloud and health tech company TriZetto had breaches affecting over 3 million patients each.",
+    "The ShinyHunters hackers have also taken credit for sizable data breaches at Amazon-owned OneMedical and dental insurance company DentaQuest following cyberattacks on their systems.",
+    "Lorenzo Franceschi-Bicchierai contributed reporting."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/mckesson-2236133684.jpg",
+      "alt": "mckesson logo on a background featuring cash notes"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-08-31T18:40:35.790787+00:00",
+  "title_tr": "Hackerlar, sağlık devi McKesson'da veri ihlali sırasında milyonlarca hasta kaydının çalındığını iddia ediyor",
+  "body_paragraphs_tr": [
+    "Üretken bir bilgisayar korsanlığı grubu, geçen hafta ABD ilaç dağıtım devi McKesson'a karşı gerçekleştirilen ve son aylarda bir Amerikan sağlık şirketinin son derece hassas sağlık verilerinin sızmasına yol açan siber saldırının sorumluluğunu üstlendi.",
+    "McKesson cuma günü internet sitesinde yaptığı açıklamada, bilgisayar korsanlarının haftanın başlarında bulutta barındırılan hesaplarının birçoğuna girdiğini ve verileri sızdırdığını ve şirketin olayla ilgili \"aralıklı hizmet düşüşü\" beklediğini doğruladı. Şirketin baş teknoloji sorumlusu Francisco Fraga, müşterilere gönderdiği ayrı bir bildirimde, çalınan verilerin onkoloji, çok uzmanlık ve tıbbi - cerrahi birimleriyle ilgili olduğunu söyledi.",
+    "Teksas merkezli şirket, Amerika Birleşik Devletleri'ndeki hastanelere ve sağlık hizmeti sağlayıcılarına en büyük Amerikan ilaç, ilaç, tıbbi malzeme ve teknoloji distribütörlerinden biridir ve bu nedenle büyük miktarda hasta verisini işlemektedir.",
+    "Son iki yılın en aktif veri gasp ekiplerinden biri olan ShinyHunters hack grubu, TechCrunch'a yaptığı açıklamada, birkaç çalışanı kimlik avı ve sosyal mühendislik hileleri kullanarak bilgisayar korsanlarının McKesson'un ağına erişimini sağlamaları için kandırarak şirketin bulut ortamını hacklediğini söyledi.",
+    "Bilgisayar korsanları, isimler, adresler ve Sosyal Güvenlik numaraları gibi bir dizi kişisel bilginin yanı sıra tanılar, ilaçlar, alerjiler ve hasta notları gibi korunan sağlık bilgilerini çaldıklarını söyledi. Bilgisayar korsanları, şirketin bulutta barındırılan Snowflake ve Salesforce ortamlarından milyonlarca satır hasta verisi aldıklarını ancak nihayetinde kaç kişinin etkilendiğinden emin olmadıklarını söylüyor.",
+    "Çalınan veriler, McKesson çalışanlarının ev adresleri gibi bilgilerini de içeriyordu.",
+    "ShinyHunters, ekran görüntülerini ve çalınan verilerin bir örneğini TechCrunch ile paylaştı ve bunun küçük bir alt kümesini kamuya açık kayıtlarla doğruladık.",
+    "ShinyHunters bilgisayar korsanlığı grubunun bağlantısını ilk kez bildiren Bleeping Computer, bilgisayar korsanlarının çalınan dosyaları kamuya açıklamaması karşılığında şirketten 55 milyon $ fidye talep ettiğini söyledi.",
+    "McKesson sözcüsü pazartesi günü TechCrunch'ın yorum talebine yanıt vermedi.",
+    "McKesson, bilgisayar korsanları şirketleri fidye ödemeye zorlamak için kullanabilecekleri büyük miktarda hassas tıbbi ve sağlık verilerini çalmayı hedeflediğinden, son aylarda bir dizi siber saldırıda hedef alınan en son sağlık şirketi veya tıbbi cihaz üreticisi.",
+    "Geçen hafta tıbbi cihaz üreticisi Boston Scientific, şirketin ağının çoğunu çevrimdışı hale getiren bir siber saldırıya maruz kaldı. Siber saldırı, bu yılın başlarında başka bir tıbbi cihaz üreticisi Stryker'da meydana gelen ve bilgisayar korsanlarının binlerce çalışan cihazını uzaktan silmek için bir şirketin dahili araçlarını kötüye kullandığı bir olaya benzer bir etkiye sahipti. Abbott Laboratories ve Medtronic de siber saldırılara maruz kalırken, elektronik hasta kayıtları sağlayıcısı CareCloud ve sağlık teknolojisi şirketi TriZetto, her biri 3 milyondan fazla hastayı etkileyen ihlaller yaşadı.",
+    "ShinyHunters bilgisayar korsanları, sistemlerindeki siber saldırıların ardından Amazon'a ait OneMedical ve diş sigortası şirketi DentaQuest'teki büyük veri ihlalleri için de övgü aldı.",
+    "Lorenzo Franceschi - Bicchierai raporlamaya katkıda bulundu."
+  ],
+  "tags_tr": []
+}
