@@ -1,23 +1,23 @@
 [
   {
-    "slug": "techcrunch-mobility-the-hidden-human-cost-of-robotaxis",
-    "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+    "content_hash": "6e5a6dce3d63bcc50c5ff3162e7663cdee0673101708741166367ac9b958c6fe",
     "date": "30 August 2026",
     "fetched_at": "2026-08-30T22:20:53.298110+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "6e5a6dce3d63bcc50c5ff3162e7663cdee0673101708741166367ac9b958c6fe"
+    "retries": 0,
+    "slug": "techcrunch-mobility-the-hidden-human-cost-of-robotaxis",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/"
   },
   {
-    "slug": "caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
-    "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "content_hash": "dee7528cba1d163bced62af7f10c133ef42b06f826bc430becd79450b1e09d9c",
     "date": "30 August 2026",
     "fetched_at": "2026-08-30T22:20:20.050270+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "dee7528cba1d163bced62af7f10c133ef42b06f826bc430becd79450b1e09d9c"
+    "retries": 0,
+    "slug": "caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
   },
   {
     "content_hash": "4ab06b5aad21e9e5b0fbb905b030e97fc7e9b81d2991b4d8f07bdb9c4d70abd4",
