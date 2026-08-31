@@ -1,0 +1,37 @@
+# MapQuest'in uygulaması, Ontario Gölü'nün adını değiştirmeyi reddetmesinin ardından Navigasyon'da 1 numaraya yükseldi
+
+MapQuest, Başkan Donald Trump'a karşı çıktı ve şimdi de uygulaması ödülleri topluyor.
+
+Şirketin kendisini adlandırdığı şekliyle "OG çevrimiçi haritalama ", perşembe günü, Trump'ın ABD İçişleri Bakanlığı'na gölün adını ABD coğrafi adlandırma hizmetinde güncellemesini emretmesine rağmen, Ontario Gölü'nün adını Lake America haritalarında değiştirmeyeceğini duyurdu. Sonuç olarak, MapQuest'in mobil uygulama indirmeleri hızla arttı ve iOS uygulamasını ABD'deki 4 numaralı konuma gönderdi. Pazartesi sabahı ABD'nin doğu kıyısındaki uygulamalar (oyunlar hariç) için App Store'un En İyi Listeleri.
+
+MapQuest ayrıca hem uygulamalarda hem de oyunlarda ABD App Store'da genel olarak 8 numaraya ulaştı ve Amerika Birleşik Devletleri'ndeki 1 numaralı Navigasyon uygulaması oldu.
+
+Kanada'nın App Store'unda, uygulama Pazar akşamı itibariyle genel olarak 2 numaraya ulaştı.
+
+Değiştirmiyoruz. pic.twitter.com/NdeE9v2BNO
+
+30 yaşındaki şirket, Ontario Gölü adını yerinde tutma kararından bu yana "yüz binlerce" yeni indirme aldığını ve uygulamasının kullanımının normal seviyelerinin 50 katına çıktığını belirtti.
+
+Pazar istihbaratı sağlayıcısı Sensor Tower'dan gelen üçüncü taraf verileri, MapQuest'in 24 Ağustos'ta başlayan hafta boyunca sırasıyla 184.000 ve 162.000 toplam küresel ve ABD uygulama indirmesi gördüğünü ve her birinin haftadan haftaya 10 kattan fazla bir artışı temsil ettiğini belirterek artışı doğruluyor. ABD'de günlük indirmeler 26 Ağustos'tan 30 Ağustos'a kadar günden güne % 128 arttı.
+
+MapQuest'in genel müdürü Doug Berger, "Meksika Körfezi'yle yaptığımızın aynısını yaptık: Konuşmanın bir parçası olun ve insanlara aşina oldukları isimleri tutan bir uygulama verin" dedi. "Bu hafta sonu yüz binlerce kişi uygulamamızı indirerek doğru şeyi yaptığımızın sinyalini verdi ."
+
+MapQuest ayrıca, Ontario Gölü'nü şaka yollu bir şekilde istediğiniz gibi yeniden adlandırmanıza ve ardından sonuçları sosyal medyada paylaşmanıza olanak tanıyan çevrimiçi bir araç da yayınladı. Şirket, Trump'ın Meksika Körfezi'ni Amerika Körfezi olarak yeniden adlandırmasının ardından geçen yıl da benzer bir araç sunmuştu.
+
+Trump'ın ABD ve Kanada sınırındaki su kütlesini yeniden adlandırma kararı, ticaret müzakerelerinin bozulmasıyla geldi ve ABD'nin Kanada'nın misilleme yapmaya hazırlandığı 20 milyar $ değerindeki Kanada mallarına yeni % 50 gümrük vergisi uygulamasına yol açtı.
+
+Cumartesi günü Google Haritalar, Trump'ın kararına uyduğunu açıkladı ve Google Haritalar'ı resmi hükümet kaynaklarındaki isim değişikliklerini yansıtacak şekilde güncellediğini açıkladı. ABD'de bu, Coğrafi İsimler Bilgi Sistemi'dir (GNIS). Güncellenen harita yalnızca ABD'deki kullanıcılara gösterilirken, Kanada'dakiler Ontario Gölü'nü görecek ve iki ülke dışındakiler her iki ismi de görecek.
+
+Hem Apple Haritalar hem de Google Haritalar, Trump'ın benzer bir isim değiştirme kararnamesi yayımlamasının ardından geçen yıl Meksika Körfezi'nin adını Amerika Körfezi olarak değiştirmişti.
+
+Pazartesi sabahı itibarıyla Apple Haritalar, Büyük Göl'ü henüz Amerika Gölü olarak yeniden adlandırmadı ve planları hakkında bir açıklama yapmadı.
+
+MapQuest, halka açıldıktan kısa bir süre sonra AOL tarafından satın alındıktan sonra yıllar içinde birkaç kez el değiştirdi. Daha sonra Verizon'un AOL'yi satın almasının bir sonucu olarak bir süre Verizon ile sonuçlandı. Verizon, 2019 yılında MapQuest'i internet reklam şirketi System1 'e sattı.
+
+Sensor Tower'ın tahminine göre MapQuest'in uygulaması bu yıl dünya çapında 687 bin kez indirildi ve bu sayı yıldan yıla % 29 arttı. 2012 'den bu yana, MapQuest 24,4 milyon kez indirildi ve bu yüklemelerin % 97' si Amerika Birleşik Devletleri'nden geldi.
+
+---
+
+## Görseller
+
+![mapquest lake ontario](https://umutevicom-commits.github.io/makale/data/images/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/mapquest-lake-ontario.jpg)

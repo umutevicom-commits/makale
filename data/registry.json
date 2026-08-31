@@ -1,4 +1,44 @@
 {
+  "a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms": {
+    "content_hash": "",
+    "date": "31 August 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'A group funded by Andreessen, Horowitz, and Brockman plans d'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/"
+  },
+  "a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund": {
+    "content_hash": "",
+    "date": "31 August 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'a16z brings growth fund to $8.5B days after launching new $1'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/"
+  },
+  "apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down": {
+    "content_hash": "",
+    "date": "31 August 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Apple’s top App Store exec, Phil Schiller, follows wave of e'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/"
+  },
+  "apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026": {
+    "content_hash": "",
+    "date": "31 August 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Apply now to host a Side Event at TechCrunch Disrupt 2026'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/"
+  },
   "caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining": {
     "content_hash": "dee7528cba1d163bced62af7f10c133ef42b06f826bc430becd79450b1e09d9c",
     "date": "30 August 2026",
@@ -8,6 +48,16 @@
     "slug": "caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
+  },
+  "ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit": {
+    "content_hash": "",
+    "date": "31 August 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'FTC accuses Amazon of running a ‘secret ad surcharge scheme’'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/"
   },
   "hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson": {
     "content_hash": "184877b721fceb1abe26e55de5e6cca22b1d816734d41c28374b1252fe16e4c1",
@@ -19,15 +69,45 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/"
   },
-  "how-ai-could-make-it-harder-for-governments-to-use-hacking-tools": {
+  "harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers": {
     "content_hash": "",
     "date": "31 August 2026",
     "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'How AI could make it harder for governments to use hacking t'...",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Harvard Law dropout raises $6M for Blue Voice to build a ‘Ha'...",
     "retries": 1,
     "slug": "",
     "status": "failed",
+    "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
+  },
+  "how-ai-could-make-it-harder-for-governments-to-use-hacking-tools": {
+    "content_hash": "59c28c3ffb8cfe79cce812b75b6b1a375105ce8d240152613df75ec574b562a0",
+    "date": "31 August 2026",
+    "fetched_at": "2026-08-31T23:35:14.782871+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "how-ai-could-make-it-harder-for-governments-to-use-hacking-tools",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/"
+  },
+  "instagram-puts-new-limits-on-undisclosed-ai-profiles": {
+    "content_hash": "",
+    "date": "31 August 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Instagram puts new limits on undisclosed AI profiles'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
+  },
+  "kalshi-bans-george-santos-for-life-over-state-of-the-union-bets": {
+    "content_hash": "",
+    "date": "31 August 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Kalshi bans George Santos for life over State of the Union b'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/"
   },
   "liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals": {
     "content_hash": "17fb4fca02d4d942a73dee7bfbab7bb03204a612cde6b7b1602d72e2a97fd1ff",
@@ -40,34 +120,44 @@
     "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/"
   },
   "mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario": {
-    "content_hash": "",
+    "content_hash": "0f8efa2c67d79b7b489d3481c9ca57dc445e7a497c91946626e39fa8a034127c",
     "date": "31 August 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'MapQuest’s app surges to No. 1 in Navigation after refusing '...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-08-31T23:35:55.560073+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/"
   },
   "meet-the-brands-activating-at-techcrunch-disrupt-2026-this-october": {
-    "content_hash": "",
+    "content_hash": "eb7819c720a80aafbe12227b1267cf5615edd65f93f369c9cfe264ef944ede71",
     "date": "31 August 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'A handful of the highest-demand sponsor placements — AI Trac'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-08-31T23:36:24.248344+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "meet-the-brands-activating-at-techcrunch-disrupt-2026-this-october",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/meet-the-brands-activating-at-techcrunch-disrupt-2026-this-october/"
   },
   "meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers": {
+    "content_hash": "3c5a1d5cbfae3de4bfeeb884dedd01c0431b4dbf47b96ee745cc5ecc824634b5",
+    "date": "31 August 2026",
+    "fetched_at": "2026-08-31T23:36:40.212959+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/"
+  },
+  "microsoft-tests-fix-for-latest-hours-long-outlook-outage": {
     "content_hash": "",
     "date": "31 August 2026",
     "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Meeting note-taker Circleback adds a free tier to attract mo'...",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Microsoft tests fix for latest hours-long Outlook outage'...",
     "retries": 1,
     "slug": "",
     "status": "failed",
-    "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/"
+    "url": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/"
   },
   "musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem": {
     "content_hash": "4ab06b5aad21e9e5b0fbb905b030e97fc7e9b81d2991b4d8f07bdb9c4d70abd4",
@@ -83,8 +173,8 @@
     "content_hash": "",
     "date": "31 August 2026",
     "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Bi'...",
-    "retries": 1,
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): '“Nvidia is an AI infrastructure company,” Dion Harris, Nvidi'...",
+    "retries": 2,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
@@ -109,12 +199,22 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/"
   },
+  "the-pentagon-now-has-its-own-version-of-chatgpt-and-grok": {
+    "content_hash": "",
+    "date": "31 August 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'The Pentagon now has its own version of ChatGPT and Grok'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
+  },
   "three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation": {
     "content_hash": "",
     "date": "31 August 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Clipto uses AI to search terabytes of video and is now value'...",
-    "retries": 1,
+    "retries": 2,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"
@@ -134,7 +234,7 @@
     "date": "31 August 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'VLC crosses 7 billion downloads'...",
-    "retries": 1,
+    "retries": 2,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/"
