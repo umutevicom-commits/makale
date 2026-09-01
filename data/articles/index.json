@@ -1,43 +1,83 @@
 [
   {
-    "slug": "vlc-crosses-7-billion-downloads",
-    "url": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/",
+    "slug": "chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data",
+    "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T19:11:26.444056+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "bd72c3f067862d7c8da3cf20afab8bf19f3502a1473d90667fc381ba95449140"
+  },
+  {
+    "slug": "googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design",
+    "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T19:11:10.649558+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "aa723ee257efb47eee099032b52b209cc9e49f75989b57d5dc290d62bc7d156d"
+  },
+  {
+    "slug": "who-is-john-ternus-the-incoming-apple-ceo",
+    "url": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T19:10:24.982518+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "de0aac4e83dbb9a9f02aae7bc4ce000cfc60325ffc994eb2999105c1089e4d35"
+  },
+  {
+    "slug": "if-space-data-centers-feel-far-fetched-why-not-interstellar-travel",
+    "url": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T19:10:01.551185+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "2a7379965f6b418a3e6216c17a317e4a3f2c497b4db10450ddf17f6083daed97"
+  },
+  {
+    "content_hash": "9ea60a21ca7c141fa16bdcb22e656c97f4b78d5b636ac208f6dacfeebea91584",
     "date": "31 August 2026",
     "fetched_at": "2026-09-01T14:30:13.461744+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "9ea60a21ca7c141fa16bdcb22e656c97f4b78d5b636ac208f6dacfeebea91584"
+    "retries": 0,
+    "slug": "vlc-crosses-7-billion-downloads",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/"
   },
   {
-    "slug": "three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation",
-    "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+    "content_hash": "0fd427dee02c543edc56d47c979d330c9d9e6262b6770addcabd03eb6c25bca0",
     "date": "31 August 2026",
     "fetched_at": "2026-09-01T14:29:45.261888+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "0fd427dee02c543edc56d47c979d330c9d9e6262b6770addcabd03eb6c25bca0"
+    "retries": 0,
+    "slug": "three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"
   },
   {
-    "slug": "the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
-    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "content_hash": "d03ab7ee221170e6607e36f65ebcb8ae9f6eb094bf6e32b21b586047fdedb55d",
     "date": "31 August 2026",
     "fetched_at": "2026-09-01T14:29:24.690568+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "d03ab7ee221170e6607e36f65ebcb8ae9f6eb094bf6e32b21b586047fdedb55d"
+    "retries": 0,
+    "slug": "the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
   },
   {
-    "slug": "nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout",
-    "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+    "content_hash": "50ea3af2cb8b38d4ce5e8c857f0da05f4e4ae06d20ce6f8dd9984932fe430841",
     "date": "31 August 2026",
     "fetched_at": "2026-09-01T14:28:59.238143+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "50ea3af2cb8b38d4ce5e8c857f0da05f4e4ae06d20ce6f8dd9984932fe430841"
+    "retries": 0,
+    "slug": "nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
   },
   {
     "content_hash": "0de76186e90c5bc02ef7c74b97148a4c9ff348ed78a56715cdded8955f647500",

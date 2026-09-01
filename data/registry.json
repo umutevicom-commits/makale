@@ -19,6 +19,26 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/"
   },
+  "air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use": {
+    "content_hash": "",
+    "date": "01 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'AIR raises $50M to help companies vet the skills and add-ons'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/"
+  },
+  "amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop": {
+    "content_hash": "",
+    "date": "01 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Amazon Alexa can now alert you when something new might temp'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/"
+  },
   "apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down": {
     "content_hash": "e39684fc41d1e2dab2736d19f4370a05a51a394ab8395a2d1c0d8289395ed369",
     "date": "31 August 2026",
@@ -49,6 +69,36 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
   },
+  "chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data": {
+    "content_hash": "bd72c3f067862d7c8da3cf20afab8bf19f3502a1473d90667fc381ba95449140",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T19:11:26.444056+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
+  },
+  "fambot-introduces-an-ai-chief-of-staff-for-families": {
+    "content_hash": "",
+    "date": "01 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Fambot introduces an ‘AI chief of staff’ for families'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/"
+  },
+  "florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns": {
+    "content_hash": "",
+    "date": "01 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Florida and Texas move to block Flock cameras over privacy c'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/"
+  },
   "ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit": {
     "content_hash": "aa136a15a871d0c5299edef09dad19daf4b5787e4101e1db7f8f4cb3976b8fcb",
     "date": "31 August 2026",
@@ -58,6 +108,26 @@
     "slug": "ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit",
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/"
+  },
+  "googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design": {
+    "content_hash": "aa723ee257efb47eee099032b52b209cc9e49f75989b57d5dc290d62bc7d156d",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T19:11:10.649558+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/"
+  },
+  "gopro-to-be-acquired-for-285m-will-remain-a-public-company": {
+    "content_hash": "",
+    "date": "01 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'GoPro to be acquired for $285M, will remain a public company'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/"
   },
   "hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson": {
     "content_hash": "184877b721fceb1abe26e55de5e6cca22b1d816734d41c28374b1252fe16e4c1",
@@ -79,6 +149,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
   },
+  "help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026": {
+    "content_hash": "",
+    "date": "01 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Help build the future of startups: Volunteer at TechCrunch D'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/01/help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026/"
+  },
   "how-ai-could-make-it-harder-for-governments-to-use-hacking-tools": {
     "content_hash": "59c28c3ffb8cfe79cce812b75b6b1a375105ce8d240152613df75ec574b562a0",
     "date": "31 August 2026",
@@ -90,14 +170,24 @@
     "url": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/"
   },
   "if-space-data-centers-feel-far-fetched-why-not-interstellar-travel": {
+    "content_hash": "2a7379965f6b418a3e6216c17a317e4a3f2c497b4db10450ddf17f6083daed97",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T19:10:01.551185+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "if-space-data-centers-feel-far-fetched-why-not-interstellar-travel",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/"
+  },
+  "indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation": {
     "content_hash": "",
     "date": "01 September 2026",
     "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): '“If a dinosaur bone can last 200 million years then a metal '...",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'India’s Unacademy sells to rival upGrad for $206M, about 94%'...",
     "retries": 1,
     "slug": "",
     "status": "failed",
-    "url": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/"
+    "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/"
   },
   "instagram-puts-new-limits-on-undisclosed-ai-profiles": {
     "content_hash": "6bdc2820895eab9ebbce56e779a251087b664f2248600c70a6f2d703d1a3a694",
@@ -159,6 +249,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/"
   },
+  "microsoft-365-outage-drags-on-but-things-are-improving": {
+    "content_hash": "",
+    "date": "01 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Microsoft 365 outage drags on, but things are improving'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/"
+  },
   "microsoft-tests-fix-for-latest-hours-long-outlook-outage": {
     "content_hash": "0de76186e90c5bc02ef7c74b97148a4c9ff348ed78a56715cdded8955f647500",
     "date": "31 August 2026",
@@ -199,6 +299,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/"
   },
+  "sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen": {
+    "content_hash": "",
+    "date": "01 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Sequoia-incubated Empirik launches with $21M to predict outa'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/"
+  },
   "techcrunch-mobility-the-hidden-human-cost-of-robotaxis": {
     "content_hash": "6e5a6dce3d63bcc50c5ff3162e7663cdee0673101708741166367ac9b958c6fe",
     "date": "30 August 2026",
@@ -218,6 +328,16 @@
     "slug": "the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
+  },
+  "this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient": {
+    "content_hash": "",
+    "date": "01 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'This startup is fuel-injecting hydrogen to make cargo ships '...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/"
   },
   "three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation": {
     "content_hash": "0fd427dee02c543edc56d47c979d330c9d9e6262b6770addcabd03eb6c25bca0",
@@ -248,5 +368,35 @@
     "slug": "vlc-crosses-7-billion-downloads",
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/"
+  },
+  "waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa": {
+    "content_hash": "",
+    "date": "01 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Waymo accelerates robotaxi expansion with launches in Denver'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/"
+  },
+  "waymo-goes-on-offense-ahead-of-teslas-cybercab-launch": {
+    "content_hash": "",
+    "date": "01 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): '“Cameras are incredible, but they aren’t enough,” Srikanth T'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/"
+  },
+  "who-is-john-ternus-the-incoming-apple-ceo": {
+    "content_hash": "de0aac4e83dbb9a9f02aae7bc4ce000cfc60325ffc994eb2999105c1089e4d35",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T19:10:24.982518+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "who-is-john-ternus-the-incoming-apple-ceo",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/"
   }
 }
