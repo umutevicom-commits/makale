@@ -1,0 +1,39 @@
+# TechCrunch Disrupt 2026 'da bir Yan Etkinliğe ev sahipliği yapmak için şimdi başvurun
+
+TechCrunch Disrupt 2026 'ya yaklaşıyoruz! 13 -15 Ekim tarihleri arasında San Francisco'nun Moscone West bölgesindeki etkinliğimize 10.000' den fazla yenilikçi, kurucu, yatırımcı ve endüstri lideri katılacak, ancak Körfez Bölgesi'nde toplanan topluluk bu üç günün ötesine uzanıyor.
+
+Disrupt Yan Etkinlikleri programımızla, 10 -16 Ekim tarihleri arasında, Disrupt katılımcılarına terfi eden özel bir etkinlik için insanları istediğiniz zaman bir araya getirebilirsiniz. Ancak zaman azalıyor — Yan Etkinliklere başvurmak için son tarihimiz 4 Eylül Cuma, PT gece yarısı, yani şimdi başvurma zamanı!
+
+Bir Yan Etkinliğe ev sahipliği yapmak, topluluğunuzun nasıl bir araya geldiğini kontrol etmenizi sağlayarak markanızı en önemli insanlarla öne ve merkeze yerleştirir. Konuşmaları canlandırmak isteyen bir risk sermayedarı, çığır açan yenilikleri sergilemeye hazır bir şirket veya söyleyecek bir şeyleri olan bir topluluk kurucusu olsanız da, bu sizin zamanınız:
+
+Teknolojideki en zeki binlerce zihinle doğrudan etkileşime geçin.
+
+Potansiyel ortaklar, yatırımcılar ve işbirlikçilerle özgün ilişkiler kurun.
+
+Anlatınıza sahip çıkın ve uzmanlığınızı kendi şartlarınıza göre sergileyin.
+
+Etkinliğin kendisinin çok ötesine uzanan bir vızıltı oluşturun.
+
+Onaylanan Yan Etkinliklerin tümü, resmi Yan Etkinlik takvimi ve pazarlama kanalları aracılığıyla katılımcıları ve geri kalan izleyicileri Rahatsız etmek için tanıtılır.
+
+Vizyonunuzla uyumlu olan her şeyin onaylanması muhtemeldir. Sektör yuvarlak masa toplantıları ve VC çalışma saatlerinden derin dalış atölyelerine, samimi akşam yemeklerine ve rahat ağ kurma mutlu saatlerine kadar her şey geçmişteki Disrupt etkinliklerinde başarılı oldu.
+
+Format sizindir — sadece enerjiyi getirmenizi ve hem Disrupt katılımcılarına hem de daha geniş kitlelere açık olduğundan emin olmanızı istiyoruz. Bölünmemiş kitlelerle anlamlı sohbetler yapmak için daha az rekabet ve daha fazla konferans sonrası heyecan olduğundan, 13 -15 Ekim tarihleri arasında Disrupt sırasında akşamları gerçekleşen etkinliklere ev sahipliği yapmanızı öneririz.
+
+Başvuru formuna buradan bakabilirsiniz, ancak başvuru sürecine başlamadan önce birkaç şeyi kilitlemeniz yararlı olacaktır:
+
+Körfez Bölgesi'nde bir mekan seçin; bu tamamen yüz yüze deneyimlerle ilgilidir.
+
+Etkinlik için bir başlık, açıklama ve mekan hazırlatın.
+
+Yan Etkinlikler Ev Sahibi Kılavuzunu ve Yan Etkinlik Ev Sahibi Hüküm ve Koşullarını iki kez kontrol edin.
+
+Kuruculara, yatırımcılara ve startup topluluğuna anlamlı değer sağlayan etkinliklere öncelik veriyoruz, ancak bunun dışında topluluğunuzu ve ideal kitlenizi en iyi siz tanıyorsunuz! Başvurmak ve katılmak için sıfır maliyet var, bu yüzden fikirlerinizi dinleyelim.
+
+Şimdi başvurun ve bize vizyonunuzu, hedeflerinizi ve uygulamanızda lojistik olarak neye ihtiyacınız olduğunu söyleyin. Ekibinize topluluktan ve Disrupt'ın San Francisco ve Körfez Bölgesi'ne getirdiği fırsattan en iyi şekilde yararlanmak için ihtiyacınız olan desteği ve maruziyeti sağlamak için gerisini biz halledeceğiz.
+
+---
+
+## Görseller
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/55351251811_689b675dfe_k.jpg)

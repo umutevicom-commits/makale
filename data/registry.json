@@ -1,42 +1,42 @@
 {
   "a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms": {
-    "content_hash": "",
+    "content_hash": "872bec625cadaccc0d6d9f73b983b90d288d7881579db4ec5f9dee156816ce34",
     "date": "31 August 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'A group funded by Andreessen, Horowitz, and Brockman plans d'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-01T03:17:59.595225+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/"
   },
   "a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund": {
-    "content_hash": "",
+    "content_hash": "66d93173ac97cd6460a64d658d2a0856db8dc165016509ccc124b02e1f0d784c",
     "date": "31 August 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'a16z brings growth fund to $8.5B days after launching new $1'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-01T03:18:19.994887+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/"
   },
   "apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down": {
-    "content_hash": "",
+    "content_hash": "e39684fc41d1e2dab2736d19f4370a05a51a394ab8395a2d1c0d8289395ed369",
     "date": "31 August 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Apple’s top App Store exec, Phil Schiller, follows wave of e'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-01T03:18:31.726821+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/"
   },
   "apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026": {
-    "content_hash": "",
+    "content_hash": "b6c345e09b888efcd0be5b77d626bdab501be6392290043738183b61b7bddcf1",
     "date": "31 August 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Apply now to host a Side Event at TechCrunch Disrupt 2026'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-01T03:18:49.902461+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/"
   },
   "caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining": {
@@ -50,13 +50,13 @@
     "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
   },
   "ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit": {
-    "content_hash": "",
+    "content_hash": "aa136a15a871d0c5299edef09dad19daf4b5787e4101e1db7f8f4cb3976b8fcb",
     "date": "31 August 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'FTC accuses Amazon of running a ‘secret ad surcharge scheme’'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-01T03:19:17.274254+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/"
   },
   "hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson": {
@@ -73,8 +73,8 @@
     "content_hash": "",
     "date": "31 August 2026",
     "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Harvard Law dropout raises $6M for Blue Voice to build a ‘Ha'...",
-    "retries": 1,
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Over the last year, says Lawrence, Blue Voice grew its custo'...",
+    "retries": 2,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
@@ -94,7 +94,7 @@
     "date": "31 August 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Instagram puts new limits on undisclosed AI profiles'...",
-    "retries": 1,
+    "retries": 2,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
@@ -104,7 +104,7 @@
     "date": "31 August 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Kalshi bans George Santos for life over State of the Union b'...",
-    "retries": 1,
+    "retries": 2,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/"
@@ -154,7 +154,7 @@
     "date": "31 August 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Microsoft tests fix for latest hours-long Outlook outage'...",
-    "retries": 1,
+    "retries": 2,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/"
@@ -173,8 +173,8 @@
     "content_hash": "",
     "date": "31 August 2026",
     "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): '“Nvidia is an AI infrastructure company,” Dion Harris, Nvidi'...",
-    "retries": 2,
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Bi'...",
+    "retries": 3,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
@@ -204,7 +204,7 @@
     "date": "31 August 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'The Pentagon now has its own version of ChatGPT and Grok'...",
-    "retries": 1,
+    "retries": 2,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
@@ -214,7 +214,7 @@
     "date": "31 August 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Clipto uses AI to search terabytes of video and is now value'...",
-    "retries": 2,
+    "retries": 3,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"
@@ -234,7 +234,7 @@
     "date": "31 August 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'VLC crosses 7 billion downloads'...",
-    "retries": 2,
+    "retries": 3,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/"

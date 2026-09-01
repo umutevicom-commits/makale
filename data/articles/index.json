@@ -1,43 +1,93 @@
 [
   {
-    "slug": "meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers",
-    "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+    "slug": "ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit",
+    "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
+    "date": "31 August 2026",
+    "fetched_at": "2026-09-01T03:19:17.274254+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "aa136a15a871d0c5299edef09dad19daf4b5787e4101e1db7f8f4cb3976b8fcb"
+  },
+  {
+    "slug": "apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026",
+    "url": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
+    "date": "31 August 2026",
+    "fetched_at": "2026-09-01T03:18:49.902461+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "b6c345e09b888efcd0be5b77d626bdab501be6392290043738183b61b7bddcf1"
+  },
+  {
+    "slug": "apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down",
+    "url": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
+    "date": "31 August 2026",
+    "fetched_at": "2026-09-01T03:18:31.726821+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "e39684fc41d1e2dab2736d19f4370a05a51a394ab8395a2d1c0d8289395ed369"
+  },
+  {
+    "slug": "a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund",
+    "url": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
+    "date": "31 August 2026",
+    "fetched_at": "2026-09-01T03:18:19.994887+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "66d93173ac97cd6460a64d658d2a0856db8dc165016509ccc124b02e1f0d784c"
+  },
+  {
+    "slug": "a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms",
+    "url": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
+    "date": "31 August 2026",
+    "fetched_at": "2026-09-01T03:17:59.595225+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "872bec625cadaccc0d6d9f73b983b90d288d7881579db4ec5f9dee156816ce34"
+  },
+  {
+    "content_hash": "3c5a1d5cbfae3de4bfeeb884dedd01c0431b4dbf47b96ee745cc5ecc824634b5",
     "date": "31 August 2026",
     "fetched_at": "2026-08-31T23:36:40.212959+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "3c5a1d5cbfae3de4bfeeb884dedd01c0431b4dbf47b96ee745cc5ecc824634b5"
+    "retries": 0,
+    "slug": "meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/"
   },
   {
-    "slug": "meet-the-brands-activating-at-techcrunch-disrupt-2026-this-october",
-    "url": "https://techcrunch.com/2026/08/31/meet-the-brands-activating-at-techcrunch-disrupt-2026-this-october/",
+    "content_hash": "eb7819c720a80aafbe12227b1267cf5615edd65f93f369c9cfe264ef944ede71",
     "date": "31 August 2026",
     "fetched_at": "2026-08-31T23:36:24.248344+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "eb7819c720a80aafbe12227b1267cf5615edd65f93f369c9cfe264ef944ede71"
+    "retries": 0,
+    "slug": "meet-the-brands-activating-at-techcrunch-disrupt-2026-this-october",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/08/31/meet-the-brands-activating-at-techcrunch-disrupt-2026-this-october/"
   },
   {
-    "slug": "mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario",
-    "url": "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/",
+    "content_hash": "0f8efa2c67d79b7b489d3481c9ca57dc445e7a497c91946626e39fa8a034127c",
     "date": "31 August 2026",
     "fetched_at": "2026-08-31T23:35:55.560073+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "0f8efa2c67d79b7b489d3481c9ca57dc445e7a497c91946626e39fa8a034127c"
+    "retries": 0,
+    "slug": "mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/"
   },
   {
-    "slug": "how-ai-could-make-it-harder-for-governments-to-use-hacking-tools",
-    "url": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
+    "content_hash": "59c28c3ffb8cfe79cce812b75b6b1a375105ce8d240152613df75ec574b562a0",
     "date": "31 August 2026",
     "fetched_at": "2026-08-31T23:35:14.782871+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "59c28c3ffb8cfe79cce812b75b6b1a375105ce8d240152613df75ec574b562a0"
+    "retries": 0,
+    "slug": "how-ai-could-make-it-harder-for-governments-to-use-hacking-tools",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/"
   },
   {
     "content_hash": "41827aa86611e546ba82f20ad0c09c739d32acf72be9bd09433f3e5f4faea49f",

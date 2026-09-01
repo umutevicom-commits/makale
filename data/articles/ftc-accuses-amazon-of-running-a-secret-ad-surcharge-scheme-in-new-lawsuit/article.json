@@ -1,0 +1,43 @@
+{
+  "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
+  "slug": "ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit",
+  "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
+  "news_id": "ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit",
+  "date": "31 August 2026",
+  "author": "Lauren Forristal",
+  "tags": [],
+  "body_paragraphs": [
+    "Amazon is facing a new lawsuit from the Federal Trade Commission (FTC) and 22 states, which accuse the company of secretly charging businesses more for advertising on its platform.",
+    "The lawsuit, filed Monday, claims Amazon spent more than seven years quietly increasing the prices advertisers paid through its online ad auctions. According to the complaint, the alleged practice affected more than 1 million brands and sellers and may have generated tens of billions of dollars in additional revenue for Amazon.",
+    "The 22 states joining the FTC are Alaska, Arizona, California, Colorado, Florida, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maryland, Nebraska, New Jersey, New York, North Carolina, Oklahoma, Pennsylvania, Rhode Island, South Carolina, Vermont, and Washington.",
+    "The lawsuit centers on Amazon’s Sponsored Products ads, Sponsored Brands ads, and Display ads that run alongside its search results. According to the FTC, Amazon told more than 500,000 small and medium-sized businesses that it ran a “second-price” auction where the winning advertiser would pay just one cent more than the next-highest bid, rather than the full amount of their own bid. Because businesses believed they’d only ever pay slightly more than the runner-up, they had an incentive to bid high, trusting the system would keep their actual costs in check.",
+    "But the FTC alleges that starting in 2019, Amazon made a “surreptitious” change without telling advertisers. It added a hidden surcharge that Amazon internally called a “soft reserve price,” and used what one internal document called an “invented auction participant” — a fake bidder, basically — to push prices higher than true competition would have produced.",
+    "The complaint alleges this amounted to a shill bid: rather than the price coming from a real competing advertiser, Amazon was manufacturing a higher number for advertisers to beat. As a result, the FTC claims Amazon charged Sponsored Products advertisers their own full winning bid close to 80% of the time — effectively turning what was marketed as a second-price auction into a first-price one.",
+    "The FTC claims Amazon made this change because it wanted more advertising revenue, and kept it hidden because disclosing it could have led advertisers to lower their bids, which would have cut into that revenue.",
+    "The company generated more than $68 billion in advertising revenue last year.",
+    "In a blog post, Amazon described the FTC’s lawsuit as “misguided,” arguing that the complaint “fundamentally misunderstands how advertisers operate.”",
+    "The company added that its auctions evaluate billions of bids across different placements and formats, so prices naturally vary, and advertisers are “properly” informed about the pricing system."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/GettyImages-2217247219.jpg",
+      "alt": "The logo and lettering of global online mail order company Amazon can be seen on the façade of Amazon Germany's headquarters in Parkstadt Schwabing in Munich (Bavaria)."
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-01T03:19:17.274254+00:00",
+  "title_tr": "FTC, Amazon'u yeni davada \"gizli bir reklam ek ücreti planı\" yürütmekle suçladı",
+  "body_paragraphs_tr": [
+    "Amazon, Federal Ticaret Komisyonu'nun (FTC) ve 22 eyaletin açtığı ve şirketi platformunda reklam yapmak için işletmeleri gizlice daha fazla ücretlendirmekle suçlayan yeni bir davayla karşı karşıya.",
+    "Pazartesi günü açılan davada, Amazon'un reklamverenlerin çevrimiçi reklam açık artırmaları yoluyla ödediği fiyatları sessizce artırmak için 7 yıldan fazla zaman harcadığı iddia ediliyor. Şikayete göre, iddia edilen uygulama 1 milyondan fazla marka ve satıcıyı etkiledi ve Amazon için on milyarlarca dolar ek gelir elde etmiş olabilir.",
+    "FTC'ye katılan 22 eyalet Alaska, Arizona, Kaliforniya, Colorado, Florida, Idaho, Illinois, Indiana, Iowa, Kentucky, Louisiana, Maryland, Nebraska, New Jersey, New York, Kuzey Carolina, Oklahoma, Pennsylvania, Rhode Island, Güney Carolina, Vermont ve Washington'dur.",
+    "Dava, Amazon'un Sponsorlu Ürünler reklamlarına, Sponsorlu Markalar reklamlarına ve arama sonuçlarıyla birlikte çalışan Görüntülü reklamlara odaklanıyor. FTC'ye göre Amazon, 500 binden fazla küçük ve orta ölçekli işletmeye, kazanan reklamverenin kendi teklifinin tam tutarı yerine bir sonraki en yüksek tekliften sadece bir sent daha fazla ödeyeceği bir \"ikinci fiyat\" açık artırması düzenlediğini söyledi. İşletmeler, ikinciden sadece biraz daha fazla ödeyeceklerine inandıkları için, sistemin gerçek maliyetlerini kontrol altında tutacağına güvenerek yüksek teklif verme konusunda bir teşvikleri vardı.",
+    "Ancak FTC, 2019 'dan itibaren Amazon'un reklamverenlere haber vermeden \"gizlice\" bir değişiklik yaptığını iddia ediyor. Amazon'un dahili olarak \"yumuşak rezerv fiyatı\" olarak adlandırdığı gizli bir ek ücret ekledi ve dahili bir belgenin \"icat edilen açık artırma katılımcısı\" olarak adlandırdığı şeyi — temelde sahte bir teklifçi — fiyatları gerçek rekabetin üretebileceğinden daha yükseğe çıkarmak için kullandı.",
+    "Şikayet, bunun bir shill teklifi anlamına geldiğini iddia ediyor: Amazon, gerçek bir rakip reklamverenden gelen fiyattan ziyade, reklamverenlerin yenmesi için daha yüksek bir rakam üretiyordu. Sonuç olarak, FTC, Amazon'un Sponsorlu Ürünler reklamverenlerine zamanın % 80 'ine yakın bir sürede kendi tam kazanan tekliflerini ödediğini iddia ediyor — ikinci fiyat açık artırması olarak pazarlanan şeyi etkili bir şekilde ilk fiyat açık artırmasına dönüştürüyor.",
+    "FTC, Amazon'un bu değişikliği daha fazla reklam geliri istediği için yaptığını ve bunu gizli tuttuğunu çünkü bunu açıklamanın reklamverenlerin tekliflerini düşürmesine yol açabileceğini ve bunun da bu geliri azaltacağını iddia ediyor.",
+    "Şirket geçen yıl 68 milyar $ 'dan fazla reklam geliri elde etti.",
+    "Bir blog gönderisinde Amazon, FTC'nin davasını \"yanlış yönlendirilmiş\" olarak nitelendirdi ve şikayetin \"reklamverenlerin işleyişini temelde yanlış anladığını\" savundu.",
+    "Şirket, açık artırmalarının farklı yerleşim ve formatlardaki milyarlarca teklifi değerlendirdiğini, bu nedenle fiyatların doğal olarak değiştiğini ve reklamverenlerin fiyatlandırma sistemi hakkında \"uygun şekilde\" bilgilendirildiğini ekledi."
+  ],
+  "tags_tr": []
+}
