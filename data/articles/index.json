@@ -1,43 +1,83 @@
 [
   {
-    "slug": "chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data",
-    "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+    "slug": "florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns",
+    "url": "https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T22:21:51.589892+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "fb1deb304f96821267f9b10d9efb0e713a67a83a585c76ce73694d325dc34f17"
+  },
+  {
+    "slug": "fambot-introduces-an-ai-chief-of-staff-for-families",
+    "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T22:21:17.537045+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "96cba966c3a9313c4b95d38617d75e670c38aaef53811a0f28fb1adf7216d2b7"
+  },
+  {
+    "slug": "amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop",
+    "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T22:21:03.903734+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "ea5ee1739079f396e4c8a18995f3bd93374ed8106ccc678f988276aff44e91a1"
+  },
+  {
+    "slug": "air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use",
+    "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T22:20:26.397553+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "cdb5deca97626b129d4db7819a169199fea24565eabf389965eddcdcb1a5837a"
+  },
+  {
+    "content_hash": "bd72c3f067862d7c8da3cf20afab8bf19f3502a1473d90667fc381ba95449140",
     "date": "01 September 2026",
     "fetched_at": "2026-09-01T19:11:26.444056+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "bd72c3f067862d7c8da3cf20afab8bf19f3502a1473d90667fc381ba95449140"
+    "retries": 0,
+    "slug": "chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
   },
   {
-    "slug": "googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design",
-    "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "content_hash": "aa723ee257efb47eee099032b52b209cc9e49f75989b57d5dc290d62bc7d156d",
     "date": "01 September 2026",
     "fetched_at": "2026-09-01T19:11:10.649558+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "aa723ee257efb47eee099032b52b209cc9e49f75989b57d5dc290d62bc7d156d"
+    "retries": 0,
+    "slug": "googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/"
   },
   {
-    "slug": "who-is-john-ternus-the-incoming-apple-ceo",
-    "url": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
+    "content_hash": "de0aac4e83dbb9a9f02aae7bc4ce000cfc60325ffc994eb2999105c1089e4d35",
     "date": "01 September 2026",
     "fetched_at": "2026-09-01T19:10:24.982518+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "de0aac4e83dbb9a9f02aae7bc4ce000cfc60325ffc994eb2999105c1089e4d35"
+    "retries": 0,
+    "slug": "who-is-john-ternus-the-incoming-apple-ceo",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/"
   },
   {
-    "slug": "if-space-data-centers-feel-far-fetched-why-not-interstellar-travel",
-    "url": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/",
+    "content_hash": "2a7379965f6b418a3e6216c17a317e4a3f2c497b4db10450ddf17f6083daed97",
     "date": "01 September 2026",
     "fetched_at": "2026-09-01T19:10:01.551185+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "2a7379965f6b418a3e6216c17a317e4a3f2c497b4db10450ddf17f6083daed97"
+    "retries": 0,
+    "slug": "if-space-data-centers-feel-far-fetched-why-not-interstellar-travel",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/"
   },
   {
     "content_hash": "9ea60a21ca7c141fa16bdcb22e656c97f4b78d5b636ac208f6dacfeebea91584",
