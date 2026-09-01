@@ -1,0 +1,47 @@
+{
+  "url": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/",
+  "slug": "microsoft-tests-fix-for-latest-hours-long-outlook-outage",
+  "title": "Microsoft tests fix for latest hours-long Outlook outage",
+  "news_id": "microsoft-tests-fix-for-latest-hours-long-outlook-outage",
+  "date": "31 August 2026",
+  "author": "Sarah Perez",
+  "tags": [],
+  "body_paragraphs": [
+    "Snow day? Microsoft on Monday confirmed a widespread, multi-hour outage affecting Outlook users, leading to email delays and failures, authentication issues, and other problems.",
+    "In a post on X, Microsoft reported the issue was impacting its Exchange Online service, its cloud-hosted platform for business email, calendar, contacts, and tasks, and then said it had identified the problem.",
+    "“We’ve confirmed that users may experience degraded functionality with various Exchange Online functionalities. We’re reviewing service telemetry and diagnostic data to isolate the source of the issue,” Microsoft wrote at 12:43 p.m. ET on Monday, after an earlier message saying it was investigating user reports of Exchange Online problems.",
+    "The company said that it identified an issue with an “authentication component” and is testing what it believes will be a remediation strategy with a portion of the infrastructure to determine if it resolves the problem. If so, it will roll out the solution more broadly. Later, it noted that the authentication component was impacting other services beyond Exchange.",
+    "We've identified an issue with an authentication component which is contributing to impact. To address this, we've developed a remediation strategy and we're applying it to a portion of infrastructure to test its efficacy. Once we've confirmed this resolves impact, we'll apply…",
+    "We're continuing to fine-tune our remediation strategy as our internal tests progress. Additionally, we've confirmed that the authentication component issue impacts other services beyond Exchange Online. For more information regarding other impact scenarios, please see:…",
+    "The outage is another reminder of how much of the business world today still runs on email, and particularly Outlook and Exchange.",
+    "This has been a fairly lengthy outage, as user reports started streaming in around 11:30 a.m. ET on Monday, according to the crowdsourced outage detection website Downdetector. By 2 p.m. ET, the site was seeing north of 5,000 user reports. Meanwhile, many others were complaining directly on social media platforms, like X.",
+    "Those impacted by the outage may see delays and failures in sending or receiving messages, failures when trying to search for content in their mailbox, authentication errors, failures with mailbox operations, and other workflows related to message delivery.",
+    "As of 5 PM ET on Monday, Microsoft was still trying to resolve the problem.",
+    "Our investigation indicates that a misconfiguration issue may be preventing authentication components from deploying as expected to a portion of infrastructure, and we're reexamining recent changes made to the service to determine why this is occurring. Additionally, we are…",
+    "This article was updated after publication as Microsoft posted more information about the status of the outage."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/microsoft-tests-fix-for-latest-hours-long-outlook-outage/microsoft-outlook-app.jpg",
+      "alt": "A photo of the icon for the Microsoft email app Outlook."
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-01T09:09:05.479661+00:00",
+  "title_tr": "Microsoft, en son saatlerce süren Outlook kesintisi için düzeltmeyi test etti",
+  "body_paragraphs_tr": [
+    "Kar günü mü? Microsoft Pazartesi günü Outlook kullanıcılarını etkileyen, e - posta gecikmelerine ve hatalarına, kimlik doğrulama sorunlarına ve diğer sorunlara yol açan yaygın, çok saatli bir kesintiyi doğruladı.",
+    "Microsoft, X'teki bir gönderisinde, sorunun iş e - postası, takvim, kişiler ve görevler için bulutta barındırılan platformu olan Exchange Online hizmetini etkilediğini bildirdi ve ardından sorunu tanımladığını söyledi.",
+    "\"Kullanıcıların çeşitli Exchange Online işlevleriyle düşük işlevsellik yaşayabileceğini doğruladık. Sorunun kaynağını izole etmek için hizmet telemetrisini ve tanılama verilerini gözden geçiriyoruz\" diye yazdı. Pazartesi günü saat 12:43 'te Microsoft, Exchange Online sorunlarıyla ilgili kullanıcı raporlarını araştırdığını söyleyen daha önceki bir mesajın ardından.",
+    "Şirket, bir \"kimlik doğrulama bileşeni\" ile ilgili bir sorun tespit ettiğini ve sorunu çözüp çözmediğini belirlemek için altyapının bir kısmıyla bir iyileştirme stratejisi olacağına inandığını test ettiğini söyledi. Eğer öyleyse, çözümü daha geniş bir şekilde sunacaktır. Daha sonra, kimlik doğrulama bileşeninin Exchange dışındaki diğer hizmetleri etkilediğini belirtti.",
+    "Etkiye katkıda bulunan bir kimlik doğrulama bileşeniyle ilgili bir sorun belirledik. Bunu ele almak için bir iyileştirme stratejisi geliştirdik ve etkinliğini test etmek için altyapının bir kısmına uyguluyoruz. Bunun etkiyi çözdüğünü onayladıktan sonra, şunları uygulayacağız…",
+    "Dahili testlerimiz ilerledikçe iyileştirme stratejimizde ince ayar yapmaya devam ediyoruz. Ayrıca, kimlik doğrulama bileşeni sorununun Exchange Online dışındaki diğer hizmetleri de etkilediğini doğruladık. Diğer etki senaryoları hakkında daha fazla bilgi için lütfen bkz:…",
+    "Kesinti, bugün iş dünyasının ne kadarının hala e - postayla ve özellikle Outlook ve Exchange ile çalıştığının bir başka hatırlatıcısıdır.",
+    "Kitle kaynaklı kesinti tespit web sitesi Downdetector'a göre, kullanıcı raporları Pazartesi günü saat 11:30 civarında ET'de yayınlanmaya başladığı için bu oldukça uzun bir kesinti oldu. Saat 14: 00 'e kadar, site 5.000 kullanıcı raporunun kuzeyini görüyordu. Bu arada, X gibi birçok kişi doğrudan sosyal medya platformlarından şikayet ediyordu.",
+    "Kesintiden etkilenenler, mesaj gönderme veya almada gecikmeler ve başarısızlıklar, posta kutularında içerik aramaya çalışırken başarısızlıklar, kimlik doğrulama hataları, posta kutusu işlemlerinde başarısızlıklar ve mesaj teslimiyle ilgili diğer iş akışlarını görebilir.",
+    "Pazartesi günü saat 17.00 itibarıyla Microsoft hala sorunu çözmeye çalışıyordu.",
+    "Araştırmamız, bir yanlış yapılandırma sorununun kimlik doğrulama bileşenlerinin altyapının bir bölümünde beklendiği gibi dağıtılmasını engelliyor olabileceğini gösteriyor ve bunun neden meydana geldiğini belirlemek için hizmette yapılan son değişiklikleri yeniden inceliyoruz. Ek olarak, biz...",
+    "Bu makale, Microsoft kesintinin durumu hakkında daha fazla bilgi yayınladığı için yayınlandıktan sonra güncellendi."
+  ],
+  "tags_tr": []
+}
