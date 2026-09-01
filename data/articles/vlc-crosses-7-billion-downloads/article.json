@@ -1,0 +1,31 @@
+{
+  "url": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/",
+  "slug": "vlc-crosses-7-billion-downloads",
+  "title": "VLC crosses 7 billion downloads",
+  "news_id": "vlc-crosses-7-billion-downloads",
+  "date": "31 August 2026",
+  "author": "Ivan Mehta",
+  "tags": [],
+  "body_paragraphs": [
+    "In our world of expensive streaming platforms, the very free and offline VLC media player, developed by the non-profit VideoLAN, has crossed 7 billion downloads across all platforms.",
+    "Jean-Baptiste Kempf, the president and lead developer of VLC, sent this update in an email. This milestone comes almost 18 months after the app reached the 6 billion download mark in January 2025.",
+    "Kempf mentioned that the company recently ported VLC to Amazon’s new Vega OS for TVs. The company said it is also working on supporting all other platforms and codecs and that VLC is preparing for the VLC 4 release, but it is taking time in development.",
+    "Last year, VideoLAN had teased AI-powered translation and subtitles using local models, but it is not clear if those features were ever released."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/vlc-crosses-7-billion-downloads/GettyImages-590060556.jpg",
+      "alt": "line of orange traffic cones on road"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-01T14:30:13.461744+00:00",
+  "title_tr": "VLC 7 milyar indirmeyi geçti",
+  "body_paragraphs_tr": [
+    "Pahalı akış platformları dünyamızda, kar amacı gütmeyen VideoLAN tarafından geliştirilen çok ücretsiz ve çevrimdışı VLC medya oynatıcı, tüm platformlarda 7 milyar indirmeyi aştı.",
+    "VLC'nin başkanı ve baş geliştiricisi Jean - Baptiste Kempf, bu güncellemeyi bir e - postayla gönderdi. Bu dönüm noktası, uygulamanın Ocak 2025 'te 6 milyar indirme sınırına ulaşmasından yaklaşık 18 ay sonra geldi.",
+    "Kempf, şirketin kısa süre önce VLC'yi Amazon'un TV'ler için yeni Vega işletim sistemine taşıdığını belirtti. Şirket, diğer tüm platformları ve kodekleri desteklemek için de çalıştığını ve VLC'nin VLC 4 sürümüne hazırlandığını, ancak geliştirmenin zaman aldığını söyledi.",
+    "Geçen yıl VideoLAN, yerel modeller kullanarak yapay zeka destekli çeviri ve altyazılarla alay etmişti, ancak bu özelliklerin hiç piyasaya sürülüp sürülmediği belli değil."
+  ],
+  "tags_tr": []
+}

@@ -89,6 +89,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/"
   },
+  "if-space-data-centers-feel-far-fetched-why-not-interstellar-travel": {
+    "content_hash": "",
+    "date": "01 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): '“If a dinosaur bone can last 200 million years then a metal '...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/"
+  },
   "instagram-puts-new-limits-on-undisclosed-ai-profiles": {
     "content_hash": "6bdc2820895eab9ebbce56e779a251087b664f2248600c70a6f2d703d1a3a694",
     "date": "31 August 2026",
@@ -170,13 +180,13 @@
     "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
   },
   "nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout": {
-    "content_hash": "",
+    "content_hash": "50ea3af2cb8b38d4ce5e8c857f0da05f4e4ae06d20ce6f8dd9984932fe430841",
     "date": "31 August 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): '“AI is transforming every computing platform — from the worl'...",
-    "retries": 4,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-01T14:28:59.238143+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
   },
   "ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt": {
@@ -200,23 +210,23 @@
     "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/"
   },
   "the-pentagon-now-has-its-own-version-of-chatgpt-and-grok": {
-    "content_hash": "",
+    "content_hash": "d03ab7ee221170e6607e36f65ebcb8ae9f6eb094bf6e32b21b586047fdedb55d",
     "date": "31 August 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'The Pentagon now has its own version of ChatGPT and Grok'...",
-    "retries": 3,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-01T14:29:24.690568+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
   },
   "three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation": {
-    "content_hash": "",
+    "content_hash": "0fd427dee02c543edc56d47c979d330c9d9e6262b6770addcabd03eb6c25bca0",
     "date": "31 August 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Clipto uses AI to search terabytes of video and is now value'...",
-    "retries": 4,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-01T14:29:45.261888+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/"
   },
   "tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder": {
@@ -230,13 +240,13 @@
     "url": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/"
   },
   "vlc-crosses-7-billion-downloads": {
-    "content_hash": "",
+    "content_hash": "9ea60a21ca7c141fa16bdcb22e656c97f4b78d5b636ac208f6dacfeebea91584",
     "date": "31 August 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'VLC crosses 7 billion downloads'...",
-    "retries": 4,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-01T14:30:13.461744+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vlc-crosses-7-billion-downloads",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/"
   }
 }

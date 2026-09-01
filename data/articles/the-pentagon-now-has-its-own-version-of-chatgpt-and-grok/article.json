@@ -1,0 +1,43 @@
+{
+  "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+  "slug": "the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
+  "title": "The Pentagon now has its own version of ChatGPT and Grok",
+  "news_id": "the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
+  "date": "31 August 2026",
+  "author": "Kirsten Korosec",
+  "tags": [],
+  "body_paragraphs": [
+    "The Pentagon has launched versions of OpenAI’s ChatGPT and xAI’s Grok, giving 3 million civilian and military personnel access to generative AI tools that have been tailored to “warfighter needs.”",
+    "ChatGPT Mil and Grok for Government — custom versions of the popular consumer generative AI tools — are now part of GenAI.mil, a centralized, secure portal launched last year.",
+    "GenAI.mil, which offered Google Gemini when it first launched, is designed to give Department of Defense employees access to commercial frontier AI models without sending sensitive government data through ordinary consumer channels. In particular, the official military version is exempt from the data collection that is difficult to avoid in consumer tech products.",
+    "And according to the Department of Defense, the generative AI portal has proven popular. GenAI.mil has already onboarded more than 1.7 million unique users out of the department’s 3 million personnel, according to the department.",
+    "These latest additions are part of the Pentagon’s broader effort to use AI tools to accelerate work and give the Department of Defense an edge without sacrificing security. They also highlight the absence of Anthropic’s Claude model and the Pentagon’s effort to work with other companies following its dispute with the frontier lab. Anthropic was labeled a supply-chain risk by the Trump administration — a designation that it is currently fighting in court — after it refused to give the Pentagon unrestricted use of its AI tools and instead insisted on certain safety guardrails.",
+    "ChatGPT Mil, which came out of the company’s OpenAI for Government program, will offer an experience familiar to commercial ChatGPT users. The tool will focus on chat, files, projects, and custom GPTs, according to the Defense Department. The tool will also support document-heavy, routine unclassified work such as administrative tasks, logistics, planning, and policy. Other features will be added over time.",
+    "The Pentagon positioned Grok’s capabilities and potential uses in much broader and more militaristic terms.",
+    "“Starshield AI’s Grok for Government will provide the warfighter with immediate productivity gains, stronger knowledge continuity and more secure and efficient collaboration,” according to the Defense Department’s press release. (SpaceX’s Starshield AI is a secure satellite network that uses the company’s existing Starlink tech.)",
+    "The department added that Grok would allow its military “to execute missions faster and with greater precision across numerous operational contexts, ranging from market research analysis for acquisition professionals to supply-chain management for logisticians.”",
+    "The Pentagon has struck deals with a number of other tech companies in a bid to boost its AI capabilities, including Amazon Web Services, Microsoft, Nvidia, and Reflection AI."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/GettyImages-2263890424.jpg",
+      "alt": "The OpenAI logo appears on the screen of a smartphone placed on a reflective surface onto which the U.S. flag is projected."
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-01T14:29:24.690568+00:00",
+  "title_tr": "Pentagon artık kendi ChatGPT ve Grok versiyonuna sahip",
+  "body_paragraphs_tr": [
+    "Pentagon, OpenAI'nin ChatGPT ve xAI'nin Grok versiyonlarını piyasaya sürdü ve 3 milyon sivil ve askeri personele \"savaşçı ihtiyaçlarına\" göre uyarlanmış üretken yapay zeka araçlarına erişim sağladı.",
+    "ChatGPT MIL ve Grok for Government — popüler tüketici üretken yapay zeka araçlarının özel sürümleri — artık geçen yıl başlatılan merkezi, güvenli bir portal olan GenAI.mil'in bir parçası.",
+    "Google Gemini'yi ilk piyasaya sürüldüğünde sunan GenAI.mil, Savunma Bakanlığı çalışanlarının hassas devlet verilerini sıradan tüketici kanalları aracılığıyla göndermeden ticari sınır AI modellerine erişmelerini sağlamak için tasarlanmıştır. Özellikle, resmi askeri versiyon, tüketici teknoloji ürünlerinde kaçınılması zor olan veri toplamadan muaftır.",
+    "Savunma Bakanlığı'na göre, üretken yapay zeka portalı popülerliğini kanıtladı. Departmana göre, GenAI.mil halihazırda departmanın 3 milyon personelinden 1,7 milyondan fazla tekil kullanıcıyı bünyesine kattı.",
+    "Bu son eklemeler, Pentagon'un çalışmaları hızlandırmak ve Savunma Bakanlığı'na güvenlikten ödün vermeden bir avantaj sağlamak için yapay zeka araçlarını kullanma yönündeki daha geniş çabasının bir parçası. Ayrıca, Anthropic'in Claude modelinin yokluğunu ve Pentagon'un sınır laboratuvarıyla olan anlaşmazlığının ardından diğer şirketlerle çalışma çabasını da vurguluyorlar. Anthropic, Pentagon'a yapay zeka araçlarını sınırsız kullanmayı reddetmesinin ve bunun yerine belirli güvenlik korkuluklarında ısrar etmesinin ardından Trump yönetimi tarafından tedarik zinciri riski olarak nitelendirildi. Bu, şu anda mahkemede mücadele ettiği anlamına geliyor.",
+    "Şirketin OpenAI for Government programından çıkan ChatGPT MIL, ticari ChatGPT kullanıcılarına tanıdık bir deneyim sunacak. Savunma Bakanlığı'na göre araç sohbet, dosyalar, projeler ve özel GPT'lere odaklanacak. Araç ayrıca idari görevler, lojistik, planlama ve politika gibi belge ağırlıklı, rutin sınıflandırılmamış çalışmaları da destekleyecektir. Diğer özellikler zamanla eklenecektir.",
+    "Pentagon, Grok'un yeteneklerini ve potansiyel kullanımlarını çok daha geniş ve militarist terimlerle konumlandırdı.",
+    "Savunma Bakanlığı'nın basın açıklamasına göre, \"Starshield AI'nın Grok for Government'ı savaşçıya anında üretkenlik kazanımları, daha güçlü bilgi sürekliliği ve daha güvenli ve verimli işbirliği sağlayacak .\" (SpaceX'in Starshield AI, şirketin mevcut Starlink teknolojisini kullanan güvenli bir uydu ağıdır.)",
+    "Bakanlık, Grok'un ordusunun \"satın alma uzmanları için pazar araştırması analizinden lojistikçiler için tedarik zinciri yönetimine kadar çok sayıda operasyonel bağlamda görevleri daha hızlı ve daha hassas bir şekilde yürütmesine\" izin vereceğini de sözlerine ekledi.",
+    "Pentagon, Amazon Web Services, Microsoft, Nvidia ve Reflection AI da dahil olmak üzere yapay zeka yeteneklerini artırmak amacıyla bir dizi başka teknoloji şirketiyle anlaşmalar yaptı."
+  ],
+  "tags_tr": []
+}
