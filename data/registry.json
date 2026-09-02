@@ -40,13 +40,13 @@
     "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/"
   },
   "anthropics-new-fable-release-is-cheaper-less-restrictive": {
-    "content_hash": "",
+    "content_hash": "6405f1474424ea5da046b37f6a509efda8d36d75bccb393deb4e0f53f87c6ce0",
     "date": "01 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Anthropic’s new Fable release is cheaper, less restrictive'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-02T02:36:08.169596+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "anthropics-new-fable-release-is-cheaper-less-restrictive",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/"
   },
   "apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down": {
@@ -120,13 +120,13 @@
     "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/"
   },
   "googles-android-update-tackles-motion-sickness-accessibility-and-more": {
-    "content_hash": "",
+    "content_hash": "3eb25a6c2e24c08c2b7779ca286349ff750dfc7597d41a990c62589f2688f5b4",
     "date": "01 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Google’s Android update tackles motion sickness, accessibili'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-02T02:36:29.872939+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "googles-android-update-tackles-motion-sickness-accessibility-and-more",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/"
   },
   "googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design": {
@@ -140,13 +140,13 @@
     "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/"
   },
   "gopro-to-be-acquired-for-285m-will-remain-a-public-company": {
-    "content_hash": "",
+    "content_hash": "2b56bce33598ae2e968e5a38baa223de63c333c26f77f99ee52be8b85c06f03d",
     "date": "01 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'GoPro will also “fully support” its existing consumer produc'...",
-    "retries": 2,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-02T02:36:52.730810+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "gopro-to-be-acquired-for-285m-will-remain-a-public-company",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/"
   },
   "hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson": {
@@ -170,13 +170,13 @@
     "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/"
   },
   "help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026": {
-    "content_hash": "",
+    "content_hash": "349e621228908f00dd92394a15c4eb824715c21019692654489dbfefc6dc3084",
     "date": "01 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Help build the future of startups: Volunteer at TechCrunch D'...",
-    "retries": 2,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-02T02:37:23.086243+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/01/help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026/"
   },
   "how-ai-could-make-it-harder-for-governments-to-use-hacking-tools": {
@@ -200,13 +200,13 @@
     "url": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/"
   },
   "indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation": {
-    "content_hash": "",
+    "content_hash": "99ba826d51e39e0f54ed6ca87bcd69f2761a03bcfbcca64140e7783d862309dc",
     "date": "01 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'India’s Unacademy sells to rival upGrad for $206M, about 94%'...",
-    "retries": 2,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-02T02:37:56.999505+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/"
   },
   "instagram-puts-new-limits-on-undisclosed-ai-profiles": {
@@ -223,8 +223,8 @@
     "content_hash": "",
     "date": "01 September 2026",
     "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'John Ternus hypes ‘huge launch next week’ in first memo as A'...",
-    "retries": 1,
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'The company’s former senior vice president of Hardware Engin'...",
+    "retries": 2,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/"
@@ -284,7 +284,7 @@
     "date": "01 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Microsoft 365 outage drags on, but things are improving'...",
-    "retries": 2,
+    "retries": 3,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/"
@@ -323,8 +323,8 @@
     "content_hash": "",
     "date": "01 September 2026",
     "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Open AI’s Astra model is on the way — and very good at break'...",
-    "retries": 1,
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'OpenAI’s Astra model is on the way — and very good at breaki'...",
+    "retries": 2,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"
@@ -344,7 +344,7 @@
     "date": "01 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Sequoia-incubated Empirik launches with $21M to predict outa'...",
-    "retries": 2,
+    "retries": 3,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/"
@@ -374,7 +374,7 @@
     "date": "01 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'This startup is fuel-injecting hydrogen to make cargo ships '...",
-    "retries": 2,
+    "retries": 3,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/"
@@ -394,7 +394,7 @@
     "date": "01 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Thrive’s Kushner defends involvement in FIFA mess, hires Elo'...",
-    "retries": 1,
+    "retries": 2,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/"
@@ -424,7 +424,7 @@
     "date": "01 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Waymo accelerates robotaxi expansion with launches in Denver'...",
-    "retries": 2,
+    "retries": 3,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/"
@@ -434,7 +434,7 @@
     "date": "01 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Waymo goes on offense ahead of Tesla’s Cybercab launch'...",
-    "retries": 2,
+    "retries": 3,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/"
@@ -454,7 +454,7 @@
     "date": "01 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'X says attackers are targeting user accounts after the launc'...",
-    "retries": 1,
+    "retries": 2,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/"

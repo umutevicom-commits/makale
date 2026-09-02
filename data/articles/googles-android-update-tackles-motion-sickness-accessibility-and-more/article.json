@@ -1,0 +1,57 @@
+{
+  "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+  "slug": "googles-android-update-tackles-motion-sickness-accessibility-and-more",
+  "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+  "news_id": "googles-android-update-tackles-motion-sickness-accessibility-and-more",
+  "date": "01 September 2026",
+  "author": "Lauren Forristal",
+  "tags": [],
+  "body_paragraphs": [
+    "On Tuesday, Google announced it’s rolling out five new updates designed to make Android phones more accessible, useful, and personalized. Announced in a blog post, the features include those aimed at reducing motion sickness, helping blind and low-vision users navigate their surroundings, remembering where users leave important items, and another that adds new ways to personalize Google Messages.",
+    "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+    "The most interesting update is “Motion Assist,” a feature designed to help people who experience motion sickness while using their phones in a moving vehicle. It adds a bubble overlay to the screen that moves in response to the vehicle’s motion, helping reduce the disconnect between what users see on their screens and what their bodies feel.",
+    "The concept isn’t entirely new, however. Apple introduced “ Vehicle Motion Cues ” in 2024, which uses animated dots around the edges of the display that move in response to a vehicle’s motion.",
+    "Users can set “Motion Assist” to turn on automatically, add it to Quick Settings, and customize the bubble’s shape, color, and transparency. Google says this feature is available to Android 17 users.",
+    "Google is also introducing “Guided Vision,” a feature designed with blind and low-vision users in mind. It combines the phone’s camera with Gemini to help with tasks such as reading small print on a food label, viewing a menu in a dark restaurant, or identifying objects around the house.",
+    "The feature can also provide voice guidance when the camera isn’t positioned correctly, telling users to move the phone, pan around, or center an object. Guided Vision is coming to phones running Android 9 and newer in countries where Gemini is available.",
+    "Another update gives Gemini a new way to help users remember where they put important items. A “remembered items” section in Find Hub will allow users to tell Gemini where they’ve stored something. For example, a user could say they put their passport in a bedroom drawer, and Gemini can save that information in Find Hub. Users can also attach a photo to make the item easier to identify later.",
+    "Additionally, Google is adding a Google Keep integration to Google Messages, allowing people to share and edit grocery lists, vacation notes, and other information directly within a conversation.",
+    "Plus, Google Messages is getting more personalization options. Users will be able to customize individual chats with backgrounds, photos, and colors, Google says. The text bubbles will automatically match.",
+    "Apple added a similar custom background feature to Messages last year."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/googles-android-update-tackles-motion-sickness-accessibility-and-more/MotionAssist-Google.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/googles-android-update-tackles-motion-sickness-accessibility-and-more/Android-MotionAssist.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/googles-android-update-tackles-motion-sickness-accessibility-and-more/Android-GuidedVision.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/googles-android-update-tackles-motion-sickness-accessibility-and-more/Android-Customphoto.png",
+      "alt": ""
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-02T02:36:29.872939+00:00",
+  "title_tr": "Google'ın Android güncellemesi hareket hastalığı, erişilebilirlik ve daha fazlasını ele alıyor",
+  "body_paragraphs_tr": [
+    "Salı günü Google, Android telefonları daha erişilebilir, kullanışlı ve kişiselleştirilmiş hale getirmek için tasarlanan beş yeni güncellemeyi kullanıma sunduğunu duyurdu. Bir blog gönderisinde duyurulan özellikler arasında hareket hastalığını azaltmayı, görme engelli ve az gören kullanıcıların çevrelerinde gezinmelerine yardımcı olmayı, kullanıcıların önemli öğeleri nerede bıraktığını hatırlamayı ve Google Mesajları kişiselleştirmek için yeni yollar eklemeyi amaçlayan özellikler yer alıyor.",
+    "Bazı özellikler, Google'ın iPhone kullanıcıları için zaten benzer özellikler sunan Apple'ı yakalamasını sağlarken, diğerleri özellikle çeşitli iyileştirmeler sağlamak için Gemini'den yararlanıyor.",
+    "En ilginç güncelleme, telefonlarını hareketli bir araçta kullanırken taşıt tutması yaşayan insanlara yardımcı olmak için tasarlanmış bir özellik olan “Hareket Yardımı” dır. Ekrana, aracın hareketine yanıt olarak hareket eden bir baloncuk katmanı ekleyerek, kullanıcıların ekranlarında gördükleri ile vücutlarının hissettikleri arasındaki kopukluğu azaltmaya yardımcı olur.",
+    "Ancak konsept tamamen yeni değil. Apple, 2024 'te ekranın kenarlarında bir aracın hareketine tepki olarak hareket eden animasyonlu noktalar kullanan \" Araç Hareket İpuçları\" nı tanıttı.",
+    "Kullanıcılar “Hareket Yardımı” nı otomatik olarak açılacak şekilde ayarlayabilir, Hızlı Ayarlar'a ekleyebilir ve balonun şeklini, rengini ve şeffaflığını özelleştirebilir. Google, bu özelliğin Android 17 kullanıcıları tarafından kullanılabildiğini söylüyor.",
+    "Google ayrıca, görme engelli ve az gören kullanıcılar düşünülerek tasarlanmış bir özellik olan “Guided Vision” ı da tanıtıyor. Bir gıda etiketindeki küçük baskıyı okumak, karanlık bir restoranda bir menüyü görüntülemek veya evdeki nesneleri tanımlamak gibi görevlerde yardımcı olmak için telefonun kamerasını İkizler ile birleştirir.",
+    "Bu özellik, kamera doğru konumlandırılmadığında kullanıcılara telefonu hareket ettirmelerini, kaydırmalarını veya bir nesneyi ortalamalarını söyleyen sesli rehberlik de sağlayabilir. Guided Vision, Gemini'nin mevcut olduğu ülkelerde Android 9 ve daha yeni sürümleri çalıştıran telefonlara geliyor.",
+    "Başka bir güncelleme, Gemini'ye kullanıcıların önemli eşyaları nereye koyduklarını hatırlamalarına yardımcı olmak için yeni bir yol sunuyor. Find Hub'daki \"hatırlanan öğeler\" bölümü, kullanıcıların Gemini'ye bir şeyi nerede sakladıklarını söylemelerine olanak tanıyacak. Örneğin, bir kullanıcı pasaportunu bir yatak odası çekmecesine koyduğunu söyleyebilir ve Gemini bu bilgileri Find Hub'a kaydedebilir. Kullanıcılar, öğenin daha sonra tanımlanmasını kolaylaştırmak için bir fotoğraf da ekleyebilir.",
+    "Ek olarak, Google, insanların market listelerini, tatil notlarını ve diğer bilgileri doğrudan bir konuşma içinde paylaşmalarına ve düzenlemelerine olanak tanıyan bir Google Keep entegrasyonu ekliyor.",
+    "Ayrıca, Google Mesajlar daha fazla kişiselleştirme seçeneği sunuyor. Google, kullanıcıların arka planlar, fotoğraflar ve renklerle bireysel sohbetleri özelleştirebileceğini söylüyor. Metin baloncukları otomatik olarak eşleşecektir.",
+    "Apple, geçen yıl Mesajlar'a benzer bir özel arka plan özelliği ekledi."
+  ],
+  "tags_tr": []
+}
