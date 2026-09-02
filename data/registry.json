@@ -19,14 +19,24 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/"
   },
-  "adobe-is-making-its-tools-available-in-slack": {
+  "adobe-acquires-indian-market-intelligence-startup-rilo": {
     "content_hash": "",
     "date": "02 September 2026",
     "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Adobe is making its tools available in Slack'...",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Adobe acquires Indian market intelligence startup Rilo'...",
     "retries": 1,
     "slug": "",
     "status": "failed",
+    "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/"
+  },
+  "adobe-is-making-its-tools-available-in-slack": {
+    "content_hash": "c427c5a8da19ed71fcfaf0e1f8e467aab0a070554cc22d26528080f23e6b9611",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-02T19:10:52.190023+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "adobe-is-making-its-tools-available-in-slack",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/"
   },
   "air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use": {
@@ -98,6 +108,16 @@
     "slug": "chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data",
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
+  },
+  "enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo": {
+    "content_hash": "",
+    "date": "02 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Enhanced geothermal notches another win as Google buys 400 M'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/"
   },
   "fambot-introduces-an-ai-chief-of-staff-for-families": {
     "content_hash": "96cba966c3a9313c4b95d38617d75e670c38aaef53811a0f28fb1adf7216d2b7",
@@ -189,6 +209,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/01/help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026/"
   },
+  "hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments": {
+    "content_hash": "",
+    "date": "02 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'HiddenLayer nabs $100M as enterprises rush to secure their A'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/"
+  },
   "how-ai-could-make-it-harder-for-governments-to-use-hacking-tools": {
     "content_hash": "59c28c3ffb8cfe79cce812b75b6b1a375105ce8d240152613df75ec574b562a0",
     "date": "31 August 2026",
@@ -208,6 +238,16 @@
     "slug": "if-space-data-centers-feel-far-fetched-why-not-interstellar-travel",
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/"
+  },
+  "indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs": {
+    "content_hash": "",
+    "date": "02 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'India’s richest man now wants to turn aging computers into A'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/"
   },
   "indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation": {
     "content_hash": "99ba826d51e39e0f54ed6ca87bcd69f2761a03bcfbcca64140e7783d862309dc",
@@ -320,13 +360,13 @@
     "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
   },
   "norway-considers-ban-on-camera-enabled-wearable-pervert-glasses": {
-    "content_hash": "",
+    "content_hash": "2797f59ef531f0ee8862731fd0058550bd450dd445f8fe4b970a62cc2b9306cb",
     "date": "02 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Norway considers ban on camera-enabled wearable ‘pervert gla'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-02T19:11:09.080734+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "norway-considers-ban-on-camera-enabled-wearable-pervert-glasses",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/"
   },
   "nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout": {
@@ -350,14 +390,24 @@
     "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"
   },
   "openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting": {
+    "content_hash": "08276edd67e9b612e7f715c61156b49ae0d5ce6353bb341f768dd22e6b539aa1",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-02T19:11:20.376954+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/"
+  },
+  "psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam": {
     "content_hash": "",
     "date": "02 September 2026",
     "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting'...",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'PSA: Amazon’s shopping AI can now tell you if that message i'...",
     "retries": 1,
     "slug": "",
     "status": "failed",
-    "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/"
+    "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/"
   },
   "ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt": {
     "content_hash": "26099ddff39965eb02701a89bddf522384f82c98d1599182fdfe26920a39ccdb",
@@ -439,14 +489,24 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/"
   },
-  "uber-is-laying-off-10-of-staff-or-3300-people": {
+  "u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material": {
     "content_hash": "",
     "date": "02 September 2026",
     "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Uber is laying off 10% of staff, or 3,300 people'...",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'US government sides with OpenAI on issue of training LLMs on'...",
     "retries": 1,
     "slug": "",
     "status": "failed",
+    "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/"
+  },
+  "uber-is-laying-off-10-of-staff-or-3300-people": {
+    "content_hash": "0139b4d1e819c9f6eb44c588671db5d7979d260e9d5d26e42a0443ab1b7364df",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-02T19:11:51.791030+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "uber-is-laying-off-10-of-staff-or-3300-people",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/"
   },
   "vlc-crosses-7-billion-downloads": {
@@ -489,14 +549,34 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/"
   },
-  "x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money": {
+  "wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months": {
     "content_hash": "",
-    "date": "01 September 2026",
+    "date": "02 September 2026",
     "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'X Money is X’s newly launched payments service, which includ'...",
-    "retries": 4,
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Wonderful more than doubles its valuation to $5B in under 6 '...",
+    "retries": 1,
     "slug": "",
     "status": "failed",
+    "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/"
+  },
+  "x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money": {
+    "content_hash": "1b3d1b55bc291ab705bd47073285ec3c2cf3e049477a4744e2f952d9f29d8495",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-02T19:12:03.452472+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/"
+  },
+  "x-shifts-us-creator-payouts-from-stripe-to-x-money": {
+    "content_hash": "",
+    "date": "02 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'However, the announcement’s wording seems to indicate that t'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/"
   }
 }

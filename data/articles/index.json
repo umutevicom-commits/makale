@@ -1,33 +1,83 @@
 [
   {
-    "slug": "waymo-goes-on-offense-ahead-of-teslas-cybercab-launch",
-    "url": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
+    "slug": "x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money",
+    "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-02T19:12:03.452472+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "1b3d1b55bc291ab705bd47073285ec3c2cf3e049477a4744e2f952d9f29d8495"
+  },
+  {
+    "slug": "uber-is-laying-off-10-of-staff-or-3300-people",
+    "url": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-02T19:11:51.791030+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "0139b4d1e819c9f6eb44c588671db5d7979d260e9d5d26e42a0443ab1b7364df"
+  },
+  {
+    "slug": "openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting",
+    "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-02T19:11:20.376954+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "08276edd67e9b612e7f715c61156b49ae0d5ce6353bb341f768dd22e6b539aa1"
+  },
+  {
+    "slug": "norway-considers-ban-on-camera-enabled-wearable-pervert-glasses",
+    "url": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-02T19:11:09.080734+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "2797f59ef531f0ee8862731fd0058550bd450dd445f8fe4b970a62cc2b9306cb"
+  },
+  {
+    "slug": "adobe-is-making-its-tools-available-in-slack",
+    "url": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-02T19:10:52.190023+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "c427c5a8da19ed71fcfaf0e1f8e467aab0a070554cc22d26528080f23e6b9611"
+  },
+  {
+    "content_hash": "1f7293e1110ffba28811db1fd764d350ecbc838309d7861f39ffebac7463131b",
     "date": "01 September 2026",
     "fetched_at": "2026-09-02T14:03:21.677657+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "1f7293e1110ffba28811db1fd764d350ecbc838309d7861f39ffebac7463131b"
+    "retries": 0,
+    "slug": "waymo-goes-on-offense-ahead-of-teslas-cybercab-launch",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/"
   },
   {
-    "slug": "waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa",
-    "url": "https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/",
+    "content_hash": "8978c1b3a9f354e1cc8a1c2f184dccfcc02e9811f2569d914f046f09cf51978f",
     "date": "01 September 2026",
     "fetched_at": "2026-09-02T14:03:01.016487+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "8978c1b3a9f354e1cc8a1c2f184dccfcc02e9811f2569d914f046f09cf51978f"
+    "retries": 0,
+    "slug": "waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/"
   },
   {
-    "slug": "thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer",
-    "url": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
+    "content_hash": "65a46877d95e491b9f36436b186f541991705ec375e2137a172c85bbcca198c5",
     "date": "01 September 2026",
     "fetched_at": "2026-09-02T14:02:29.180279+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "65a46877d95e491b9f36436b186f541991705ec375e2137a172c85bbcca198c5"
+    "retries": 0,
+    "slug": "thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/"
   },
   {
     "content_hash": "c8849040cde20756869c82435456cb06ca5a43c29d6358acfc8920e07f957efa",

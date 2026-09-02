@@ -1,0 +1,23 @@
+# Adobe, araçlarını Slack'te kullanıma sunuyor
+
+Müşteriler artık Adobe'nin Firefly, Adobe Express, Photoshop, Premiere, Acrobat, InDesign, Illustrator, Stock, Lightroom ve diğerleri gibi uygulamalarını doğrudan Slack'in yapay zeka sohbet botu Slackbot, Adobe ile Pazartesi günü duyurdu. Buna ek olarak, Slack için Adobe MHP uygulaması aracılığıyla Slack'te 70 'ten fazla Adobe aracı kullanıma sunulacaktır.
+
+Slackbot entegrasyonu ile kullanıcılar ne yapmak istediklerini açıklayabilecek ve bot görevi tamamlamak için doğru Adobe aracını çağıracaktır. Adobe, Slackbot'un araçlarını çağırırken konuşmaların bağlamını da ele aldığını söyledi. Örneğin, kullanıcılar konuşmalardan veya Canvas'tan bilgi alabilir ve bunları PDF'lere, resimlere ve videolara dönüştürebilir. Ayrıca önceki kampanyalardan veya Creative Cloud varlık kitaplığından varlıkları bir sohbete dahil edebilir ve düzenleyebilirler.
+
+Lansmanda, bu entegrasyon Slack Business+ ve Enterprise+ ekipleri tarafından kullanılabilecektir.
+
+Verimlilik ve yaratıcı şirketler araçlarına yapay zeka özellikleri eklemekle meşgulken, çoğu insan hala konuşma kutularında çalışıyor. Bu, araç sağlayıcılarını ChatGPT, Claude ve Slack gibi hizmetler aracılığıyla özelliklerini kullanıma sunmaya iter.
+
+Geçen ay Adobe, ChatGPT için benzer bir entegrasyon sundu ve yakında bir Gemini entegrasyonu başlatmayı planlıyor. Adobe'nin Agentic AI üst düzey yöneticisi Deepti Pradeep, TechCrunch'a e - postayla yaptığı açıklamada, insanların şirketin aracını, uygulamadan çıkmadan görüntüleri toplu düzenleme veya reklam öğelerini yeniden boyutlandırma gibi tekrarlanabilir iş akışları için diğer uygulamalarda kullandığını söyledi.
+
+“Odak gruplarında, insanlar bu deneyimden elde ettikleri değerden çok net bir şekilde bahsettiler: zamandan tasarruf etmek, her adımı mikro yönetmeye gerek kalmadan istedikleri sonuca daha hızlı ulaşmak, zaten çalıştıkları her yerde Adobe'ye erişebilmek. Bu bizim için ilginçti çünkü bizi bireysel düzenlemeler hakkında daha az düşünmeye ve birinin ulaşmaya çalıştığı daha büyük sonuç hakkında daha fazla düşünmeye itti" dedi.
+
+Canva ve Figma gibi diğer yaratıcı araçlar da ChatGPT ve Claude gibi sohbet robotlarında yeteneklerini kullanıma sunuyor. Öte yandan, Anthropic gibi şirketler Slack'te daha sıkı entegrasyonlar yayınlıyor, çünkü ekip bağlamı genellikle bu konuşmalar yoluyla yakalanıyor.
+
+Pradeep, tüketicilerin araçlar arasında seçim yapmasının iyi bir şey olduğunu, ancak Adobe'nin farklı yöntemlerde hem yaratıcı hem de üretken araçlar sağlama avantajına sahip olduğunu söyledi.
+
+---
+
+## Görseller
+
+![Adobe](https://umutevicom-commits.github.io/makale/data/images/adobe-is-making-its-tools-available-in-slack/Adobe-For-Slack_1.jpg)
