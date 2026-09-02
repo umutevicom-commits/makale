@@ -1,0 +1,51 @@
+{
+  "url": "https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/",
+  "slug": "this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient",
+  "title": "This startup is fuel-injecting hydrogen to make cargo ships more efficient",
+  "news_id": "this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient",
+  "date": "01 September 2026",
+  "author": "Sean O'Kane",
+  "tags": [],
+  "body_paragraphs": [
+    "It’s one of the most iconic scenes in the Fast & Furious film franchise: Paul Walker’s thumb comes off the steering wheel and smashes a small red button, pumping nitrous oxide into the engine of his Mitsubishi Eclipse and giving the car an explosive boost.",
+    "This is not exactly how the hydrogen-injection system developed by a startup called Newlight works on cargo ships. In fact, the company’s system uses compressed hydrogen fuel to boost efficiency — not to beat Vin Diesel. But it’s an analogy that’s proved to be useful for co-founder Evyatar Cohen.",
+    "“Instead of getting power, we actually say to the engine: ‘Hey, reduce the fuel [flow] to the engine, we don’t need as much because we have some nitrous. It’s [just] called hydrogen,’” he told TechCrunch in an exclusive interview.",
+    "The small team based in the San Francisco Bay Area has developed this hydrogen injection system as a retrofit, which it claims can be installed in less than two weeks without needing a dry dock. It cuts fuel use and emissions by more than 20%, and can save some vessels as much as $500,000 in annual costs, according to the startup.",
+    "Newlight does this by constantly monitoring the diesel engine and finding optimal moments, down to the millisecond level, to inject the hydrogen fuel. That includes measuring exhaust temperature, combustion pressure, and air intake pressure, and increasing or decreasing the hydrogen flow every time a piston moves inside the engine’s cylinders.",
+    "The startup says this hybrid system has completed its first long-range commercial voyage: an 8,500-nautical-mile trip from Singapore to Ghana. Newlight installed its tech on a 650-foot-long Lomar Shipping bulk carrier ship for the test. The startup said its system reduced fuel consumption by 24% and carbon dioxide emissions by 28%.",
+    "“It was amazing,” Haran Cohen Hillel, Cohen’s co-founder and the CEO of Newlight, said of the month-long voyage. “Being onboard and seeing the system operate in real conditions was a completely different experience from anything we had done in the lab.”",
+    "Turning the system on with his co-founder for the first time, he said, was an “emotional moment for both of us.”",
+    "“We spent a lot of time monitoring the system, the engine behavior, and the performance, and what impressed us most was how smoothly everything worked,” he told TechCrunch. “Seeing the system integrate with the vessel, operate reliably, and deliver the results we had been working toward was a huge milestone for us and for the entire Newlight team.”",
+    "The combination of those projections, the clever pitch, and the years Cohen and Hillel spent working in the Israeli Navy has helped the duo secure a $9 million seed round. The fundraise included investment from lomarlabs, the venture arm of Lomar Shipping, BIRD Energy, a joint venture between the U.S. Department of Energy and the Israel Ministry of Energy, deep tech funds Undeterred Capital and CiRi Ventures, and Fusion VC, an accelerator for Israeli startups in the U.S.",
+    "Newlight also says it’s attracting commercial interest. The company claims it has signed agreements to put the hydrogen injection system on 12 vessels across multiple companies, with “broader fleet rollouts planned for next year.”",
+    "There are other companies working to use fuel injection methods to cut emissions and boost efficiency, including with ammonia or methanol. But Newlight argues its hydrogen setup is leaner and requires fewer changes to the diesel engines typically used on cargo ships.",
+    "The two co-founders also told TechCrunch they see opportunities beyond the marine industry, too — though they expect to stay focused on the sea for now.",
+    "“We’re an energy company, right? So we look at the whole energy situation that is happening around the world, with transportation, and data centers, and we have some investors that even have trains,” Hillel said. “But we’re gonna try to be focused on shipping right now, and to get on a scale there, and then we can probably expand.”"
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/Newlight-co-founders_-CEO-Haran-Hillel-Cohen-and-COO-Evyatar-Cohen.jpg",
+      "alt": "Haran Cohen Hillel and Evyatar Cohen"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-02T08:21:51.329322+00:00",
+  "title_tr": "Bu girişim, kargo gemilerini daha verimli hale getirmek için yakıt enjekte ediyor",
+  "body_paragraphs_tr": [
+    "Hızlı ve Öfkeli (Fast & Furious) film serisinin en ikonik sahnelerinden biri: Paul Walker'ın parmağı direksiyon simidinden çıkıyor ve küçük kırmızı bir düğmeyi kırıyor, Mitsubishi Eclipse'in motoruna azot oksit pompalıyor ve arabaya patlayıcı bir destek veriyor.",
+    "Newlight adlı bir girişimin geliştirdiği hidrojen enjeksiyon sistemi kargo gemilerinde tam olarak bu şekilde çalışmıyor. Aslında, şirketin sistemi verimliliği artırmak için sıkıştırılmış hidrojen yakıtı kullanıyor — Vin Diesel'i yenmek için değil. Ancak bu, kurucu ortak Evyatar Cohen için yararlı olduğu kanıtlanmış bir benzetme.",
+    "\"Güç almak yerine, aslında motora şöyle diyoruz: ‘Hey, motora giden yakıtı [akışı] azaltın, çok fazla ihtiyacımız yok çünkü biraz azotumuz var. Özel bir röportajda TechCrunch'a\" Buna [sadece] hidrojen deniyor \"dedi.",
+    "San Francisco Körfez Bölgesi'nde bulunan küçük ekip, bu hidrojen enjeksiyon sistemini, kuru havuza ihtiyaç duymadan iki haftadan kısa sürede kurulabileceğini iddia ettiği bir güçlendirme olarak geliştirdi. Startup'a göre, yakıt kullanımını ve emisyonları % 20 'den fazla azaltıyor ve bazı gemilerde yıllık maliyetlerde 500.000 $' a kadar tasarruf sağlayabilir.",
+    "Newlight bunu, dizel motoru sürekli izleyerek ve hidrojen yakıtını enjekte etmek için milisaniye seviyesine kadar optimum momentler bularak yapar. Bu, egzoz sıcaklığını, yanma basıncını ve hava emme basıncını ölçmeyi ve bir piston motor silindirlerinin içinde her hareket ettiğinde hidrojen akışını artırmayı veya azaltmayı içerir.",
+    "Girişim, bu hibrit sistemin ilk uzun menzilli ticari yolculuğunu tamamladığını söylüyor: Singapur'dan Gana'ya 8 bin 500 kilometrelik bir yolculuk. Newlight, test için teknolojisini 650 fit uzunluğundaki Lomar Shipping dökme yük gemisine kurdu. Girişim, sisteminin yakıt tüketimini % 24 ve karbondioksit emisyonlarını % 28 azalttığını söyledi.",
+    "Cohen'in kurucu ortağı ve Newlight'ın CEO'su Haran Cohen Hillel, bir ay süren yolculuk hakkında \"İnanılmazdı\" dedi. \"Gemide olmak ve sistemin gerçek koşullarda çalıştığını görmek, laboratuvarda yaptığımız her şeyden tamamen farklı bir deneyimdi .\"",
+    "Kurucu ortağıyla birlikte sistemi ilk kez açmanın \"ikimiz için de duygusal bir an\" olduğunu söyledi.",
+    "TechCrunch'a \"Sistemi, motor davranışını ve performansı izlemek için çok zaman harcadık ve bizi en çok etkileyen şey her şeyin ne kadar sorunsuz çalıştığıydı\" dedi. \"Sistemin gemiyle entegre olduğunu, güvenilir bir şekilde çalıştığını ve üzerinde çalıştığımız sonuçları sağladığını görmek, bizim ve tüm Newlight ekibi için büyük bir dönüm noktasıydı .\"",
+    "Bu projeksiyonların, zekice atılan adımların ve Cohen ve Hillel'in İsrail Donanması'nda çalışarak geçirdiği yılların birleşimi, ikilinin 9 milyon $ değerinde bir tohum turu elde etmesine yardımcı oldu. Bağış toplama, Lomar Shipping'in girişim kolu olan lomarlabs'tan, ABD arasındaki ortak girişim olan BIRD Energy'den gelen yatırımı içeriyordu. Enerji Bakanlığı ve İsrail Enerji Bakanlığı, derin teknoloji fonları Undeterred Capital ve CiRi Ventures ve ABD'deki İsrail girişimleri için bir hızlandırıcı olan Fusion VC",
+    "Newlight ayrıca ticari ilgi çektiğini söylüyor. Şirket, hidrojen enjeksiyon sistemini birden fazla şirkette 12 gemiye yerleştirmek için anlaşmalar imzaladığını ve \"gelecek yıl için daha geniş filo lansmanları\" planladığını iddia ediyor.",
+    "Amonyak veya metanol de dahil olmak üzere emisyonları azaltmak ve verimliliği artırmak için yakıt enjeksiyon yöntemlerini kullanmak için çalışan başka şirketler de var. Ancak Newlight, hidrojen kurulumunun daha zayıf olduğunu ve genellikle kargo gemilerinde kullanılan dizel motorlarda daha az değişiklik gerektirdiğini savunuyor.",
+    "İki kurucu ortak, TechCrunch'a denizcilik endüstrisinin ötesinde fırsatlar da gördüklerini, ancak şimdilik denize odaklanmayı beklediklerini söyledi.",
+    "\"Biz bir enerji şirketiyiz, değil mi? Bu yüzden dünya çapında ulaşım ve veri merkezleriyle gerçekleşen tüm enerji durumuna bakıyoruz ve trenleri bile olan bazı yatırımcılarımız var\" dedi. \"Ama şu anda nakliyeye odaklanmaya çalışacağız ve orada bir ölçekte ilerlemeye çalışacağız, o zaman muhtemelen genişleyebiliriz .\""
+  ],
+  "tags_tr": []
+}

@@ -1,0 +1,23 @@
+    <item>
+      <title>Microsoft 365 kesintisi uzuyor, ancak işler iyiye gidiyor</title>
+      <link>https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <author>Sarah Perez</author>
+      <description>Microsoft'un şu anda müşterilerin Outlook e - postalarına ve diğer Microsoft 365 hizmetlerine erişimini etkileyen çok günlük bir kesintiyi düzeltme çabaları ikinci güne giriyor.</description>
+      <media:content url="https://umutevicom-commits.github.io/makale/data/images/microsoft-365-outage-drags-on-but-things-are-improving/GettyImages-1185699748-e1697104507888.jpg" medium="image" type="image/jpeg" />
+      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/microsoft-365-outage-drags-on-but-things-are-improving/GettyImages-1185699748-e1697104507888.jpg" />
+      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/microsoft-365-outage-drags-on-but-things-are-improving/GettyImages-1185699748-e1697104507888.jpg" type="image/jpeg" length="0" />
+      <content:encoded><![CDATA[<p>Microsoft'un şu anda müşterilerin Outlook e - postalarına ve diğer Microsoft 365 hizmetlerine erişimini etkileyen çok günlük bir kesintiyi düzeltme çabaları ikinci güne giriyor.</p>
+<p>Şirket, Exchange Online hizmetini etkileyen bir sorunun bazı Outlook kullanıcıları için e - posta gecikmelerine ve hatalarına, kimlik doğrulama sorunlarına ve diğer sorunlara yol açmasının ardından Pazartesi günü sorunu çözmede önemli ilerleme kaydetti.</p>
+<p>Ancak salı gününden itibaren sorunlar hala tam olarak çözülmedi. Bunun yerine, Microsoft'un X'te paylaştığı son güncelleme, “her şey yolunda” demekle tam olarak aynı olmayan “azaltma eylemlerinin ilerlemeye devam ettiğini” söylüyor.</p>
+<p>Azaltma eylemlerimiz, etkilenen diğer altyapı içinde ilerlemeye devam etmektedir. Telemetriden gelen göstergeler olumlu olmaya devam ediyor ve hizmet kullanılabilirliğinin arttığını doğruladık. Tam bir çözüm sağlamak için genişletilmiş bir izleme dönemine giriyoruz...</p>
+<p>Outlook dikkatin çoğunu alırken, Microsoft'un Microsoft 365 (İş veya Kurumsal) durum sayfası, SharePoint, Yardımcı Pilot, Teams, Purview, Defender XDR, Microsoft 365 Yönetim Merkezi ve Universal Print dahil olmak üzere diğer hizmetlerin de nihai olarak etkilendiğini göstermektedir.</p>
+<p>Sayfa, bunları &quot;birden fazla Microsoft 365 hizmeti tarafından kullanılan temel kimlik doğrulama yapılandırması&quot; ile ilgili bir soruna bağladı.</p>
+<p>Bir gecede şirket, araştırmasının hizmetini etkileyen bir yanlış yapılandırma sorunu olduğunu tespit ettiği şeyi çözmek için attığı adımları X'te paylaştı. Microsoft, sorunun kimlik doğrulama bileşenlerinin &quot;altyapının bir kısmına beklendiği gibi dağıtılmasını&quot; engellediğini söyledi.</p>
+<p>Microsoft ilk olarak bu soruna yol açabilecek son değişiklikleri gözden geçirmiş, daha sonra son kullanıcılara rahatlama sağlamak için çeşitli hafifletmeleri test etmiş ve uygulamıştır. Zamanla, bu hafifletmeler ortaya çıktıkça Microsoft, Outlook kullanıcılarının posta akışlarında &quot;kademeli iyileşme&quot; görmeleri gerektiğini söyledi. Pazartesi günü saat 22.00 'ye kadar şirket, posta akışı iyileşirken arama işlevinin bozulmaya devam ettiğini söyledi.</p>
+<p>Salı günü saat 03:00 ET'den kısa bir süre sonra Microsoft, arama işlevinde iyileştirmeler gördüğünü söyledi.</p>
+<p>Birçok kullanıcı şimdiye kadar muhtemelen iyileştirmeler görüyor olsa da, Microsoft henüz hizmetinin normale döndüğünü söylemedi.</p>
+<p>Şirketin X'e gönderdiği son mesajda, &quot;telemetriden gelen göstergelerin olumlu olmaya devam ettiği&quot; ve hizmet kullanılabilirliğinin arttığı belirtildi. Microsoft, tam bir çözüm sağlamak için artık genişletilmiş bir izleme dönemine girdiğini söyledi.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/microsoft-365-outage-drags-on-but-things-are-improving/GettyImages-1185699748-e1697104507888.jpg" alt="A Microsoft store entrance with the company's logo" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>

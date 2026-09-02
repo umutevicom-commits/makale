@@ -1,53 +1,103 @@
 [
   {
-    "slug": "indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation",
-    "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+    "slug": "this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient",
+    "url": "https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-02T08:21:51.329322+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "c8849040cde20756869c82435456cb06ca5a43c29d6358acfc8920e07f957efa"
+  },
+  {
+    "slug": "sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen",
+    "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-02T08:21:29.926870+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "7e31aa83370ca9a1b741d76a383a42dcb6e65cfc0947a63112bb99cefc42c3b8"
+  },
+  {
+    "slug": "open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems",
+    "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-02T08:21:06.273218+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "055e5d7cb85e4aae1548747513af5a29cd9b536580de6dca2e531bf15cf5c15e"
+  },
+  {
+    "slug": "microsoft-365-outage-drags-on-but-things-are-improving",
+    "url": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-02T08:20:41.429895+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "a12183d0cd2f1bd73b6f4a68ae40ced17431ef3880ebba275d561e94f6482474"
+  },
+  {
+    "slug": "john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo",
+    "url": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-02T08:20:28.125950+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "0d58f8ab9e750b68bc6f74e7dca7a1011382f30ced0b01ebcc5c90bfde15c5f2"
+  },
+  {
+    "content_hash": "99ba826d51e39e0f54ed6ca87bcd69f2761a03bcfbcca64140e7783d862309dc",
     "date": "01 September 2026",
     "fetched_at": "2026-09-02T02:37:56.999505+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "99ba826d51e39e0f54ed6ca87bcd69f2761a03bcfbcca64140e7783d862309dc"
+    "retries": 0,
+    "slug": "indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/"
   },
   {
-    "slug": "help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026",
-    "url": "https://techcrunch.com/2026/09/01/help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026/",
+    "content_hash": "349e621228908f00dd92394a15c4eb824715c21019692654489dbfefc6dc3084",
     "date": "01 September 2026",
     "fetched_at": "2026-09-02T02:37:23.086243+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "349e621228908f00dd92394a15c4eb824715c21019692654489dbfefc6dc3084"
+    "retries": 0,
+    "slug": "help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/01/help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026/"
   },
   {
-    "slug": "gopro-to-be-acquired-for-285m-will-remain-a-public-company",
-    "url": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
+    "content_hash": "2b56bce33598ae2e968e5a38baa223de63c333c26f77f99ee52be8b85c06f03d",
     "date": "01 September 2026",
     "fetched_at": "2026-09-02T02:36:52.730810+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "2b56bce33598ae2e968e5a38baa223de63c333c26f77f99ee52be8b85c06f03d"
+    "retries": 0,
+    "slug": "gopro-to-be-acquired-for-285m-will-remain-a-public-company",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/"
   },
   {
-    "slug": "googles-android-update-tackles-motion-sickness-accessibility-and-more",
-    "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "content_hash": "3eb25a6c2e24c08c2b7779ca286349ff750dfc7597d41a990c62589f2688f5b4",
     "date": "01 September 2026",
     "fetched_at": "2026-09-02T02:36:29.872939+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "3eb25a6c2e24c08c2b7779ca286349ff750dfc7597d41a990c62589f2688f5b4"
+    "retries": 0,
+    "slug": "googles-android-update-tackles-motion-sickness-accessibility-and-more",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/"
   },
   {
-    "slug": "anthropics-new-fable-release-is-cheaper-less-restrictive",
-    "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+    "content_hash": "6405f1474424ea5da046b37f6a509efda8d36d75bccb393deb4e0f53f87c6ce0",
     "date": "01 September 2026",
     "fetched_at": "2026-09-02T02:36:08.169596+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "6405f1474424ea5da046b37f6a509efda8d36d75bccb393deb4e0f53f87c6ce0"
+    "retries": 0,
+    "slug": "anthropics-new-fable-release-is-cheaper-less-restrictive",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/"
   },
   {
     "content_hash": "fb1deb304f96821267f9b10d9efb0e713a67a83a585c76ce73694d325dc34f17",
