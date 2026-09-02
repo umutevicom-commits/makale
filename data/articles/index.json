@@ -1,53 +1,93 @@
 [
   {
-    "slug": "x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money",
-    "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
+    "slug": "indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs",
+    "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-02T22:19:06.418401+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "2148778105193e8da899696bb60cd81da2a4312eee1941438b4c28e7eb816fa6"
+  },
+  {
+    "slug": "hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments",
+    "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-02T22:18:37.655630+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "6b4cc6ab48e37fdaec061e54d3d4220e99d07387f3839fbf12ac1bb67aa689bf"
+  },
+  {
+    "slug": "enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo",
+    "url": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-02T22:18:19.232309+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "6a584b33d1bb431c4b03241c4e29326c424d0d1107761c1b85f4f2dba503cf03"
+  },
+  {
+    "slug": "adobe-acquires-indian-market-intelligence-startup-rilo",
+    "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-02T22:17:55.597155+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "a1d01f716e7ca95667743b190305444b7f0613294bec7325d7c999d2c109ce79"
+  },
+  {
+    "content_hash": "1b3d1b55bc291ab705bd47073285ec3c2cf3e049477a4744e2f952d9f29d8495",
     "date": "01 September 2026",
     "fetched_at": "2026-09-02T19:12:03.452472+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "1b3d1b55bc291ab705bd47073285ec3c2cf3e049477a4744e2f952d9f29d8495"
+    "retries": 0,
+    "slug": "x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/"
   },
   {
-    "slug": "uber-is-laying-off-10-of-staff-or-3300-people",
-    "url": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
+    "content_hash": "0139b4d1e819c9f6eb44c588671db5d7979d260e9d5d26e42a0443ab1b7364df",
     "date": "02 September 2026",
     "fetched_at": "2026-09-02T19:11:51.791030+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "0139b4d1e819c9f6eb44c588671db5d7979d260e9d5d26e42a0443ab1b7364df"
+    "retries": 0,
+    "slug": "uber-is-laying-off-10-of-staff-or-3300-people",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/"
   },
   {
-    "slug": "openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting",
-    "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+    "content_hash": "08276edd67e9b612e7f715c61156b49ae0d5ce6353bb341f768dd22e6b539aa1",
     "date": "02 September 2026",
     "fetched_at": "2026-09-02T19:11:20.376954+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "08276edd67e9b612e7f715c61156b49ae0d5ce6353bb341f768dd22e6b539aa1"
+    "retries": 0,
+    "slug": "openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/"
   },
   {
-    "slug": "norway-considers-ban-on-camera-enabled-wearable-pervert-glasses",
-    "url": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/",
+    "content_hash": "2797f59ef531f0ee8862731fd0058550bd450dd445f8fe4b970a62cc2b9306cb",
     "date": "02 September 2026",
     "fetched_at": "2026-09-02T19:11:09.080734+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "2797f59ef531f0ee8862731fd0058550bd450dd445f8fe4b970a62cc2b9306cb"
+    "retries": 0,
+    "slug": "norway-considers-ban-on-camera-enabled-wearable-pervert-glasses",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/"
   },
   {
-    "slug": "adobe-is-making-its-tools-available-in-slack",
-    "url": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
+    "content_hash": "c427c5a8da19ed71fcfaf0e1f8e467aab0a070554cc22d26528080f23e6b9611",
     "date": "02 September 2026",
     "fetched_at": "2026-09-02T19:10:52.190023+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c427c5a8da19ed71fcfaf0e1f8e467aab0a070554cc22d26528080f23e6b9611"
+    "retries": 0,
+    "slug": "adobe-is-making-its-tools-available-in-slack",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/"
   },
   {
     "content_hash": "1f7293e1110ffba28811db1fd764d350ecbc838309d7861f39ffebac7463131b",
