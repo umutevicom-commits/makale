@@ -29,6 +29,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/"
   },
+  "accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation": {
+    "content_hash": "",
+    "date": "03 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Accel reportedly in talks to lead $1B round for Thinking Mac'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
+  },
   "adobe-acquires-indian-market-intelligence-startup-rilo": {
     "content_hash": "a1d01f716e7ca95667743b190305444b7f0613294bec7325d7c999d2c109ce79",
     "date": "02 September 2026",
@@ -130,13 +140,13 @@
     "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
   },
   "circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts": {
-    "content_hash": "",
+    "content_hash": "a7ff31de2132a59f4bb4a3f0c6f1c566e5468c3ddf94bc76b934aaae8ea7950b",
     "date": "03 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Circular unveils Ring 3 series with contactless payments and'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-03T22:11:50.626706+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/"
   },
   "delivery-hero-board-backs-ubers-15b-takeover-bid": {
@@ -190,13 +200,13 @@
     "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/"
   },
   "google-launches-ai-voice-features-in-gmail-docs-and-keep": {
-    "content_hash": "",
+    "content_hash": "b0d89dd0d7418248582bed6484777c4c4e33f21c682e3eb6fb82ad3f3fcac4b9",
     "date": "03 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Google launches AI voice features in Gmail, Docs, and Keep'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-03T22:12:09.980252+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "google-launches-ai-voice-features-in-gmail-docs-and-keep",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/"
   },
   "google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates": {
@@ -230,13 +240,13 @@
     "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/"
   },
   "googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella": {
-    "content_hash": "",
+    "content_hash": "021c72fa5c939f4db54006ef9db54e2f5fee0b3b03daf45cf3692b31e98224a2",
     "date": "03 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Google’s latest AI weather model gives you no excuse to forg'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-03T22:12:24.489719+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/"
   },
   "gopro-to-be-acquired-for-285m-will-remain-a-public-company": {
@@ -370,13 +380,13 @@
     "url": "https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/"
   },
   "last-two-days-to-apply-to-host-a-side-event-at-techcrunch-disrupt-2026": {
-    "content_hash": "",
+    "content_hash": "c016d043e0a99604fe51a3503df1d6d98ee97bce1bbfa61a1b1ea03ba90ad7e1",
     "date": "03 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Last 2 days to apply to host a Side Event at TechCrunch Disr'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-03T22:13:01.454111+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "last-two-days-to-apply-to-host-a-side-event-at-techcrunch-disrupt-2026",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/03/last-two-days-to-apply-to-host-a-side-event-at-techcrunch-disrupt-2026/"
   },
   "liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals": {
@@ -503,8 +513,8 @@
     "content_hash": "",
     "date": "03 September 2026",
     "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Ollie is betting its focus on privacy can help it win the AI'...",
-    "retries": 1,
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'While this method offers security, the downside is that user'...",
+    "retries": 2,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/"
@@ -533,8 +543,8 @@
     "content_hash": "",
     "date": "03 September 2026",
     "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Instead, Brockman explained that AGI’s definition had evolve'...",
-    "retries": 1,
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'OpenAI launches Astra, its powerful (and controversial) new '...",
+    "retries": 2,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
@@ -564,7 +574,7 @@
     "date": "03 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Qualcomm backs Ultrahuman in $70M round on bet to turn smart'...",
-    "retries": 1,
+    "retries": 2,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/"
@@ -589,6 +599,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/"
   },
+  "startup-arr-is-less-secure-than-ever-new-research-shows": {
+    "content_hash": "",
+    "date": "03 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Startup ARR is less secure than ever, new research shows'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/"
+  },
   "techcrunch-mobility-the-hidden-human-cost-of-robotaxis": {
     "content_hash": "6e5a6dce3d63bcc50c5ff3162e7663cdee0673101708741166367ac9b958c6fe",
     "date": "30 August 2026",
@@ -598,6 +618,16 @@
     "slug": "techcrunch-mobility-the-hidden-human-cost-of-robotaxis",
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/"
+  },
+  "the-cybercab-is-teslas-fork-in-the-road-moment": {
+    "content_hash": "",
+    "date": "03 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'The Cybercab is Tesla’s ‘fork in the road’ moment'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/"
   },
   "the-pentagon-now-has-its-own-version-of-chatgpt-and-grok": {
     "content_hash": "d03ab7ee221170e6607e36f65ebcb8ae9f6eb094bf6e32b21b586047fdedb55d",
@@ -678,6 +708,16 @@
     "slug": "uber-is-laying-off-10-of-staff-or-3300-people",
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/"
+  },
+  "utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit": {
+    "content_hash": "",
+    "date": "03 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Utilities are racing to link up with fusion startups, with R'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/"
   },
   "vlc-crosses-7-billion-downloads": {
     "content_hash": "9ea60a21ca7c141fa16bdcb22e656c97f4b78d5b636ac208f6dacfeebea91584",

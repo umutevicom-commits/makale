@@ -1,23 +1,63 @@
 [
   {
-    "slug": "meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
-    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "slug": "last-two-days-to-apply-to-host-a-side-event-at-techcrunch-disrupt-2026",
+    "url": "https://techcrunch.com/2026/09/03/last-two-days-to-apply-to-host-a-side-event-at-techcrunch-disrupt-2026/",
     "date": "03 September 2026",
-    "fetched_at": "2026-09-03T19:03:55.275524+00:00",
+    "fetched_at": "2026-09-03T22:13:01.454111+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "fb68867f8ccd837e410bfd9a31b542a1b2621bdea667c4805cd48dcbce7d1831"
+    "content_hash": "c016d043e0a99604fe51a3503df1d6d98ee97bce1bbfa61a1b1ea03ba90ad7e1"
   },
   {
-    "slug": "abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
-    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "slug": "googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
+    "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
     "date": "03 September 2026",
-    "fetched_at": "2026-09-03T19:03:08.934985+00:00",
+    "fetched_at": "2026-09-03T22:12:24.489719+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "28dc0d91f79383b9b12d8a7357bd14c56e77eab385ae402c6f6828ca1c6e9d7b"
+    "content_hash": "021c72fa5c939f4db54006ef9db54e2f5fee0b3b03daf45cf3692b31e98224a2"
+  },
+  {
+    "slug": "google-launches-ai-voice-features-in-gmail-docs-and-keep",
+    "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T22:12:09.980252+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "b0d89dd0d7418248582bed6484777c4c4e33f21c682e3eb6fb82ad3f3fcac4b9"
+  },
+  {
+    "slug": "circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts",
+    "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T22:11:50.626706+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "a7ff31de2132a59f4bb4a3f0c6f1c566e5468c3ddf94bc76b934aaae8ea7950b"
+  },
+  {
+    "content_hash": "fb68867f8ccd837e410bfd9a31b542a1b2621bdea667c4805cd48dcbce7d1831",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T19:03:55.275524+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/"
+  },
+  {
+    "content_hash": "28dc0d91f79383b9b12d8a7357bd14c56e77eab385ae402c6f6828ca1c6e9d7b",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T19:03:08.934985+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/"
   },
   {
     "content_hash": "f2411757c073d73cc86d67977a2a5a549b852a8992fd35c693efa4b4dc9d1248",

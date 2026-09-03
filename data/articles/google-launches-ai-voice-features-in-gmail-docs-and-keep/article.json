@@ -1,0 +1,37 @@
+{
+  "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+  "slug": "google-launches-ai-voice-features-in-gmail-docs-and-keep",
+  "title": "Google launches AI voice features in Gmail, Docs, and Keep",
+  "news_id": "google-launches-ai-voice-features-in-gmail-docs-and-keep",
+  "date": "03 September 2026",
+  "author": "Ivan Mehta",
+  "tags": [],
+  "body_paragraphs": [
+    "Google is launching conversational AI features within Docs, Gmail, and Keep that let users ask questions about their inboxes and documents as well as do tasks using natural-language queries and dictation.",
+    "The company previewed these features in May during its Google I/O conference. The company is dubbing these features Docs Live, Gmail Live, and Keep Live.",
+    "In Gmail, instead of typing in a search box, you can ask questions to a Gemini-powered AI assistant about the contents of your inbox. Users will see a live transcript while chatting with the assistant.",
+    "While using Docs, users can describe what they want to write, and the AI assistant will help them create a first draft. It can also get information from Gmail, Drive, chat, and the web to create drafts.",
+    "Keep Live, meanwhile, lets you use it as a scratchpad to jot down notes without typing, and can even pull together recipes and lists if you tell it to, for example, list ingredients to make a shakshouka.",
+    "Gmail Live is available for Google AI Plus, Pro, and Ultra customers. Docs Live and Keep Live are available for Google AI Pro and Ultra users. All these features will be available in English on iOS and Android. Google said it will roll out these features to Workplace Business customers soon.",
+    "Google has been introducing voice-based features across its apps. It added cross-app dictation to its Mac app in April. And the Pixel 11 smartphones got a Gemini-powered dictation tool called Rambler last month, which removes filler words from your speech. In August, the company introduced the Gemini 3.5 Transcribe model for speech-to-text use cases."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/google-launches-ai-voice-features-in-gmail-docs-and-keep/Gmail-Live-Docs-Live-Keep-Live.jpeg",
+      "alt": "Google"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-03T22:12:09.980252+00:00",
+  "title_tr": "Google, Gmail, Dokümanlar ve Keep'te yapay zeka ses özelliklerini kullanıma sundu",
+  "body_paragraphs_tr": [
+    "Google, Dokümanlar, Gmail ve Keep'te kullanıcıların gelen kutuları ve belgeleri hakkında soru sormalarının yanı sıra doğal dil sorgularını ve dikte işlemlerini kullanarak görevleri yapmalarına olanak tanıyan konuşma amaçlı yapay zeka özellikleri başlatıyor.",
+    "Şirket, Mayıs ayında Google I/O konferansında bu özelliklerin önizlemesini yaptı. Şirket bu özellikleri Docs Live, Gmail Live ve Keep Live olarak adlandırıyor.",
+    "Gmail'de, bir arama kutusuna yazmak yerine, Gemini destekli bir yapay zeka asistanına gelen kutunuzun içeriği hakkında sorular sorabilirsiniz. Kullanıcılar asistanla sohbet ederken canlı bir transkript görecekler.",
+    "Dokümanları kullanırken, kullanıcılar ne yazmak istediklerini açıklayabilir ve yapay zeka asistanı ilk taslağı oluşturmalarına yardımcı olacaktır. Taslaklar oluşturmak için Gmail, Drive, sohbet ve web'den de bilgi alabilir.",
+    "Bu arada Keep Live, notları yazmadan not etmek için bir karalama tahtası olarak kullanmanıza izin verir ve örneğin bir shakshouka yapmak için malzemeleri listelemesini söylerseniz tarifleri ve listeleri bir araya getirebilir.",
+    "Gmail Live, Google AI Plus, Pro ve Ultra müşterileri tarafından kullanılabilir. Docs Live ve Keep Live, Google AI Pro ve Ultra kullanıcıları tarafından kullanılabilir. Tüm bu özellikler iOS ve Android'de İngilizce olarak sunulacak. Google, bu özellikleri yakında Workplace Business müşterilerine sunacağını söyledi.",
+    "Google, uygulamalarında ses tabanlı özellikler sunuyor. Şirket nisan ayında Mac uygulamasına çapraz uygulama dikte özelliğini eklemişti. Ve Pixel 11 akıllı telefonlar geçen ay Rambler adlı İkizler destekli bir dikte aracına sahip oldu ve bu da konuşmanızdan dolgu kelimelerini kaldırıyor. Ağustos ayında şirket, konuşmadan metne kullanım durumları için Gemini 3.5 Transcribe modelini tanıttı."
+  ],
+  "tags_tr": []
+}

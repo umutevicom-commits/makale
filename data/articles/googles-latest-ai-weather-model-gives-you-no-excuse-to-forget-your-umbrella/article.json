@@ -1,0 +1,65 @@
+{
+  "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+  "slug": "googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
+  "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+  "news_id": "googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
+  "date": "03 September 2026",
+  "author": "Tim Fernholz",
+  "tags": [],
+  "body_paragraphs": [
+    "Scientists at Google DeepMind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior more often.",
+    "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques, and Google says it will start feeding into weather information users see in search, Google Maps, and Gemini, as well as being available to users and researchers on Google’s cloud platforms.",
+    "“This is going to be the first time that some of the core variables feed and power a lot of the Google products,” Samier Merchant, a Google senior staff engineer, told TechCrunch.",
+    "The new model has already proven to be the most accurate among leading contenders tested on Operational WeatherBench, a utility for comparing AI forecasts built by the startup Brightband. It looks at metrics like temperature, windspeed, and humidity.",
+    "As well as beating out other deep-learning models built by Google, Microsoft, Nvidia, and the European Center for Medium-Range Weather Forecasting (ECMWF), it also beats traditional forecasts from the U.S. National Weather service and the ECMWF.",
+    "Most weather forecasts come from government-owned supercomputers laboriously churning through mathematical equations written to describe the physics of weather; while these systems have become remarkably accurate, they are expensive and comparatively slow. After the ECMWF released more than half a century of weather data produced by these systems in 2018, deep learning researchers began training models that could make predictions far more quickly and with comparable accuracy to government tools.",
+    "“Weather is chaotic, and so small differences really start to perturb massively…Machine learning targets the problem we are really solving, which is approximate noisy physics from incomplete information and finite compute, and so it learns patterns from a lot of data,” said Ferran Alet, a staff research scientist manager at DeepMind.",
+    "Since then, model-makers have pushed on the key weaknesses of AI forecasting models: They tend to forecast over a wider area — 15 to 25 square km — than is truly useful, they’re not always great with rain, and they still depend on the formatted datasets produced by government agencies.",
+    "WeatherNext 3 takes on all three challenges. On key variables, researchers told TechCrunch, it can predict down to a resolution of 5 km. Its evaluations on rain are 60% improved over WeatherNext 2, and it can now produce hourly forecasts, instead of the standard prediction every six hours.",
+    "Those improvements are the result of specific choices made by the designers. WeatherNext 3 is a larger model, with 2.4 times more parameters than its predecessor, tailoring the targets for the decoder heads to give more useful answers. While most weather forecasts output as metrics averaged across a 3D grid, DeepMind researchers have already won plaudits by tuning their model to also visualize cyclone paths.",
+    "This time around, the designers also trained the model to target its forecasts to specific weather data stations. This is important not only for offering more granular predictions, but also for being able to evaluate its work against specific, ground-truth data.",
+    "“The idea, with a lot of AI applications, is to try to run tasks as end-to-end as possible,” Daniel Rothenberg, an atmospheric scientist at Brightband, said. “Adding a capability where this model is now also predicting, say, what Denver’s airport’s weather station is going to measure on an hourly basis, just connects that forecasting task closer to the core.”",
+    "The model is able to forecast more frequently because it can ingest weather satellite data collected in real time on an hourly basis. Feeding AI models on raw empirical observations, rather than the analysis produced by weather supercomputers, promises a more accurate forecast, but it is still technically challenging to get models to work with unformatted data.",
+    "Google says WeatherNext 3 is the “first” AI model to directly incorporate raw observations for a high-resolution global forecast, but the AI weather startup WindBorne says its model, WeatherMesh 6, has been incorporating raw observations from its fleet of weather balloons and other sources since late 2025. Asked about that, Google pointed out that its forecasts are higher resolution across the globe. Regardless, both models still rely on national weather datasets to perform forecasts, so more work will be required for true direct data assimilation.",
+    "While LLMs get the bulk of the attention, the transformer revolution in meteorology has been just as important. European and U.S. weather agencies are already using AI models in their forecast products, and their speed and low cost promise to bring economic impact to poorer regions where the expense of high-quality sensors and supercomputers has put accurate forecasts out of reach.",
+    "Bill Gates recently cited AI-powered weather forecasting as a crucial benefit of the technology, with better forecasts improving crop yields in developing countries. Alet, the DeepMind researcher, said that higher-resolution forecasts of wind, rain, and cloud cover will be useful to make renewable energy projects more dependable.",
+    "“At the end of the day, I think Google is about providing useful information to the user, and a lot of what users are looking for has to do with the weather in some way or another,” Alet said."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/2-Figure-How-WeatherNext-3-works.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/30-day-weather-champion.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/3-Figure-Surface-temperature-still-image-1.png",
+      "alt": ""
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-03T22:12:24.489719+00:00",
+  "title_tr": "Google'ın en son yapay zeka hava durumu modeli, şemsiyenizi unutmanız için hiçbir bahane sunmuyor",
+  "body_paragraphs_tr": [
+    "Google DeepMind ve Google Research'teki bilim insanları, bugün değişen atmosferimizi daha net gören ve davranışlarını daha sık tahmin eden hava tahmini için yeni bir yapay zeka modeli yayınladı.",
+    "WeatherNext 3, derin öğrenme teknikleriyle ortaya çıkan meteorolojideki deniz değişiminin son dalgası ve Google, kullanıcıların aramada, Google Haritalar'da ve İkizler'de gördüğü hava durumu bilgilerinin yanı sıra Google'ın bulut platformlarındaki kullanıcılara ve araştırmacılara sunulmaya başlanacağını söylüyor.",
+    "Google kıdemli personel mühendisi Samier Merchant, TechCrunch'a verdiği demeçte, \"Bu, temel değişkenlerden bazılarının Google ürünlerinin çoğunu beslediği ve güçlendirdiği ilk sefer olacak\" dedi.",
+    "Yeni model, startup Brightband tarafından oluşturulan yapay zeka tahminlerini karşılaştırmak için bir yardımcı program olan Operational WeatherBench'te test edilen önde gelen yarışmacılar arasında en doğru model olduğunu zaten kanıtladı. Sıcaklık, rüzgar hızı ve nem gibi metriklere bakar.",
+    "Google, Microsoft, Nvidia ve Avrupa Orta Menzilli Hava Tahmini Merkezi (ECMWF) tarafından oluşturulan diğer derin öğrenme modellerini geride bırakmanın yanı sıra, ABD Ulusal Hava Durumu servisi ve ECMWF'den gelen geleneksel tahminleri de geride bırakıyor.",
+    "Hava durumu tahminlerinin çoğu, havanın fiziğini tanımlamak için yazılmış matematiksel denklemler aracılığıyla zahmetli bir şekilde çalkalanan devlete ait süper bilgisayarlardan geliyor; bu sistemler son derece doğru hale gelmiş olsa da, pahalı ve nispeten yavaştır. ECMWF, 2018 'de bu sistemler tarafından üretilen yarım yüzyıldan fazla hava durumu verisini yayınladıktan sonra, derin öğrenme araştırmacıları, hükümet araçlarıyla karşılaştırılabilir doğrulukta ve çok daha hızlı tahminlerde bulunabilecek modeller geliştirmeye başladı.",
+    "DeepMind'ın personel araştırma bilim insanı yöneticisi Ferran Alet, \"Hava kaotik ve çok küçük farklılıklar gerçekten kitlesel olarak tedirgin olmaya başlıyor...Makine öğrenimi, gerçekten çözdüğümüz sorunu hedef alıyor, bu da eksik bilgilerden ve sonlu hesaplamalardan yaklaşık gürültülü fizik ve bu nedenle birçok veriden örüntüler öğreniyor\" dedi.",
+    "O zamandan beri, model yapıcılar yapay zeka tahmin modellerinin temel zayıflıklarını öne sürdüler: Gerçekten yararlı olandan daha geniş bir alanda (15 ila 25 kilometre kare) tahmin etme eğilimindedirler, yağmurla her zaman iyi değillerdir ve hala devlet kurumları tarafından üretilen biçimlendirilmiş veri kümelerine bağlıdırlar.",
+    "WeatherNext 3, üç görevi de üstlenir. TechCrunch'a konuşan araştırmacılar, kilit değişkenler hakkında 5 km çözünürlüğe kadar tahmin yürütebileceğini söyledi. Yağmurla ilgili değerlendirmeleri WeatherNext 2 'ye göre % 60 iyileşti ve artık her altı saatte bir standart tahmin yerine saatlik tahminler üretebiliyor.",
+    "Bu iyileştirmeler, tasarımcılar tarafından yapılan belirli seçimlerin sonucudur. WeatherNext 3, selefinden 2,4 kat daha fazla parametreye sahip daha büyük bir modeldir ve kod çözücü kafaları için hedefleri daha yararlı cevaplar verecek şekilde uyarlamaktadır. Hava durumu tahminlerinin çoğu 3B ızgarada ortalama metrik olarak çıkarken, DeepMind araştırmacıları modellerini siklon yollarını da görselleştirecek şekilde ayarlayarak şimdiden takdir topladı.",
+    "Bu sefer tasarımcılar, modeli tahminlerini belirli hava durumu veri istasyonlarına hedefleyecek şekilde de eğitti. Bu sadece daha ayrıntılı tahminler sunmak için değil, aynı zamanda çalışmalarını belirli, temel gerçek verilere göre değerlendirebilmek için de önemlidir.",
+    "Brightband'da atmosfer bilimcisi Daniel Rothenberg, \"Birçok yapay zeka uygulamasıyla buradaki fikir, görevleri mümkün olduğunca uçtan uca yürütmeye çalışmak\" dedi. \"Bu modelin şimdi, örneğin Denver havaalanının hava istasyonunun saatlik bazda neyi ölçeceğini de tahmin ettiği bir yetenek eklemek, bu tahmin görevini çekirdeğe daha yakın bir yere bağlıyor .\"",
+    "Model, saatlik bazda gerçek zamanlı olarak toplanan hava durumu uydu verilerini alabildiği için daha sık tahmin yapabiliyor. Yapay zeka modellerini hava durumu süper bilgisayarları tarafından üretilen analizlerden ziyade ham ampirik gözlemlerle beslemek daha doğru bir tahmin vaat ediyor, ancak modellerin biçimlendirilmemiş verilerle çalışmasını sağlamak teknik olarak hala zor.",
+    "Google, WeatherNext 3 'ün yüksek çözünürlüklü bir küresel tahmin için ham gözlemleri doğrudan birleştiren \"ilk\" yapay zeka modeli olduğunu söylüyor. Ancak yapay zeka girişimi WindBorne, modeli WeatherMesh 6' nın 2025 'in sonlarından bu yana hava balonları filosundan ve diğer kaynaklardan ham gözlemleri birleştirdiğini söylüyor. Bu konuda sorulan Google, tahminlerinin dünya genelinde daha yüksek çözünürlükte olduğuna dikkat çekti. Ne olursa olsun, her iki model de tahminleri gerçekleştirmek için hala ulusal hava durumu veri kümelerine güvenmektedir, bu nedenle gerçek doğrudan veri asimilasyonu için daha fazla çalışma gerekecektir.",
+    "LLM'ler dikkatin büyük kısmını alırken, meteorolojideki transformatör devrimi de aynı derecede önemli olmuştur. Avrupa ve ABD hava durumu ajansları, tahmin ürünlerinde zaten yapay zeka modellerini kullanıyor ve hızları ve düşük maliyetleri, yüksek kaliteli sensörlerin ve süper bilgisayarların maliyetinin doğru tahminleri ulaşılamaz hale getirdiği daha yoksul bölgelere ekonomik etki getirme sözü veriyor.",
+    "Bill Gates yakın zamanda yapay zeka destekli hava tahminlerini teknolojinin çok önemli bir faydası olarak gösterdi ve gelişmekte olan ülkelerde mahsul verimini artıran daha iyi tahminler yaptı. DeepMind araştırmacısı Alet, daha yüksek çözünürlüklü rüzgar, yağmur ve bulut örtüsü tahminlerinin yenilenebilir enerji projelerini daha güvenilir hale getirmek için yararlı olacağını söyledi.",
+    "Alet, \"Günün sonunda, Google'ın kullanıcıya yararlı bilgiler sağlamakla ilgili olduğunu ve kullanıcıların aradıklarının çoğunun bir şekilde hava durumuyla ilgisi olduğunu düşünüyorum\" dedi."
+  ],
+  "tags_tr": []
+}
