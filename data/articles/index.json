@@ -1,43 +1,93 @@
 [
   {
-    "slug": "indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs",
-    "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+    "slug": "openais-new-reasoning-technique-alarms-ai-safety-experts",
+    "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-03T02:44:06.655314+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "cc11cf16a74bb8c9a71b2c3f4b833ea503436681fdd7a476d05e16c739e57a3b"
+  },
+  {
+    "slug": "mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming",
+    "url": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-03T02:43:42.894222+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "c2cdea61875ac5c3f9264c0e0e1319396d4b172b502c81bf353c6afbd3630fd8"
+  },
+  {
+    "slug": "it-sure-looks-like-hackers-breached-a-major-id-card-verification-service",
+    "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-03T02:43:23.654318+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "5292248ef521924458b1d6eeb037243936d38d5858b51cbce13b7498e256960a"
+  },
+  {
+    "slug": "google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates",
+    "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-03T02:43:05.195701+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "90d9307b68144c63b2529f96ddef966656c7c31be8b63ec63fd3722bdfa5c949"
+  },
+  {
+    "slug": "delivery-hero-board-backs-ubers-15b-takeover-bid",
+    "url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-03T02:42:51.771537+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "4a6aa47288c511df1e96dc3f33b14cb0b9199ab803c14af8502ae111f61e1000"
+  },
+  {
+    "content_hash": "2148778105193e8da899696bb60cd81da2a4312eee1941438b4c28e7eb816fa6",
     "date": "02 September 2026",
     "fetched_at": "2026-09-02T22:19:06.418401+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "2148778105193e8da899696bb60cd81da2a4312eee1941438b4c28e7eb816fa6"
+    "retries": 0,
+    "slug": "indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/"
   },
   {
-    "slug": "hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments",
-    "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+    "content_hash": "6b4cc6ab48e37fdaec061e54d3d4220e99d07387f3839fbf12ac1bb67aa689bf",
     "date": "02 September 2026",
     "fetched_at": "2026-09-02T22:18:37.655630+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "6b4cc6ab48e37fdaec061e54d3d4220e99d07387f3839fbf12ac1bb67aa689bf"
+    "retries": 0,
+    "slug": "hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/"
   },
   {
-    "slug": "enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo",
-    "url": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
+    "content_hash": "6a584b33d1bb431c4b03241c4e29326c424d0d1107761c1b85f4f2dba503cf03",
     "date": "02 September 2026",
     "fetched_at": "2026-09-02T22:18:19.232309+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "6a584b33d1bb431c4b03241c4e29326c424d0d1107761c1b85f4f2dba503cf03"
+    "retries": 0,
+    "slug": "enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/"
   },
   {
-    "slug": "adobe-acquires-indian-market-intelligence-startup-rilo",
-    "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+    "content_hash": "a1d01f716e7ca95667743b190305444b7f0613294bec7325d7c999d2c109ce79",
     "date": "02 September 2026",
     "fetched_at": "2026-09-02T22:17:55.597155+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "a1d01f716e7ca95667743b190305444b7f0613294bec7325d7c999d2c109ce79"
+    "retries": 0,
+    "slug": "adobe-acquires-indian-market-intelligence-startup-rilo",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/"
   },
   {
     "content_hash": "1b3d1b55bc291ab705bd47073285ec3c2cf3e049477a4744e2f952d9f29d8495",

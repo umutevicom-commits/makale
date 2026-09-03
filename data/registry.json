@@ -110,13 +110,13 @@
     "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
   },
   "delivery-hero-board-backs-ubers-15b-takeover-bid": {
-    "content_hash": "",
+    "content_hash": "4a6aa47288c511df1e96dc3f33b14cb0b9199ab803c14af8502ae111f61e1000",
     "date": "02 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Delivery Hero board backs Uber’s $15B takeover bid'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-03T02:42:51.771537+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "delivery-hero-board-backs-ubers-15b-takeover-bid",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/"
   },
   "enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo": {
@@ -160,13 +160,13 @@
     "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/"
   },
   "google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates": {
-    "content_hash": "",
+    "content_hash": "90d9307b68144c63b2529f96ddef966656c7c31be8b63ec63fd3722bdfa5c949",
     "date": "02 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Google spared from ad-business breakup, but judge orders cha'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-03T02:43:05.195701+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/"
   },
   "googles-android-update-tackles-motion-sickness-accessibility-and-more": {
@@ -290,13 +290,13 @@
     "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
   },
   "it-sure-looks-like-hackers-breached-a-major-id-card-verification-service": {
-    "content_hash": "",
+    "content_hash": "5292248ef521924458b1d6eeb037243936d38d5858b51cbce13b7498e256960a",
     "date": "02 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'It sure looks like hackers breached a major ID card verifica'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-03T02:43:23.654318+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "it-sure-looks-like-hackers-breached-a-major-id-card-verification-service",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/"
   },
   "john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo": {
@@ -330,13 +330,13 @@
     "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/"
   },
   "mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming": {
-    "content_hash": "",
+    "content_hash": "c2cdea61875ac5c3f9264c0e0e1319396d4b172b502c81bf353c6afbd3630fd8",
     "date": "02 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-03T02:43:42.894222+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/"
   },
   "mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario": {
@@ -440,21 +440,21 @@
     "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/"
   },
   "openais-new-reasoning-technique-alarms-ai-safety-experts": {
-    "content_hash": "",
+    "content_hash": "cc11cf16a74bb8c9a71b2c3f4b833ea503436681fdd7a476d05e16c739e57a3b",
     "date": "02 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'OpenAI’s new reasoning technique alarms AI safety experts'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-03T02:44:06.655314+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "openais-new-reasoning-technique-alarms-ai-safety-experts",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/"
   },
   "psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam": {
     "content_hash": "",
     "date": "02 September 2026",
     "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Earlier this year, Amazon launched an email address, verify@'...",
-    "retries": 2,
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Amazon is turning to AI to help fight scammers, the company '...",
+    "retries": 3,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/"
@@ -544,7 +544,7 @@
     "date": "02 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'US government sides with OpenAI on issue of training LLMs on'...",
-    "retries": 3,
+    "retries": 4,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/"
@@ -604,7 +604,7 @@
     "date": "02 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Wonderful more than doubles its valuation to $5B in under 6 '...",
-    "retries": 2,
+    "retries": 3,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/"
@@ -624,7 +624,7 @@
     "date": "02 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'X shifts US creator payouts from Stripe to X Money'...",
-    "retries": 3,
+    "retries": 4,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/"

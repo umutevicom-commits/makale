@@ -1,0 +1,23 @@
+# Google, reklam işinin dağılmasından kurtuldu, ancak işleyişindeki değişikliklere karar verdi
+
+Adalet Bakanlığı, Google'ın devasa reklamcılık işini iki ayrı antitröst davasında parçalamaya çalışmak için yıllarını harcadı: Biri 2020 'de Google'ın aramadaki hakimiyetine odaklandı ve ikincisi 2023' te Google'ın reklam teknolojisi işini özel olarak hedef aldı. Her iki dava da arama devinin dijital reklam ekonomisi üzerindeki hakimiyetinin yasadışı bir tekeli temsil ettiğini savundu.
+
+Mahkemeler her iki durumda da büyük ölçüde hükümetin yanında yer almıştır. 2024 'te bir mahkeme, teknoloji devinin arama endüstrisine ve arama reklamlarına hakim olmak için "tekel gücünü kullandığını" iddia ederek, Google'ın son derece kazançlı arama - reklam operasyonu da dahil olmak üzere arama işinin yasadışı bir tekel olduğuna karar verdi. Geçtiğimiz Nisan ayında, özellikle Google'ın reklam teknolojisi işine odaklanan ikinci bir dava da aynı sonuca vardı.
+
+2024 kararının ardından Adalet Bakanlığı yetkilileri, Chrome tarayıcısının ve Android işletim sisteminin kaldırılması da dahil olmak üzere Google'ın arama işinin bölünebileceği çeşitli yollar önerdi. Ancak Eylül 2025 'te, bu davayı denetleyen hakim Amit Mehta, Google'ın hem Chrome'u hem de Android'i tutabileceğine karar vererek bu elden çıkarma taleplerini reddetti. Şirkete özel temerrüt yerleştirme anlaşmalarını sona erdirmesini ve belirli arama verilerini rakiplerle paylaşmasını emretti (Google'ın şu anda cazip olduğu çareler).
+
+Aynı model bu hafta da devam etti. Çarşamba günü verilen bir kararda, reklam teknolojisi davasını denetleyen Virginia'nın Doğu Bölgesi'nden federal yargıç Leonie M. Brinkema, Google'ın reklamcılık işini sürdürebileceğini söyledi. Brinkema, onu satmak yerine, arama devinin iş uygulamalarını rakiplerini tercih edecek şekilde ayarlaması gerekeceğini söyledi. New York Times, yargıcın kararının Google'ın bunu nasıl yapması gerektiğine dair "ayrıntı vermediğini" belirtiyor.
+
+Brinkema'nın tam yazılı kararı, ilgili kişilerin gerekli düzeltmeleri yapmasına izin vermek için 14 gün boyunca mühür altında kalacak. Google'ın reklam teknolojisi işini sürdürmede yasa dışı davrandığına dair bulgusu geçen yılın nisan ayına kadar uzanıyor; bu haftaki karar sadece çareyi ele alıyordu.
+
+Şaşırtıcı olmayan bir şekilde, Google sonucu bir kazanç olarak çerçeveledi. Google'ın düzenleyici işlerden sorumlu başkan yardımcısı Lee - Anne Mulholland, TechCrunch'a şunları söyledi: "Mahkemenin Adalet Bakanlığı'nın küçük işletmelerin yeni müşterilere ulaşmasına ve büyümesine yardımcı olacak araçları parçalara ayırma önerisini reddetmesinden çok memnunuz ."
+
+Çevrimiçi reklamcılık ekosistemi kötü şöhretli bir şekilde opak ve bizanslıdır ve karmaşıklıklarına aşina olmayan çoğu insan için anlaşılması zordur. Hükümetin Google'a karşı reklam teknolojisi davasının çoğu, arama motorunun dünyanın dört bir yanındaki cihazlarda varsayılan motor olmasını sağlamak için şirketin taktikleri etrafında döndü ve bu da reklam işinin de hakim olmasına yardımcı oldu.
+
+Bunu yapmak için Google, cihaz üreticileriyle özel anlaşmalar yaptı ve bu da onu cep telefonu pazarının büyük bölümlerinde varsayılan arama motoru haline getirdi. Google ayrıca mobil operatörlerle gelir paylaşımı anlaşmaları imzaladı — operatörlerin Google'ı varsayılan olarak tutmaları karşılığında bir miktar reklam geliri elde ettikleri anlaşmalar — bu da telefon pazarlarında fiili arama motoru olarak konumunu daha da güçlendirdi.
+
+---
+
+## Görseller
+
+![Google logo is seen at Google stand during 18th European Economic Congress at the International Congress Centre in Katowice, Poland on April 22, 2026.](https://umutevicom-commits.github.io/makale/data/images/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/google-logo.jpg)
