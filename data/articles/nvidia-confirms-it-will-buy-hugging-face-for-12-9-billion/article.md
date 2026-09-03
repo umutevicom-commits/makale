@@ -1,0 +1,37 @@
+# Nvidia, Hugging Face'i 12,9 milyar $ karşılığında satın alacağını doğruladı
+
+Haftalarca süren söylentilerin ardından Nvidia bugün Hugging Face'i 12,93 milyar $ karşılığında satın aldığını doğruladı. Hugging Face'in platformu üç milyon modele, 18 milyondan fazla geliştirici tarafından kullanılan bir milyon uygulamaya ve yarım milyon veri kümesine ev sahipliği yapıyor.
+
+Bir blog yazısında, Nvidia'nın CEO'su Jensen Huang, Hugging Face'in açık kaynaklı ve açık ağırlıklı modelleri desteklemeye devam edeceğini ve geliştirici erişimini genişletmek için çalışacağını söyledi.
+
+"Hugging Face, tüm yapay zeka ekosistemi için açık bir platform olmaya devam edecek. Geliştiriciler istedikleri modelleri, istedikleri çerçeveleri, istedikleri bulut ve çıkarım hizmeti sağlayıcılarını ve istedikleri bilgi işlem platformlarını seçeceklerdir. Nvidia'nın hesaplamasının Hugging Face üzerinden oluşturulması veya dağıtılması gerekmeyecek" dedi.
+
+Huang, Nvidia'nın katkılarını övdü ve çip şirketinin Hugging Face'te 500 'den fazla model ve 250 açık veri seti yayınladığını söyledi. Şirketin, dünyanın dört bir yanındaki geliştiricilerin bunları kullanmasını sağlamak için açık modeller oluşturduğunu savundu.
+
+Yapay zeka geliştirme ve çıkarım için baskın bir donanım platformu olan Nvidia gibi bir şirket için, kontrol ettiği açık bir ekosistem, çiplerine uygun bir platform oluşturabileceği için faydalıdır. Ayrıca, TechCrunch'ın daha önce yazdığı gibi, Nvidia kullanılmayan kapasitesini Hugging Face'in teklifiyle paketlenmiş kurumsal müşterilere satabilecek.
+
+Crunchbase'e göre Hugging Face 2016 'da kuruldu ve bugüne kadar 395 milyon $' dan fazla fon topladı. Şirketin son turu, Google, Amazon, IBM ve Nvidia'nın yatırımlarıyla Salesforce Ventures liderliğinde 235 milyon $ topladığı 2023 'teydi.
+
+Hugging Face CEO'su Clem Delangue, X'teki bir gönderide, şirketin kapalı kaynaklı API'lere alternatif olabileceğini gösterdiği için topluluğa teşekkür etti.
+
+"Ancak bunun daha büyük ölçekte gerçekleşmesi için daha fazla hesaplama, daha fazla destek, daha fazla işbirliği ve daha fazla görünürlük gerekiyor. Bu yüzden tam olarak bunu bizimle yapmayı teklif eden Jensen ile konuşmaya gittik" dedi.
+
+Hugging Face her geçen gün daha fazla modelin piyasaya sürülmesiyle ön plana çıktı. Financial Times'a göre şirket geçen yıl Nvidia'nın 500 milyon $ tutarındaki anlaşmasını reddetmişti. Geçen ay The Information, Hugging Face'in yıllık gelirinin 150 milyon $ olduğunu bildirdi.
+
+Temmuz ayında TechCrunch'a verdiği röportajda Delangue, büyüme hızının platformun "kârlılığa yaklaşmasına" yardımcı olduğunu söyledi.
+
+Nvidia'nın Huang'ı açık modellerin güçlü bir savunucusu olmuştur. ABD'nin yapay zeka sektöründeki Çin gibi rakiplerine karşı konumunu güçlendirmek için açık ağırlık modellerini savunmak amacıyla diğer birkaç kuruluşun ortaklaşa imzaladığı bir mektup yazdı.
+
+Şirket, model geliştirmeye büyük yatırımlar yapıyor. Geçen ay The Wall Street Journal, açık modeller geliştirmek için kodlama girişimi Poolside ile 6 milyar $ tutarında bir anlaşma yaptığını bildirdi. Son kazanç çağrısı sırasında şirket, yapay zeka sınır laboratuvarlarına 50 milyar $ 'dan fazla para aktardığını söyledi.
+
+Huang, analistlerden birine cevap verirken açık modelleri sundu ve neredeyse tüm açık modellerin Nvidia donanımı üzerinde çalıştığını söyledi. Ayrıca bu modellerin siber güvenlikteki önemine de işaret etti.
+
+“Sınır modellerinin hayati önem taşıdığı alanlardan biri siber güvenliktir. Sınır modelleri tarafından etkinleştirilen siber güvenlik şirketlerinin sayısını görüyorsunuz, böylece savunmak için kitlesel olarak dağıtılmış, sürekli çalışan otonom siber güvenlik sistemlerine sahip olabilirler. Bu şirketler ortaya çıkıyor. Bazı harika şirketler var. Açık modeller olmadan yapamadılar. Ve bu yüzden açık modeller hem inanılmaz derecede başarılı hem de nihayet sınıra ulaştılar, ancak aynı zamanda Amerikan ekonomisi için hayati öneme sahipler. Dünya ekonomisi için hayati önem taşıyor " dedi.
+
+Temmuzda Delangue, Nvidia'nın açık modelinin, tescilli modellerin platformu koruyamamasının ardından Hugging Face'in siber saldırılara karşı savunmasına yardımcı olduğunu söylemişti. Bundan günler önce OpenAI, piyasaya sürülmemiş modelinin Hugging Face'i ihlal ettiğini itiraf etti.
+
+---
+
+## Görseller
+
+![The Hugging Face logo appears on the screen of a smartphone.](https://umutevicom-commits.github.io/makale/data/images/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/hugging-face-logo-smartphone.jpg)

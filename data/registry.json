@@ -59,6 +59,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/"
   },
+  "amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport": {
+    "content_hash": "f2411757c073d73cc86d67977a2a5a549b852a8992fd35c693efa4b4dc9d1248",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T14:05:55.566585+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/"
+  },
   "anthropics-new-fable-release-is-cheaper-less-restrictive": {
     "content_hash": "6405f1474424ea5da046b37f6a509efda8d36d75bccb393deb4e0f53f87c6ce0",
     "date": "01 September 2026",
@@ -409,6 +419,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/"
   },
+  "nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion": {
+    "content_hash": "ed323f8566c7a4d6fc277066e01c6fa82e7221980af91d6baccd6270450da00f",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T14:05:23.764752+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
+  },
   "nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout": {
     "content_hash": "50ea3af2cb8b38d4ce5e8c857f0da05f4e4ae06d20ce6f8dd9984932fe430841",
     "date": "31 August 2026",
@@ -529,6 +549,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/"
   },
+  "tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more": {
+    "content_hash": "921e6b6bc7652f70eb119f2aff490717cc714b64300d09cd1c6eaf6fabe01413",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T14:05:02.207776+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/"
+  },
   "tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder": {
     "content_hash": "41827aa86611e546ba82f20ad0c09c739d32acf72be9bd09433f3e5f4faea49f",
     "date": "31 August 2026",
@@ -568,6 +598,16 @@
     "slug": "vlc-crosses-7-billion-downloads",
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/"
+  },
+  "volunteer-at-techcrunch-founder-summit-in-boston": {
+    "content_hash": "3a3d939ad7a25f347aac902d5ecc0715e6cfe39a0bab72055da2bee096220c1c",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T14:04:48.740708+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "volunteer-at-techcrunch-founder-summit-in-boston",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/"
   },
   "waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa": {
     "content_hash": "8978c1b3a9f354e1cc8a1c2f184dccfcc02e9811f2569d914f046f09cf51978f",

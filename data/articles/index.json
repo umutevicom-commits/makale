@@ -1,43 +1,83 @@
 [
   {
-    "slug": "x-shifts-us-creator-payouts-from-stripe-to-x-money",
-    "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
+    "slug": "amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport",
+    "url": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T14:05:55.566585+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "f2411757c073d73cc86d67977a2a5a549b852a8992fd35c693efa4b4dc9d1248"
+  },
+  {
+    "slug": "nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion",
+    "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T14:05:23.764752+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "ed323f8566c7a4d6fc277066e01c6fa82e7221980af91d6baccd6270450da00f"
+  },
+  {
+    "slug": "tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more",
+    "url": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T14:05:02.207776+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "921e6b6bc7652f70eb119f2aff490717cc714b64300d09cd1c6eaf6fabe01413"
+  },
+  {
+    "slug": "volunteer-at-techcrunch-founder-summit-in-boston",
+    "url": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T14:04:48.740708+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "3a3d939ad7a25f347aac902d5ecc0715e6cfe39a0bab72055da2bee096220c1c"
+  },
+  {
+    "content_hash": "6f495e4cc5a83afc45792664f5976c5457363b240543155d57970f179d7dfbd1",
     "date": "02 September 2026",
     "fetched_at": "2026-09-03T08:31:06.785510+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "6f495e4cc5a83afc45792664f5976c5457363b240543155d57970f179d7dfbd1"
+    "retries": 0,
+    "slug": "x-shifts-us-creator-payouts-from-stripe-to-x-money",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/"
   },
   {
-    "slug": "wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months",
-    "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+    "content_hash": "9eee911b44cb407b3659f58a27ae4a993acaf0ef03d7a608a77711e535028269",
     "date": "02 September 2026",
     "fetched_at": "2026-09-03T08:30:46.911551+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "9eee911b44cb407b3659f58a27ae4a993acaf0ef03d7a608a77711e535028269"
+    "retries": 0,
+    "slug": "wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/"
   },
   {
-    "slug": "u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material",
-    "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+    "content_hash": "fef5954611058c369ba8a983586cdb1b129fafccfb1ffbb7231c52b069ace525",
     "date": "02 September 2026",
     "fetched_at": "2026-09-03T08:30:19.444281+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "fef5954611058c369ba8a983586cdb1b129fafccfb1ffbb7231c52b069ace525"
+    "retries": 0,
+    "slug": "u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/"
   },
   {
-    "slug": "psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam",
-    "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+    "content_hash": "6cd1bdba27b14e89628362ba66fb48d8900e690d7fc7f92d0ee2c44b8d4da6b9",
     "date": "02 September 2026",
     "fetched_at": "2026-09-03T08:30:01.774840+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "6cd1bdba27b14e89628362ba66fb48d8900e690d7fc7f92d0ee2c44b8d4da6b9"
+    "retries": 0,
+    "slug": "psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/"
   },
   {
     "content_hash": "cc11cf16a74bb8c9a71b2c3f4b833ea503436681fdd7a476d05e16c739e57a3b",
