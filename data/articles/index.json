@@ -1,43 +1,63 @@
 [
   {
-    "slug": "amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport",
-    "url": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
+    "slug": "meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T19:03:55.275524+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "fb68867f8ccd837e410bfd9a31b542a1b2621bdea667c4805cd48dcbce7d1831"
+  },
+  {
+    "slug": "abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
+    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T19:03:08.934985+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "28dc0d91f79383b9b12d8a7357bd14c56e77eab385ae402c6f6828ca1c6e9d7b"
+  },
+  {
+    "content_hash": "f2411757c073d73cc86d67977a2a5a549b852a8992fd35c693efa4b4dc9d1248",
     "date": "03 September 2026",
     "fetched_at": "2026-09-03T14:05:55.566585+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "f2411757c073d73cc86d67977a2a5a549b852a8992fd35c693efa4b4dc9d1248"
+    "retries": 0,
+    "slug": "amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/"
   },
   {
-    "slug": "nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion",
-    "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+    "content_hash": "ed323f8566c7a4d6fc277066e01c6fa82e7221980af91d6baccd6270450da00f",
     "date": "03 September 2026",
     "fetched_at": "2026-09-03T14:05:23.764752+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "ed323f8566c7a4d6fc277066e01c6fa82e7221980af91d6baccd6270450da00f"
+    "retries": 0,
+    "slug": "nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
   },
   {
-    "slug": "tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more",
-    "url": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
+    "content_hash": "921e6b6bc7652f70eb119f2aff490717cc714b64300d09cd1c6eaf6fabe01413",
     "date": "03 September 2026",
     "fetched_at": "2026-09-03T14:05:02.207776+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "921e6b6bc7652f70eb119f2aff490717cc714b64300d09cd1c6eaf6fabe01413"
+    "retries": 0,
+    "slug": "tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/"
   },
   {
-    "slug": "volunteer-at-techcrunch-founder-summit-in-boston",
-    "url": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/",
+    "content_hash": "3a3d939ad7a25f347aac902d5ecc0715e6cfe39a0bab72055da2bee096220c1c",
     "date": "03 September 2026",
     "fetched_at": "2026-09-03T14:04:48.740708+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "3a3d939ad7a25f347aac902d5ecc0715e6cfe39a0bab72055da2bee096220c1c"
+    "retries": 0,
+    "slug": "volunteer-at-techcrunch-founder-summit-in-boston",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/"
   },
   {
     "content_hash": "6f495e4cc5a83afc45792664f5976c5457363b240543155d57970f179d7dfbd1",

@@ -1,0 +1,45 @@
+{
+  "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+  "slug": "meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+  "title": "Meta is paying to peek at how you use their latest AI model",
+  "news_id": "meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+  "date": "03 September 2026",
+  "author": "Tim Fernholz",
+  "tags": [],
+  "body_paragraphs": [
+    "Most AI tools allow you to opt out of sharing your usage with the model provider to improve future versions. Meta has taken that idea and put a price tag on it.",
+    "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who “contribute” to the development of future models by sharing their prompts and model outputs.",
+    "While 1 million input tokens under a standard agreement costs $1.25, under the contributor pricing model they cost just 10 cents. For output tokens, the standard price is $4.25 per million, but that same million costs just 20 cents under the contributor model.",
+    "Meta has had a rough time trying to obtain training data: An initiative to track the computer usage of its employees, launched earlier this year, attracted wide internal criticism and was paused in June. The company didn’t respond to a question from TechCrunch about its new pricing model.",
+    "This kind of user data is vital for making agentic tools work better. “The reason we saw a big jump in [coding agent] capabilities between April 2025 and October 2025 was that Claude Code, by default, would store all your coding agent sessions and use them for reinforcement learning training,” Mario Zechner, the developer behind the open source harness Pi, told TechCrunch last month.",
+    "But even as the imperative for model builders increasingly becomes deploying agentic tools for use outside of software engineering, their ability to evaluate and improve those tools is blocked by the complexity and lack of digital traces for many professional workflows.",
+    "Arvind Narayanan, a Princeton computer science professor, noted that there is good evidence that large companies don’t want their data to be used for model training.",
+    "“They stick with token-billed Enterprise plans even though the subscription-based consumer plans like Claude Max and ChatGPT Pro are discounted by 10x-20x or even more! (The main difference between the plans is data retention + enterprise IT governance),” he wrote on social media.",
+    "Perhaps in recognition of those dynamics, Meta is offering companies explicit compensation to obtain that information. Its pricing guide notes that the contributor tier “lowers the barrier to entry for prototyping, testing integrations, and scaling experiments where training on your data is acceptable.”",
+    "That, Narayanan suggested, could in turn incentivize large companies to be more diligent about which data is truly proprietary and which could be shared with model providers.",
+    "The framework could also play into growing price competition between the frontier labs. Anthropic’s newest Fable and Mythos models, released yesterday, came with lowered costs for processing cached tokens, while OpenAI’s latest models got major price cuts at the end of July."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/GettyImages-2173579488.jpg",
+      "alt": "Mark Zuckerberg, chief executive officer of Meta Platforms Inc., during the Meta Connect event in Menlo Park, California, US, on Wednesday, Sept. 25, 2024. Meta Platforms Inc. debuted its first pair of augmented reality glasses, devices that show a combined view of the digital and physical worlds, a key step in Chief Executive Officer Mark Zuckerberg's goal of one day offering a hands-free alternative to the smartphone. Photographer: David Paul Morris/Bloomberg via Getty Images"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-03T19:03:55.275524+00:00",
+  "title_tr": "Meta, en son yapay zeka modelini nasıl kullandığınıza göz atmak için ödeme yapıyor",
+  "body_paragraphs_tr": [
+    "Çoğu yapay zeka aracı, gelecekteki sürümleri iyileştirmek için kullanımınızı model sağlayıcısıyla paylaşmaktan vazgeçmenizi sağlar. Meta bu fikri aldı ve üzerine bir fiyat etiketi koydu.",
+    "Meta, kodlama ve diğer aracıları çalıştırmaya yönelik yeni Muse Spark modeli için, bilgi istemlerini ve model çıktılarını paylaşarak gelecekteki modellerin geliştirilmesine \"katkıda bulunan\" kullanıcılar için ortalama % 95 'e varan açık bir indirim sunuyor.",
+    "Standart bir anlaşma kapsamında 1 milyon giriş tokeni 1,25 $ iken, katkıda bulunan fiyatlandırma modelinde sadece 10 sente mal oluyor. Çıktı tokenleri için standart fiyat milyonda 4,25 $ 'dır, ancak katkıda bulunan modelde aynı milyonun maliyeti sadece 20 senttir.",
+    "Meta, eğitim verilerini elde etmeye çalışırken zor zamanlar geçirdi: Çalışanlarının bilgisayar kullanımını izlemek için bu yılın başlarında başlatılan bir girişim, geniş çaplı iç eleştirilere maruz kaldı ve haziranda duraklatıldı. Şirket, TechCrunch'ın yeni fiyatlandırma modeliyle ilgili sorusuna yanıt vermedi.",
+    "Bu tür kullanıcı verileri, aracı araçların daha iyi çalışmasını sağlamak için hayati öneme sahiptir. Açık kaynak kablo demeti Pi'nin arkasındaki geliştirici Mario Zechner geçen ay TechCrunch'a yaptığı açıklamada, \"Nisan 2025 ile Ekim 2025 arasında [kodlama aracısı] yeteneklerinde büyük bir sıçrama görmemizin nedeni, Claude Code'un varsayılan olarak tüm kodlama aracısı oturumlarınızı depolaması ve bunları pekiştirmeli öğrenme eğitimi için kullanmasıydı\" dedi.",
+    "Ancak, model oluşturucular için zorunluluk giderek artan bir şekilde yazılım mühendisliği dışında kullanılmak üzere aracı araçların konuşlandırılması haline gelse bile, bu araçları değerlendirme ve geliştirme yetenekleri, birçok profesyonel iş akışı için karmaşıklık ve dijital izlerin eksikliği nedeniyle engellenmektedir.",
+    "Princeton bilgisayar bilimi profesörü Arvind Narayanan, büyük şirketlerin verilerinin model eğitimi için kullanılmasını istemediğine dair iyi kanıtlar olduğunu belirtti.",
+    "\"Claude Max ve ChatGPT Pro gibi abonelik tabanlı tüketici planlarında 10x -20x veya daha fazla indirim yapılsa bile token faturalı Enterprise planlarına bağlı kalıyorlar! (Planlar arasındaki temel fark, veri saklama + kurumsal BT yönetişimi )\" diye yazdı.",
+    "Belki de bu dinamiklerin farkında olan Meta, şirketlere bu bilgileri elde etmeleri için açık bir tazminat teklif ediyor. Fiyatlandırma kılavuzu, katkıda bulunan katmanının \"verileriniz üzerinde eğitimin kabul edilebilir olduğu prototipleme, test entegrasyonları ve ölçeklendirme deneyleri için giriş engelini azalttığını\" belirtmektedir.",
+    "Narayanan, bunun da büyük şirketleri hangi verilerin gerçekten tescilli olduğu ve hangilerinin model sağlayıcılarla paylaşılabileceği konusunda daha gayretli olmaya teşvik edebileceğini öne sürdü.",
+    "Çerçeve aynı zamanda sınır laboratuvarları arasında artan fiyat rekabetine de yol açabilir. Anthropic'in dün piyasaya sürülen en yeni Fable ve Mythos modelleri, önbelleğe alınmış tokenlerin işlenmesi için daha düşük maliyetlerle gelirken, OpenAI'nin en son modelleri Temmuz ayı sonunda büyük fiyat indirimleri aldı."
+  ],
+  "tags_tr": []
+}

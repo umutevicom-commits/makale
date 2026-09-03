@@ -19,6 +19,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/"
   },
+  "abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails": {
+    "content_hash": "28dc0d91f79383b9b12d8a7357bd14c56e77eab385ae402c6f6828ca1c6e9d7b",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T19:03:08.934985+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/"
+  },
   "adobe-acquires-indian-market-intelligence-startup-rilo": {
     "content_hash": "a1d01f716e7ca95667743b190305444b7f0613294bec7325d7c999d2c109ce79",
     "date": "02 September 2026",
@@ -119,6 +129,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
   },
+  "circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts": {
+    "content_hash": "",
+    "date": "03 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Circular unveils Ring 3 series with contactless payments and'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/"
+  },
   "delivery-hero-board-backs-ubers-15b-takeover-bid": {
     "content_hash": "4a6aa47288c511df1e96dc3f33b14cb0b9199ab803c14af8502ae111f61e1000",
     "date": "02 September 2026",
@@ -169,6 +189,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/"
   },
+  "google-launches-ai-voice-features-in-gmail-docs-and-keep": {
+    "content_hash": "",
+    "date": "03 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Google launches AI voice features in Gmail, Docs, and Keep'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/"
+  },
   "google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates": {
     "content_hash": "90d9307b68144c63b2529f96ddef966656c7c31be8b63ec63fd3722bdfa5c949",
     "date": "02 September 2026",
@@ -198,6 +228,16 @@
     "slug": "googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design",
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/"
+  },
+  "googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella": {
+    "content_hash": "",
+    "date": "03 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Google’s latest AI weather model gives you no excuse to forg'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/"
   },
   "gopro-to-be-acquired-for-285m-will-remain-a-public-company": {
     "content_hash": "2b56bce33598ae2e968e5a38baa223de63c333c26f77f99ee52be8b85c06f03d",
@@ -329,6 +369,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/"
   },
+  "last-two-days-to-apply-to-host-a-side-event-at-techcrunch-disrupt-2026": {
+    "content_hash": "",
+    "date": "03 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Last 2 days to apply to host a Side Event at TechCrunch Disr'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/03/last-two-days-to-apply-to-host-a-side-event-at-techcrunch-disrupt-2026/"
+  },
   "liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals": {
     "content_hash": "17fb4fca02d4d942a73dee7bfbab7bb03204a612cde6b7b1602d72e2a97fd1ff",
     "date": "30 August 2026",
@@ -378,6 +428,16 @@
     "slug": "meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers",
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/"
+  },
+  "meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model": {
+    "content_hash": "fb68867f8ccd837e410bfd9a31b542a1b2621bdea667c4805cd48dcbce7d1831",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T19:03:55.275524+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/"
   },
   "microsoft-365-outage-drags-on-but-things-are-improving": {
     "content_hash": "a12183d0cd2f1bd73b6f4a68ae40ced17431ef3880ebba275d561e94f6482474",
@@ -439,6 +499,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
   },
+  "ollie-is-betting-privacy-can-win-the-ai-assistant-race": {
+    "content_hash": "",
+    "date": "03 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Ollie is betting its focus on privacy can help it win the AI'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/"
+  },
   "open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems": {
     "content_hash": "055e5d7cb85e4aae1548747513af5a29cd9b536580de6dca2e531bf15cf5c15e",
     "date": "01 September 2026",
@@ -459,6 +529,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/"
   },
+  "openai-launches-astra-its-powerful-and-controversial-new-model": {
+    "content_hash": "",
+    "date": "03 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Instead, Brockman explained that AGI’s definition had evolve'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
+  },
   "openais-new-reasoning-technique-alarms-ai-safety-experts": {
     "content_hash": "cc11cf16a74bb8c9a71b2c3f4b833ea503436681fdd7a476d05e16c739e57a3b",
     "date": "02 September 2026",
@@ -478,6 +558,16 @@
     "slug": "psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam",
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/"
+  },
+  "qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers": {
+    "content_hash": "",
+    "date": "03 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Qualcomm backs Ultrahuman in $70M round on bet to turn smart'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/"
   },
   "ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt": {
     "content_hash": "26099ddff39965eb02701a89bddf522384f82c98d1599182fdfe26920a39ccdb",
