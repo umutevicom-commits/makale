@@ -1,0 +1,21 @@
+# Wonderful, 6 aydan kısa bir sürede değerlemesini iki katından fazla artırarak 5 milyar $ oldu
+
+İsrailli - Hollandalı yapay zeka girişimi Wonderful, yaklaşık altı ay önce en son fon topladığında kazandığı 2 milyar dolarlık değeri ikiye katlayarak 5 milyar dolarlık bir fiyat etiketi veren C Serisi finansman turunda 550 milyon dolar topladı.
+
+Insight Partners da bu tura liderlik etmek için geri döndü ve mevcut yatırımcılar Index Ventures, IVP, Vine Ventures, 9Yards ve Bessemer Venture Partners bir kez daha katılıyor. Salesforce bu turda ilk kez şirkete yatırım yapıyor.
+
+2025 'in başlarında kurulan Wonderful, son derece hızlı büyüdü. Başlangıçta, İngilizce konuşulmayan çeşitli pazarlarda satış yapmak için kurduğu ve özelleştirdiği müşteri hizmetleri AI aracı platformuyla güçlü bir çekiş gördü. Yapay zeka teknolojisini iş akışlarına ve sistemlerine yerleştirmek ve entegre etmek için bazen tesislerinde müşterileriyle birlikte çalışmak üzere mühendislik ekipleri kurma stratejisi de çok başarılı oldu. Şirket şu anda 35 'ten fazla ülkede çalıştığını söylüyor.
+
+Yine de girişimin temel teklifi son birkaç ay içinde gelişti. Müşteri hizmetleri köklerinden yola çıkan Wonderful, artık aracıları, iş akışlarını ve yapay zeka uygulamalarını şirketlerin verileri, bağlamı ve mevcut entegrasyonlarıyla koordine edebileceğini ve bağlayabileceğini söylediği “Wonderful AI OS” adlı bir platform sunuyor. Şirket, platformun herhangi bir yapay zeka modeliyle çalıştığını ve mevcut teknoloji yığınlarıyla uyumlu olduğunu söylüyor.
+
+Wonderful CTO'su ve kurucu ortağı Roey Lalazar yaptığı açıklamada, "Müşteriler platformun en mantıklı kısımlarını benimseyebilir, bunları mevcut sistemlerle entegre edebilir, her iş yükü için en iyi modelleri seçebilir ve oluşturdukları her şeyin mülkiyetini elinde tutabilir" dedi.
+
+Şirket, ürünlerini şirketlere hızlı bir şekilde yerleştirmeye yardımcı olmak için hala ileriye dönük mühendislerine güveniyor. Yapay zeka hizmetlerini ve ürünlerini uygulamada deneyimli uzmanlara olan talep göz önüne alındığında bu iyi bir strateji gibi görünüyor.
+
+Wonderful, ürünleri daha hızlı geliştirmek, FDE ekiplerini genişletmek ve ürünlerine olan talebi karşılamak için 550 milyon $ 'ı kullanacağını söyledi.
+
+---
+
+## Görseller
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/wonderful.avif)

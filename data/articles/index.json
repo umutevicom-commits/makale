@@ -1,53 +1,93 @@
 [
   {
-    "slug": "openais-new-reasoning-technique-alarms-ai-safety-experts",
-    "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "slug": "x-shifts-us-creator-payouts-from-stripe-to-x-money",
+    "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-03T08:31:06.785510+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "6f495e4cc5a83afc45792664f5976c5457363b240543155d57970f179d7dfbd1"
+  },
+  {
+    "slug": "wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months",
+    "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-03T08:30:46.911551+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "9eee911b44cb407b3659f58a27ae4a993acaf0ef03d7a608a77711e535028269"
+  },
+  {
+    "slug": "u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material",
+    "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-03T08:30:19.444281+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "fef5954611058c369ba8a983586cdb1b129fafccfb1ffbb7231c52b069ace525"
+  },
+  {
+    "slug": "psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam",
+    "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-03T08:30:01.774840+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "6cd1bdba27b14e89628362ba66fb48d8900e690d7fc7f92d0ee2c44b8d4da6b9"
+  },
+  {
+    "content_hash": "cc11cf16a74bb8c9a71b2c3f4b833ea503436681fdd7a476d05e16c739e57a3b",
     "date": "02 September 2026",
     "fetched_at": "2026-09-03T02:44:06.655314+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "cc11cf16a74bb8c9a71b2c3f4b833ea503436681fdd7a476d05e16c739e57a3b"
+    "retries": 0,
+    "slug": "openais-new-reasoning-technique-alarms-ai-safety-experts",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/"
   },
   {
-    "slug": "mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming",
-    "url": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
+    "content_hash": "c2cdea61875ac5c3f9264c0e0e1319396d4b172b502c81bf353c6afbd3630fd8",
     "date": "02 September 2026",
     "fetched_at": "2026-09-03T02:43:42.894222+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c2cdea61875ac5c3f9264c0e0e1319396d4b172b502c81bf353c6afbd3630fd8"
+    "retries": 0,
+    "slug": "mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/"
   },
   {
-    "slug": "it-sure-looks-like-hackers-breached-a-major-id-card-verification-service",
-    "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
+    "content_hash": "5292248ef521924458b1d6eeb037243936d38d5858b51cbce13b7498e256960a",
     "date": "02 September 2026",
     "fetched_at": "2026-09-03T02:43:23.654318+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "5292248ef521924458b1d6eeb037243936d38d5858b51cbce13b7498e256960a"
+    "retries": 0,
+    "slug": "it-sure-looks-like-hackers-breached-a-major-id-card-verification-service",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/"
   },
   {
-    "slug": "google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates",
-    "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
+    "content_hash": "90d9307b68144c63b2529f96ddef966656c7c31be8b63ec63fd3722bdfa5c949",
     "date": "02 September 2026",
     "fetched_at": "2026-09-03T02:43:05.195701+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "90d9307b68144c63b2529f96ddef966656c7c31be8b63ec63fd3722bdfa5c949"
+    "retries": 0,
+    "slug": "google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/"
   },
   {
-    "slug": "delivery-hero-board-backs-ubers-15b-takeover-bid",
-    "url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
+    "content_hash": "4a6aa47288c511df1e96dc3f33b14cb0b9199ab803c14af8502ae111f61e1000",
     "date": "02 September 2026",
     "fetched_at": "2026-09-03T02:42:51.771537+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "4a6aa47288c511df1e96dc3f33b14cb0b9199ab803c14af8502ae111f61e1000"
+    "retries": 0,
+    "slug": "delivery-hero-board-backs-ubers-15b-takeover-bid",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/"
   },
   {
     "content_hash": "2148778105193e8da899696bb60cd81da2a4312eee1941438b4c28e7eb816fa6",

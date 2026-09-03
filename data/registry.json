@@ -450,13 +450,13 @@
     "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/"
   },
   "psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam": {
-    "content_hash": "",
+    "content_hash": "6cd1bdba27b14e89628362ba66fb48d8900e690d7fc7f92d0ee2c44b8d4da6b9",
     "date": "02 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Amazon is turning to AI to help fight scammers, the company '...",
-    "retries": 3,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-03T08:30:01.774840+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/"
   },
   "ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt": {
@@ -540,13 +540,13 @@
     "url": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/"
   },
   "u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material": {
-    "content_hash": "",
+    "content_hash": "fef5954611058c369ba8a983586cdb1b129fafccfb1ffbb7231c52b069ace525",
     "date": "02 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'US government sides with OpenAI on issue of training LLMs on'...",
-    "retries": 4,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-03T08:30:19.444281+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/"
   },
   "uber-is-laying-off-10-of-staff-or-3300-people": {
@@ -600,13 +600,13 @@
     "url": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/"
   },
   "wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months": {
-    "content_hash": "",
+    "content_hash": "9eee911b44cb407b3659f58a27ae4a993acaf0ef03d7a608a77711e535028269",
     "date": "02 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Wonderful more than doubles its valuation to $5B in under 6 '...",
-    "retries": 3,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-03T08:30:46.911551+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/"
   },
   "x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money": {
@@ -620,13 +620,13 @@
     "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/"
   },
   "x-shifts-us-creator-payouts-from-stripe-to-x-money": {
-    "content_hash": "",
+    "content_hash": "6f495e4cc5a83afc45792664f5976c5457363b240543155d57970f179d7dfbd1",
     "date": "02 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'X shifts US creator payouts from Stripe to X Money'...",
-    "retries": 4,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-03T08:31:06.785510+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "x-shifts-us-creator-payouts-from-stripe-to-x-money",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/"
   }
 }

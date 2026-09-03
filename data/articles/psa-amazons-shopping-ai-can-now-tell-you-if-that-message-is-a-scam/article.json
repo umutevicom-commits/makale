@@ -1,0 +1,42 @@
+{
+  "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+  "slug": "psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam",
+  "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+  "news_id": "psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam",
+  "date": "02 September 2026",
+  "author": "Sarah Perez",
+  "tags": [],
+  "body_paragraphs": [
+    "Amazon is turning to AI to help fight scammers, the company announced on Wednesday. The retailer said some 360,000 customers every year reach out to its customer service department wondering whether a message they received from Amazon is real or a scam. Now, customers will be able to ask Amazon’s consumer AI service, Alexa for Shopping, to help answer that question instead.",
+    "The company said its AI can “definitively” confirm whether a communication originated from its own systems by checking it against the billions of messages Amazon has sent globally. The AI analyzes the sender information, content, timing, message metadata, and more, to determine authenticity. Amazon said the system will improve as customers report more suspicious messages, helping it to spot scams more effectively in the future.",
+    "The new AI capabilities follow on Amazon’s earlier attempts to address the growing scam problem, which includes fake order confirmations, Prime membership renewal alerts, account suspension warnings, package delivery notifications, and job scams.",
+    "Earlier this year, Amazon launched an email address, verify@amazon.com, that allows anyone to forward suspicious messages to the company and receive a response that confirms whether the email was a real message or a scam. It also offers an online form on its customer service site that provides the same assistance.",
+    "The feature’s addition is another example of how Amazon has shifted its product strategy around Alexa to focus more on how it can assist with shopping-related questions and provide proactive help. Today, the assistant can source personalized deals, create shopping guides, help customers reorder their everyday items, offer AI product overviews, transcribe handwritten shopping lists, and more.",
+    "On Tuesday, the retailer also added an Alexa feature that lets customers set alerts when something new or relevant happens, like a favorite brand launching a new product, the release of a new book from a favorite author, or an artist dropping a new record.",
+    "Alexa for Shopping is available from both the Amazon website and mobile app."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/alexa-shopping-ai-hero-lm.jpg",
+      "alt": "person holding smartphone"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/embed/E3rOwiOYA5c?feature=oembed",
+      "title": "Amazon, is this really you? Get a definitive answer in moments."
+    }
+  ],
+  "fetched_at": "2026-09-03T08:30:01.774840+00:00",
+  "title_tr": "PSA: Amazon'un alışveriş yapay zekası artık bu mesajın bir aldatmaca olup olmadığını size söyleyebilir",
+  "body_paragraphs_tr": [
+    "Şirket çarşamba günü yaptığı açıklamada, Amazon'un dolandırıcılarla mücadeleye yardımcı olmak için yapay zekaya başvurduğunu duyurdu. Perakendeci, her yıl yaklaşık 360 bin müşterinin Amazon'dan aldıkları bir mesajın gerçek mi yoksa bir aldatmaca mı olduğunu merak ederek müşteri hizmetleri departmanına ulaştığını söyledi. Artık müşteriler, Amazon'un tüketici yapay zeka hizmeti Alexa for Shopping'den bu soruyu cevaplamasına yardımcı olmasını isteyebilecek.",
+    "Şirket, yapay zekasının bir iletişimin kendi sistemlerinden kaynaklanıp kaynaklanmadığını Amazon'un küresel çapta gönderdiği milyarlarca mesajla karşılaştırarak \"kesin olarak\" doğrulayabileceğini söyledi. Yapay zeka, özgünlüğü belirlemek için gönderici bilgilerini, içeriği, zamanlamayı, mesaj meta verilerini ve daha fazlasını analiz eder. Amazon, müşteriler daha fazla şüpheli mesaj bildirdikçe sistemin gelişeceğini ve gelecekte dolandırıcılıkları daha etkili bir şekilde tespit etmesine yardımcı olacağını söyledi.",
+    "Yeni yapay zeka yetenekleri, Amazon'un sahte sipariş onayları, Prime üyelik yenileme uyarıları, hesap askıya alma uyarıları, paket teslimat bildirimleri ve iş dolandırıcılıklarını içeren artan dolandırıcılık sorununu ele alma girişimlerini takip ediyor.",
+    "Bu yılın başlarında Amazon, herkesin şüpheli mesajları şirkete iletmesine ve e - postanın gerçek bir mesaj mı yoksa aldatmaca mı olduğunu doğrulayan bir yanıt almasına olanak tanıyan verify@amazon.com adlı bir e - posta adresi başlattı. Ayrıca, müşteri hizmetleri sitesinde aynı yardımı sağlayan çevrimiçi bir form da sunmaktadır.",
+    "Özelliğin eklenmesi, Amazon'un alışverişle ilgili sorulara nasıl yardımcı olabileceğine ve proaktif yardım sağlayabileceğine daha fazla odaklanmak için ürün stratejisini Alexa etrafında nasıl değiştirdiğinin bir başka örneğidir. Bugün, asistan kişiselleştirilmiş fırsatlar sağlayabilir, alışveriş rehberleri oluşturabilir, müşterilerin günlük öğelerini yeniden sıralamalarına yardımcı olabilir, yapay zeka ürün genel bakışları sunabilir, el yazısıyla yazılmış alışveriş listelerini yazıya dökebilir ve daha fazlasını yapabilir.",
+    "Salı günü perakendeci, müşterilerin yeni veya alakalı bir şey olduğunda, yeni bir ürün piyasaya süren favori bir marka, favori bir yazardan yeni bir kitabın piyasaya sürülmesi veya yeni bir rekor kıran bir sanatçı gibi uyarılar ayarlamasını sağlayan bir Alexa özelliği de ekledi.",
+    "Alışveriş için Alexa'ya hem Amazon web sitesinden hem de mobil uygulamadan erişilebilir."
+  ],
+  "tags_tr": []
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+  "slug": "u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material",
+  "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+  "news_id": "u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material",
+  "date": "02 September 2026",
+  "author": "Amanda Silberling",
+  "tags": [],
+  "body_paragraphs": [
+    "In a lawsuit that The New York Times filed against OpenAI, the Trump administration has contributed a 20-page brief in defense of the ChatGPT maker’s unlicensed use of copyrighted material to train its LLMs.",
+    "“The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally… As such, it is critical for the United States to ‘retain global leadership in artificial intelligence,’” the brief reads, referencing an executive order that President Donald Trump signed last year.",
+    "The LLMs powering chatbots like ChatGPT, Claude, and Gemini are trained on incomprehensibly massive databases of published works, including copyrighted books, articles, and other media that AI companies feed into these databases without permission. Many publishers, including The New York Times in this case, have sought to argue that it is illegal for AI companies like OpenAI to train AI models on their copyrighted material.",
+    "This question — can you use copyrighted material to train an AI? — isn’t black and white, hence the extensive legal debate around the subject. These conversations often center on fair use, a carve out of copyright law that makes exceptions for certain scenarios when it can be ruled legal to use someone else’s copyrighted work without permission. In this case, the fair use debate addresses whether AI companies’ use of copyrighted work is “transformative” enough for a judge to rule it legal. “Constraining LLM development under a misunderstanding of fair use doctrine would thwart such creative and scientific progress while hindering American prosperity and economic mobility,” the brief says.",
+    "So far, cases about AI training and copyright infringement have largely been favorable to AI companies. Last year, Judge William Alsup ordered Anthropic to pay a $1.5 billion copyright settlement to a group of writers whose works were used to train the company’s AI models; but Anthropic wasn’t dinged for its AI training. Rather, the company was fined for using illegal shadow libraries to pirate the books it used for training.",
+    "“Like any reader aspiring to be a writer, Anthropic’s LLMs trained upon works not to race ahead and replicate or supplant them — but to turn a hard corner and create something different,” Judge Alsup wrote, comparing the LLM’s training to a human reading a book.",
+    "This new Trump administration brief is not a ruling, as the case is being tried in the U.S. District Court for the Southern District of New York, and the authors of the brief do not have jurisdiction. However, this intervention by the Trump administration could still carry weight."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/GettyImages-2263890424.jpg",
+      "alt": "The OpenAI logo appears on the screen of a smartphone placed on a reflective surface onto which the U.S. flag is projected."
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-03T08:30:19.444281+00:00",
+  "title_tr": "ABD hükümeti, LLM'lerin telif hakkıyla korunan materyaller konusunda eğitilmesi konusunda OpenAI ile işbirliği yapıyor",
+  "body_paragraphs_tr": [
+    "The New York Times'ın OpenAI'a açtığı davada Trump yönetimi, ChatGPT yapımcısının LLM'lerini eğitmek için telif hakkıyla korunan materyalleri lisanssız kullanmasını savunmak için 20 sayfalık bir brifing verdi.",
+    "Bildiride, Başkan Donald Trump'ın geçen yıl imzaladığı bir kararnameye atıfta bulunarak, \"ABD, küresel olarak yapay zeka kullanımı uygulama ve prosedürünün standardını belirleyen sağlam ve rekabetçi bir yapay zeka endüstrisi geliştirmeye devam etmeye büyük ilgi duyuyor... Bu nedenle, ABD'nin\" yapay zekada küresel liderliği elinde tutması \"kritik önem taşıyor\" ifadeleri yer alıyor.",
+    "ChatGPT, Claude ve Gemini gibi sohbet robotlarına güç veren LLM'ler, telif hakkıyla korunan kitaplar, makaleler ve AI şirketlerinin bu veritabanlarına izinsiz olarak beslediği diğer medya da dahil olmak üzere, yayınlanmış eserlerin anlaşılmaz derecede büyük veritabanları üzerinde eğitilmiştir. Bu davada The New York Times da dahil olmak üzere birçok yayıncı, OpenAI gibi yapay zeka şirketlerinin telif hakkıyla korunan materyalleri üzerinde yapay zeka modellerini eğitmesinin yasa dışı olduğunu iddia etmeye çalıştı.",
+    "Bu soru — bir yapay zekayı eğitmek için telif hakkıyla korunan materyalleri kullanabilir misiniz? — siyah beyaz değil, bu nedenle konuyla ilgili kapsamlı yasal tartışmalar var. Bu konuşmalar genellikle telif hakkıyla korunan bir eserin izinsiz olarak kullanılmasının yasal olduğuna karar verilebildiği durumlarda, belirli senaryolar için istisna oluşturan telif hakkı yasasının bir parçası olan adil kullanıma odaklanır. Bu durumda, adil kullanım tartışması, yapay zeka şirketlerinin telif hakkıyla korunan eserleri kullanmasının bir yargıcın yasal olarak karar vermesi için yeterince “dönüştürücü” olup olmadığını ele almaktadır. Bildiride, \"LLM gelişiminin adil kullanım doktrininin yanlış anlaşılması altında kısıtlanması, bu tür yaratıcı ve bilimsel ilerlemeyi engellerken, Amerikan refahını ve ekonomik hareketliliğini engelleyecektir\" deniyor.",
+    "Şimdiye kadar, yapay zeka eğitimi ve telif hakkı ihlali ile ilgili davalar büyük ölçüde yapay zeka şirketleri için olumlu olmuştur. Geçen yıl Yargıç William Alsup, Anthropic'e eserleri şirketin yapay zeka modellerini eğitmek için kullanılan bir grup yazara 1,5 milyar $ telif hakkı ödemesi talimatı vermişti; ancak Anthropic yapay zeka eğitimi için eleştirilmemişti. Aksine, şirket eğitim için kullandığı kitapları korsan olarak kullanmak için yasadışı gölge kütüphaneleri kullanmaktan para cezasına çarptırıldı.",
+    "Yargıç Alsup, LLM'nin eğitimini bir kitap okuyan bir insanla karşılaştırarak, \"Yazar olmak isteyen herhangi bir okuyucu gibi, Anthropic'in LLM'leri de ilerlemek ve onları çoğaltmak veya yerini almak için değil, zor bir köşeyi dönüp farklı bir şey yaratmak için çalışıyor\" diye yazdı.",
+    "Dava New York Güney Bölgesi ABD Bölge Mahkemesi'nde görüldüğünden ve brifingin yazarlarının yargı yetkisi bulunmadığından, bu yeni Trump yönetimi brifingi bir karar değildir. Ancak Trump yönetiminin bu müdahalesi yine de ağırlık taşıyabilir."
+  ],
+  "tags_tr": []
+}
