@@ -1,0 +1,49 @@
+# Qualcomm, akıllı yüzükleri bilgisayara dönüştürmek için Ultrahuman'ı 70 MİLYON $ tutarında destekledi
+
+Akıllı yüzükler üretmesiyle tanınan Hintli bir girişim olan Ultrahuman, cihazda yazılım çalıştırabilen ve nihayetinde yapay zeka etkileşimlerinden oyunlara kadar her şeye güç sağlayabilen bir halka oluşturmak için uyku ve sağlık takibinin ötesinde göründüğü için Qualcomm'un girişim kolunun desteğini içeren yeni bir finansman turunda 70 milyon $ topladı.
+
+Konuya aşina bir kişi TechCrunch'a verdiği demeçte, turun Bengaluru merkezli Ultrahuman'a 365 milyon dolar, yani 2023 'teki 120 milyon dolarlık değerlemesinin yaklaşık 3 katı değerinde olduğunu söyledi.
+
+Qualcomm Ventures, ABD teşhis devi Labcorp, Alpha Wave, Blume Ventures, Nexus Venture Partners ve Alteria Capital ile birlikte finansmana katıldı. Ultrahuman'ın kurucusu ve CEO'su Mohit Kumar, bir röportajda turun 65 milyon dolarlık birincil öz sermaye ve 5 milyon dolarlık borç içerdiğini söyledi.
+
+Kumar, TechCrunch'a verdiği demeçte, Ultrahuman'ın Qualcomm'la birlikte ABD'li çip üreticisinin silikonunu kullanacak yeni bir halka üzerinde çalıştığını söyledi. Girişim şu anda halkalarında Nordic Semiconductor'ın çiplerini kullanıyor ve bunları Qualcomm'un teknolojisiyle birlikte kullanmaya devam etmeyi planlıyor. Eklenen bilgi işlem gücünün, daha fazla yazılım ve algoritmanın doğrudan zil sesi üzerinde çalışmasına izin vererek bir telefona veya buluta olan bağımlılığını azaltacağını söyledi.
+
+Kumar, "Bugün tüm halka cihazları izleyici gibidir" dedi. "Yüzüğü takıyorsunuz, kalp atış hızınızı, hareketinizi ve uykunuzu ölçüyor." Ultrahuman'ın amacının, yüzüğü daha çok programların ve algoritmaların cihazın üzerinde çalışabileceği bir bilgisayara benzetmek olduğunu belirtti.
+
+Bu, Ultrahuman halkalarının bilindiği bir şey olan sağlık ve uyku takibinin çok ötesinde vakaları kullanmak için halkayı açabilir.
+
+Kumar, geliştiricilerin sonunda cihaz için kendi programlarını yazabileceğini söylerken, Ultrahuman yüzüğün bir işaretçi veya fare, oyun kumandası, araba anahtarı ve yapay zeka ile etkileşim için bir arayüz olarak çalışmasının yollarını araştırıyor.
+
+Qualcomm Ventures'ın küresel başkanı Quinn Li, "Yapay zekanın geleceği kişisel, çevresel ve her zaman devam ediyor" dedi ve Ultrahuman'ın yeni nesil "kişisel yapay zeka cihazları" inşa ettiğini ekledi.
+
+Qualcomm destekli halkanın daha sonra gelmesi planlanırken, Ultrahuman yeni donanımın bu fikri test etmeye başlamasını beklemiyor. Kumar, TechCrunch'a verdiği demeçte, yeni yeteneklerden bazılarının startup'ın mevcut Ring Air ve Ring Pro'suna (yukarıda resmedilmiştir) eylül sonuna kadar bir yazılım güncellemesi yoluyla ulaşacağını ve yüzüğün bir oyun kumandası olarak çalışmasına ve yapay zeka uygulamalarıyla etkileşime girmesine izin verecek özellikler de dahil olduğunu söyledi. Ayrıca, üçüncü taraf geliştiricilerin yeni özellikler oluşturmasına izin verme yeteneğine de sahip olacaktır.
+
+Kumar, Ultrahuman'ın fikrinin yüzüğün kullanıcının parmağındaki konumundan yararlanmak olduğunu söyledi. "Bileğindeki bir telefona" daha çok benzeyen bir akıllı saatin aksine, bir yüzük hassas bir işaretleme ve etkileşim cihazı görevi görürken aynı zamanda kullanıcının kalp atış hızı, sıcaklığı ve hareketi gibi fizyolojik bağlamı da taşıyabilir.
+
+Kumar, "Bir oyun kumandası kalp atış hızınızı ve ateşinizi asla okumaz ama bu okur" dedi. Sadece bir oyuncunun hareketlerine değil, aynı zamanda kalp atış hızı ve vücut ısısı gibi sinyallere de yanıt verebilecek oyunlar hayal ederek devam etti, bu da halkayı hem bir kontrolör hem de fizyolojik bir bağlam kaynağı haline getirdi.
+
+Bu arada, Ultrahuman'ın mevcut işi, startup halkalarının yapabileceklerini genişletmeye çalışırken bile büyüyor. Kumar, girişimin şu anda bir yıl öncesine göre yaklaşık % 45 artışla 140 milyon $ yıllık gelir elde etme oranında olduğunu ve bu oranın Ocak 2027 'ye kadar 200 milyon $' a ulaşmasını beklediğini söyledi. Kumar, şubatta yaklaşık 700 bin olan yüzüğün bugüne kadar yaklaşık 800 bin yüzük sattığını söyledi. Kullanıcılarının yaklaşık % 12 'si, Ultrahuman'ın abonelik tabanlı yazılım özellikleri olan PowerPlugs için de ödeme yapıyor.
+
+2019 'da Kumar ve Vatsal Singhal tarafından kurulan Ultrahuman, başlangıçta insanların metabolik sağlıklarını takip etmelerine yardımcı olmak için sürekli glikoz monitörleriyle giriş yaptı. Ancak girişim daha sonra, o zamandan beri işinin temel dayanağı haline gelen akıllı halkalara geçti. Ayrıca daha geniş bir sağlık platformu oluşturmak için kan testi ve çevresel algılama da getirdi.
+
+ABD, Ultrahuman'ın en büyük pazarı olmaya devam ediyor, ancak girişim, rakibi Oura ile olan patent anlaşmazlığının ardından geçen yılın büyük bir bölümünde Ring Air'i burada satmayı bırakmak zorunda kaldı. Ultrahuman bu yıl yeniden tasarladığı Ring Pro ile pazara geri döndü. Kumar, yeni cihaza olan talebin şu anda ABD'deki startup'ın mevcut arzının 18 ila 20 katında çalıştığını söyledi.
+
+Kumar, TechCrunch'a, girişimin bir sonraki çeyrekte önceki ABD satış hacimlerine dönmeyi beklediğini ve arzı artırırken önümüzdeki dört çeyrekte bu hacimleri üç katına çıkarmayı hedeflediğini söyledi. Kumar, ABD'nin bu çeyrekte Ultrahuman'ın gelirinin yaklaşık % 45 'ini oluşturduğunu, Hindistan'ın ise yaklaşık % 11' ini oluşturduğunu söyledi.
+
+Ultrahuman, fiziksel mağazaların ve diğer çevrimdışı temas noktalarının satışları artırmaya yardımcı olabileceğini bulduğu Hindistan ve BAE de dahil olmak üzere piyasalardaki varlığını derinleştirmek için yeni sermayenin bir kısmını kullanmayı planlıyor. Bununla birlikte, bu genişleme, klinik araştırma ve ürün geliştirmeye yapılan harcamalarla birlikte bir maliyete neden olmuştur. Kumar, Ultrahuman'ın fiziksel konumlara, markasına ve klinik çalışmalara daha fazla yatırım yaptıktan sonra bu yıl karlı olmayabileceğini söyledi.
+
+Eylül'de halka arz edileceği bildirilen rakip Oura'nın aksine, Ultrahuman için halka açık bir ilan hâlâ bir miktar uzakta. Kumar, TechCrunch'a yaptığı açıklamada, girişimin halka açılmadan önce yaklaşık dörtte sekiz karlılık göstermek istediğini, bunun da 8 ila 10 çeyrek sürebileceğini umduğunu söyledi. Bununla birlikte, 2028 'i bir halka arz için en erken pencere olarak görüyor.
+
+Bu arada Ultrahuman, halkalarını sağlık ve teşhis konusunda daha derine itmeye çalışırken Labcorp'la daha yakın çalışmaya da çalışıyor. Kumar, şirketlerin kan testi verileriyle eşleştirildiğinde halkanın yakaladığı kan akışı sinyallerinin kardiyovasküler sağlık, doğurganlık ve yaşlanma gibi alanlardaki sağlık risklerini belirlemeye yardımcı olup olmayacağını araştırdığını söyledi.
+
+Labcorp Girişim Fonu ve Stratejik İttifaklar Başkan Yardımcısı ve Başkanı Megann Vaughn Watters, "Ultrahuman, uzunlamasına giyilebilir verileri daha derin biyolojik sinyallerle birleştirerek kişiselleştirilmiş sağlıkta yeni fırsatlar yaratıyor" dedi.
+
+Ortaklığın sonunda Ultrahuman'ın ürünleriyle entegrasyonlara yol açabileceğini söyleyen Kumar, ayrıntıları paylaşmayı reddetse de girişimin yakında daha fazlasını duyurmayı beklediğini de sözlerine ekledi.
+
+---
+
+## Görseller
+
+![Ultrahuman Ring Pro](https://umutevicom-commits.github.io/makale/data/images/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/ultrahuman-ring-pro.jpg)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/ultrahuman-performance-center-bengaluru.jpg)

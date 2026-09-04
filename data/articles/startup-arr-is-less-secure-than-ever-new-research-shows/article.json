@@ -1,0 +1,45 @@
+{
+  "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+  "slug": "startup-arr-is-less-secure-than-ever-new-research-shows",
+  "title": "Startup ARR is less secure than ever, new research shows",
+  "news_id": "startup-arr-is-less-secure-than-ever-new-research-shows",
+  "date": "03 September 2026",
+  "author": "Julie Bort",
+  "tags": [],
+  "body_paragraphs": [
+    "AI has ushered in a lot of never-happened-before moments, but one of the most transformative is its impact on enterprise IT. Companies that have historically been cautious and committed long-term to what they buy are on pace to spend $4.25 trillion on technology in 2026, market researcher IDC predicts. It’s almost all driven by AI.",
+    "New research from venture capital firm Madrona shows that 74% of 150 enterprise IT professionals it surveyed plan to expand their AI budgets in the next 12 months, and the rest plan to hold spending steady. Yet these same enterprises say that fewer than half of their AI pilots ever make it into full production.",
+    "That’s actually an improvement. Last year, MIT famously reported that 95% of enterprise AI projects had failed in terms of ROI. Fewer than half succeeding is a pretty low bar, but it’s better than a 5% success rate.",
+    "But the most telling finding from Madrona’s report is that, even when an enterprise does roll out the AI tech, it doesn’t commit to it long term.",
+    "Some 77% of enterprises reevaluate their AI vendors every six months or even on a rolling basis. “This creates a ‘fast in, fast out’ dynamic that is fundamentally different from traditional enterprise SaaS, where multi-year contracts provided a moat of inertia,” Madrona writes in the report. “In enterprise AI, switching costs are lower and the re-evaluation cadence is relentless.”",
+    "This has widespread implications for all those fast-growing annual recurring revenue (ARR) numbers startups report. Enterprise trial budgets are what fueled the initial AI boom of 2025. This year was supposed to be the year these big customers settled in and started committing long term to AI startups. Enterprise contracts are what allow so many AI startups to claim astronomically fast revenue growth — think the phenomenon of startups going from $0-$10 million in three months.",
+    "Yet, for the first time ever, enterprise revenue remains insecure, even after a startup’s AI product graduates out of a pilot phase and gets adopted by a company.",
+    "Part of the issue is that many AI startups haven’t fully landed on a good way to price their AI wares for enterprises. New research from VC firm Andreessen Horowitz that surveyed 50 technical AI buyers found that more than half of them want AI fees tied to the work produced or other outcomes, rather than to usage like the number of tokens consumed.",
+    "Charging for usage like tokens is basically a SaaS-era business model. Once an enterprise knows it needs email, or HR software, or cloud storage, it’s merely a matter of how many employees or how much data it must pay for.",
+    "For AI, pricing “around the recognizable work” is what helps the startup prove its worth to the customer. When the fees revolve around, say, how many reports are processed, or tickets closed, or leads generated, this makes the product “economically valuable to both sides,” writes a16z partners Tugce Erten and Sarah Wang.",
+    "All of this means that AI has potentially ushered in a new era of enterprise experimentation. That opens doors to startups — enterprises are more willing to try their tech — but it also means an enterprise contract no longer secures long-term revenue. When or if enterprises will revert to their long-term buying habits remains to be seen."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/startup-arr-is-less-secure-than-ever-new-research-shows/PM-Images.jpg",
+      "alt": ""
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-04T08:26:27.069123+00:00",
+  "title_tr": "Yeni araştırma, startup ARR'nin her zamankinden daha az güvenli olduğunu gösteriyor",
+  "body_paragraphs_tr": [
+    "Yapay zeka, daha önce hiç yaşanmamış birçok anı başlattı, ancak en dönüştürücü olanlardan biri kurumsal BT üzerindeki etkisidir. Pazar araştırmacısı IDC, tarihsel olarak temkinli olan ve satın aldıkları şeye uzun vadeli olarak bağlı olan şirketlerin 2026 'da teknolojiye 4,25 trilyon $ harcayacaklarını öngörüyor. Neredeyse hepsi yapay zeka tarafından yönlendiriliyor.",
+    "Risk sermayesi şirketi Madrona'nın yeni araştırması, ankete katılan 150 kurumsal BT uzmanının % 74 'ünün önümüzdeki 12 ay içinde yapay zeka bütçelerini genişletmeyi planladığını ve geri kalanının harcamalarını sabit tutmayı planladığını gösteriyor. Yine de aynı işletmeler, yapay zeka pilotlarının yarısından daha azının tam üretime geçtiğini söylüyor.",
+    "Bu aslında bir gelişme. Geçen yıl MIT, kurumsal yapay zeka projelerinin % 95 'inin yatırım getirisi açısından başarısız olduğunu bildirmişti. Yarıdan daha az başarı oldukça düşük bir çıtadır, ancak % 5' lik bir başarı oranından daha iyidir.",
+    "Ancak Madrona'nın raporundan elde edilen en çarpıcı bulgu, bir kuruluş yapay zeka teknolojisini piyasaya sürse bile, uzun vadede bunu taahhüt etmediğidir.",
+    "İşletmelerin yaklaşık % 77 'si yapay zeka satıcılarını her altı ayda bir veya hatta sürekli olarak yeniden değerlendiriyor. Madrona raporda, \"Bu, çok yıllık sözleşmelerin bir atalet hendeği sağladığı geleneksel SaaS girişiminden temelde farklı bir’ hızlı giriş, hızlı çıkış ’dinamiği yaratıyor\" diye yazıyor. \"Kurumsal yapay zekada, anahtarlama maliyetleri daha düşüktür ve yeniden değerlendirme ritmi amansızdır .\"",
+    "Bunun, tüm hızlı büyüyen yıllık yinelenen gelir (ARR) sayıları girişim raporu için yaygın etkileri vardır. Kurumsal deneme bütçeleri, 2025 'in ilk yapay zeka patlamasını körükleyen şeydir. Bu yıl, bu büyük müşterilerin yerleştiği ve yapay zeka girişimlerine uzun vadeli taahhüt vermeye başladığı yıl olması gerekiyordu. Kurumsal sözleşmeler, bu kadar çok yapay zeka girişiminin astronomik olarak hızlı gelir artışı talep etmesine izin veren şeydir — girişimlerin üç ay içinde $ 0 -$ 10 milyon arasında değiştiğini düşünün.",
+    "Yine de, bir girişimin yapay zeka ürünü pilot aşamadan mezun olduktan ve bir şirket tarafından kabul edildikten sonra bile, kurumsal gelir ilk kez güvensizliğini koruyor.",
+    "Sorunun bir kısmı, birçok yapay zeka girişiminin yapay zeka ürünlerini işletmeler için fiyatlandırmak için iyi bir yola tam olarak inmemiş olmasıdır. VC firması Andreessen Horowitz'in 50 teknik yapay zeka alıcısıyla yaptığı yeni araştırma, yarısından fazlasının yapay zeka ücretlerinin, tüketilen token sayısı gibi kullanımlardan ziyade üretilen işe veya diğer sonuçlara bağlı olmasını istediğini ortaya koydu.",
+    "Token gibi kullanım için ücretlendirme temelde bir SaaS dönemi iş modelidir. Bir kuruluş e - postaya, İK yazılımına veya bulut depolamaya ihtiyaç duyduğunu bildiğinde, bu sadece kaç çalışana veya ne kadar veri için ödeme yapması gerektiği ile ilgilidir.",
+    "Yapay zeka için, \"tanınabilir iş etrafında\" fiyatlandırma, girişimin müşteriye değerini kanıtlamasına yardımcı olan şeydir. a16z ortakları Tuğçe Erten ve Sarah Wang, ücretler kaç raporun işlendiği, biletlerin kapatıldığı veya potansiyel müşteri oluşturulduğu etrafında döndüğünde, bu ürünün \"her iki taraf için de ekonomik olarak değerli\" olduğunu yazıyor.",
+    "Tüm bunlar, yapay zekanın potansiyel olarak yeni bir kurumsal deney çağını başlattığı anlamına geliyor. Bu, yeni başlayanlara kapıları açar — işletmeler teknolojilerini denemeye daha isteklidir — ancak aynı zamanda bir kurumsal sözleşmenin artık uzun vadeli geliri güvence altına almadığı anlamına gelir. İşletmelerin uzun vadeli satın alma alışkanlıklarına ne zaman veya ne zaman geri dönecekleri görülecektir."
+  ],
+  "tags_tr": []
+}

@@ -1,33 +1,53 @@
 [
   {
-    "slug": "openai-launches-astra-its-powerful-and-controversial-new-model",
-    "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "slug": "startup-arr-is-less-secure-than-ever-new-research-shows",
+    "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-04T08:26:27.069123+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "af46ebb96b85830b5d454c52d309eea236f674f23766840a59b17a49eb51c362"
+  },
+  {
+    "slug": "qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers",
+    "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-04T08:25:44.538554+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "ddc1201e1f78ce607d4e590eb945f51ccb21e20624e5c0862252eda1b0954dc5"
+  },
+  {
+    "content_hash": "d5951cea8bce269fe9b747fbd4f7c572ae74262dcb97ad38c1d4274828c85a91",
     "date": "03 September 2026",
     "fetched_at": "2026-09-04T02:41:00.575820+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "d5951cea8bce269fe9b747fbd4f7c572ae74262dcb97ad38c1d4274828c85a91"
+    "retries": 0,
+    "slug": "openai-launches-astra-its-powerful-and-controversial-new-model",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
   },
   {
-    "slug": "ollie-is-betting-privacy-can-win-the-ai-assistant-race",
-    "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+    "content_hash": "fba4ff4dc12d047b5ed00258f25229b641ba8f6e06a45158bbe3c8f9e09e97e4",
     "date": "03 September 2026",
     "fetched_at": "2026-09-04T02:40:01.178465+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "fba4ff4dc12d047b5ed00258f25229b641ba8f6e06a45158bbe3c8f9e09e97e4"
+    "retries": 0,
+    "slug": "ollie-is-betting-privacy-can-win-the-ai-assistant-race",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/"
   },
   {
-    "slug": "accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation",
-    "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+    "content_hash": "aca02abb7a5a79aa5bc108da0cbbe4cbaf9a657e6dfc45fc4263d4a79953d74a",
     "date": "03 September 2026",
     "fetched_at": "2026-09-04T02:39:44.880261+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "aca02abb7a5a79aa5bc108da0cbbe4cbaf9a657e6dfc45fc4263d4a79953d74a"
+    "retries": 0,
+    "slug": "accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
   },
   {
     "content_hash": "c016d043e0a99604fe51a3503df1d6d98ee97bce1bbfa61a1b1ea03ba90ad7e1",
