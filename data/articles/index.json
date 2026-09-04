@@ -1,53 +1,63 @@
 [
   {
-    "slug": "judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now",
-    "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
+    "slug": "ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
+    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "date": "04 September 2026",
+    "fetched_at": "2026-09-04T23:39:36.367011+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "e717ff63d5921bc7a463b45a77309f477b6f788c3f84048bec4ce36f05304f46"
+  },
+  {
+    "content_hash": "55a6e56002013ff79ad4fa30de783cdd2de9b8f8e155098e83d0e9999e5f4c67",
     "date": "04 September 2026",
     "fetched_at": "2026-09-04T20:13:37.314223+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "55a6e56002013ff79ad4fa30de783cdd2de9b8f8e155098e83d0e9999e5f4c67"
+    "retries": 0,
+    "slug": "judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/"
   },
   {
-    "slug": "less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event",
-    "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+    "content_hash": "4a24fc4eac2557c64993edf759f599aac8be83daa6f5d0a704834d751913845b",
     "date": "04 September 2026",
     "fetched_at": "2026-09-04T20:13:10.190633+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "4a24fc4eac2557c64993edf759f599aac8be83daa6f5d0a704834d751913845b"
+    "retries": 0,
+    "slug": "less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/"
   },
   {
-    "slug": "krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming",
-    "url": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/",
+    "content_hash": "284293c569668552a3f4f6a978637741e786bc0ee94c05a2bb6cb37c9533b4b1",
     "date": "04 September 2026",
     "fetched_at": "2026-09-04T20:12:49.625098+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "284293c569668552a3f4f6a978637741e786bc0ee94c05a2bb6cb37c9533b4b1"
+    "retries": 0,
+    "slug": "krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/"
   },
   {
-    "slug": "googles-gemini-spark-can-now-manage-your-google-photos-library",
-    "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "content_hash": "7ab6e86f20376755b4fbcc728446c65db873bc15c0a1125f29ab9cc14282f7e7",
     "date": "04 September 2026",
     "fetched_at": "2026-09-04T20:12:30.631223+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "7ab6e86f20376755b4fbcc728446c65db873bc15c0a1125f29ab9cc14282f7e7"
+    "retries": 0,
+    "slug": "googles-gemini-spark-can-now-manage-your-google-photos-library",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
   },
   {
-    "slug": "cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom",
-    "url": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
+    "content_hash": "595e72b4471f56ce2d6913700429a680d057d41b19534e4edbfdb202c6c865d0",
     "date": "04 September 2026",
     "fetched_at": "2026-09-04T20:12:09.260778+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "595e72b4471f56ce2d6913700429a680d057d41b19534e4edbfdb202c6c865d0"
+    "retries": 0,
+    "slug": "cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/"
   },
   {
     "content_hash": "c8480a83370fc5cc8ad12701b899a3d2cc4d68f822397ac84c52b86a497c96c2",
