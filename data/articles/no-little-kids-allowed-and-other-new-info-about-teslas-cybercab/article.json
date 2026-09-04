@@ -1,0 +1,61 @@
+{
+  "url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+  "slug": "no-little-kids-allowed-and-other-new-info-about-teslas-cybercab",
+  "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
+  "news_id": "no-little-kids-allowed-and-other-new-info-about-teslas-cybercab",
+  "date": "04 September 2026",
+  "author": "Sean O'Kane",
+  "tags": [],
+  "body_paragraphs": [
+    "Tesla’s private Cybercab event has come and gone, and it was very different from the large, loud, livestreamed events the company usually puts on — an odd choice for the launch of a product CEO Elon Musk has spent years building toward.",
+    "In fact, it doesn’t even appear that Musk spoke at the event, the keynote of which, by all accounts, only lasted around 15 minutes.",
+    "The promise of the Cybercab is massive: a fully autonomous vehicle that uses only cameras and AI to drive itself, all for much less than a Waymo. But Tesla scattered a lot of the details. Some are in PDFs the company released on Thursday, as well as in updated terms of service in its “Robotaxi” app. The rest were left for a select few die-hard fans to disseminate online.",
+    "The company now has to prove that these vehicles are safe — to the public, to local governments, and to the National Highway Traffic Safety Administration, which has already opened an investigation into Tesla’s Cybercab rollout.",
+    "In the meantime, here are some of the most interesting new details that caught our attention:",
+    "One of the more interesting details in the Cybercab fine print is that Tesla does not allow minors under the age of 13 to ride in the vehicle “at this time.”",
+    "Minors between the ages of 8 and 17 are allowed to ride in Tesla’s “Robotaxi” Model Y SUVs, and Tesla does have guidelines on how to use child seats in both vehicles.",
+    "Curiously, the Cybercab does not have the standard LATCH anchors for child seats. Instead, they can only be attached using the seat belt. Tesla executives, including Musk, have talked a lot about how much they focus on taking out unnecessary parts to cut down on costs, though I’ll admit I wasn’t expecting the company to ditch child seat anchors — especially given Musk’s obsession with making more babies.",
+    "All children under 18 must be accompanied by an adult in both vehicles, according to Tesla. But something is making Tesla hesitate on allowing young children in the Cybercab for now.",
+    "While the goal of an autonomous vehicle is to avoid crashing, even the most capable ones on the road today do wind up in collisions.",
+    "Here’s what happens when the Cybercab gets in a crash: The airbags will inflate, the doors will unlock, the hazard warning lights and interior lights will turn on, the high voltage battery is disabled, the windows go to the “vent” position, the Cybercab will apply the brakes to come to a stop and park, and the infotainment system will start up a two-way connection with Tesla’s rider support team.",
+    "Unlocking the doors is notable because Tesla has come under fire for its reliance on electronic door latches, both in its home market of the United States and in its largest market, China. Just last month, Tesla agreed to recall 3 million cars in China, alongside a number of other automakers, as a result of an investigation into electronic door latches that could trap people following a crash.",
+    "Speaking of doors, another recent criticism of Tesla is that its interior manual door releases are too hard to find in an emergency. These are necessary because the electronic door latches are the main method of getting in and out of the company’s vehicles, activated either by pushing a button or using a smartphone.",
+    "The Cybercab uses electronic door latches, which allow the doors to open automatically at the start or end of a ride. There is also a small button on the exterior of the car that riders can use to open the doors. But inside, the manual release is thankfully in a very obvious spot on the armrest of each door.",
+    "Tesla is using a brake-by-wire system in the Cybercab, again largely (it seems) for the purposes of cutting costs. Instead of using a hydraulic system that pumps fluid through lines to control brake pressure, Tesla has electronic actuators controlling the brake calipers.",
+    "“Having electric brakes avoids the complexity of a hydraulic system: no need to rout [sic] plumbing all around the car,” Musk wrote in a post.",
+    "The company was already the first major automaker to use steer-by-wire on its Cybertruck, severing the physical connection between the steering wheel and the front wheels.",
+    "For some reason, the windows of the Cybercab “cannot be fully opened at this time.” Tesla doesn’t explain why in the documentation it released this week.",
+    "According to influencer Jeremy Judkins, the USB-C outlets in the Cybercab put out 90W of power — roughly four times more than you’d typically find inside a car."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/tesla-cybercab-open.jpg",
+      "alt": "people getting into gold Cybercab"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-04T17:26:35.565978+00:00",
+  "title_tr": "Küçük çocuklara izin verilmez ve Tesla'nın Cybercab'ı hakkında diğer yeni bilgiler",
+  "body_paragraphs_tr": [
+    "Tesla'nın özel Cybercab etkinliği geldi geçti ve şirketin genellikle düzenlediği büyük, gürültülü, canlı yayınlanan etkinliklerden çok farklıydı. Bu, CEO Elon Musk'ın yıllarca geliştirdiği bir ürünün lansmanı için tuhaf bir seçim.",
+    "Aslında, Musk'ın etkinlikte konuştuğu bile görünmüyor. Açılış konuşması, tüm hesaplara göre, sadece 15 dakika kadar sürdü.",
+    "Cybercab'ın vaadi çok büyük: Bir Waymo'dan çok daha ucuza, yalnızca kameraları ve yapay zekayı kullanan tamamen otonom bir araç. Ancak Tesla birçok ayrıntıyı dağıttı. Bazıları şirketin perşembe günü yayımladığı PDF'lerde ve \"Robotaxi\" uygulamasındaki güncellenmiş hizmet şartlarında yer alıyor. Geri kalanlar, internette yaymaları için seçilmiş birkaç fanatiğe bırakıldı.",
+    "Şirket şimdi bu araçların halka, yerel yönetimlere ve Tesla'nın Cybercab lansmanıyla ilgili bir soruşturma başlatan Ulusal Karayolu Trafik Güvenliği İdaresi'ne güvenli olduğunu kanıtlamak zorunda.",
+    "Bu arada dikkatimizi çeken en ilginç yeni detaylardan bazıları şöyle:",
+    "Cybercab ince baskısındaki daha ilginç ayrıntılardan biri, Tesla'nın 13 yaşın altındaki küçüklerin \"şu anda\" araca binmesine izin vermemesidir.",
+    "Tesla'nın \"Robotaxi\" Model Y SUV'larında 8 ila 17 yaş arasındaki reşit olmayanların binmesine izin veriliyor ve Tesla'nın her iki araçta da çocuk koltuklarının nasıl kullanılacağına dair yönergeleri var.",
+    "İlginç bir şekilde, Cybercab çocuk koltukları için standart MANDAL ankrajlarına sahip değildir. Bunun yerine, sadece emniyet kemeri kullanılarak takılabilirler. Musk da dahil olmak üzere Tesla yöneticileri, maliyetleri düşürmek için gereksiz parçaları çıkarmaya ne kadar odaklandıkları hakkında çok konuştular, ancak Musk'ın daha fazla bebek yapma takıntısı göz önüne alındığında, şirketin çocuk koltuğu çapalarını atmasını beklemediğimi itiraf etmeliyim.",
+    "Tesla'ya göre 18 yaşın altındaki tüm çocuklara her iki araçta da bir yetişkin eşlik etmeli. Ancak bir şey Tesla'yı küçük çocukların şimdilik Cybercab'a girmesine izin vermekte tereddüt ettiriyor.",
+    "Otonom bir aracın amacı çarpışmayı önlemek olsa da, bugün yoldaki en yetenekli olanlar bile çarpışmalarla sonuçlanıyor.",
+    "Cybercab kaza yaptığında şunlar olur: Hava yastıkları şişer, kapılar açılır, tehlike uyarı ışıkları ve iç lambalar yanar, yüksek voltajlı batarya devre dışı kalır, pencereler \"havalandırma\" konumuna geçer, Cybercab durup park etmek için fren uygular ve bilgi - eğlence sistemi Tesla'nın sürücü destek ekibiyle iki yönlü bir bağlantı başlatır.",
+    "Kapıların açılması dikkat çekicidir, çünkü Tesla hem Amerika Birleşik Devletleri'nin kendi pazarında hem de en büyük pazarı olan Çin'de elektronik kapı mandallarına güvendiği için eleştirilere maruz kalmıştır. Daha geçen ay Tesla, bir kazanın ardından insanları tuzağa düşürebilecek elektronik kapı mandallarıyla ilgili bir soruşturma sonucunda Çin'de bir dizi otomobil üreticisiyle birlikte 3 milyon aracı geri çağırmayı kabul etti.",
+    "Kapılardan bahsetmişken, Tesla'ya yönelik son zamanlardaki bir başka eleştiri, iç mekan manuel kapı açma düğmelerinin acil bir durumda bulunmasının çok zor olmasıdır. Bunlar gereklidir, çünkü elektronik kapı mandalları, bir düğmeye basarak veya bir akıllı telefon kullanarak etkinleştirilen şirket araçlarına girip çıkmanın ana yöntemidir.",
+    "Cybercab, kapıların sürüşün başında veya sonunda otomatik olarak açılmasını sağlayan elektronik kapı mandalları kullanır. Aracın dış kısmında, yolcuların kapıları açmak için kullanabilecekleri küçük bir düğme de bulunmaktadır. Ama içeride, manuel serbest bırakma neyse ki her kapının kolçağında çok belirgin bir noktadadır.",
+    "Tesla, Cybercab'da yine büyük ölçüde (öyle görünüyor ki) maliyetleri düşürmek amacıyla telli fren sistemi kullanıyor. Tesla, fren basıncını kontrol etmek için hatlardan sıvı pompalayan bir hidrolik sistem kullanmak yerine, fren kaliperlerini kontrol eden elektronik aktüatörlere sahiptir.",
+    "Musk gönderisinde, \"Elektrikli frenlere sahip olmak hidrolik sistemin karmaşıklığını önler: Arabanın her yerine sıhhi tesisat döşemeye gerek yok\" diye yazdı.",
+    "Şirket halihazırda Cybertruck'ında kablo ile direksiyon kullanan ve direksiyon ile ön tekerlekler arasındaki fiziksel bağlantıyı koparan ilk büyük otomobil üreticisiydi.",
+    "Bazı nedenlerden dolayı, Cybercab'ın pencereleri “şu anda tam olarak açılamıyor. Tesla, bu hafta yayımladığı belgelerde bunun nedenini açıklamıyor.",
+    "Etkileyici yazar Jeremy Judkins'e göre, Cybercab'daki USB — C prizleri 90 W'lık güç tüketti. Bu, bir arabanın içinde bulabileceğinizden kabaca 4 kat daha fazla."
+  ],
+  "tags_tr": []
+}

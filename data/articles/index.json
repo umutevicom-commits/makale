@@ -1,33 +1,63 @@
 [
   {
-    "slug": "us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks",
-    "url": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
+    "slug": "another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge",
+    "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "date": "04 September 2026",
+    "fetched_at": "2026-09-04T17:27:09.469996+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "c8480a83370fc5cc8ad12701b899a3d2cc4d68f822397ac84c52b86a497c96c2"
+  },
+  {
+    "slug": "no-little-kids-allowed-and-other-new-info-about-teslas-cybercab",
+    "url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+    "date": "04 September 2026",
+    "fetched_at": "2026-09-04T17:26:35.565978+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "d64c7a79934998ed9136b483d376e334a08f09c256a40360abe8d7e7a3b0c259"
+  },
+  {
+    "slug": "feds-launch-investigation-into-teslas-cybercab-deployment",
+    "url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
+    "date": "04 September 2026",
+    "fetched_at": "2026-09-04T17:26:09.860888+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "28664af0f7c49c522a7f43260efb3df17740806130c107907097f9d08d0398dd"
+  },
+  {
+    "content_hash": "598c47447bda87c0dedddbf766a2adcd5ed42832389f84fde2c4d766303bbb83",
     "date": "04 September 2026",
     "fetched_at": "2026-09-04T13:59:12.184773+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "598c47447bda87c0dedddbf766a2adcd5ed42832389f84fde2c4d766303bbb83"
+    "retries": 0,
+    "slug": "us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/"
   },
   {
-    "slug": "utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit",
-    "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
+    "content_hash": "a4a08c116b786e097a5dfb471f12fb6b86dc7e6e7aa464caa91ac7c302e5a7fb",
     "date": "03 September 2026",
     "fetched_at": "2026-09-04T13:58:41.861113+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "a4a08c116b786e097a5dfb471f12fb6b86dc7e6e7aa464caa91ac7c302e5a7fb"
+    "retries": 0,
+    "slug": "utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/"
   },
   {
-    "slug": "the-cybercab-is-teslas-fork-in-the-road-moment",
-    "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+    "content_hash": "82eb3d7c89f7a32d4700fd2f39a9d47dab022d833cc13305d0909373b435d7a8",
     "date": "03 September 2026",
     "fetched_at": "2026-09-04T13:57:38.399243+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "82eb3d7c89f7a32d4700fd2f39a9d47dab022d833cc13305d0909373b435d7a8"
+    "retries": 0,
+    "slug": "the-cybercab-is-teslas-fork-in-the-road-moment",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/"
   },
   {
     "content_hash": "af46ebb96b85830b5d454c52d309eea236f674f23766840a59b17a49eb51c362",

@@ -89,6 +89,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/"
   },
+  "another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge": {
+    "content_hash": "c8480a83370fc5cc8ad12701b899a3d2cc4d68f822397ac84c52b86a497c96c2",
+    "date": "04 September 2026",
+    "fetched_at": "2026-09-04T17:27:09.469996+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/"
+  },
   "anthropics-new-fable-release-is-cheaper-less-restrictive": {
     "content_hash": "6405f1474424ea5da046b37f6a509efda8d36d75bccb393deb4e0f53f87c6ce0",
     "date": "01 September 2026",
@@ -128,6 +138,16 @@
     "slug": "caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
+  },
+  "cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom": {
+    "content_hash": "",
+    "date": "04 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'The RIAA changed how it calculates dollar figures in 2025, s'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/"
   },
   "chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data": {
     "content_hash": "bd72c3f067862d7c8da3cf20afab8bf19f3502a1473d90667fc381ba95449140",
@@ -180,13 +200,13 @@
     "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/"
   },
   "feds-launch-investigation-into-teslas-cybercab-deployment": {
-    "content_hash": "",
+    "content_hash": "28664af0f7c49c522a7f43260efb3df17740806130c107907097f9d08d0398dd",
     "date": "04 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'The United States’ top automotive safety regulator has opene'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-04T17:26:09.860888+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "feds-launch-investigation-into-teslas-cybercab-deployment",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/"
   },
   "florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns": {
@@ -248,6 +268,16 @@
     "slug": "googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design",
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/"
+  },
+  "googles-gemini-spark-can-now-manage-your-google-photos-library": {
+    "content_hash": "",
+    "date": "04 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Google’s Gemini Spark can now manage your Google Photos libr'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
   },
   "googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella": {
     "content_hash": "021c72fa5c939f4db54006ef9db54e2f5fee0b3b03daf45cf3692b31e98224a2",
@@ -389,6 +419,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/"
   },
+  "krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming": {
+    "content_hash": "",
+    "date": "04 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Krafton doubles down on India with another $250M bet beyond '...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/"
+  },
   "last-two-days-to-apply-to-host-a-side-event-at-techcrunch-disrupt-2026": {
     "content_hash": "c016d043e0a99604fe51a3503df1d6d98ee97bce1bbfa61a1b1ea03ba90ad7e1",
     "date": "03 September 2026",
@@ -398,6 +438,16 @@
     "slug": "last-two-days-to-apply-to-host-a-side-event-at-techcrunch-disrupt-2026",
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/03/last-two-days-to-apply-to-host-a-side-event-at-techcrunch-disrupt-2026/"
+  },
+  "less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event": {
+    "content_hash": "",
+    "date": "04 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Less than 24 hours to apply for your TechCrunch Disrupt 2026'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/"
   },
   "liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals": {
     "content_hash": "17fb4fca02d4d942a73dee7bfbab7bb03204a612cde6b7b1602d72e2a97fd1ff",
@@ -488,6 +538,16 @@
     "slug": "musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem",
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
+  },
+  "no-little-kids-allowed-and-other-new-info-about-teslas-cybercab": {
+    "content_hash": "d64c7a79934998ed9136b483d376e334a08f09c256a40360abe8d7e7a3b0c259",
+    "date": "04 September 2026",
+    "fetched_at": "2026-09-04T17:26:35.565978+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "no-little-kids-allowed-and-other-new-info-about-teslas-cybercab",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/"
   },
   "norway-considers-ban-on-camera-enabled-wearable-pervert-glasses": {
     "content_hash": "2797f59ef531f0ee8862731fd0058550bd450dd445f8fe4b970a62cc2b9306cb",
