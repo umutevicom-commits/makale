@@ -140,13 +140,13 @@
     "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
   },
   "cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom": {
-    "content_hash": "",
+    "content_hash": "595e72b4471f56ce2d6913700429a680d057d41b19534e4edbfdb202c6c865d0",
     "date": "04 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'The RIAA changed how it calculates dollar figures in 2025, s'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-04T20:12:09.260778+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/"
   },
   "chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data": {
@@ -270,13 +270,13 @@
     "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/"
   },
   "googles-gemini-spark-can-now-manage-your-google-photos-library": {
-    "content_hash": "",
+    "content_hash": "7ab6e86f20376755b4fbcc728446c65db873bc15c0a1125f29ab9cc14282f7e7",
     "date": "04 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Google’s Gemini Spark can now manage your Google Photos libr'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-04T20:12:30.631223+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "googles-gemini-spark-can-now-manage-your-google-photos-library",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
   },
   "googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella": {
@@ -409,6 +409,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/"
   },
+  "judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now": {
+    "content_hash": "55a6e56002013ff79ad4fa30de783cdd2de9b8f8e155098e83d0e9999e5f4c67",
+    "date": "04 September 2026",
+    "fetched_at": "2026-09-04T20:13:37.314223+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/"
+  },
   "kalshi-bans-george-santos-for-life-over-state-of-the-union-bets": {
     "content_hash": "49bb0578cc5e2ddafafff5f7ab9d579715da42dfc8a33d955453b7d630045ab4",
     "date": "31 August 2026",
@@ -420,13 +430,13 @@
     "url": "https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/"
   },
   "krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming": {
-    "content_hash": "",
+    "content_hash": "284293c569668552a3f4f6a978637741e786bc0ee94c05a2bb6cb37c9533b4b1",
     "date": "04 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Krafton doubles down on India with another $250M bet beyond '...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-04T20:12:49.625098+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/"
   },
   "last-two-days-to-apply-to-host-a-side-event-at-techcrunch-disrupt-2026": {
@@ -440,13 +450,13 @@
     "url": "https://techcrunch.com/2026/09/03/last-two-days-to-apply-to-host-a-side-event-at-techcrunch-disrupt-2026/"
   },
   "less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event": {
-    "content_hash": "",
+    "content_hash": "4a24fc4eac2557c64993edf759f599aac8be83daa6f5d0a704834d751913845b",
     "date": "04 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Less than 24 hours to apply for your TechCrunch Disrupt 2026'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-04T20:13:10.190633+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/"
   },
   "liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals": {
