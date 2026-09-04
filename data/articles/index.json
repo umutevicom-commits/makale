@@ -1,43 +1,73 @@
 [
   {
-    "slug": "last-two-days-to-apply-to-host-a-side-event-at-techcrunch-disrupt-2026",
-    "url": "https://techcrunch.com/2026/09/03/last-two-days-to-apply-to-host-a-side-event-at-techcrunch-disrupt-2026/",
+    "slug": "openai-launches-astra-its-powerful-and-controversial-new-model",
+    "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-04T02:41:00.575820+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "d5951cea8bce269fe9b747fbd4f7c572ae74262dcb97ad38c1d4274828c85a91"
+  },
+  {
+    "slug": "ollie-is-betting-privacy-can-win-the-ai-assistant-race",
+    "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-04T02:40:01.178465+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "fba4ff4dc12d047b5ed00258f25229b641ba8f6e06a45158bbe3c8f9e09e97e4"
+  },
+  {
+    "slug": "accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation",
+    "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-04T02:39:44.880261+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "aca02abb7a5a79aa5bc108da0cbbe4cbaf9a657e6dfc45fc4263d4a79953d74a"
+  },
+  {
+    "content_hash": "c016d043e0a99604fe51a3503df1d6d98ee97bce1bbfa61a1b1ea03ba90ad7e1",
     "date": "03 September 2026",
     "fetched_at": "2026-09-03T22:13:01.454111+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c016d043e0a99604fe51a3503df1d6d98ee97bce1bbfa61a1b1ea03ba90ad7e1"
+    "retries": 0,
+    "slug": "last-two-days-to-apply-to-host-a-side-event-at-techcrunch-disrupt-2026",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/last-two-days-to-apply-to-host-a-side-event-at-techcrunch-disrupt-2026/"
   },
   {
-    "slug": "googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
-    "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+    "content_hash": "021c72fa5c939f4db54006ef9db54e2f5fee0b3b03daf45cf3692b31e98224a2",
     "date": "03 September 2026",
     "fetched_at": "2026-09-03T22:12:24.489719+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "021c72fa5c939f4db54006ef9db54e2f5fee0b3b03daf45cf3692b31e98224a2"
+    "retries": 0,
+    "slug": "googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/"
   },
   {
-    "slug": "google-launches-ai-voice-features-in-gmail-docs-and-keep",
-    "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+    "content_hash": "b0d89dd0d7418248582bed6484777c4c4e33f21c682e3eb6fb82ad3f3fcac4b9",
     "date": "03 September 2026",
     "fetched_at": "2026-09-03T22:12:09.980252+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "b0d89dd0d7418248582bed6484777c4c4e33f21c682e3eb6fb82ad3f3fcac4b9"
+    "retries": 0,
+    "slug": "google-launches-ai-voice-features-in-gmail-docs-and-keep",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/"
   },
   {
-    "slug": "circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts",
-    "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
+    "content_hash": "a7ff31de2132a59f4bb4a3f0c6f1c566e5468c3ddf94bc76b934aaae8ea7950b",
     "date": "03 September 2026",
     "fetched_at": "2026-09-03T22:11:50.626706+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "a7ff31de2132a59f4bb4a3f0c6f1c566e5468c3ddf94bc76b934aaae8ea7950b"
+    "retries": 0,
+    "slug": "circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/"
   },
   {
     "content_hash": "fb68867f8ccd837e410bfd9a31b542a1b2621bdea667c4805cd48dcbce7d1831",

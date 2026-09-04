@@ -30,13 +30,13 @@
     "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/"
   },
   "accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation": {
-    "content_hash": "",
+    "content_hash": "aca02abb7a5a79aa5bc108da0cbbe4cbaf9a657e6dfc45fc4263d4a79953d74a",
     "date": "03 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Accel reportedly in talks to lead $1B round for Thinking Mac'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-04T02:39:44.880261+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
   },
   "adobe-acquires-indian-market-intelligence-startup-rilo": {
@@ -510,13 +510,13 @@
     "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
   },
   "ollie-is-betting-privacy-can-win-the-ai-assistant-race": {
-    "content_hash": "",
+    "content_hash": "fba4ff4dc12d047b5ed00258f25229b641ba8f6e06a45158bbe3c8f9e09e97e4",
     "date": "03 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'While this method offers security, the downside is that user'...",
-    "retries": 2,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-04T02:40:01.178465+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "ollie-is-betting-privacy-can-win-the-ai-assistant-race",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/"
   },
   "open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems": {
@@ -540,13 +540,13 @@
     "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/"
   },
   "openai-launches-astra-its-powerful-and-controversial-new-model": {
-    "content_hash": "",
+    "content_hash": "d5951cea8bce269fe9b747fbd4f7c572ae74262dcb97ad38c1d4274828c85a91",
     "date": "03 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'OpenAI launches Astra, its powerful (and controversial) new '...",
-    "retries": 2,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-04T02:41:00.575820+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "openai-launches-astra-its-powerful-and-controversial-new-model",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
   },
   "openais-new-reasoning-technique-alarms-ai-safety-experts": {
@@ -573,8 +573,8 @@
     "content_hash": "",
     "date": "03 September 2026",
     "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Qualcomm backs Ultrahuman in $70M round on bet to turn smart'...",
-    "retries": 2,
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'About 12% of its users also pay for PowerPlugs, Ultrahuman’s'...",
+    "retries": 3,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/"
@@ -604,7 +604,7 @@
     "date": "03 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Startup ARR is less secure than ever, new research shows'...",
-    "retries": 1,
+    "retries": 2,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/"
@@ -624,7 +624,7 @@
     "date": "03 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'The Cybercab is Tesla’s ‘fork in the road’ moment'...",
-    "retries": 1,
+    "retries": 2,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/"
@@ -714,7 +714,7 @@
     "date": "03 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Utilities are racing to link up with fusion startups, with R'...",
-    "retries": 1,
+    "retries": 2,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/"

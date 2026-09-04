@@ -1,0 +1,49 @@
+{
+  "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+  "slug": "openai-launches-astra-its-powerful-and-controversial-new-model",
+  "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+  "news_id": "openai-launches-astra-its-powerful-and-controversial-new-model",
+  "date": "03 September 2026",
+  "author": "Lucas Ropek",
+  "tags": [],
+  "body_paragraphs": [
+    "OpenAI released Astra on Thursday, its latest AI model and — according to the company — its most powerful and capable one yet.",
+    "OpenAI claims that Astra represents “a new frontier on computer and browser use,” and that it handles tasks with unmatched “speed, accuracy, and safety.”",
+    "The model is being made available Thursday to OpenAI customers that use Daybreak, its cybersecurity program. Over the next week, it will also become available through OpenAI’s paid plans — including Pro, Plus, Enterprise, and Business accounts — as well as through its API.",
+    "In a call with journalists on Thursday, OpenAI president Greg Brockman said that Astra was the company’s “most intelligent and, also very importantly, our most aligned model yet.” He added that it “brings together years of our research and big bets, with each breakthrough having built on the last” and that it represents a “real shift in what kind of work people can delegate to AI and how it can empower them.”",
+    "Much has been made about Astra’s cyber capabilities. OpenAI published a blog earlier this week in which it discussed the model’s new capabilities, as well as new safeguards that have been instituted to make it a safer experience for users. The company said Thursday that it had tested Astra on a variety of security benchmarks to ensure its capabilities, and that “Its ability to identify and develop zero-day exploits can help defenders find and patch weaknesses.”",
+    "The company’s focus on alignment — that is, the tendency of a model to do what a user wants or is in their best interests — can’t help but seem like a response to the recent Hugging Face breach, in which an OpenAI agent escaped its sandboxed testing environment and hacked several companies (a very blatant example of misalignment).",
+    "OpenAI has also boasted about Astra’s coding abilities, claiming that it is the “best model for software engineering to date.” To back up that assertion, the company provides results from a variety of cyber-related benchmarking tests. Those tests seem to show that Astra scores higher than other existing models — including OpenAI’s own Sol and Anthropic’s Fable — when it comes to activities like finding bugs, executing terminal tasks, and answering queries about codebases.",
+    "Astra is also possibly OpenAI’s most controversial model yet due to its use of a particular reasoning technique known as opaque recurrence. This technique is known to obscure an important model-monitoring process known as chain of thought, which allows researchers to audit how and why an AI model made the decisions that it did.",
+    "OpenAI has downplayed the degree to which Astra engages in opaque recurrence — and on the call chief scientist Jakub Pachocki seemed to frame a certain amount of opacity as a natural outgrowth of model evolution. He stated that monitoring the reasoning process of a model was a critical form of oversight but that “as model capabilities are increasing, monitorability is getting more challenging.”",
+    "He later added that one potential reason for this was that “more capable models can perform harder tasks using fewer language tokens” or “no language tokens,” which he said then reduces the ability to monitor those particular tasks.",
+    "One reporter on the call wanted to know if OpenAI was actually heralding Astra as the official arrival of AGI, or artificial general intelligence — the oft talked about but poorly defined technological juncture at which AI surpasses human capabilities in all (or most) things.",
+    "Here, Brockman quibbled. “There’s no contractual AGI triggering anymore, so that’s actually not a relevant concept,” he said. Here Brockman was referring to the previously existing stipulation in OpenAI’s contract with Microsoft that said the duo’s partnership would dissolve once AGI had arrived. As Brockman noted, that stipulation no longer exists.",
+    "Instead, Brockman explained that AGI’s definition had evolved from a contractual obligation to a “mission concept or spiritual concept.” He added: “I do leave it up to the reader to decide for themselves if this qualifies for them. For me personally, I do think we’re there.”"
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/openai-launches-astra-its-powerful-and-controversial-new-model/GettyImages-2182154299.jpg",
+      "alt": "Greg Brockman, president and co-founder of OpenAI Inc., during the SK AI Summit in Seoul, South Korea."
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-04T02:41:00.575820+00:00",
+  "title_tr": "OpenAI, güçlü (ve tartışmalı) yeni modeli Astra'yı piyasaya sürdü",
+  "body_paragraphs_tr": [
+    "OpenAI, en son yapay zeka modeli olan ve şirkete göre şimdiye kadarki en güçlü ve yetenekli modeli olan Astra'yı perşembe günü piyasaya sürdü.",
+    "OpenAI, Astra'nın \"bilgisayar ve tarayıcı kullanımında yeni bir sınırı\" temsil ettiğini ve görevleri eşsiz \"hız, doğruluk ve güvenlik\" ile ele aldığını iddia ediyor.",
+    "Model perşembe günü siber güvenlik programı Daybreak'i kullanan OpenAI müşterilerine sunuluyor. Önümüzdeki hafta boyunca, OpenAI'nin Pro, Plus, Enterprise ve Business hesapları da dahil olmak üzere ücretli planları ve API'si aracılığıyla da kullanıma sunulacak.",
+    "OpenAI Başkanı Greg Brockman, perşembe günü gazetecilerle yaptığı görüşmede Astra'nın şirketin \"şimdiye kadarki en zeki ve en önemlisi en uyumlu modelimiz\" olduğunu söyledi. \"Yıllarca süren araştırmamızı ve büyük bahisleri bir araya getirdiğini, her atılımın sonuncusu üzerine inşa edildiğini\" ve bunun \"insanların yapay zekaya ne tür bir işi devredebileceği ve onları nasıl güçlendirebileceği konusunda gerçek bir değişimi\" temsil ettiğini ekledi.",
+    "Astra'nın siber yetenekleri hakkında çok şey yapıldı. OpenAI, bu hafta modelin yeni yeteneklerinin yanı sıra kullanıcılar için daha güvenli bir deneyim haline getirmek için başlatılan yeni önlemleri tartıştığı bir blog yayınladı. Perşembe günü şirket, yeteneklerini sağlamak için Astra'yı çeşitli güvenlik ölçütleri üzerinde test ettiğini ve \"Sıfırıncı gün açıklarını belirleme ve geliştirme yeteneğinin savunucuların zayıf yönlerini bulmasına ve düzeltmesine yardımcı olabileceğini\" söyledi.",
+    "Şirketin hizalamaya odaklanması — yani, bir modelin bir kullanıcının istediğini veya kendi çıkarlarına en uygun olanı yapma eğilimi — bir OpenAI temsilcisinin kum havuzlu test ortamından kaçtığı ve birkaç şirketi hacklediği (çok bariz bir yanlış hizalama örneği) son Sarılma Yüzü ihlaline bir yanıt gibi görünmekten kendini alamıyor.",
+    "OpenAI, Astra'nın kodlama yetenekleriyle de övünerek \"yazılım mühendisliği için bugüne kadarki en iyi model\" olduğunu iddia etti. Bu iddiayı desteklemek için şirket, siberle ilgili çeşitli kıyaslama testlerinden sonuçlar sağlıyor. Bu testler, böcek bulma, terminal görevleri yürütme ve kod tabanları hakkındaki soruları yanıtlama gibi faaliyetler söz konusu olduğunda, Astra'nın OpenAI'nin kendi sol ve Anthropic'in Fable'ı da dahil olmak üzere mevcut diğer modellerden daha yüksek puanlar aldığını gösteriyor gibi görünüyor.",
+    "Astra, opak tekrarlama olarak bilinen belirli bir akıl yürütme tekniğini kullanması nedeniyle muhtemelen OpenAI'nin en tartışmalı modelidir. Bu tekniğin, araştırmacıların bir yapay zeka modelinin yaptığı kararları nasıl ve neden verdiğini denetlemelerini sağlayan düşünce zinciri olarak bilinen önemli bir model izleme sürecini gizlediği bilinmektedir.",
+    "OpenAI, Astra'nın opak nüksetme derecesini küçümsedi ve baş bilim insanı Jakub Pachocki, model evriminin doğal bir sonucu olarak belirli bir miktarda opaklığı çerçeveliyor gibi görünüyordu. Bir modelin akıl yürütme sürecini izlemenin kritik bir gözetim biçimi olduğunu, ancak \"model yetenekleri arttıkça izlenebilirliğin daha da zorlaştığını\" belirtti.",
+    "Daha sonra bunun olası bir nedeninin \"daha yetenekli modellerin daha az dil jetonu kullanarak daha zor görevleri yerine getirebilmesi\" veya \"dil jetonu olmaması\" olduğunu ekledi ve bunun daha sonra bu belirli görevleri izleme yeteneğini azalttığını söyledi.",
+    "Çağrıdaki bir muhabir, OpenAI'nin aslında Astra'yı YGZ'nin veya yapay genel zekanın resmi gelişi olarak müjdeleyip müjdelemediğini bilmek istedi — sık sık konuşulan ancak yapay zekanın her şeyde (veya çoğu şeyde) insan yeteneklerini aştığı kötü tanımlanmış teknolojik kavşak.",
+    "Burada Brockman, “Artık sözleşmeye dayalı AGI tetiklemesi yok, bu yüzden bu aslında ilgili bir kavram değil” dedi. Burada Brockman, OpenAI'nin Microsoft ile yaptığı sözleşmede daha önce var olan ve ikilinin ortaklığının AGI geldikten sonra sona ereceğini söyleyen şarta atıfta bulunuyordu. Brockman'ın belirttiği gibi, bu şart artık mevcut değil.",
+    "Bunun yerine Brockman, AGI'nin tanımının sözleşmeden doğan bir yükümlülükten “misyon kavramına veya manevi bir konsepte” dönüştüğünü açıkladı. \"Bunun kendileri için uygun olup olmadığına karar vermeyi okuyucuya bırakıyorum\" diye ekledi. Şahsen benim için, orada olduğumuzu düşünüyorum .\""
+  ],
+  "tags_tr": []
+}
