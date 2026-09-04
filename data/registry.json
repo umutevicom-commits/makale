@@ -179,6 +179,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/"
   },
+  "feds-launch-investigation-into-teslas-cybercab-deployment": {
+    "content_hash": "",
+    "date": "04 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'The United States’ top automotive safety regulator has opene'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/"
+  },
   "florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns": {
     "content_hash": "fb1deb304f96821267f9b10d9efb0e713a67a83a585c76ce73694d325dc34f17",
     "date": "01 September 2026",
@@ -620,13 +630,13 @@
     "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/"
   },
   "the-cybercab-is-teslas-fork-in-the-road-moment": {
-    "content_hash": "",
+    "content_hash": "82eb3d7c89f7a32d4700fd2f39a9d47dab022d833cc13305d0909373b435d7a8",
     "date": "03 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'The company has expanded this Model Y-based system to a few '...",
-    "retries": 3,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-04T13:57:38.399243+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the-cybercab-is-teslas-fork-in-the-road-moment",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/"
   },
   "the-pentagon-now-has-its-own-version-of-chatgpt-and-grok": {
@@ -709,14 +719,24 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/"
   },
+  "us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks": {
+    "content_hash": "598c47447bda87c0dedddbf766a2adcd5ed42832389f84fde2c4d766303bbb83",
+    "date": "04 September 2026",
+    "fetched_at": "2026-09-04T13:59:12.184773+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/"
+  },
   "utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit": {
-    "content_hash": "",
+    "content_hash": "a4a08c116b786e097a5dfb471f12fb6b86dc7e6e7aa464caa91ac7c302e5a7fb",
     "date": "03 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Utilities are racing to link up with fusion startups, with R'...",
-    "retries": 3,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-04T13:58:41.861113+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/"
   },
   "vlc-crosses-7-billion-downloads": {

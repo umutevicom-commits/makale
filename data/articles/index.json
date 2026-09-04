@@ -1,23 +1,53 @@
 [
   {
-    "slug": "startup-arr-is-less-secure-than-ever-new-research-shows",
-    "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
-    "date": "03 September 2026",
-    "fetched_at": "2026-09-04T08:26:27.069123+00:00",
+    "slug": "us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks",
+    "url": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
+    "date": "04 September 2026",
+    "fetched_at": "2026-09-04T13:59:12.184773+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "af46ebb96b85830b5d454c52d309eea236f674f23766840a59b17a49eb51c362"
+    "content_hash": "598c47447bda87c0dedddbf766a2adcd5ed42832389f84fde2c4d766303bbb83"
   },
   {
-    "slug": "qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers",
-    "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+    "slug": "utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit",
+    "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
     "date": "03 September 2026",
-    "fetched_at": "2026-09-04T08:25:44.538554+00:00",
+    "fetched_at": "2026-09-04T13:58:41.861113+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "ddc1201e1f78ce607d4e590eb945f51ccb21e20624e5c0862252eda1b0954dc5"
+    "content_hash": "a4a08c116b786e097a5dfb471f12fb6b86dc7e6e7aa464caa91ac7c302e5a7fb"
+  },
+  {
+    "slug": "the-cybercab-is-teslas-fork-in-the-road-moment",
+    "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-04T13:57:38.399243+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "82eb3d7c89f7a32d4700fd2f39a9d47dab022d833cc13305d0909373b435d7a8"
+  },
+  {
+    "content_hash": "af46ebb96b85830b5d454c52d309eea236f674f23766840a59b17a49eb51c362",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-04T08:26:27.069123+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "startup-arr-is-less-secure-than-ever-new-research-shows",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/"
+  },
+  {
+    "content_hash": "ddc1201e1f78ce607d4e590eb945f51ccb21e20624e5c0862252eda1b0954dc5",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-04T08:25:44.538554+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/"
   },
   {
     "content_hash": "d5951cea8bce269fe9b747fbd4f7c572ae74262dcb97ad38c1d4274828c85a91",
