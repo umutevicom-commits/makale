@@ -359,6 +359,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/"
   },
+  "hikers-rescued-after-using-google-gemini-for-planning": {
+    "content_hash": "003039d7143274ed69b604e370355884a2a25a5b53408444a8bb0fd51af5c98e",
+    "date": "05 September 2026",
+    "fetched_at": "2026-09-05T21:52:14.622349+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "hikers-rescued-after-using-google-gemini-for-planning",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
+  },
   "how-ai-could-make-it-harder-for-governments-to-use-hacking-tools": {
     "content_hash": "59c28c3ffb8cfe79cce812b75b6b1a375105ce8d240152613df75ec574b562a0",
     "date": "31 August 2026",

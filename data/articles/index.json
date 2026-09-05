@@ -1,23 +1,33 @@
 [
   {
-    "slug": "cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster",
-    "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
+    "slug": "hikers-rescued-after-using-google-gemini-for-planning",
+    "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
     "date": "05 September 2026",
-    "fetched_at": "2026-09-05T19:51:25.660496+00:00",
+    "fetched_at": "2026-09-05T21:52:14.622349+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "488f0b8ac6d7a745d4b4195c314532275772b777df948584a612585873e7316a"
+    "content_hash": "003039d7143274ed69b604e370355884a2a25a5b53408444a8bb0fd51af5c98e"
   },
   {
-    "slug": "openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
-    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "content_hash": "488f0b8ac6d7a745d4b4195c314532275772b777df948584a612585873e7316a",
+    "date": "05 September 2026",
+    "fetched_at": "2026-09-05T19:51:25.660496+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/"
+  },
+  {
+    "content_hash": "5f771f657d3b8d488f4c6bf3f89019ca56c232a73e13714e9691092116c8ce6a",
     "date": "05 September 2026",
     "fetched_at": "2026-09-05T19:51:05.724398+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "5f771f657d3b8d488f4c6bf3f89019ca56c232a73e13714e9691092116c8ce6a"
+    "retries": 0,
+    "slug": "openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
   },
   {
     "content_hash": "3ef9722bbc041785f256529f9b309d9170bfc7b7cceb9a80729730a742a7daa0",
