@@ -1,0 +1,33 @@
+{
+  "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+  "slug": "seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
+  "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+  "news_id": "seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
+  "date": "05 September 2026",
+  "author": "Anthony Ha",
+  "tags": [],
+  "body_paragraphs": [
+    "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+    "A lawsuit filed by The Seattle Times and Newsday argued that with the advent of AI, the journalism industry could become “broken beyond repair.” The lawsuit described generative AI as “a snake eating its own tail” that could “destroy the very organizations” that produce the content it’s trained on.",
+    "“AI products like ChatGPT and CoPilot are touted as producers of content, but in fact they are rapacious consumers, devouring human-authored content and delivering back to the world copies and derivative imitations of that same original content they consumed to achieve their commercial objectives,” the lawsuit said.",
+    "Back in 2023, The New York Times sued OpenAI and its partner/investor Microsoft over alleged copyright infringement; other publications have followed suit as the case continued. The Seattle Times’ lawsuit is particularly notable because Microsoft and OpenAI have funded some of the organization’s journalism projects and fellowships.",
+    "A Microsoft spokesperson told GeekWire that the company is “surprised by the lawsuit” but is “always happy to sit down and explore solutions to this type of dispute.”"
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/artifact-newspaper-icon.jpg",
+      "alt": "cartoon newspaper on orange nackground"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-05T23:30:29.990398+00:00",
+  "title_tr": "Seattle Times ve Newsday, OpenAI ve Microsoft'a dava açan en son yayınlar oldu",
+  "body_paragraphs_tr": [
+    "İki haber kuruluşu daha OpenAI ve Microsoft'a yapay zekayı eğitmek için gazeteciliklerini kullandıkları iddiasıyla dava açıyor.",
+    "The Seattle Times ve Newsday tarafından açılan bir davada, yapay zekanın ortaya çıkmasıyla gazetecilik endüstrisinin \"onarılamaz hale gelebileceği\" savunuldu. Dava, üretken yapay zekayı, eğitim aldığı içeriği üreten \"kuruluşları yok edebilecek\" \"kendi kuyruğunu yiyen bir yılan\" olarak tanımladı.",
+    "Davada, \"ChatGPT ve CoPilot gibi yapay zeka ürünleri içerik üreticileri olarak lanse ediliyor, ancak aslında açgözlü tüketiciler, insan tarafından yazılmış içeriği tüketiyorlar ve ticari hedeflerine ulaşmak için tükettikleri aynı orijinal içeriğin kopyalarını ve türev taklitlerini dünyaya geri teslim ediyorlar\" ifadeleri yer aldı.",
+    "2023 'te The New York Times, OpenAI ve ortağı/yatırımcısı Microsoft'a telif hakkı ihlali iddiasıyla dava açmıştı; dava devam ederken diğer yayınlar da aynı davayı takip etti. Seattle Times'ın davası özellikle dikkat çekici çünkü Microsoft ve OpenAI, kuruluşun bazı gazetecilik projelerini ve burslarını finanse etti.",
+    "Bir Microsoft sözcüsü GeekWire'a, şirketin \"dava karşısında şaşırdığını\" ancak \"oturup bu tür anlaşmazlıkların çözümlerini araştırmaktan her zaman mutluluk duyduğunu\" söyledi."
+  ],
+  "tags_tr": []
+}

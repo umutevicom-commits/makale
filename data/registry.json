@@ -719,6 +719,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/"
   },
+  "seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft": {
+    "content_hash": "06a22cc96d1196e727f546327f4234d1db9f2f7c210a5a6e5ee5ffb12b64009b",
+    "date": "05 September 2026",
+    "fetched_at": "2026-09-05T23:30:29.990398+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+  },
   "sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen": {
     "content_hash": "7e31aa83370ca9a1b741d76a383a42dcb6e65cfc0947a63112bb99cefc42c3b8",
     "date": "01 September 2026",

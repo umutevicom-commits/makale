@@ -6,7 +6,24 @@
     <atom:link href="https://techcrunch.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>TechCrunch haberlerinin eksiksiz Türkçe çevirisi</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 21:52:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 23:30:41 +0000</lastBuildDate>
+    <item>
+      <title>Seattle Times ve Newsday, OpenAI ve Microsoft'a dava açan en son yayınlar oldu</title>
+      <link>https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <author>Anthony Ha</author>
+      <description>İki haber kuruluşu daha OpenAI ve Microsoft'a yapay zekayı eğitmek için gazeteciliklerini kullandıkları iddiasıyla dava açıyor.</description>
+      <media:content url="https://umutevicom-commits.github.io/makale/data/images/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/artifact-newspaper-icon.jpg" medium="image" type="image/jpeg" />
+      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/artifact-newspaper-icon.jpg" />
+      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/artifact-newspaper-icon.jpg" type="image/jpeg" length="0" />
+      <content:encoded><![CDATA[<p>İki haber kuruluşu daha OpenAI ve Microsoft'a yapay zekayı eğitmek için gazeteciliklerini kullandıkları iddiasıyla dava açıyor.</p>
+<p>The Seattle Times ve Newsday tarafından açılan bir davada, yapay zekanın ortaya çıkmasıyla gazetecilik endüstrisinin &quot;onarılamaz hale gelebileceği&quot; savunuldu. Dava, üretken yapay zekayı, eğitim aldığı içeriği üreten &quot;kuruluşları yok edebilecek&quot; &quot;kendi kuyruğunu yiyen bir yılan&quot; olarak tanımladı.</p>
+<p>Davada, &quot;ChatGPT ve CoPilot gibi yapay zeka ürünleri içerik üreticileri olarak lanse ediliyor, ancak aslında açgözlü tüketiciler, insan tarafından yazılmış içeriği tüketiyorlar ve ticari hedeflerine ulaşmak için tükettikleri aynı orijinal içeriğin kopyalarını ve türev taklitlerini dünyaya geri teslim ediyorlar&quot; ifadeleri yer aldı.</p>
+<p>2023 'te The New York Times, OpenAI ve ortağı/yatırımcısı Microsoft'a telif hakkı ihlali iddiasıyla dava açmıştı; dava devam ederken diğer yayınlar da aynı davayı takip etti. Seattle Times'ın davası özellikle dikkat çekici çünkü Microsoft ve OpenAI, kuruluşun bazı gazetecilik projelerini ve burslarını finanse etti.</p>
+<p>Bir Microsoft sözcüsü GeekWire'a, şirketin &quot;dava karşısında şaşırdığını&quot; ancak &quot;oturup bu tür anlaşmazlıkların çözümlerini araştırmaktan her zaman mutluluk duyduğunu&quot; söyledi.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/artifact-newspaper-icon.jpg" alt="cartoon newspaper on orange nackground" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
     <item>
       <title>Google Gemini'yi planlama için kullanan yürüyüşçüler kurtarıldı</title>
       <link>https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/</link>
@@ -1439,30 +1456,6 @@
 <p>Yerelden San Francisco'ya tercih edilir, ancak her yerden insanları ağırlıyoruz.</p>
 <p>Startup topluluğu, ortaya çıkan ve bir şeyleri gerçekleştiren insanlardan oluşur. Onlardan biri ol. Başvuru 25 Eylül'de sona eriyor. Disrupt 2026 'da gönüllü olun.</p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026/TechCrunch-Disrupt-2025-Day-3.jpg" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>GoPro 285 milyon $ karşılığında satın alınacak ve halka açık bir şirket olarak kalacak</title>
-      <link>https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <author>Sean O'Kane</author>
-      <description>Yıllarca süren finansal mücadelelerin ardından, aksiyon kamerası öncüsü GoPro 285 milyon $ karşılığında satın alınıyor.</description>
-      <media:content url="https://umutevicom-commits.github.io/makale/data/images/gopro-to-be-acquired-for-285m-will-remain-a-public-company/13-h13-lens-cover-gcm-50-1920-375.webp" medium="image" type="image/webp" />
-      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/gopro-to-be-acquired-for-285m-will-remain-a-public-company/13-h13-lens-cover-gcm-50-1920-375.webp" />
-      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/gopro-to-be-acquired-for-285m-will-remain-a-public-company/13-h13-lens-cover-gcm-50-1920-375.webp" type="image/webp" length="0" />
-      <content:encoded><![CDATA[<p>Yıllarca süren finansal mücadelelerin ardından, aksiyon kamerası öncüsü GoPro 285 milyon $ karşılığında satın alınıyor.</p>
-<p>Starman Optical adlı bir şirket GoPro ile birleşmeyi kabul etti. Anlaşma, Starman Optical'in GoPro hissedarlarına hisse başına 1,14 $ ödemesini ve bu hissedarlara yeni kurulan şirketin yaklaşık % 10 'unu bırakmasını içeriyor. Bu yılın sonuna kadar tamamlanması beklenen anlaşma, GoPro'nun 92 milyon $ tutarındaki ödenmemiş borcunu silecek.</p>
-<p>Salı sabahı duyurulan birleşme, GoPro'nun kamera üretmekten savunma teknolojisi şirketi olmaya geçmeyi düşündüğünü açıklamasından birkaç ay sonra gerçekleşti. Bir gün kadar önce, YouTuber Markiplier, GoPro'da % 8,5 'lik bir hisse topladığını açıkladı.</p>
-<p>Şirket, birleşmenin &quot;şirketi yeniden sermayelendirerek, bilançosunu güçlendirerek, büyümeye yatırım yaparak ve stratejik pazarlar için ürünlerin üretimini artırarak tüketici, ticari ve savunma pazarlarındaki GoPro'nun fikri mülkiyetinin ve büyüme potansiyelinin değerini en üst düzeye çıkaracağını&quot; söylediği için bu hala kartlarda görünüyor.</p>
-<p>GoPro ayrıca “büyümeye ve daha geniş, çeşitlendirilmiş bir ürün yol haritasına yatırım yaparken” mevcut tüketici ürünlerini “tam olarak destekleyecektir ”.</p>
-<p>Tüm bunların ne anlama geldiği tam olarak belli değil ve Starman Optical'in performansını değerlendirmek için önemli bir sicili yok.</p>
-<p>Şirket, Starman New Photonics işi aracılığıyla optik alıcı - vericilerin ve ilgili fotonik teknolojilerinin geliştirilmesine ve yerli üretimine odaklanan bir optik - fotonik şirketi olarak kendini faturalandırıyor. &quot;Hem Starman Optical hem de Starman New Photonics, Incase, Incipio ve Griffin gibi tüketici teknoloji markalarının sahibi olan Starman Holding'in bir parçasıdır.</p>
-<p>Starman Optical sadece 31 Ağustos'ta Delaware'de kurulurken, Starman New Photonics 2025 'te kurulmuş gibi görünüyor ve New Jersey'de bir üretim tesisi inşa ediyor.</p>
-<p>Starman Holdings CEO'su Charles Tebele yaptığı açıklamada, &quot;Gelişmiş optik ve görüntüleme yapay zeka, ulusal güvenlik ve daha geniş ekonomi için şart, ancak bu teknolojileri destekleyen kritik donanımların çoğu yurtdışında üretilmeye devam ediyor&quot; dedi. “GoPro'nun birinci sınıf optik uzmanlığı ve fikri mülkiyetinin Starman'ın gelişmiş alıcı - verici yetenekleri ve ABD üretim platformu eşsiz bir fırsat yaratıyor. Birlikte, bu kritik bileşenlerin üretimini ABD'ye geri getirmeyi amaçlıyoruz .&quot;</p>
-<p>GoPro, aksiyon kameralarının yılda milyonlarca birim sattığı 2014 yılında halka açıldı. O zamandan bu yana geçen on yılda şirket, dronlar ve 360 derecelik kameralar gibi yeni kategorilere ayrılmayı denedi, ancak ikisinde de pek şans bulamadı. GoPro daha sonra aksiyon kameralarının yüksek performanslı versiyonlarına yeniden odaklandı ve onları profesyonelleri, potansiyel tüketicileri ve sporcuları hedef almaya devam etti, ancak işi daralttığı için birden fazla işten çıkarma turu yapmak zorunda kaldı.</p>
-<p>Haziran ayında GoPro, hissedarları yeni finansman olmadan iflas edebileceği konusunda uyardı. Ertesi ay, kurucu ve CEO Nick Woodman, işleri devam ettirmek için işe 20 milyon $ koyduğunu söyledi.</p>
-<p>“Bu birleşmenin, GoPro'nun önde gelen bir Amerikan görüntüleme ve optik çözümler şirketi olarak tüketici, ticari ve savunma pazarlarında büyümesini sağlayarak kameralar, optik ve yapay zeka altyapısı ile ilgili önemli ulusal güvenlik alanlarını ele almasını bekliyoruz. Bu fırsattan yararlanmak ve Amerika'nın geleceğinde önemli bir rol oynamak için Starman ekibiyle bir araya gelmekten heyecan duyuyoruz&quot; dedi.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/gopro-to-be-acquired-for-285m-will-remain-a-public-company/13-h13-lens-cover-gcm-50-1920-375.webp" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
     </item>
   </channel>
 </rss>

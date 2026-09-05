@@ -1,13 +1,23 @@
 [
   {
-    "slug": "hikers-rescued-after-using-google-gemini-for-planning",
-    "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "slug": "seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
+    "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
     "date": "05 September 2026",
-    "fetched_at": "2026-09-05T21:52:14.622349+00:00",
+    "fetched_at": "2026-09-05T23:30:29.990398+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "003039d7143274ed69b604e370355884a2a25a5b53408444a8bb0fd51af5c98e"
+    "content_hash": "06a22cc96d1196e727f546327f4234d1db9f2f7c210a5a6e5ee5ffb12b64009b"
+  },
+  {
+    "content_hash": "003039d7143274ed69b604e370355884a2a25a5b53408444a8bb0fd51af5c98e",
+    "date": "05 September 2026",
+    "fetched_at": "2026-09-05T21:52:14.622349+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "hikers-rescued-after-using-google-gemini-for-planning",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
   },
   {
     "content_hash": "488f0b8ac6d7a745d4b4195c314532275772b777df948584a612585873e7316a",
