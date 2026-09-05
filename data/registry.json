@@ -179,6 +179,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/"
   },
+  "cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster": {
+    "content_hash": "488f0b8ac6d7a745d4b4195c314532275772b777df948584a612585873e7316a",
+    "date": "05 September 2026",
+    "fetched_at": "2026-09-05T19:51:25.660496+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/"
+  },
   "delivery-hero-board-backs-ubers-15b-takeover-bid": {
     "content_hash": "4a6aa47288c511df1e96dc3f33b14cb0b9199ab803c14af8502ae111f61e1000",
     "date": "02 September 2026",
@@ -618,6 +628,16 @@
     "slug": "open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems",
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"
+  },
+  "openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure": {
+    "content_hash": "5f771f657d3b8d488f4c6bf3f89019ca56c232a73e13714e9691092116c8ce6a",
+    "date": "05 September 2026",
+    "fetched_at": "2026-09-05T19:51:05.724398+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
   },
   "openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting": {
     "content_hash": "08276edd67e9b612e7f715c61156b49ae0d5ce6353bb341f768dd22e6b539aa1",

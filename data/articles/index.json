@@ -1,13 +1,33 @@
 [
   {
-    "slug": "oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown",
-    "url": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
+    "slug": "cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster",
+    "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
     "date": "05 September 2026",
-    "fetched_at": "2026-09-05T16:30:03.895532+00:00",
+    "fetched_at": "2026-09-05T19:51:25.660496+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "3ef9722bbc041785f256529f9b309d9170bfc7b7cceb9a80729730a742a7daa0"
+    "content_hash": "488f0b8ac6d7a745d4b4195c314532275772b777df948584a612585873e7316a"
+  },
+  {
+    "slug": "openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "date": "05 September 2026",
+    "fetched_at": "2026-09-05T19:51:05.724398+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "5f771f657d3b8d488f4c6bf3f89019ca56c232a73e13714e9691092116c8ce6a"
+  },
+  {
+    "content_hash": "3ef9722bbc041785f256529f9b309d9170bfc7b7cceb9a80729730a742a7daa0",
+    "date": "05 September 2026",
+    "fetched_at": "2026-09-05T16:30:03.895532+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/"
   },
   {
     "content_hash": "e717ff63d5921bc7a463b45a77309f477b6f788c3f84048bec4ce36f05304f46",
