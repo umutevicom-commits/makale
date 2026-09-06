@@ -6,7 +6,24 @@
     <atom:link href="https://techcrunch.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>TechCrunch haberlerinin eksiksiz Türkçe çevirisi</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 16:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 19:55:13 +0000</lastBuildDate>
+    <item>
+      <title>Travis Kalanick'in Atomları robotaksi işine giriyor olabilir</title>
+      <link>https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <author>Anthony Ha</author>
+      <description>Bu yaz Travis Kalanick'ten Atoms, Andreessen Horowitz liderliğinde 1,7 milyar $ tutarında bir finansman turu duyurmuştu. Ancak bu mega turu yükselttikten sonra bile, Uber'in kurucusu aslında ne yapmayı amaçladığı konusunda biraz ketum kaldı.</description>
+      <media:content url="https://umutevicom-commits.github.io/makale/data/images/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/travis-kalanick-fii-e1787167348304.jpg" medium="image" type="image/jpeg" />
+      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/travis-kalanick-fii-e1787167348304.jpg" />
+      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/travis-kalanick-fii-e1787167348304.jpg" type="image/jpeg" length="0" />
+      <content:encoded><![CDATA[<p>Bu yaz Travis Kalanick'ten Atoms, Andreessen Horowitz liderliğinde 1,7 milyar $ tutarında bir finansman turu duyurmuştu. Ancak bu mega turu yükselttikten sonra bile, Uber'in kurucusu aslında ne yapmayı amaçladığı konusunda biraz ketum kaldı.</p>
+<p>Şimdi Financial Times'taki bir haber, Atom'un hedefleri hakkında daha fazla ayrıntı sunuyor. Girişimin, onu otonom araç endüstrisinde önemli bir oyuncu haline getirebilecek bir işe alım çılgınlığının yanı sıra satın almalara hazırlandığı bildiriliyor.</p>
+<p>FT, Atoms'un Uber'le araç çağırma şirketinin startup'ın robotaksi teknolojisini nasıl kullanabileceği hakkında konuştuğunu söyledi. (Uber, uzun bir otonom araç şirketleri listesiyle zaten iş ortaklığı yaptı.) Raporda ayrıca Uber'in Atoms'a 100 milyon $ yatırım yaptığı da belirtildi. Bu rakam daha önce TechCrunch tarafından da teyit edilmişti.</p>
+<p>Kaynaklar, robotaksilerin Atomların planlarının tamamını temsil etmediğini vurgularken, bu yön Kalanick'in turu “bitmemiş iş” olarak tanımlamasıyla tutarlı görünüyor.</p>
+<p>Aynı zamanda Atoms'un Uber'in eski otonom şefi Anthony Levandowski liderliğindeki otonom madencilik girişimi Pronto'yu satın almasıyla da uyumlu. (Levandowski ticari sırları çalmaktan mahkum edildi ve 18 ay hapis cezasına çarptırıldı, ancak daha sonra Başkan Donald Trump tarafından affedildi.)</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/travis-kalanick-fii-e1787167348304.jpg" alt="Travis Kalanick" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
     <item>
       <title>Geri dönüş yapan retro teknolojisine bir göz atalım</title>
       <link>https://techcrunch.com/2026/09/06/lets-take-a-look-at-the-retro-tech-making-a-comeback/</link>
@@ -1456,23 +1473,6 @@
 <p>Birçok kullanıcı şimdiye kadar muhtemelen iyileştirmeler görüyor olsa da, Microsoft henüz hizmetinin normale döndüğünü söylemedi.</p>
 <p>Şirketin X'e gönderdiği son mesajda, &quot;telemetriden gelen göstergelerin olumlu olmaya devam ettiği&quot; ve hizmet kullanılabilirliğinin arttığı belirtildi. Microsoft, tam bir çözüm sağlamak için artık genişletilmiş bir izleme dönemine girdiğini söyledi.</p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/microsoft-365-outage-drags-on-but-things-are-improving/GettyImages-1185699748-e1697104507888.jpg" alt="A Microsoft store entrance with the company's logo" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>John Ternus, Apple CEO'su olarak ilk notunda &quot;büyük lansmanı&quot; abarttı</title>
-      <link>https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <author>Amanda Silberling</author>
-      <description>John Ternus, 15 yıldır bu görevi yürüten Tim Cook'un yerini alarak Apple CEO'su olarak dizginleri resmen devraldı.</description>
-      <media:content url="https://umutevicom-commits.github.io/makale/data/images/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/GettyImages-2271736494.jpg" medium="image" type="image/jpeg" />
-      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/GettyImages-2271736494.jpg" />
-      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/GettyImages-2271736494.jpg" type="image/jpeg" length="0" />
-      <content:encoded><![CDATA[<p>John Ternus, 15 yıldır bu görevi yürüten Tim Cook'un yerini alarak Apple CEO'su olarak dizginleri resmen devraldı.</p>
-<p>Şirketin eski Donanım Mühendisliği kıdemli başkan yardımcısı Ternus, Apple için kritik bir zamanda CEO rolüne giriyor. 9 Eylül'de şirket, Apple'ın ilk katlanabilir iPhone'unun lansmanını da içerdiği söylenen yıllık iPhone etkinliğine ev sahipliği yapacak. Apple'ın yeni ve geliştirilmiş Siri yapay zekasını daha geniş bir alana yayması da bekleniyor. Bu, şirketin Siri'yi OpenAI'nin ChatGPT'si veya Anthropic'in Claude'u gibi sohbet robotlarına eşit olarak konumlandırması için önemli bir fırsat.</p>
-<p>Bloomberg'e göre Ternus, salı günü personele gönderdiği bir notta &quot;Gelecek hafta olağanüstü olacak büyük bir lansmanımız var&quot; diye yazdı. &quot;Halihazırda yapım aşamasında olan inanılmaz ürünler ve birlikte hayal edip yaratacağımızı henüz hayal bile etmediğimiz ürünler de dahil olmak üzere, bunun ötesinde ne olduğu konusunda da aynı derecede heyecanlıyım .&quot;</p>
-<p>Apple'ın kamera donanımlı AirPod'lar, akıllı gözlükler ve dokunmatik ekranlı bir dizüstü bilgisayar gibi birkaç yeni ürün üzerinde çalıştığı söyleniyor.</p>
-<p>Tim Cook, CEO olarak son gününde personele &quot;Dümeni John kadar zeki, harika ve yetenekli birine vermekten büyük rahatlık duyuyorum&quot; diye yazdı. &quot;John'un yaptığı gibi dünyayı değiştiren ürünler üretmenin ne demek olduğunu çok az insan anlıyor ve onun liderliği için daha heyecanlı olamazdım .&quot;</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/GettyImages-2271736494.jpg" alt="John Ternus" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
