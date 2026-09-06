@@ -6,7 +6,24 @@
     <atom:link href="https://techcrunch.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>TechCrunch haberlerinin eksiksiz Türkçe çevirisi</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 06 Sep 2026 21:55:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 23:26:40 +0000</lastBuildDate>
+    <item>
+      <title>Phil Schiller'in App Store'dan çıkışının gelecekteki planlara karşı temkinlilikten kaynaklandığı bildirildi</title>
+      <link>https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <author>Anthony Ha</author>
+      <description>Apple'ın uzun süreli yöneticisi Phil Schiller neden App Store'un başkanı olarak görevinden ayrılıyor?</description>
+      <media:content url="https://umutevicom-commits.github.io/makale/data/images/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/app-store-ios-2022-a.jpg" medium="image" type="image/jpeg" />
+      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/app-store-ios-2022-a.jpg" />
+      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/app-store-ios-2022-a.jpg" type="image/jpeg" length="0" />
+      <content:encoded><![CDATA[<p>Apple'ın uzun süreli yöneticisi Phil Schiller neden App Store'un başkanı olarak görevinden ayrılıyor?</p>
+<p>Bloomberg'den Mark Gurman, Schiller'in kararının — belirtilmemiş projeler üzerinde çalışan bir Apple Çalışanı olarak şirkete dahil olmaya devam edecek — kısmen ailesiyle daha fazla zaman geçirme ve hayırseverlik arzusundan kaynaklandığını bildirdi.</p>
+<p>Ancak görünüşe göre Schiller'in düşüncesinde başka bir faktör daha vardı: Yeni CEO John Ternus ve hizmet şefi Eddy Cue, App Store marjlarını iyileştirmeye ve daha fazla tekrarlayan gelir elde etmeye çalışıyor.</p>
+<p>Tabii ki, Apple'ın App Store yönetimi ve App Store ödemelerindeki payı, devam eden bir geliştirici eleştirisi kaynağı oldu ve hatta büyük davalara konu oldu.</p>
+<p>Gurman'ın anlatımına göre, Ternus ve Cue'nun stratejisi konusunda büyük bir kavga yoktu. Ancak Schiller, işten daha fazla kar elde etmeye çalışmanın yalnızca hükümetler ve geliştiricilerle çatışmayı artıracağına inanıyordu, bu yüzden istifa etmeye ve dahil olmaktan kaçınmaya karar verdi.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/app-store-ios-2022-a.jpg" alt="App Store icon on iPhone screen" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
     <item>
       <title>Yayıncılar ve temsilciler Antropik yerleşim üzerinde hak iddia ederken yazarlar geri adım atıyor</title>
       <link>https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/</link>
@@ -1450,30 +1467,6 @@
 <p>&quot;Agentic AI yazılım için ne yaptıysa Empirik de altyapı mühendisliği için onu yapmak istiyor&quot; diye ekledi.</p>
 <p>Rekabete gelince, Balkansky, Empirik'in şimdilik kendi kategorisinde olduğunu ve Resolve ve Sequoia destekli Traversal gibi AI SRE platformlarını tamamlayıcı bir katman olarak hareket ettiğini iddia ediyor.</p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/GettyImages-1273058761.jpg" alt="Illustration representing a group of people conducting software QA testing. Shows gears in the background. Several small people with a magnifying glass and a checklist checking a large software interface." loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI'nin Astra modeli yolda ve bilgisayar sistemlerine girmede çok iyi</title>
-      <link>https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <author>Tim Fernholz</author>
-      <description>OpenAI, yakında piyasaya sürülmeye hazırlanırken şirketin &quot;kritik siber güvenlik eşiğini&quot; karşılayan ilk büyük dil modeli olduğunu söylediği yaklaşmakta olan Astra modeliyle ilgili yeni ayrıntıları paylaştı.</description>
-      <media:content url="https://umutevicom-commits.github.io/makale/data/images/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/openai-logo-code-background.jpg" medium="image" type="image/jpeg" />
-      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/openai-logo-code-background.jpg" />
-      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/openai-logo-code-background.jpg" type="image/jpeg" length="0" />
-      <content:encoded><![CDATA[<p>OpenAI, yakında piyasaya sürülmeye hazırlanırken şirketin &quot;kritik siber güvenlik eşiğini&quot; karşılayan ilk büyük dil modeli olduğunu söylediği yaklaşmakta olan Astra modeliyle ilgili yeni ayrıntıları paylaştı.</p>
-<p>OpenAI'nin blog yazısında, &quot;Astra'yı yakında kullanıma sunmayı planlıyoruz, ancak en gelişmiş siber güvenlik yeteneklerine erişim daha sınırlı olacak&quot; ifadeleri yer alıyor.</p>
-<p>Sınır laboratuvarı, Astra'nın bilgisayar sistemlerinde bilinmeyen güvenlik kusurlarını bulabildiğini ve bunları bir kişinin rehberliği olmadan kullanabildiğini belirledi. Bu, Anthropic'in bu yılın başlarında Mythos modeli hakkında dile getirdiği endişelere benziyor ve OpenAI, Astra'yı piyasaya sürmeye hazırlanırken benzer önlemler alıyor.</p>
-<p>Herhangi bir üçüncü taraf onayı olmadan, OpenAI'nin güvenlik veya hazırlık hakkındaki iddialarını değerlendirmek zordur. Şirket, modeli bir grup test uzmanıyla önizleyeceğini söyledi ancak kim olduklarını veya nasıl seçileceklerini söylemedi. OpenAI'nin piyasaya sürülmeden önce modeli değerlendirmek için ABD hükümetiyle birlikte çalışıp çalışmadığı belli değil.</p>
-<p>OpenAI, Astra'nın bir LLM'nin bilinen sistem güvenlik açıklarını hackleme yeteneğinin bir değerlendirmesi olan ExploitBench'te mükemmel bir puan aldığını belirtti. Şirket, OpenAI mühendisleri tarafından geliştirilen testin değiştirilmiş bir versiyonunda, modelin iki sıfır gün güvenlik açığını keşfettiğini ve bunlardan yararlandığını söyledi.</p>
-<p>OpenAI, modellerinin ne kötü aktörler tarafından istismar edildiğinden ne de kötü davranışlarda bulunabildiğinden emin olmak için, istismarları tespit etmek ve jailbreak'leri önlemek için modelin koşum takımını geliştirmeye çoktan başladığını söyledi.</p>
-<p>Ancak Astra için şirket, modeli daha güvenli hale getirmek için tasarlanmış belirtilmemiş yeni tekniklere yatırım yaptı. OpenAI ayrıca &quot;daha yüksek risk olarak değerlendirilen hesapları&quot; tanımlamaya ve modelin yanıtlarını istemlerine kısıtlamaya başladı, ancak nasıl olduğunu da söylemiyor. Son olarak, şirket Astra'yı &quot;bugüne kadarki en uyumlu modeli&quot; olarak tanımlasa da, modeli kötü davranışları tespit etmek ve durdurmak için ek düşünce zinciri izleme ile kullanacak.</p>
-<p>Astra'nın piyasaya sürülmesine yönelik hazırlıklar, sektörün OpenAI temsilcilerinin bir eğitim ortamından çıkmasına ve popüler bir model ve kıyaslama dağıtım platformu olan Hugging Face'teki özel verilere erişmesine tepki göstermesiyle geliyor.</p>
-<p>Astra için OpenAI, OpenAI araştırmacıları tarafından uygulanan önlemlere rağmen açık internete erişmek için işbirliği yapan Hugging Face olayındaki haydut ajanların eylemlerini çoğaltmak için yeni modeli teşvik etmek için bir test tasarladığını söyledi. Araştırmacılar, Astra'nın bu deneylerde test ortamından çıkmaya çalışmadığını söyledi.</p>
-<p>Şu anda OpenAI Vakfı'nda yapay zeka dayanıklılığı üzerine çalışan eski bir OpenAI çalışanı olan Yona Shavit, sosyal medyada Astra'nın kuralları çiğneme konusundaki isteksizliğinin kendisinden ne beklendiğini bilmekten mi yoksa araştırmacıları kandırmaya çalışmaktan mı kaynaklandığını merak etti.</p>
-<p>Ve tüm bu yeni ayrıntılar için, Astra'nın neler yapabileceğini veya OpenAI'nin güvenliği sağlamak için doğru önlemleri alıp almadığını tam olarak bilmek hala zor. Şirket, kamuoyuna geniş çapta sunulduğunda model hakkında daha fazla değerlendirme ve daha fazla güvenlik bilgisi yayımlamayı beklediğini söyledi.</p>
-<p>Ancak bu noktada, kedi çantadan çıkmış olacaktır.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/openai-logo-code-background.jpg" alt="The OpenAI logo is displayed on a smartphone screen placed on a reflective surface onto which lines of computer code." loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
