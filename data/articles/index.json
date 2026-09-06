@@ -1,5 +1,25 @@
 [
   {
+    "slug": "lets-take-a-look-at-the-retro-tech-making-a-comeback",
+    "url": "https://techcrunch.com/2026/09/06/lets-take-a-look-at-the-retro-tech-making-a-comeback/",
+    "date": "06 September 2026",
+    "fetched_at": "2026-09-06T16:41:27.563983+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "f4050722a7fb9b72000def818823a915331c591d0aefc2a802eaa772391bb6e1"
+  },
+  {
+    "slug": "techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag",
+    "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+    "date": "06 September 2026",
+    "fetched_at": "2026-09-06T16:40:40.845534+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "7e2ccf5d35fb32daf37e82778ca7acbeb9e26eb50e32d0fc8b12264f2e964b1c"
+  },
+  {
     "content_hash": "06a22cc96d1196e727f546327f4234d1db9f2f7c210a5a6e5ee5ffb12b64009b",
     "date": "05 September 2026",
     "fetched_at": "2026-09-05T23:30:29.990398+00:00",

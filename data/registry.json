@@ -489,6 +489,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/"
   },
+  "lets-take-a-look-at-the-retro-tech-making-a-comeback": {
+    "content_hash": "f4050722a7fb9b72000def818823a915331c591d0aefc2a802eaa772391bb6e1",
+    "date": "06 September 2026",
+    "fetched_at": "2026-09-06T16:41:27.563983+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "lets-take-a-look-at-the-retro-tech-making-a-comeback",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/06/lets-take-a-look-at-the-retro-tech-making-a-comeback/"
+  },
   "liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals": {
     "content_hash": "17fb4fca02d4d942a73dee7bfbab7bb03204a612cde6b7b1602d72e2a97fd1ff",
     "date": "30 August 2026",
@@ -748,6 +758,16 @@
     "slug": "startup-arr-is-less-secure-than-ever-new-research-shows",
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/"
+  },
+  "techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag": {
+    "content_hash": "7e2ccf5d35fb32daf37e82778ca7acbeb9e26eb50e32d0fc8b12264f2e964b1c",
+    "date": "06 September 2026",
+    "fetched_at": "2026-09-06T16:40:40.845534+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/"
   },
   "techcrunch-mobility-the-hidden-human-cost-of-robotaxis": {
     "content_hash": "6e5a6dce3d63bcc50c5ff3162e7663cdee0673101708741166367ac9b958c6fe",
