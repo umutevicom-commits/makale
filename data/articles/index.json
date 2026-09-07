@@ -1,23 +1,23 @@
 [
   {
-    "slug": "what-we-expect-from-the-upcoming-apple-launch",
-    "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+    "content_hash": "4ce8219617a7792fb1dbc4e80e4d638909b9520b8b4cace89c8e9060774446b4",
     "date": "07 September 2026",
     "fetched_at": "2026-09-07T19:33:42.655110+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "4ce8219617a7792fb1dbc4e80e4d638909b9520b8b4cace89c8e9060774446b4"
+    "retries": 0,
+    "slug": "what-we-expect-from-the-upcoming-apple-launch",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/"
   },
   {
-    "slug": "a-secret-new-elizabeth-holmes-documentary-stuns-telluride",
-    "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+    "content_hash": "d5ed32a77a92809c0abd1bc81113f85c6bc50b3449983b3bcbb9675751ebd391",
     "date": "07 September 2026",
     "fetched_at": "2026-09-07T19:33:30.964644+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "d5ed32a77a92809c0abd1bc81113f85c6bc50b3449983b3bcbb9675751ebd391"
+    "retries": 0,
+    "slug": "a-secret-new-elizabeth-holmes-documentary-stuns-telluride",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/"
   },
   {
     "content_hash": "1af0ee9cfb0ffa63403fef68ab137ab214cc9a08f55a4624985c3c7cb67a7985",

@@ -149,6 +149,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/"
   },
+  "artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms": {
+    "content_hash": "",
+    "date": "07 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Request exception can happen due to an api connection error. Please check your connection and try again): 'Open source refers to software — or, increasingly, AI models'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+  },
   "authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement": {
     "content_hash": "564a2efd5bbd7f4a17d34b1b5383115436b9da5c8931e2b9254305eb8ce5e074",
     "date": "06 September 2026",
