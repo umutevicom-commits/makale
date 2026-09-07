@@ -1,0 +1,19 @@
+# Gizli bir yeni Elizabeth Holmes belgeseli Telluride'ı sersemletti
+
+The Hollywood Reporter'a göre Telluride, yıllardır en iyi saklanan sırlarından birini yönetti. Pazar gecesi festival izleyicileri, telefonları kilitliyken 650 koltuklu bir tiyatroya girdiler, ne görmek üzere olduklarına dair hiçbir fikirleri yoktu, sadece yaklaşık üç saat sürdüğünü, hiçbir yerde gösterilmediğini ve başlıca yaratıcılarının izleyiciler arasında olacağını söylediler. Ortak yönetmenler Nathan Fielder ve Lance Oppenheim'ın Theranos'un kurucusu Elizabeth Holmes'la ilgili yeni belgeselinin tadını çıkarmaya devam ettikleri sürpriz galası.
+
+"Her Şeyi Görebilirsiniz" (You Can See Everything) adı verilen filmin, Holmes ve eşi Billy Evans'ı Mayıs 2023 'te federal hapishaneye başvurup yatırımcıları kan testi teknolojisi hakkında dolandırmaktan 11 yıl hapis cezasına çarptırılmadan önceki 34 gün içinde yakaladığı söyleniyor. O zamandan beri yasal mücadelesi başarısızlıkla sonuçlandı. Mahkûmiyeti bozma ve cezasını kısaltma çağrıları geçen yılın şubat ayında reddedilmişti. Daha sonra geçen yıl Başkan Trump'tan cezasını hafifletmesini isteyerek farklı bir yol izledi. Bu af dilekçesi hala beklemede olarak listeleniyor, yani resmi olarak açıldı ve incelenmeye devam ediyor.
+
+Görünüşe göre Fielder, çekimler sırasında çiftin konuk evinde yaşıyordu (sağladıkları erişim kulağa şok edici geliyor) ancak bazı söylentiler, hikayenin bir parçası haline gelen ünlü bir aktrisle de bağlantılı. A24 filmi ekimde yayınlamaya hazırlanıyor. Fragmanı aşağıdan izleyebilirsiniz.
+
+---
+
+## Görseller
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/GettyImages-491583120.jpg)
+
+---
+
+## Videolar
+
+🎬 https://www.youtube.com/embed/GGJSRFWALTI?feature=oembed
