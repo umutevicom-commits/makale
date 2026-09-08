@@ -10,13 +10,13 @@
     "url": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/"
   },
   "a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it": {
-    "content_hash": "",
+    "content_hash": "b19b6b7e0d1a8b38237b3b4e2e4463e0980ebb0d86cd38039306292af877a4ba",
     "date": "08 September 2026",
-    "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'A hacker stole $340M in a crypto heist, then returned most o'...",
-    "retries": 1,
-    "slug": "",
-    "status": "failed",
+    "fetched_at": "2026-09-08T22:19:24.478544+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it",
+    "status": "ok",
     "url": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/"
   },
   "a-secret-new-elizabeth-holmes-documentary-stuns-telluride": {
@@ -163,8 +163,8 @@
     "content_hash": "",
     "date": "07 September 2026",
     "fetched_at": "",
-    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Open source refers to software — or, increasingly, AI models'...",
-    "retries": 5,
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Large language models, or LLMs, are the AI models used by po'...",
+    "retries": 6,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
@@ -214,7 +214,7 @@
     "date": "08 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Chrome is now shipping updates every 2 weeks as AI changes t'...",
-    "retries": 1,
+    "retries": 3,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/"
@@ -238,6 +238,16 @@
     "slug": "cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster",
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/"
+  },
+  "cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market": {
+    "content_hash": "",
+    "date": "08 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Cognition hits $48B valuation, signaling investors believe A'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
   },
   "delivery-hero-board-backs-ubers-15b-takeover-bid": {
     "content_hash": "4a6aa47288c511df1e96dc3f33b14cb0b9199ab803c14af8502ae111f61e1000",
@@ -304,7 +314,7 @@
     "date": "08 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Google Cloud races to catch up in the AI deployment wars wit'...",
-    "retries": 1,
+    "retries": 3,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/"
@@ -374,7 +384,7 @@
     "date": "08 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Google’s revived nuclear power plant gets $1.9B loan from US'...",
-    "retries": 1,
+    "retries": 3,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/"
@@ -388,6 +398,16 @@
     "slug": "gopro-to-be-acquired-for-285m-will-remain-a-public-company",
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/"
+  },
+  "hackers-are-stealing-claude-tokens-from-subscribers": {
+    "content_hash": "",
+    "date": "08 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Hackers are stealing Claude tokens from subscribers'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/"
   },
   "hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson": {
     "content_hash": "184877b721fceb1abe26e55de5e6cca22b1d816734d41c28374b1252fe16e4c1",
@@ -454,7 +474,7 @@
     "date": "08 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'How to watch Apple’s foldable iPhone announcement'...",
-    "retries": 1,
+    "retries": 3,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/"
@@ -629,6 +649,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/"
   },
+  "meta-debuts-its-muse-ai-agent-will-consumers-trust-it": {
+    "content_hash": "",
+    "date": "08 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Meta debuts its Muse AI agent. Will consumers trust it?'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
+  },
   "meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model": {
     "content_hash": "fb68867f8ccd837e410bfd9a31b542a1b2621bdea667c4805cd48dcbce7d1831",
     "date": "03 September 2026",
@@ -664,7 +694,7 @@
     "date": "08 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Mistral raises €3B as sovereign AI becomes big business'...",
-    "retries": 1,
+    "retries": 3,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
@@ -704,7 +734,7 @@
     "date": "08 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Nuclear startup Bluecore Energy raises $50M seed round, just'...",
-    "retries": 1,
+    "retries": 2,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/"
@@ -774,7 +804,7 @@
     "date": "08 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'OpenAI fought dirty on career-making math problem, says NYU '...",
-    "retries": 1,
+    "retries": 3,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"
@@ -824,7 +854,7 @@
     "date": "08 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Poseidon Aerospace lands $60M ahead of first pilotless test '...",
-    "retries": 3,
+    "retries": 4,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/"
@@ -894,7 +924,7 @@
     "date": "08 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Stoke Space raises another billion to rival SpaceX at re-fly'...",
-    "retries": 3,
+    "retries": 4,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/"
@@ -928,6 +958,16 @@
     "slug": "the-cybercab-is-teslas-fork-in-the-road-moment",
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/"
+  },
+  "the-exploration-company-nabs-450-million-to-challenge-spacex": {
+    "content_hash": "",
+    "date": "08 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'The Exploration Company nabs $450 million to challenge Space'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/"
   },
   "the-pentagon-now-has-its-own-version-of-chatgpt-and-grok": {
     "content_hash": "d03ab7ee221170e6607e36f65ebcb8ae9f6eb094bf6e32b21b586047fdedb55d",
