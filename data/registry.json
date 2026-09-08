@@ -9,6 +9,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/"
   },
+  "a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it": {
+    "content_hash": "",
+    "date": "08 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'A hacker stole $340M in a crypto heist, then returned most o'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/"
+  },
   "a-secret-new-elizabeth-holmes-documentary-stuns-telluride": {
     "content_hash": "d5ed32a77a92809c0abd1bc81113f85c6bc50b3449983b3bcbb9675751ebd391",
     "date": "07 September 2026",
@@ -154,7 +164,7 @@
     "date": "07 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Open source refers to software — or, increasingly, AI models'...",
-    "retries": 4,
+    "retries": 5,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
@@ -198,6 +208,16 @@
     "slug": "chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data",
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/"
+  },
+  "chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape": {
+    "content_hash": "",
+    "date": "08 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Chrome is now shipping updates every 2 weeks as AI changes t'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/"
   },
   "circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts": {
     "content_hash": "a7ff31de2132a59f4bb4a3f0c6f1c566e5468c3ddf94bc76b934aaae8ea7950b",
@@ -279,6 +299,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/"
   },
+  "google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal": {
+    "content_hash": "",
+    "date": "08 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Google Cloud races to catch up in the AI deployment wars wit'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/"
+  },
   "google-launches-ai-voice-features-in-gmail-docs-and-keep": {
     "content_hash": "b0d89dd0d7418248582bed6484777c4c4e33f21c682e3eb6fb82ad3f3fcac4b9",
     "date": "03 September 2026",
@@ -338,6 +368,16 @@
     "slug": "googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/"
+  },
+  "googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government": {
+    "content_hash": "",
+    "date": "08 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Google’s revived nuclear power plant gets $1.9B loan from US'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/"
   },
   "gopro-to-be-acquired-for-285m-will-remain-a-public-company": {
     "content_hash": "2b56bce33598ae2e968e5a38baa223de63c333c26f77f99ee52be8b85c06f03d",
@@ -408,6 +448,16 @@
     "slug": "how-ai-could-make-it-harder-for-governments-to-use-hacking-tools",
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/"
+  },
+  "how-to-watch-apples-foldable-iphone-announcement": {
+    "content_hash": "",
+    "date": "08 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'How to watch Apple’s foldable iPhone announcement'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/"
   },
   "if-space-data-centers-feel-far-fetched-why-not-interstellar-travel": {
     "content_hash": "2a7379965f6b418a3e6216c17a317e4a3f2c497b4db10450ddf17f6083daed97",
@@ -609,6 +659,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/"
   },
+  "mistral-raises-e3b-as-sovereign-ai-becomes-big-business": {
+    "content_hash": "",
+    "date": "08 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Mistral raises €3B as sovereign AI becomes big business'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
+  },
   "musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem": {
     "content_hash": "4ab06b5aad21e9e5b0fbb905b030e97fc7e9b81d2991b4d8f07bdb9c4d70abd4",
     "date": "30 August 2026",
@@ -638,6 +698,16 @@
     "slug": "norway-considers-ban-on-camera-enabled-wearable-pervert-glasses",
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/"
+  },
+  "nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch": {
+    "content_hash": "",
+    "date": "08 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Nuclear startup Bluecore Energy raises $50M seed round, just'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/"
   },
   "nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion": {
     "content_hash": "ed323f8566c7a4d6fc277066e01c6fa82e7221980af91d6baccd6270450da00f",
@@ -699,6 +769,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/"
   },
+  "openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician": {
+    "content_hash": "",
+    "date": "08 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'OpenAI fought dirty on career-making math problem, says NYU '...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"
+  },
   "openai-launches-astra-its-powerful-and-controversial-new-model": {
     "content_hash": "d5951cea8bce269fe9b747fbd4f7c572ae74262dcb97ad38c1d4274828c85a91",
     "date": "03 September 2026",
@@ -744,7 +824,7 @@
     "date": "08 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Poseidon Aerospace lands $60M ahead of first pilotless test '...",
-    "retries": 1,
+    "retries": 3,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/"
@@ -814,7 +894,7 @@
     "date": "08 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Stoke Space raises another billion to rival SpaceX at re-fly'...",
-    "retries": 1,
+    "retries": 3,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/"
