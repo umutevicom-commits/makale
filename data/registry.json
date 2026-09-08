@@ -154,7 +154,7 @@
     "date": "07 September 2026",
     "fetched_at": "",
     "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Open source refers to software — or, increasingly, AI models'...",
-    "retries": 3,
+    "retries": 4,
     "slug": "",
     "status": "failed",
     "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
@@ -739,6 +739,16 @@
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/"
   },
+  "poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight": {
+    "content_hash": "",
+    "date": "08 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Poseidon Aerospace lands $60M ahead of first pilotless test '...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/"
+  },
   "psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam": {
     "content_hash": "6cd1bdba27b14e89628362ba66fb48d8900e690d7fc7f92d0ee2c44b8d4da6b9",
     "date": "02 September 2026",
@@ -798,6 +808,16 @@
     "slug": "startup-arr-is-less-secure-than-ever-new-research-shows",
     "status": "ok",
     "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/"
+  },
+  "stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets": {
+    "content_hash": "",
+    "date": "08 September 2026",
+    "fetched_at": "",
+    "last_error": "ayrıştırma/çeviri hatası: çevrilemedi (3 deneme tükendi, son hata: Server Error: You made too many requests to the server.According to google, you are allowed to make 5 requests per secondand up to 200k requests per day. You can wait and try again later oryou can try the translate_batch function): 'Stoke Space raises another billion to rival SpaceX at re-fly'...",
+    "retries": 1,
+    "slug": "",
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/"
   },
   "techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag": {
     "content_hash": "7e2ccf5d35fb32daf37e82778ca7acbeb9e26eb50e32d0fc8b12264f2e964b1c",
