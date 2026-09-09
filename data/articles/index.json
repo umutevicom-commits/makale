@@ -1,13 +1,13 @@
 [
   {
-    "slug": "a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it",
-    "url": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
+    "content_hash": "b19b6b7e0d1a8b38237b3b4e2e4463e0980ebb0d86cd38039306292af877a4ba",
     "date": "08 September 2026",
     "fetched_at": "2026-09-08T22:19:24.478544+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "b19b6b7e0d1a8b38237b3b4e2e4463e0980ebb0d86cd38039306292af877a4ba"
+    "retries": 0,
+    "slug": "a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/"
   },
   {
     "content_hash": "4ce8219617a7792fb1dbc4e80e4d638909b9520b8b4cace89c8e9060774446b4",
