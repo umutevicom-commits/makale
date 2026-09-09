@@ -1,0 +1,31 @@
+# Ağustos ayında en iyi firmalara düşen çalışan başına yapay zeka harcaması — yaz tatsızlığı mı yoksa bir uyarı işareti mi?
+
+Ödeme şirketi Ramp tarafından toplanan 70.000 şirketteki harcama verilerine göre, yapay zeka araçlarının işletmeler tarafından benimsenmesi ağustosta yavaşladı. Son anket, Ramp müşterilerinin % 56 'sının Ağustos ayında yapay zeka ürünleri için ödeme yaptığını ve bir önceki aya göre sadece % 0,4 arttığını gösteriyor.
+
+Bu, Ramp'ın metriklerinin benimsemenin yavaşladığını gösterdiği ilk sefer değil. Geçen yıl, şirketin yapay zeka endeksi, ağustos ve ekim ayları arasında benimsenmede çok az büyüme gösterdi veya hiç büyüme göstermedi, ancak yıl sona erdiğinde büyüme tekrar toparlandı.
+
+Yine de, yapay zeka üretiminin aşırı hızı, küçük yavaşlamaların bile endişe kaynağı olabileceği anlamına geliyor. Sınır laboratuvarları ve hiper ölçekleyiciler tarafından yapay zeka altyapısına yapılan gobsmacking yatırımı, geri ödemek için bol miktarda gelir olduğu umuduna dayanıyor. Şimdiye kadar, özellikle yazılım mühendisleri aracı kodlama araçlarını benimsedikçe kullanım hızla arttı — ancak bu benimseme yavaşlarsa, gelirin de yavaşlaması muhtemeldir.
+
+Ramp'ın rakamları, şirketin teknik müşterileri sayesinde genel benimsemeyi abartabilir: 23 Ağustos'ta güncellenen ABD Sayım Bürosu'nun yapay zeka benimseme anketi, işletmelerin sadece % 22 'sinin yapay zeka kullandığını gösteriyor. Ramp'ın anketi piyasayı temsil etmek zorunda değildir, ancak mevcut birkaç doğrudan harcama veri kümesinden biridir ve potansiyel olarak öncü bir göstergedir.
+
+Elbette, bu veriler sektörün çoğunun tatilde olduğu Ağustos ayına aittir. Bu, durgunlukları açıklayabilir. Ancak Ramp ekonomisti Ara Kharazian'a göre token harcamasına bağımlı şirketler için başka uyarı işaretleri de var.
+
+İlk olarak, örneklemindeki yapay zeka kullanan firmaların ilk % 1 'inde çalışan başına yapay zeka harcamalarında büyük bir düşüş yaşanmış ve yaklaşık % 10' luk bir düşüşle 7.205 $ olmuştur. Bu, tatil jetonu faktörü olabilir, ancak aynı zamanda düşen jeton maliyetlerine de işaret eder. OpenAI ve Anthropic fiyatları düşürdükçe, ortalama token maliyetleri, Mart ayında milyon token başına 1,15 $ olan 2026 zirvesinin aksine, milyon token başına 0,68 $ 'a düştü.
+
+Veriler, laboratuvarların artan hacimle fiyat indirimlerini henüz telafi etmediğini gösteriyor. Ve aynı teşvikler, birçok müşterinin daha güçlü sınır sürümleri yerine OpenAI'nin ChatGPT 5.6-Terra ve Anthropic'in Sonnet gibi daha eski, daha ucuz modelleri kullanmayı seçmesine neden oluyor. Frontier laboratuvarlarındaki çalışanlar, eğitimin maliyetinin çoğunun yeni bir modelin piyasaya sürülmesinin ilk haftalarında telafi edildiğini ve daha yavaş benimsenmesinin bu dinamiği tehdit edebileceğini söyledi.
+
+Yine de, sınır laboratuvarlarını tehdit eden açık ağırlık modelleri hakkındaki tüm konuşmalara rağmen, AI harcaması yapan işletmelerin yalnızca % 6,4 'ü Ağustos ayında model sunma veya çıkarım platformları kullandı — bu, istikrarlı bir şekilde büyüyen ancak daha geniş iş benimseme dinamiklerini yönlendirecek kadar hızlı olmayan bir pay.
+
+Kharazian, "OpenAI ve Anthropic arasındaki rekabetin yapay zekayı daha erişilebilir hale getirdiğini ve aynı zamanda şirketler için fiyatı düşürdüğünü ve sadece fiyatı düşürmekle kalmadığını, aynı zamanda daha önce pazarın büyümenin çoğunu ileriye götürmeyi beklediği şirketlerin en üst % 1 'inde harcamaları düşürdüğünü gösteriyoruz" dedi.
+
+Bu aynı zamanda yapay zeka laboratuvarlarında yapay zeka ortak çalışma araçları için teknik olmayan kullanıcıları kazanmaya odaklanmayı açıklamaya yardımcı olur.
+
+Bu veri noktası — buna blip diyebilir miyiz? — bir model üreticisiyseniz veya siparişte birkaç yüz milyar çipi olan bir hiper ölçekleyiciyseniz kötü bir işaret olabilir. Ancak Kharazian, “piyasada kim olduğunuza bağlı. Şirketiniz yapay zeka kullanıyorsa, bu harika ."
+
+---
+
+## Görseller
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/Screenshot-2026-09-09-at-7_03_40-AM.png)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/Screenshot-2026-09-09-at-7_03_18-AM.png)

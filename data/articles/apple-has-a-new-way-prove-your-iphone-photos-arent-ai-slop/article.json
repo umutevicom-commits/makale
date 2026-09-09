@@ -1,0 +1,41 @@
+{
+  "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+  "slug": "apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop",
+  "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+  "news_id": "apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop",
+  "date": "09 September 2026",
+  "author": "Tim De Chant",
+  "tags": [],
+  "body_paragraphs": [
+    "In a world awash in AI slop, Apple wants you to trust what gets captured on its iPhones.",
+    "The company announced Wednesday during its Surprise and Shine event that it is introducing Apple Reference Image, a feature it says can prove whether an image taken with the iPhone 18 Pro is authentic.",
+    "“This is vital for photojournalists and photographers,” the company said.",
+    "When a photo is taken, the main camera sensor also captures signed sensor data which Apple’s Private Cloud Compute service then turns into an “unalterable image” viewable in the Photos app. The reference image can then be compared with other versions of the photo to determine whether any changes have been made. Apple likens the reference image to a “digital negative.”",
+    "While reference images will initially be viewable only in the Photos app, the company is making APIs available to developers so they can integrate the feature into their own apps.",
+    "Apple also said it will support the SynthID standard to help people determine whether images were created or altered with AI.",
+    "Apple Reference Image is one of several new features and upgrades to the company’s hardware and software that is focused on the camera.",
+    "The company said the iPhone 18 Pro includes its biggest camera improvement in years. One upgrade that will surely get the attention of photographers is the variable aperture on the new 48 megapixel fusion main camera. The aperture is what controls how much light enters the lens. This new main camera has a variable aperture, which means users have more control over the amount of light coming in and ultimately what the final image looks like. It should be especially helpful for those who like to take photos at night.",
+    "To achieve this, Apple said it developed a system of six laser-cut blades, each thinner than a human hair and made from a specialized polymer composite, a new rotor mechanism to control movements, and a custom-designed lens."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/Apple-iPhone-18-Pro-Photos-app-Apple-Reference-Image-260909_big_jpg_large_2x.jpg",
+      "alt": "Three iPhones showing images verified by Apple Reference Image."
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-09T22:13:31.413643+00:00",
+  "title_tr": "Apple, iPhone fotoğraflarınızın yapay zeka ürünü olmadığını kanıtlamanın yeni bir yolunu buldu",
+  "body_paragraphs_tr": [
+    "Yapay zeka çöplüğündeki bir dünyada Apple, iPhone'larında yakalanan şeylere güvenmenizi istiyor.",
+    "Şirket, Çarşamba günü Surprise and Shine etkinliği sırasında, iPhone 18 Pro ile çekilen bir görüntünün gerçek olup olmadığını kanıtlayabileceğini söylediği bir özellik olan Apple Reference Image'ı tanıttığını duyurdu.",
+    "Şirket, \"Bu, foto muhabirleri ve fotoğrafçılar için hayati önem taşıyor\" dedi.",
+    "Bir fotoğraf çekildiğinde, ana kamera sensörü, Apple'ın Özel Bulut Bilişim hizmetinin daha sonra Fotoğraflar uygulamasında görüntülenebilen \"değiştirilemez bir görüntüye\" dönüştüğü imzalı sensör verilerini de yakalar. Referans görüntü daha sonra herhangi bir değişiklik yapılıp yapılmadığını belirlemek için fotoğrafın diğer sürümleriyle karşılaştırılabilir. Apple, referans görüntüyü \"dijital negatife\" benzetiyor.",
+    "Referans görüntüler başlangıçta yalnızca Fotoğraflar uygulamasında görüntülenebilirken, şirket özelliği kendi uygulamalarına entegre edebilmeleri için API'leri geliştiricilerin kullanımına sunuyor.",
+    "Apple ayrıca, insanların görüntülerin yapay zeka ile oluşturulup oluşturulmadığını veya değiştirilip değiştirilmediğini belirlemesine yardımcı olmak için SynthID standardını destekleyeceğini söyledi.",
+    "Apple Reference Image, şirketin kameraya odaklanan donanım ve yazılımındaki birkaç yeni özellik ve güncellemeden biridir.",
+    "Şirket, iPhone 18 Pro'nun son yıllardaki en büyük kamera gelişimini içerdiğini söyledi. Fotoğrafçıların kesinlikle dikkatini çekecek bir yükseltme, yeni 48 megapiksel füzyon ana kameradaki değişken diyafram açıklığıdır. Diyafram, merceğe ne kadar ışık gireceğini kontrol eden şeydir. Bu yeni ana kameranın değişken bir diyaframı var, bu da kullanıcıların gelen ışık miktarı ve nihai görüntünün neye benzediği üzerinde daha fazla kontrole sahip olduğu anlamına geliyor. Özellikle geceleri fotoğraf çekmeyi sevenler için faydalı olmalıdır.",
+    "Bunu başarmak için Apple, her biri insan saçından daha ince ve özel bir polimer kompozitten, hareketleri kontrol etmek için yeni bir rotor mekanizmasından ve özel olarak tasarlanmış bir mercekten yapılmış 6 lazer kesim bıçağından oluşan bir sistem geliştirdiğini söyledi."
+  ],
+  "tags_tr": []
+}

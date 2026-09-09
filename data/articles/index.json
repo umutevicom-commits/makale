@@ -1,5 +1,55 @@
 [
   {
+    "slug": "apple-launches-iphone-18-pro-with-upgraded-camera",
+    "url": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T22:13:47.824341+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "26c0b72e3420dd4a521b802af4e8b79351aa91bff7a1a13bf0404239edd95607"
+  },
+  {
+    "slug": "apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop",
+    "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T22:13:31.413643+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "d7997cb097944a1c456cf290414eec178646f0f1b961026bed84689af3420d6b"
+  },
+  {
+    "slug": "apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone",
+    "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T22:13:17.232022+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "dfee61293cb6a727bbe904f72af24b9b7763edcf58576a0e90ea864e48de47ff"
+  },
+  {
+    "slug": "ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign",
+    "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T22:12:57.933339+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "5774e43ccc983975e4eb54c576aa77b7c00e1beee91784a8e636edcc73102222"
+  },
+  {
+    "slug": "3-ways-vcs-can-unlock-more-value-for-their-portfolio-at-techcrunch-disrupt-2026",
+    "url": "https://techcrunch.com/2026/09/09/3-ways-vcs-can-unlock-more-value-for-their-portfolio-at-techcrunch-disrupt-2026/",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T22:12:24.628370+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "a3feeb47b299ddfdb4a297f64942306cefcfe92d0c3faadf9116c6936a5b36b9"
+  },
+  {
     "content_hash": "b19b6b7e0d1a8b38237b3b4e2e4463e0980ebb0d86cd38039306292af877a4ba",
     "date": "08 September 2026",
     "fetched_at": "2026-09-08T22:19:24.478544+00:00",

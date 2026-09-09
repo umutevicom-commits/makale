@@ -1,0 +1,49 @@
+{
+  "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+  "slug": "ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign",
+  "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+  "news_id": "ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign",
+  "date": "09 September 2026",
+  "author": "Tim Fernholz",
+  "tags": [],
+  "body_paragraphs": [
+    "The adoption of AI tools by businesses slowed in August, according to spending data at 70,000 companies collected by the payments company Ramp. The latest survey shows 56% of Ramp customers paid for AI products in August, rising just 0.4% from the month before.",
+    "This isn’t the first time Ramp’s metrics have shown adoption slowing down. Last year, the company’s AI index showed little to no growth in adoption between August and October, only to have growth pick up again as the year finished.",
+    "Still, the extreme pace of the AI buildout means even small slowdowns can be cause for concern. The gobsmacking investment in AI infrastructure by frontier labs and hyperscalers rests on the hope that there is plenty of revenue out there to pay it back. Thus far, usage has grown steeply, particularly as software engineers adopted agentic coding tools — but if that adoption slows down, revenue is likely to slow as well.",
+    "Ramp’s figures may overstate overall adoption, thanks to the company’s techy clientele: An ongoing U.S. Census Bureau survey of AI adoption updated on August 23 shows just 22% of businesses report using AI. Ramp’s survey isn’t necessarily representative of the market, but it’s one of the few direct spending datasets available and potentially a leading indicator.",
+    "To be sure, this data is from August, when much of the industry is on vacation. That may explain the doldrums. But there are other warning signs for companies that depend on token spend, per Ramp economist Ara Kharazian.",
+    "First, a major decline in AI spend per employee in the top 1% of AI-using firms in his sample, falling nearly 10% to $7,205. That may be the vacation-token factor, but it also speaks to falling token costs. As OpenAI and Anthropic have cut prices, average token costs have declined to $0.68 per million tokens, as opposed to the 2026 peak of $1.15 per million tokens in March.",
+    "The data suggests that the labs have yet to make up for the price cuts with growing volume. And the same incentives have many customers choosing to use older, cheaper models like OpenAI’s ChatGPT 5.6-Terra and Anthropic’s Sonnet instead of the more powerful frontier releases. Employees at frontier labs have said much of the cost of training is recouped in the first weeks of a new model’s release, and slower adoption could threaten that dynamic.",
+    "Still, for all the talk of open-weight models threatening the frontier labs, only 6.4% of AI-spending businesses used model-serving or inference platforms in August — a share that’s growing steadily but not fast enough to drive the dynamics of broader business adoption.",
+    "“We are showing that competition between OpenAI and Anthropic is making AI more accessible, and also driving the price down for companies — and not just driving the price down, but driving spend down at the top 1% of companies that previously the market was expecting to drive much of the growth going forward,” Kharazian said.",
+    "That also helps explain the focus at AI labs on winning over nontechnical users for AI co-working tools.",
+    "This data point — dare we call it a blip? — could be a bad sign if you’re a model builder or a hyperscaler with a couple hundred billion of chips on order. But, Kharazian notes, “it depends on who you are in the market. If your company is using AI, it’s great.”"
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/Screenshot-2026-09-09-at-7_03_40-AM.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/Screenshot-2026-09-09-at-7_03_18-AM.png",
+      "alt": ""
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-09T22:12:57.933339+00:00",
+  "title_tr": "Ağustos ayında en iyi firmalara düşen çalışan başına yapay zeka harcaması — yaz tatsızlığı mı yoksa bir uyarı işareti mi?",
+  "body_paragraphs_tr": [
+    "Ödeme şirketi Ramp tarafından toplanan 70.000 şirketteki harcama verilerine göre, yapay zeka araçlarının işletmeler tarafından benimsenmesi ağustosta yavaşladı. Son anket, Ramp müşterilerinin % 56 'sının Ağustos ayında yapay zeka ürünleri için ödeme yaptığını ve bir önceki aya göre sadece % 0,4 arttığını gösteriyor.",
+    "Bu, Ramp'ın metriklerinin benimsemenin yavaşladığını gösterdiği ilk sefer değil. Geçen yıl, şirketin yapay zeka endeksi, ağustos ve ekim ayları arasında benimsenmede çok az büyüme gösterdi veya hiç büyüme göstermedi, ancak yıl sona erdiğinde büyüme tekrar toparlandı.",
+    "Yine de, yapay zeka üretiminin aşırı hızı, küçük yavaşlamaların bile endişe kaynağı olabileceği anlamına geliyor. Sınır laboratuvarları ve hiper ölçekleyiciler tarafından yapay zeka altyapısına yapılan gobsmacking yatırımı, geri ödemek için bol miktarda gelir olduğu umuduna dayanıyor. Şimdiye kadar, özellikle yazılım mühendisleri aracı kodlama araçlarını benimsedikçe kullanım hızla arttı — ancak bu benimseme yavaşlarsa, gelirin de yavaşlaması muhtemeldir.",
+    "Ramp'ın rakamları, şirketin teknik müşterileri sayesinde genel benimsemeyi abartabilir: 23 Ağustos'ta güncellenen ABD Sayım Bürosu'nun yapay zeka benimseme anketi, işletmelerin sadece % 22 'sinin yapay zeka kullandığını gösteriyor. Ramp'ın anketi piyasayı temsil etmek zorunda değildir, ancak mevcut birkaç doğrudan harcama veri kümesinden biridir ve potansiyel olarak öncü bir göstergedir.",
+    "Elbette, bu veriler sektörün çoğunun tatilde olduğu Ağustos ayına aittir. Bu, durgunlukları açıklayabilir. Ancak Ramp ekonomisti Ara Kharazian'a göre token harcamasına bağımlı şirketler için başka uyarı işaretleri de var.",
+    "İlk olarak, örneklemindeki yapay zeka kullanan firmaların ilk % 1 'inde çalışan başına yapay zeka harcamalarında büyük bir düşüş yaşanmış ve yaklaşık % 10' luk bir düşüşle 7.205 $ olmuştur. Bu, tatil jetonu faktörü olabilir, ancak aynı zamanda düşen jeton maliyetlerine de işaret eder. OpenAI ve Anthropic fiyatları düşürdükçe, ortalama token maliyetleri, Mart ayında milyon token başına 1,15 $ olan 2026 zirvesinin aksine, milyon token başına 0,68 $ 'a düştü.",
+    "Veriler, laboratuvarların artan hacimle fiyat indirimlerini henüz telafi etmediğini gösteriyor. Ve aynı teşvikler, birçok müşterinin daha güçlü sınır sürümleri yerine OpenAI'nin ChatGPT 5.6-Terra ve Anthropic'in Sonnet gibi daha eski, daha ucuz modelleri kullanmayı seçmesine neden oluyor. Frontier laboratuvarlarındaki çalışanlar, eğitimin maliyetinin çoğunun yeni bir modelin piyasaya sürülmesinin ilk haftalarında telafi edildiğini ve daha yavaş benimsenmesinin bu dinamiği tehdit edebileceğini söyledi.",
+    "Yine de, sınır laboratuvarlarını tehdit eden açık ağırlık modelleri hakkındaki tüm konuşmalara rağmen, AI harcaması yapan işletmelerin yalnızca % 6,4 'ü Ağustos ayında model sunma veya çıkarım platformları kullandı — bu, istikrarlı bir şekilde büyüyen ancak daha geniş iş benimseme dinamiklerini yönlendirecek kadar hızlı olmayan bir pay.",
+    "Kharazian, \"OpenAI ve Anthropic arasındaki rekabetin yapay zekayı daha erişilebilir hale getirdiğini ve aynı zamanda şirketler için fiyatı düşürdüğünü ve sadece fiyatı düşürmekle kalmadığını, aynı zamanda daha önce pazarın büyümenin çoğunu ileriye götürmeyi beklediği şirketlerin en üst % 1 'inde harcamaları düşürdüğünü gösteriyoruz\" dedi.",
+    "Bu aynı zamanda yapay zeka laboratuvarlarında yapay zeka ortak çalışma araçları için teknik olmayan kullanıcıları kazanmaya odaklanmayı açıklamaya yardımcı olur.",
+    "Bu veri noktası — buna blip diyebilir miyiz? — bir model üreticisiyseniz veya siparişte birkaç yüz milyar çipi olan bir hiper ölçekleyiciyseniz kötü bir işaret olabilir. Ancak Kharazian, “piyasada kim olduğunuza bağlı. Şirketiniz yapay zeka kullanıyorsa, bu harika .\""
+  ],
+  "tags_tr": []
+}
