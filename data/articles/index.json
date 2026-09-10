@@ -1,33 +1,33 @@
 [
   {
-    "slug": "apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score",
-    "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+    "content_hash": "92da30f91e55c10d65e29529341db12a688d40a7c32d4450d010fd32c6ed6769",
     "date": "09 September 2026",
     "fetched_at": "2026-09-10T08:37:17.762959+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "92da30f91e55c10d65e29529341db12a688d40a7c32d4450d010fd32c6ed6769"
+    "retries": 0,
+    "slug": "apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/"
   },
   {
-    "slug": "apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago",
-    "url": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
+    "content_hash": "087908e2ec9e40e22871d9ae504fc243bc6c1fd0a95f946a94dc5a10d62857f0",
     "date": "09 September 2026",
     "fetched_at": "2026-09-10T08:36:33.155557+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "087908e2ec9e40e22871d9ae504fc243bc6c1fd0a95f946a94dc5a10d62857f0"
+    "retries": 0,
+    "slug": "apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/"
   },
   {
-    "slug": "apple-watchs-new-feature-listens-to-your-chats-and-recaps-them",
-    "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/",
+    "content_hash": "a6a5db970694b8d8abb7d85f6158a8a704dafdff19a9810b2b0c1c89863a467e",
     "date": "09 September 2026",
     "fetched_at": "2026-09-10T08:36:18.104048+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "a6a5db970694b8d8abb7d85f6158a8a704dafdff19a9810b2b0c1c89863a467e"
+    "retries": 0,
+    "slug": "apple-watchs-new-feature-listens-to-your-chats-and-recaps-them",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/"
   },
   {
     "content_hash": "ef8308f9f0ec92049c41856a9515d258c4c839f3913b2e8eb7c85433027507e0",
