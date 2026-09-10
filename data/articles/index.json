@@ -1,5 +1,35 @@
 [
   {
+    "slug": "anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+    "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T22:13:51.917932+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "29e1ed86b12e01d92a3941ccf791acb308924f3d0436327b168040afa84cccbc"
+  },
+  {
+    "slug": "amazon-makes-it-easier-to-buy-what-you-see-on-prime-video",
+    "url": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T22:13:31.146391+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "28b0403a410a2dbd07a4b9693549cc1562d049043bd24882a408a76c0f3821e4"
+  },
+  {
+    "slug": "ai-agents-are-flooding-public-services-with-new-requests",
+    "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T22:13:04.737439+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "9b9e0a9f523ef70b1653e8e70339dcc1749f77244892b53671c6b326651d8ae3"
+  },
+  {
     "content_hash": "92da30f91e55c10d65e29529341db12a688d40a7c32d4450d010fd32c6ed6769",
     "date": "09 September 2026",
     "fetched_at": "2026-09-10T08:37:17.762959+00:00",
