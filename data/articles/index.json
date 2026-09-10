@@ -1,53 +1,93 @@
 [
   {
-    "slug": "apple-launches-iphone-18-pro-with-upgraded-camera",
-    "url": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/",
+    "slug": "apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening",
+    "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-10T02:51:31.751289+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "ef8308f9f0ec92049c41856a9515d258c4c839f3913b2e8eb7c85433027507e0"
+  },
+  {
+    "slug": "apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day",
+    "url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-10T02:51:09.262211+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "e7fa85405f4f724c3ed290228a47ba0191c4533e5ea71194f919bd484c9f7212"
+  },
+  {
+    "slug": "apple-unveils-its-first-foldable-the-iphone-duo",
+    "url": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-10T02:50:42.608036+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "132b55414634d1a7d73e303a865137b4e9b68449dd07982777a466238f92d506"
+  },
+  {
+    "slug": "apple-shows-off-airpods-5-with-improved-active-noise-cancellation",
+    "url": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-10T02:50:22.310817+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "b87a43252c1dd68cca45b527faf4c5a9995d3f4f5210e9aa18e1414988efadde"
+  },
+  {
+    "content_hash": "26c0b72e3420dd4a521b802af4e8b79351aa91bff7a1a13bf0404239edd95607",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T22:13:47.824341+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "26c0b72e3420dd4a521b802af4e8b79351aa91bff7a1a13bf0404239edd95607"
+    "retries": 0,
+    "slug": "apple-launches-iphone-18-pro-with-upgraded-camera",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/"
   },
   {
-    "slug": "apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop",
-    "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+    "content_hash": "d7997cb097944a1c456cf290414eec178646f0f1b961026bed84689af3420d6b",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T22:13:31.413643+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "d7997cb097944a1c456cf290414eec178646f0f1b961026bed84689af3420d6b"
+    "retries": 0,
+    "slug": "apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/"
   },
   {
-    "slug": "apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone",
-    "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+    "content_hash": "dfee61293cb6a727bbe904f72af24b9b7763edcf58576a0e90ea864e48de47ff",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T22:13:17.232022+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "dfee61293cb6a727bbe904f72af24b9b7763edcf58576a0e90ea864e48de47ff"
+    "retries": 0,
+    "slug": "apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/"
   },
   {
-    "slug": "ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign",
-    "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+    "content_hash": "5774e43ccc983975e4eb54c576aa77b7c00e1beee91784a8e636edcc73102222",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T22:12:57.933339+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "5774e43ccc983975e4eb54c576aa77b7c00e1beee91784a8e636edcc73102222"
+    "retries": 0,
+    "slug": "ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/"
   },
   {
-    "slug": "3-ways-vcs-can-unlock-more-value-for-their-portfolio-at-techcrunch-disrupt-2026",
-    "url": "https://techcrunch.com/2026/09/09/3-ways-vcs-can-unlock-more-value-for-their-portfolio-at-techcrunch-disrupt-2026/",
+    "content_hash": "a3feeb47b299ddfdb4a297f64942306cefcfe92d0c3faadf9116c6936a5b36b9",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T22:12:24.628370+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "a3feeb47b299ddfdb4a297f64942306cefcfe92d0c3faadf9116c6936a5b36b9"
+    "retries": 0,
+    "slug": "3-ways-vcs-can-unlock-more-value-for-their-portfolio-at-techcrunch-disrupt-2026",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/09/3-ways-vcs-can-unlock-more-value-for-their-portfolio-at-techcrunch-disrupt-2026/"
   },
   {
     "content_hash": "b19b6b7e0d1a8b38237b3b4e2e4463e0980ebb0d86cd38039306292af877a4ba",
