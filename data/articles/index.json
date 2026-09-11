@@ -1,33 +1,43 @@
 [
   {
-    "slug": "anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
-    "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+    "slug": "anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
+    "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-11T02:43:56.370424+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "ef1184f6a572028054360ac31787babdbbc6520263f022f8c016abc256210ddb"
+  },
+  {
+    "content_hash": "29e1ed86b12e01d92a3941ccf791acb308924f3d0436327b168040afa84cccbc",
     "date": "10 September 2026",
     "fetched_at": "2026-09-10T22:13:51.917932+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "29e1ed86b12e01d92a3941ccf791acb308924f3d0436327b168040afa84cccbc"
+    "retries": 0,
+    "slug": "anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/"
   },
   {
-    "slug": "amazon-makes-it-easier-to-buy-what-you-see-on-prime-video",
-    "url": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
+    "content_hash": "28b0403a410a2dbd07a4b9693549cc1562d049043bd24882a408a76c0f3821e4",
     "date": "10 September 2026",
     "fetched_at": "2026-09-10T22:13:31.146391+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "28b0403a410a2dbd07a4b9693549cc1562d049043bd24882a408a76c0f3821e4"
+    "retries": 0,
+    "slug": "amazon-makes-it-easier-to-buy-what-you-see-on-prime-video",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/"
   },
   {
-    "slug": "ai-agents-are-flooding-public-services-with-new-requests",
-    "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+    "content_hash": "9b9e0a9f523ef70b1653e8e70339dcc1749f77244892b53671c6b326651d8ae3",
     "date": "10 September 2026",
     "fetched_at": "2026-09-10T22:13:04.737439+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "9b9e0a9f523ef70b1653e8e70339dcc1749f77244892b53671c6b326651d8ae3"
+    "retries": 0,
+    "slug": "ai-agents-are-flooding-public-services-with-new-requests",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/"
   },
   {
     "content_hash": "92da30f91e55c10d65e29529341db12a688d40a7c32d4450d010fd32c6ed6769",
