@@ -1,13 +1,13 @@
 [
   {
-    "slug": "anthropic-ceo-outlines-plan-to-pace-the-frontier",
-    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "content_hash": "8517e71373407fe5a38482e533ffbd3272c47dd48d0eac8ca021550f7cfa98d2",
     "date": "12 September 2026",
     "fetched_at": "2026-09-12T23:40:42.989836+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "8517e71373407fe5a38482e533ffbd3272c47dd48d0eac8ca021550f7cfa98d2"
+    "retries": 0,
+    "slug": "anthropic-ceo-outlines-plan-to-pace-the-frontier",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
   },
   {
     "content_hash": "ef1184f6a572028054360ac31787babdbbc6520263f022f8c016abc256210ddb",
