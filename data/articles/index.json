@@ -1,5 +1,25 @@
 [
   {
+    "slug": "uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation",
+    "url": "https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-13T09:03:02.457985+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "7857e6d69bedbe5e571b65778cc3e306bcb5947e8fdefbf0055975d202b98935"
+  },
+  {
+    "slug": "there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models",
+    "url": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-13T09:02:18.985576+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "d15759678ad0d5bbe9665c91457ea63791d9553a9692f44ad64f2c7ca1abd02d"
+  },
+  {
     "content_hash": "8517e71373407fe5a38482e533ffbd3272c47dd48d0eac8ca021550f7cfa98d2",
     "date": "12 September 2026",
     "fetched_at": "2026-09-12T23:40:42.989836+00:00",
