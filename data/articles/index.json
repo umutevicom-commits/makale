@@ -1,5 +1,25 @@
 [
   {
+    "slug": "a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps",
+    "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
+    "date": "14 September 2026",
+    "fetched_at": "2026-09-14T21:47:19.787570+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "f4f1e4148dfe76138a1562083d6845b5575aa6649e4e7088a08092f1131c5fec"
+  },
+  {
+    "slug": "a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting",
+    "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+    "date": "14 September 2026",
+    "fetched_at": "2026-09-14T21:22:11.781731+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "dd4ee4b53efaa385538529ec613ad8224526c2b59207b8f684d99ea27b8ea5a9"
+  },
+  {
     "content_hash": "7857e6d69bedbe5e571b65778cc3e306bcb5947e8fdefbf0055975d202b98935",
     "date": "09 September 2026",
     "fetched_at": "2026-09-13T09:03:02.457985+00:00",
