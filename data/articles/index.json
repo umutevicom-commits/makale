@@ -1,23 +1,43 @@
 [
   {
-    "slug": "a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps",
-    "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
+    "slug": "amazon-prime-video-takes-on-tiktok-with-short-form-news-clips",
+    "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
     "date": "14 September 2026",
-    "fetched_at": "2026-09-14T21:47:19.787570+00:00",
+    "fetched_at": "2026-09-15T00:12:26.089223+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "f4f1e4148dfe76138a1562083d6845b5575aa6649e4e7088a08092f1131c5fec"
+    "content_hash": "c1018f5196c8e800eb9cc7754c3d0e76236c8f3dd5df2b680a88f333abc77322"
   },
   {
-    "slug": "a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting",
-    "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+    "slug": "ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance",
+    "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
     "date": "14 September 2026",
-    "fetched_at": "2026-09-14T21:22:11.781731+00:00",
+    "fetched_at": "2026-09-15T00:12:12.515024+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "dd4ee4b53efaa385538529ec613ad8224526c2b59207b8f684d99ea27b8ea5a9"
+    "content_hash": "1a514fdb4bc8cc75525923482ec243f5181e97072461ab3a3fb216cc39b779ad"
+  },
+  {
+    "content_hash": "f4f1e4148dfe76138a1562083d6845b5575aa6649e4e7088a08092f1131c5fec",
+    "date": "14 September 2026",
+    "fetched_at": "2026-09-14T21:47:19.787570+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/"
+  },
+  {
+    "content_hash": "dd4ee4b53efaa385538529ec613ad8224526c2b59207b8f684d99ea27b8ea5a9",
+    "date": "14 September 2026",
+    "fetched_at": "2026-09-14T21:22:11.781731+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/"
   },
   {
     "content_hash": "7857e6d69bedbe5e571b65778cc3e306bcb5947e8fdefbf0055975d202b98935",

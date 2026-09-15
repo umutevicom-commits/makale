@@ -1,0 +1,31 @@
+{
+  "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+  "slug": "ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance",
+  "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+  "news_id": "ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance",
+  "date": "14 September 2026",
+  "author": "Dominic-Madori Davis",
+  "tags": [],
+  "body_paragraphs": [
+    "Cornelis, a company creating networking technology to help AI chips communicate more effectively, announced Monday that it has raised $205 million in a funding round led by IAG Capital Partners.",
+    "It also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive. Cornelis hopes to address this with a networking fabric that lets chips process and send information at the same time.",
+    "The company, which spun off from Intel in 2020, is competing with Nvidia by offering an open architecture, meaning customers can use a variety of GPU and accelerator hardware with Cornelis’ networking fabric. Though Nvidia chips can technically run on other networking fabrics, they’re optimized to run on Nvidia’s own software, making it much easier — and more enticing — for customers to use Nvidia’s full GPU stack. Cornelis is part of a new wave of AI infrastructure companies emerging to break apart Nvidia’s market dominance, piece by piece (or chip by chip, one could say).",
+    "Cornelis has already started shipping its product and is working on a new generation of it, expected to be released later this year."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/GettyImages-2236865789.jpg",
+      "alt": ""
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-15T00:12:12.515024+00:00",
+  "title_tr": "Yapay zeka altyapı şirketi Cornelis, Nvidia'nın hakimiyetini kırmak için 205 milyon $ topladı",
+  "body_paragraphs_tr": [
+    "Yapay zeka çiplerinin daha etkili iletişim kurmasına yardımcı olmak için ağ teknolojisi yaratan Cornelis, pazartesi günü IAG Capital Partners liderliğindeki bir finansman turunda 205 milyon $ topladığını duyurdu.",
+    "Ayrıca, verilerin gelmesini beklerken çok fazla GPU zamanının boşa harcandığı gerçeğini hedefleyen bir ağ teknolojisi olan Active Compute Fabric adlı bir ürünü de duyurdu. Cornelis, çiplerin aynı anda bilgi işlemesine ve göndermesine olanak tanıyan bir ağ yapısıyla bunu ele almayı umuyor.",
+    "2020 'de Intel'den ayrılan şirket, açık bir mimari sunarak Nvidia ile rekabet ediyor, bu da müşterilerin Cornelis'in ağ yapısıyla çeşitli GPU ve hızlandırıcı donanımları kullanabileceği anlamına geliyor. Nvidia yongaları teknik olarak diğer ağ yapılarında çalışabilse de, Nvidia'nın kendi yazılımında çalışacak şekilde optimize edilmişlerdir, bu da müşterilerin Nvidia'nın tam GPU yığınını kullanmasını çok daha kolay ve daha cazip hale getirir. Cornelis, Nvidia'nın pazar hakimiyetini parça parça (veya çip çip diyebiliriz) parçalamak için ortaya çıkan yeni bir yapay zeka altyapı şirketleri dalgasının bir parçası.",
+    "Cornelis halihazırda ürününü göndermeye başladı ve bu yılın ilerleyen aylarında piyasaya sürülmesi beklenen yeni bir nesil üzerinde çalışıyor."
+  ],
+  "tags_tr": []
+}
