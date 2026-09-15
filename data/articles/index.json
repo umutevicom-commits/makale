@@ -1,5 +1,35 @@
 [
   {
+    "slug": "ai-agents-now-have-a-place-to-snitch",
+    "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T20:48:58.284044+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "f90467b604d6fa26d5201c1cac780b3db6d6554959d2f36f5f2be3976e684059"
+  },
+  {
+    "slug": "aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round",
+    "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T20:48:47.112971+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "2807e51537a59cde8d8f3d442983c0dd3368c27ade82b9cdcaa206378fc41cb5"
+  },
+  {
+    "slug": "4-days-left-to-exhibit-at-techcrunch-disrupt-2026",
+    "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T20:48:18.921913+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "6923c4d9fb7d21996ade3dc1fb334486839068093204239dc5b221d523dcbd60"
+  },
+  {
     "content_hash": "c1018f5196c8e800eb9cc7754c3d0e76236c8f3dd5df2b680a88f333abc77322",
     "date": "14 September 2026",
     "fetched_at": "2026-09-15T00:12:26.089223+00:00",
