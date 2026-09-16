@@ -1,5 +1,35 @@
 [
   {
+    "slug": "amazon-launches-alexa-in-india-with-hindi-support",
+    "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+    "date": "16 September 2026",
+    "fetched_at": "2026-09-16T19:20:59.743538+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "06d2a355b12c9d15280f9c5f96c0cb1ff8050def3a32ff560e21e175e5b99470"
+  },
+  {
+    "slug": "amazon-gives-its-workers-a-raise-of-1-per-hour",
+    "url": "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/",
+    "date": "16 September 2026",
+    "fetched_at": "2026-09-16T19:20:47.438413+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "223eabb7920dddb3704b064de375c84476d20fd2c370ad573a4f4f3c2181d0fc"
+  },
+  {
+    "slug": "3-days-left-to-exhibit-at-techcrunch-disrupt-2026",
+    "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+    "date": "16 September 2026",
+    "fetched_at": "2026-09-16T19:20:26.314862+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "687379fda72a83540ee1db57331b9750bf01240fcce44762dc6ee4946d8d0f74"
+  },
+  {
     "content_hash": "f90467b604d6fa26d5201c1cac780b3db6d6554959d2f36f5f2be3976e684059",
     "date": "15 September 2026",
     "fetched_at": "2026-09-15T20:48:58.284044+00:00",

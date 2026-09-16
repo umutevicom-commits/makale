@@ -6,7 +6,69 @@
     <atom:link href="https://techcrunch.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>TechCrunch haberlerinin eksiksiz Türkçe çevirisi</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 15:03:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 19:52:28 +0000</lastBuildDate>
+    <item>
+      <title>Amazon, Alexa+' yı Hindistan'da Hintçe desteğiyle piyasaya sürdü</title>
+      <link>https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <author>Ivan Mehta</author>
+      <description>Amazon bugün Alexa+ konuşma asistanının Hintçe desteği ile Hindistan'da mevcut olduğunu duyurdu. Yeni asistan konuşmaları daha uzun süre tutabilir ve bunu yaparken bağlamı koruyabilir.</description>
+      <media:content url="https://umutevicom-commits.github.io/makale/data/images/amazon-launches-alexa-in-india-with-hindi-support/alexa-logo-1600x900-1.jpg" medium="image" type="image/jpeg" />
+      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/amazon-launches-alexa-in-india-with-hindi-support/alexa-logo-1600x900-1.jpg" />
+      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/amazon-launches-alexa-in-india-with-hindi-support/alexa-logo-1600x900-1.jpg" type="image/jpeg" length="0" />
+      <content:encoded><![CDATA[<p>Amazon bugün Alexa+ konuşma asistanının Hintçe desteği ile Hindistan'da mevcut olduğunu duyurdu. Yeni asistan konuşmaları daha uzun süre tutabilir ve bunu yaparken bağlamı koruyabilir.</p>
+<p>Bu özellik, ülkedeki tüm müşteriler tarafından Hintçe ve İngilizce olarak Erken Erişim'de kullanılabilir. Erken test döneminden sonra şirket asistanı Prime müşterileri için ücretsiz hale getirecektir. Prime dışındaki müşteriler için fiyat aylık 2.000 ₹ (20,85 $) olacaktır.</p>
+<p>Şirket, yeni Alexa'nın daha etkileyici bir sese sahip olduğunu ve Amazon'un hızlı ticaret hizmeti Amazon Now'dan yiyecek siparişi vermek ve akıllı ev cihazlarını açmak/kapatmak da dahil olmak üzere karmaşık çok adımlı görevleri yerine getirebileceğini söyledi. Kullanıcılar cümlenin ortasında İngilizce ve Hintçe arasında geçiş yapabilirler.</p>
+<p>Amazon, Alexa+' nın yemek teslimatı hizmeti Swiggy, Zomato'nun bilet rezervasyon platformu District, TripAdvisor ve MakeMyTrip gibi seyahat web siteleri ve restoran rezervasyon uygulaması EazyDiner gibi Hindistan merkezli hizmetlerle entegre olduğunu ekledi. Yükseltilmiş asistan, Amazon Music ve JioSaavn gibi müzik akışı hizmetleriyle de entegre edilmiştir.</p>
+<p>Haziran ayında TechCrunch, şirketin kullanıcıları Alexa+ için bir test programına kaydolmaya davet ettiğini ve bu sayede asistanla Hintçe konuşabileceklerini bildirmişti. Bundan sonra şirket, Alexa+' nın İngilizce sürümünü de test etmeye başladı.</p>
+<p>Amazon, 2017 'de Alexa'yı Hindistan'da İngilizce olarak başlattı ve 2019' da Hintçe desteğini ekledi. Ülkede 600 milyondan fazla Hintçe konuşan var ve Amazon akıllı cihazları ve yeni özellikleriyle bu pazara girmeye çalışıyor. Şirket kesin rakamlar vermedi, ancak akıllı ev cihazlarının geçen yıla göre % 20 büyüdüğünü söyledi.</p>
+<p>Amazon ilk olarak 2025 'te GenAI destekli Alexa+' yı duyurdu ve 2026' da ABD merkezli tüm kullanıcıların kullanımına sundu. Bu yıl şirket, yerel dil bağlamında İngiltere, Kanada, Brezilya, Meksika, İtalya ve Almanya gibi pazarlarda yeni asistanını da piyasaya sürdü.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/amazon-launches-alexa-in-india-with-hindi-support/alexa-logo-1600x900-1.jpg" alt="Alexa+ logo/splash screen" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Amazon, çalışanlarına saatte 1 $ zam yapıyor</title>
+      <link>https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <author>Amanda Silberling</author>
+      <description>Amazon, teslimat sürücüleri ve teslimat merkezi çalışanları gibi ABD'deki temel operasyon çalışanları için asgari başlangıç ücretini saatte 20 $ 'a ve ortalama saatlik ücretini saatte yaklaşık 24 $' a yükseltiyor. Şirket, daha yüksek ücretin uygun çalışanlar için saat başına 1 $ 'lık bir artışı temsil ettiğini belirtiyor.</description>
+      <media:content url="https://umutevicom-commits.github.io/makale/data/images/amazon-gives-its-workers-a-raise-of-1-per-hour/GettyImages-2248802889.jpg" medium="image" type="image/jpeg" />
+      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/amazon-gives-its-workers-a-raise-of-1-per-hour/GettyImages-2248802889.jpg" />
+      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/amazon-gives-its-workers-a-raise-of-1-per-hour/GettyImages-2248802889.jpg" type="image/jpeg" length="0" />
+      <content:encoded><![CDATA[<p>Amazon, teslimat sürücüleri ve teslimat merkezi çalışanları gibi ABD'deki temel operasyon çalışanları için asgari başlangıç ücretini saatte 20 $ 'a ve ortalama saatlik ücretini saatte yaklaşık 24 $' a yükseltiyor. Şirket, daha yüksek ücretin uygun çalışanlar için saat başına 1 $ 'lık bir artışı temsil ettiğini belirtiyor.</p>
+<p>Amazon Kıdemli Başkan Yardımcısı Udit Madan bir blog yazısında, &quot;Sektör lideri avantajlarımızın değerini eklediğinizde, ortalama toplam tazminat saatte 32 $ 'dan fazla gelir&quot; dedi.</p>
+<p>Bu artışlara yapılan yatırım 1.5 milyar $ 'ın üzerinde veya 2.68 trilyon $ piyasa değerinin yaklaşık % 0.06' sına denk geliyor.</p>
+<p>Buna ek olarak Amazon, çalışanlarına First Tech Federal Credit Union üyeliği olan Day 1 Financial adlı düşük maliyetli bir bankacılık sistemine erişimin yanı sıra Amazon'un sahip olduğu premium market zinciri Whole Foods Market'ten mağazadan satın alınan alışverişlerde % 20 indirim sağlayacağını da açıkladı. Çalışanlar Amazon üzerinden çevrimiçi olarak market alışverişi yaparsa, % 10 indirim de alacaklardır.</p>
+<p>Amazon halihazırda çalışanlarına ücretsiz Prime üyelikleri, ön ödemeli eğitim programları ve sağlık sigortası gibi avantajlar sunuyor.</p>
+<p>Amazon yerine getirme merkezi çalışanları için bir alt kategoride, insanlar pek hevesli görünmüyor. Whole Foods indirimi ile ilgili olarak bir çalışan, “Yani normal bir mağazayla neredeyse aynı maliyete mi mal olacak? Hahaha ,&quot; Whole Foods'un tarihsel olarak daha yüksek fiyatlarına bir atıf.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/amazon-gives-its-workers-a-raise-of-1-per-hour/GettyImages-2248802889.jpg" alt="A worker at an Amazon fulfillment center" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Sergilemek için 3 gün kaldı: TechCrunch Disrupt 2026 'da markanızı risk sermayedarlarının ve yüksek değerli potansiyel müşterilerin önüne çıkarın</title>
+      <link>https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <author>TechCrunch Events</author>
+      <description>Atılımınızı risk sermayedarlarına tanıtmak ve güçlü bir müşteri adayı oluşturmak için fırsatlar arıyorsanız, 18 Eylül Cuma günü 23:59 PT, TechCrunch Disrupt 2026 'daki sergi masanızı rezerve etmek için son gününüz.</description>
+      <media:content url="https://umutevicom-commits.github.io/makale/data/images/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/23584287926_9ad6b13311_k.jpg" medium="image" type="image/jpeg" />
+      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/23584287926_9ad6b13311_k.jpg" />
+      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/23584287926_9ad6b13311_k.jpg" type="image/jpeg" length="0" />
+      <content:encoded><![CDATA[<p>Atılımınızı risk sermayedarlarına tanıtmak ve güçlü bir müşteri adayı oluşturmak için fırsatlar arıyorsanız, 18 Eylül Cuma günü 23:59 PT, TechCrunch Disrupt 2026 'daki sergi masanızı rezerve etmek için son gününüz.</p>
+<p>13 -15 Ekim'de San Francisco'daki Moscone West'te 10.000 'den fazla kurucu, yatırımcı, operatör ve teknoloji lideri bir araya gelerek girişimleri keşfediyor, anlaşma akışını sağlıyor, ürün buluyor ve ortaklıklar kuruyor.</p>
+<p>6 ”× 30”sergi masanız, girişiminizi üç gün boyunca Disrupt'ın en yüksek trafik alanına yerleştirir. Şunları yapmak için kullanın:</p>
+<p>Ürününüzü yatırımcılara ve ortaklara tanıtın.</p>
+<p>Bir sonraki fırsatlarını sağlayan risk sermayedarlarıyla tanışın.</p>
+<p>Disrupt mobil uygulaması aracılığıyla potansiyel müşterileri yakalayın.</p>
+<p>Kurucular ve operatörlerle ortaklıklar kurun.</p>
+<p>Markanızı 10.000 'den fazla katılımcının önüne koyun.</p>
+<p>Paketiniz ayrıca 10 takım kartı, web sitesi ve uygulama markalama, basın listesine erişim, Silver Tier sponsor markalama ve daha fazlasını içerir. Kurucular, Deal Flow Café ve Yatırımcıdan Kurucuya Ağ Oluşturma dahil olmak üzere ek fırsatlara erişebilir.</p>
+<p>Üç gün. Sınırlı masalar. 18 Eylül saat 23:59 PT'den önce rezervasyonunuzu yapın.</p>
+<p>Günümüzün teknoloji ortamında inşaat, finansman ve ölçeklendirme hakkında pratik bilgiler edinmek için altı endüstri aşamasında 200 'den fazla oturumda 250' den fazla üst düzey teknoloji liderine katılın. İşinizi ilerletmenize yardımcı olabilecek kişilerle tanışmak için etkileşimli oturumları ve yapay zeka destekli eşleştirmeleri kullanın. Bir sonraki ürününüzü, iş ortağınızı veya yatırım fırsatınızı bulmak için 300 'den fazla startup'ı keşfedin ve Startup Battlefield 200' ü izleyin.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/23584287926_9ad6b13311_k.jpg" alt="Disrupt London 2015 Expo Hall" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/Google-Exhibit-Disrupt-2025.jpg" alt="TechCrunch Disrupt 2024 exhibitor Google Cloud" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/TC26_Disrupt_General_Article_Headers_1920x1080.png" alt="TechCrunch Disrupt 2026, October 13-15" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
     <item>
       <title>Yapay zeka ajanlarının artık ispiyonlayacak bir yeri var</title>
       <link>https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/</link>
@@ -1412,78 +1474,6 @@
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/last-two-days-to-apply-to-host-a-side-event-at-techcrunch-disrupt-2026/Editors-Speakers-Soiree.jpg" alt="TechCrunch Speaker and Soiree 2024" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/last-two-days-to-apply-to-host-a-side-event-at-techcrunch-disrupt-2026/54901701907_e6f3bbc506_k.jpg" alt="Three guests pose together at the Women of Tech(Crunch) Side Event hosted by J.P. Morgan, with other event attendees mingling in the background." loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/last-two-days-to-apply-to-host-a-side-event-at-techcrunch-disrupt-2026/TC26_Disrupt_General_Article_Headers_1920x1080.png" alt="TechCrunch Disrupt 2026, October 13-15" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google'ın en son yapay zeka hava durumu modeli, şemsiyenizi unutmanız için hiçbir bahane sunmuyor</title>
-      <link>https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <author>Tim Fernholz</author>
-      <description>Google DeepMind ve Google Research'teki bilim insanları, bugün değişen atmosferimizi daha net gören ve davranışlarını daha sık tahmin eden hava tahmini için yeni bir yapay zeka modeli yayınladı.</description>
-      <media:content url="https://umutevicom-commits.github.io/makale/data/images/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/2-Figure-How-WeatherNext-3-works.png" medium="image" type="image/png" />
-      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/2-Figure-How-WeatherNext-3-works.png" />
-      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/2-Figure-How-WeatherNext-3-works.png" type="image/png" length="0" />
-      <content:encoded><![CDATA[<p>Google DeepMind ve Google Research'teki bilim insanları, bugün değişen atmosferimizi daha net gören ve davranışlarını daha sık tahmin eden hava tahmini için yeni bir yapay zeka modeli yayınladı.</p>
-<p>WeatherNext 3, derin öğrenme teknikleriyle ortaya çıkan meteorolojideki deniz değişiminin son dalgası ve Google, kullanıcıların aramada, Google Haritalar'da ve İkizler'de gördüğü hava durumu bilgilerinin yanı sıra Google'ın bulut platformlarındaki kullanıcılara ve araştırmacılara sunulmaya başlanacağını söylüyor.</p>
-<p>Google kıdemli personel mühendisi Samier Merchant, TechCrunch'a verdiği demeçte, &quot;Bu, temel değişkenlerden bazılarının Google ürünlerinin çoğunu beslediği ve güçlendirdiği ilk sefer olacak&quot; dedi.</p>
-<p>Yeni model, startup Brightband tarafından oluşturulan yapay zeka tahminlerini karşılaştırmak için bir yardımcı program olan Operational WeatherBench'te test edilen önde gelen yarışmacılar arasında en doğru model olduğunu zaten kanıtladı. Sıcaklık, rüzgar hızı ve nem gibi metriklere bakar.</p>
-<p>Google, Microsoft, Nvidia ve Avrupa Orta Menzilli Hava Tahmini Merkezi (ECMWF) tarafından oluşturulan diğer derin öğrenme modellerini geride bırakmanın yanı sıra, ABD Ulusal Hava Durumu servisi ve ECMWF'den gelen geleneksel tahminleri de geride bırakıyor.</p>
-<p>Hava durumu tahminlerinin çoğu, havanın fiziğini tanımlamak için yazılmış matematiksel denklemler aracılığıyla zahmetli bir şekilde çalkalanan devlete ait süper bilgisayarlardan geliyor; bu sistemler son derece doğru hale gelmiş olsa da, pahalı ve nispeten yavaştır. ECMWF, 2018 'de bu sistemler tarafından üretilen yarım yüzyıldan fazla hava durumu verisini yayınladıktan sonra, derin öğrenme araştırmacıları, hükümet araçlarıyla karşılaştırılabilir doğrulukta ve çok daha hızlı tahminlerde bulunabilecek modeller geliştirmeye başladı.</p>
-<p>DeepMind'ın personel araştırma bilim insanı yöneticisi Ferran Alet, &quot;Hava kaotik ve çok küçük farklılıklar gerçekten kitlesel olarak tedirgin olmaya başlıyor...Makine öğrenimi, gerçekten çözdüğümüz sorunu hedef alıyor, bu da eksik bilgilerden ve sonlu hesaplamalardan yaklaşık gürültülü fizik ve bu nedenle birçok veriden örüntüler öğreniyor&quot; dedi.</p>
-<p>O zamandan beri, model yapıcılar yapay zeka tahmin modellerinin temel zayıflıklarını öne sürdüler: Gerçekten yararlı olandan daha geniş bir alanda (15 ila 25 kilometre kare) tahmin etme eğilimindedirler, yağmurla her zaman iyi değillerdir ve hala devlet kurumları tarafından üretilen biçimlendirilmiş veri kümelerine bağlıdırlar.</p>
-<p>WeatherNext 3, üç görevi de üstlenir. TechCrunch'a konuşan araştırmacılar, kilit değişkenler hakkında 5 km çözünürlüğe kadar tahmin yürütebileceğini söyledi. Yağmurla ilgili değerlendirmeleri WeatherNext 2 'ye göre % 60 iyileşti ve artık her altı saatte bir standart tahmin yerine saatlik tahminler üretebiliyor.</p>
-<p>Bu iyileştirmeler, tasarımcılar tarafından yapılan belirli seçimlerin sonucudur. WeatherNext 3, selefinden 2,4 kat daha fazla parametreye sahip daha büyük bir modeldir ve kod çözücü kafaları için hedefleri daha yararlı cevaplar verecek şekilde uyarlamaktadır. Hava durumu tahminlerinin çoğu 3B ızgarada ortalama metrik olarak çıkarken, DeepMind araştırmacıları modellerini siklon yollarını da görselleştirecek şekilde ayarlayarak şimdiden takdir topladı.</p>
-<p>Bu sefer tasarımcılar, modeli tahminlerini belirli hava durumu veri istasyonlarına hedefleyecek şekilde de eğitti. Bu sadece daha ayrıntılı tahminler sunmak için değil, aynı zamanda çalışmalarını belirli, temel gerçek verilere göre değerlendirebilmek için de önemlidir.</p>
-<p>Brightband'da atmosfer bilimcisi Daniel Rothenberg, &quot;Birçok yapay zeka uygulamasıyla buradaki fikir, görevleri mümkün olduğunca uçtan uca yürütmeye çalışmak&quot; dedi. &quot;Bu modelin şimdi, örneğin Denver havaalanının hava istasyonunun saatlik bazda neyi ölçeceğini de tahmin ettiği bir yetenek eklemek, bu tahmin görevini çekirdeğe daha yakın bir yere bağlıyor .&quot;</p>
-<p>Model, saatlik bazda gerçek zamanlı olarak toplanan hava durumu uydu verilerini alabildiği için daha sık tahmin yapabiliyor. Yapay zeka modellerini hava durumu süper bilgisayarları tarafından üretilen analizlerden ziyade ham ampirik gözlemlerle beslemek daha doğru bir tahmin vaat ediyor, ancak modellerin biçimlendirilmemiş verilerle çalışmasını sağlamak teknik olarak hala zor.</p>
-<p>Google, WeatherNext 3 'ün yüksek çözünürlüklü bir küresel tahmin için ham gözlemleri doğrudan birleştiren &quot;ilk&quot; yapay zeka modeli olduğunu söylüyor. Ancak yapay zeka girişimi WindBorne, modeli WeatherMesh 6' nın 2025 'in sonlarından bu yana hava balonları filosundan ve diğer kaynaklardan ham gözlemleri birleştirdiğini söylüyor. Bu konuda sorulan Google, tahminlerinin dünya genelinde daha yüksek çözünürlükte olduğuna dikkat çekti. Ne olursa olsun, her iki model de tahminleri gerçekleştirmek için hala ulusal hava durumu veri kümelerine güvenmektedir, bu nedenle gerçek doğrudan veri asimilasyonu için daha fazla çalışma gerekecektir.</p>
-<p>LLM'ler dikkatin büyük kısmını alırken, meteorolojideki transformatör devrimi de aynı derecede önemli olmuştur. Avrupa ve ABD hava durumu ajansları, tahmin ürünlerinde zaten yapay zeka modellerini kullanıyor ve hızları ve düşük maliyetleri, yüksek kaliteli sensörlerin ve süper bilgisayarların maliyetinin doğru tahminleri ulaşılamaz hale getirdiği daha yoksul bölgelere ekonomik etki getirme sözü veriyor.</p>
-<p>Bill Gates yakın zamanda yapay zeka destekli hava tahminlerini teknolojinin çok önemli bir faydası olarak gösterdi ve gelişmekte olan ülkelerde mahsul verimini artıran daha iyi tahminler yaptı. DeepMind araştırmacısı Alet, daha yüksek çözünürlüklü rüzgar, yağmur ve bulut örtüsü tahminlerinin yenilenebilir enerji projelerini daha güvenilir hale getirmek için yararlı olacağını söyledi.</p>
-<p>Alet, &quot;Günün sonunda, Google'ın kullanıcıya yararlı bilgiler sağlamakla ilgili olduğunu ve kullanıcıların aradıklarının çoğunun bir şekilde hava durumuyla ilgisi olduğunu düşünüyorum&quot; dedi.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/2-Figure-How-WeatherNext-3-works.png" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/30-day-weather-champion.png" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/3-Figure-Surface-temperature-still-image-1.png" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google, Gmail, Dokümanlar ve Keep'te yapay zeka ses özelliklerini kullanıma sundu</title>
-      <link>https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <author>Ivan Mehta</author>
-      <description>Google, Dokümanlar, Gmail ve Keep'te kullanıcıların gelen kutuları ve belgeleri hakkında soru sormalarının yanı sıra doğal dil sorgularını ve dikte işlemlerini kullanarak görevleri yapmalarına olanak tanıyan konuşma amaçlı yapay zeka özellikleri başlatıyor.</description>
-      <media:content url="https://umutevicom-commits.github.io/makale/data/images/google-launches-ai-voice-features-in-gmail-docs-and-keep/Gmail-Live-Docs-Live-Keep-Live.jpeg" medium="image" type="image/jpeg" />
-      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/google-launches-ai-voice-features-in-gmail-docs-and-keep/Gmail-Live-Docs-Live-Keep-Live.jpeg" />
-      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/google-launches-ai-voice-features-in-gmail-docs-and-keep/Gmail-Live-Docs-Live-Keep-Live.jpeg" type="image/jpeg" length="0" />
-      <content:encoded><![CDATA[<p>Google, Dokümanlar, Gmail ve Keep'te kullanıcıların gelen kutuları ve belgeleri hakkında soru sormalarının yanı sıra doğal dil sorgularını ve dikte işlemlerini kullanarak görevleri yapmalarına olanak tanıyan konuşma amaçlı yapay zeka özellikleri başlatıyor.</p>
-<p>Şirket, Mayıs ayında Google I/O konferansında bu özelliklerin önizlemesini yaptı. Şirket bu özellikleri Docs Live, Gmail Live ve Keep Live olarak adlandırıyor.</p>
-<p>Gmail'de, bir arama kutusuna yazmak yerine, Gemini destekli bir yapay zeka asistanına gelen kutunuzun içeriği hakkında sorular sorabilirsiniz. Kullanıcılar asistanla sohbet ederken canlı bir transkript görecekler.</p>
-<p>Dokümanları kullanırken, kullanıcılar ne yazmak istediklerini açıklayabilir ve yapay zeka asistanı ilk taslağı oluşturmalarına yardımcı olacaktır. Taslaklar oluşturmak için Gmail, Drive, sohbet ve web'den de bilgi alabilir.</p>
-<p>Bu arada Keep Live, notları yazmadan not etmek için bir karalama tahtası olarak kullanmanıza izin verir ve örneğin bir shakshouka yapmak için malzemeleri listelemesini söylerseniz tarifleri ve listeleri bir araya getirebilir.</p>
-<p>Gmail Live, Google AI Plus, Pro ve Ultra müşterileri tarafından kullanılabilir. Docs Live ve Keep Live, Google AI Pro ve Ultra kullanıcıları tarafından kullanılabilir. Tüm bu özellikler iOS ve Android'de İngilizce olarak sunulacak. Google, bu özellikleri yakında Workplace Business müşterilerine sunacağını söyledi.</p>
-<p>Google, uygulamalarında ses tabanlı özellikler sunuyor. Şirket nisan ayında Mac uygulamasına çapraz uygulama dikte özelliğini eklemişti. Ve Pixel 11 akıllı telefonlar geçen ay Rambler adlı İkizler destekli bir dikte aracına sahip oldu ve bu da konuşmanızdan dolgu kelimelerini kaldırıyor. Ağustos ayında şirket, konuşmadan metne kullanım durumları için Gemini 3.5 Transcribe modelini tanıttı.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/google-launches-ai-voice-features-in-gmail-docs-and-keep/Gmail-Live-Docs-Live-Keep-Live.jpeg" alt="Google" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Circular, temassız ödemeler ve parmak titreşim uyarıları içeren Ring 3 serisini tanıttı</title>
-      <link>https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <author>Aisha Malik</author>
-      <description>Akıllı yüzük üreticisi Circular, Perşembe günü bir Pro modeli ve bir Slim seçeneğinden oluşan yaklaşan Ring 3 serisini tanıttı. Her iki akıllı yüzük de temassız ödemeler için entegre bir NFC çipine, alarmlar ve hatırlatıcılar için titreşimli uyarılara ve daha fazlasına sahip olacak.</description>
-      <media:content url="https://umutevicom-commits.github.io/makale/data/images/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/Circular-Ring-3-Slim-Lineup.png" medium="image" type="image/png" />
-      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/Circular-Ring-3-Slim-Lineup.png" />
-      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/Circular-Ring-3-Slim-Lineup.png" type="image/png" length="0" />
-      <content:encoded><![CDATA[<p>Akıllı yüzük üreticisi Circular, Perşembe günü bir Pro modeli ve bir Slim seçeneğinden oluşan yaklaşan Ring 3 serisini tanıttı. Her iki akıllı yüzük de temassız ödemeler için entegre bir NFC çipine, alarmlar ve hatırlatıcılar için titreşimli uyarılara ve daha fazlasına sahip olacak.</p>
-<p>Ring 3 Pro, selefinden daha ince bir tasarıma sahiptir ve AFib tespiti, kan basıncı trend takibi, glikoz takibi, gelişmiş uyku analizi ve kapsamlı biyometrik izleme için FDA onaylı EKG ile birlikte gelir. Halka, selefinden yedi güne kadar 12 güne kadar pil ömrü sunuyor.</p>
-<p>Slim seçeneği Pro modelinden daha ince ve daha hafiftir ve uyku, kalp atış hızı, HRV, SpO₂, cilt sıcaklığı ve günlük aktivite dahil olmak üzere kompakt bir tasarımda temel sağlık ve zindelik takibine sahiptir. 10 güne kadar pil ömrüne sahiptir.</p>
-<p>Circular Ring 3 serisi duyurusu, Oura Ring 5 ve RingConn Gen 3 'ün piyasaya sürülmesinin ardından akıllı halka pazarında rekabetin arttığı bir yılın ortasında geldi.</p>
-<p>Circular CEO'su Amaury Kosman, TechCrunch ile e - posta yoluyla paylaştığı bir şirket duyurusunda, &quot;Herkesin her sağlık özelliğini istemediğini anlıyoruz&quot; dedi. “Birçok insan sadece temel sağlık anlayışları ve zahmetsiz temassız ödemeler sunan güzel tasarlanmış, şık bir akıllı yüzük istiyor. Bu nedenle, birçok kullanıcının inanılmaz derecede kompakt bir tasarımda istediği temel sağlık izleme özelliklerini sunarken güvenli NFC ödemelerinin rahatlığını koruyan daha hafif, daha akıcı bir deneyim olan Circular Ring 3 Slim'i yarattık .&quot;</p>
-<p>Her iki modelde de bulunan parmak üzerindeki titreşimler, sessiz uyandırma alarmları, ilaç hatırlatıcıları, hayati sağlık uyarıları ve rehberli nefes egzersizleri için kullanılabilir.</p>
-<p>Ring 3 modellerinin her ikisi de titanyum çelikten yapılmıştır, 50 metre su direncine sahiptir ve kablosuz şarjı destekler. 6 -14 bedenleri bulunacaktır. Ring 2 'de olduğu gibi, yeni akıllı yüzükler altın, pembe altın, gümüş ve siyah renklerde satışa sunulacak.</p>
-<p>Circular, her iki akıllı halka için de fiyatlandırma ve ön sipariş bilgilerinin önümüzdeki aylarda açıklanacağını söyledi. Yüzüklerin 2027 'nin başlarında satışa sunulması bekleniyor.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/Circular-Ring-3-Slim-Lineup.png" alt="array of Circular Rings" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/Circular-Ring-3-Comparison.jpeg" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/Circular-Ring-3-Slim-Cluster.png" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
