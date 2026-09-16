@@ -1,0 +1,45 @@
+{
+  "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+  "slug": "anthropic-merges-claude-chat-and-cowork-in-one-interface",
+  "title": "Anthropic merges Claude chat and Cowork in one interface",
+  "news_id": "anthropic-merges-claude-chat-and-cowork-in-one-interface",
+  "date": "16 September 2026",
+  "author": "Ivan Mehta",
+  "tags": [],
+  "body_paragraphs": [
+    "Anthropic is merging its front end for Claude chat and Cowork, making it less confusing for people to decide which tab to use for different tasks.",
+    "The unified interface lets users access chat, Cowork, and Artifacts (Claude’s interactive workspace feature) within one window. Claude Design, which was introduced in April for website and prototype design, also works anywhere within Claude.",
+    "Before this rollout, the company said customers often struggled to choose the right tab for the right task. With the new design, Claude automatically routes requests without having to switch tabs or windows. The idea is to remove confusion about which feature to pick and use just one front end to route work to different parts of the app.",
+    "Hopefully, OpenAI also takes a cue from this rollout and fixes ChatGPT’s interface across the platforms.",
+    "Anthropic is also adding dedicated features for making presentations and documents. Users can ask the AI assistant to create, edit, and present slides, and it can also download the generated presentation as a PDF or PowerPoint.",
+    "Similarly, with the Docs feature, users can work alongside Claude to create sections, ask questions, and comment on completed parts. Users can share generated documents or slides with a link and edit them on their phone.",
+    "Users can also ask Claude to start creating a document on desktop, and they can check the progress of the task using the mobile app.",
+    "These features are rolling out to Claude’s Pro and Max plans first, on the web, desktop, and mobile over the coming weeks. The company plans to extend them to the free and team tiers later.",
+    "The update comes in the wake of an upgrade of Cowork’s memory layer, which helps Claude remember user context across chats."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/anthropic-merges-claude-chat-and-cowork-in-one-interface/Claude-1920x1080-1.jpeg",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/anthropic-merges-claude-chat-and-cowork-in-one-interface/Claude-1920x1080-1-95215320.jpeg",
+      "alt": ""
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-16T22:37:11.204778+00:00",
+  "title_tr": "Anthropic, Claude chat ve Cowork'u tek bir arayüzde birleştirdi",
+  "body_paragraphs_tr": [
+    "Anthropic, Claude chat ve Cowork için ön ucunu birleştirerek, insanların farklı görevler için hangi sekmeyi kullanacaklarına karar vermelerini daha az kafa karıştırıcı hale getiriyor.",
+    "Birleşik arayüz, kullanıcıların tek bir pencerede sohbet, Cowork ve Eserlere (Claude'un etkileşimli çalışma alanı özelliği) erişmesini sağlar. Web sitesi ve prototip tasarımı için Nisan ayında tanıtılan Claude Design, Claude'un her yerinde çalışıyor.",
+    "Bu lansmandan önce şirket, müşterilerin genellikle doğru görev için doğru sekmeyi seçmekte zorlandığını söyledi. Yeni tasarımla Claude, istekleri sekme veya pencere değiştirmek zorunda kalmadan otomatik olarak yönlendiriyor. Buradaki fikir, çalışmayı uygulamanın farklı bölümlerine yönlendirmek için hangi özelliğin seçileceği ve yalnızca bir ön ucun kullanılacağı konusundaki kafa karışıklığını ortadan kaldırmaktır.",
+    "Umarım, OpenAI de bu sunumdan bir ipucu alır ve ChatGPT'nin platformlar arasındaki arayüzünü düzeltir.",
+    "Anthropic ayrıca sunumlar ve belgeler yapmak için özel özellikler de ekliyor. Kullanıcılar yapay zeka asistanından slaytlar oluşturmasını, düzenlemesini ve sunmasını isteyebilir ve oluşturulan sunumu PDF veya PowerPoint olarak da indirebilir.",
+    "Benzer şekilde, Dokümanlar özelliği ile kullanıcılar bölümler oluşturmak, soru sormak ve tamamlanan bölümler hakkında yorum yapmak için Claude ile birlikte çalışabilirler. Kullanıcılar, oluşturulan belgeleri veya slaytları bir bağlantıyla paylaşabilir ve telefonlarında düzenleyebilir.",
+    "Kullanıcılar ayrıca Claude'dan masaüstünde bir belge oluşturmaya başlamasını isteyebilir ve mobil uygulamayı kullanarak görevin ilerlemesini kontrol edebilirler.",
+    "Bu özellikler önümüzdeki haftalarda ilk olarak web, masaüstü ve mobil cihazlarda Claude's Pro ve Max planlarına sunulacak. Şirket bunları daha sonra ücretsiz ve ekip seviyelerine genişletmeyi planlıyor.",
+    "Güncelleme, Claude'un sohbetler arasında kullanıcı bağlamını hatırlamasına yardımcı olan Cowork'un bellek katmanının yükseltilmesinin ardından geldi."
+  ],
+  "tags_tr": []
+}
