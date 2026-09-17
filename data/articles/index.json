@@ -1,23 +1,23 @@
 [
   {
-    "slug": "anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent",
-    "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "content_hash": "3929015c495229309e45930c6cc3b2d7a0f3189af128068c3831daec957e655c",
     "date": "16 September 2026",
     "fetched_at": "2026-09-17T03:08:42.044436+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "3929015c495229309e45930c6cc3b2d7a0f3189af128068c3831daec957e655c"
+    "retries": 0,
+    "slug": "anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/"
   },
   {
-    "slug": "after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera",
-    "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+    "content_hash": "24a9f79476eda339d9f2f338b426d3e4306bf35a5ba434738c8bbca1ea43dd3f",
     "date": "16 September 2026",
     "fetched_at": "2026-09-17T03:08:29.382152+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "24a9f79476eda339d9f2f338b426d3e4306bf35a5ba434738c8bbca1ea43dd3f"
+    "retries": 0,
+    "slug": "after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/"
   },
   {
     "content_hash": "8d5a02b5800c6b8025db6e0c592f6ab697ccfeb7f978e6aeb4c7b9e282cbae6a",
