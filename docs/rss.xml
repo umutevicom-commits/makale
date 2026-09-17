@@ -6,7 +6,27 @@
     <atom:link href="https://techcrunch.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>TechCrunch haberlerinin eksiksiz Türkçe çevirisi</description>
     <language>tr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:08:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 23:16:22 +0000</lastBuildDate>
+    <item>
+      <title>Apple, AB uygulamalarının daha az endişe verici izleme - onay ekranları kullanmasına izin verecek</title>
+      <link>https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <author>Sarah Perez</author>
+      <description>Almanya'nın federal rekabet düzenleyicisi ve diğerlerinin çok yıllı bir antitröst soruşturması sonucunda Apple, platformlarında kullanıcıyı diğer uygulamalar veya web sitelerinde izlemek için izin isteyen uygulamaların gereksinimlerini değiştirmeyi kabul etti.</description>
+      <media:content url="https://umutevicom-commits.github.io/makale/data/images/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/app-store-ios-2022.jpg" medium="image" type="image/jpeg" />
+      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/app-store-ios-2022.jpg" />
+      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/app-store-ios-2022.jpg" type="image/jpeg" length="0" />
+      <content:encoded><![CDATA[<p>Almanya'nın federal rekabet düzenleyicisi ve diğerlerinin çok yıllı bir antitröst soruşturması sonucunda Apple, platformlarında kullanıcıyı diğer uygulamalar veya web sitelerinde izlemek için izin isteyen uygulamaların gereksinimlerini değiştirmeyi kabul etti.</p>
+<p>Düzenleyiciler, Uygulama İzleme Şeffaflığı (App Tracking Transparency - ATT) olarak bilinen bu sistemin, Apple'ın kendi uygulamalarının bir izin ekranı gerektirmeden ekosistemindeki tüketicilerin verilerini kullanmasına izin vermesi nedeniyle Apple'ı üçüncü taraf uygulamalara tercih ettiğini söyledi.</p>
+<p>Seçkin Avrupa rekabet otoriteleriyle yapılan yeni anlaşmalar, kullanıcıları uyarma ihtiyacını veya bu uyarının ne zaman gösterileceğini ortadan kaldırmıyor. Bunun yerine, yazılımı AB'de dağıtılan uygulama geliştiricilerinin, değiştirilmiş biçimlendirme, dil ve uygulamanın diğer şeylerin yanı sıra neden bu izni talep ettiğine dair &quot;ek bilgiler&quot; e bağlantı verme seçeneğini içeren alternatif bir onay ekranı görüntülemesine izin veriyorlar.</p>
+<p>Apple'ın uyumluluğu, bu ATT onay ekranlarını son kullanıcılar için daha az korkutucu hale getirmeye çalışan yarım düzineden fazla değişiklik içeriyor. Bu, onları açılır pencereler olarak değil, tam sayfa ekranlar olarak göstermeyi; “track” kelimesini kaldırmayı; seçim düğmelerini “Allow” ve “Ask App Not to Track” yerine “Allow” ve “Reject” olarak değiştirmeyi; renkleri ve biçimlendirmeyi değiştirmeyi ve daha fazlasını içerir. Ayrıca geliştiriciler, bu verileri nasıl kullandıklarını ve neden talep edildiklerini açıklayan tıklanabilir bir bağlantı aracılığıyla kullanıcılara daha ayrıntılı bilgi sunabilir.</p>
+<p>IPhone üreticisi, yasal gereklilikler nedeniyle Almanya, Fransa, İtalya, Polonya ve Romanya'da dağıtılan uygulamalar için yalnızca sistem isteminin alternatif sürümünün mevcut olacağını söylüyor.</p>
+<p>Kullanıcılar genellikle onay ekranlarına, uygulamalardan onları izlememelerini isteyerek yanıt verir. Bu da Meta gibi reklam destekli işletmelere zarar verirken Apple'ın kendi uygulamalarını güçlendirir. Kısacası, bu tür izinler isteyen uygulamalar, daha fazla gelir sağlayan ve uygulama geliştiricisinin para kazanmasına yardımcı olan kişiselleştirilmiş reklamlar göstermelerine izin verdiği için bunu yapar.</p>
+<p>Bununla birlikte Apple, kendi uygulamalarının ekosisteminden topladıkları verilere dayanarak kişiselleştirilmiş reklamlar göstermesine izin vermesine rağmen, bu onay ekranlarının tüketici gizliliğini korumaya yardımcı olduğunu savundu.</p>
+<p>Şirket şimdi, AB'ye dağıtım yapan uygulama geliştiricilerinin, kullanıcının ATT onay ekranındaki önceki seçiminden bir yıl sonra AB kullanıcılarını yeniden teşvik etmelerine izin vereceğini söyledi.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/app-store-ios-2022.jpg" alt="App Store icon on iPhone screen" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
     <item>
       <title>TechCrunch Disrupt 2026 'ya 2 gün kaldı</title>
       <link>https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/</link>
@@ -1447,29 +1467,6 @@
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/the-cybercab-is-teslas-fork-in-the-road-moment/tesla-cybercab-austin-giga-getty.jpg" alt="A production model Tesla Cybercab drives in the outbound lot at Tesla Giga Texas in Austin." loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/the-cybercab-is-teslas-fork-in-the-road-moment/GettyImages-2220716767.jpg" alt="A Tesla Inc. robotaxi" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/the-cybercab-is-teslas-fork-in-the-road-moment/tesla-cybercab-interior-getty.jpg" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Yeni araştırma, startup ARR'nin her zamankinden daha az güvenli olduğunu gösteriyor</title>
-      <link>https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <author>Julie Bort</author>
-      <description>Yapay zeka, daha önce hiç yaşanmamış birçok anı başlattı, ancak en dönüştürücü olanlardan biri kurumsal BT üzerindeki etkisidir. Pazar araştırmacısı IDC, tarihsel olarak temkinli olan ve satın aldıkları şeye uzun vadeli olarak bağlı olan şirketlerin 2026 'da teknolojiye 4,25 trilyon $ harcayacaklarını öngörüyor. Neredeyse hepsi yapay zeka tarafından yönlendiriliyor.</description>
-      <media:content url="https://umutevicom-commits.github.io/makale/data/images/startup-arr-is-less-secure-than-ever-new-research-shows/PM-Images.jpg" medium="image" type="image/jpeg" />
-      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/startup-arr-is-less-secure-than-ever-new-research-shows/PM-Images.jpg" />
-      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/startup-arr-is-less-secure-than-ever-new-research-shows/PM-Images.jpg" type="image/jpeg" length="0" />
-      <content:encoded><![CDATA[<p>Yapay zeka, daha önce hiç yaşanmamış birçok anı başlattı, ancak en dönüştürücü olanlardan biri kurumsal BT üzerindeki etkisidir. Pazar araştırmacısı IDC, tarihsel olarak temkinli olan ve satın aldıkları şeye uzun vadeli olarak bağlı olan şirketlerin 2026 'da teknolojiye 4,25 trilyon $ harcayacaklarını öngörüyor. Neredeyse hepsi yapay zeka tarafından yönlendiriliyor.</p>
-<p>Risk sermayesi şirketi Madrona'nın yeni araştırması, ankete katılan 150 kurumsal BT uzmanının % 74 'ünün önümüzdeki 12 ay içinde yapay zeka bütçelerini genişletmeyi planladığını ve geri kalanının harcamalarını sabit tutmayı planladığını gösteriyor. Yine de aynı işletmeler, yapay zeka pilotlarının yarısından daha azının tam üretime geçtiğini söylüyor.</p>
-<p>Bu aslında bir gelişme. Geçen yıl MIT, kurumsal yapay zeka projelerinin % 95 'inin yatırım getirisi açısından başarısız olduğunu bildirmişti. Yarıdan daha az başarı oldukça düşük bir çıtadır, ancak % 5' lik bir başarı oranından daha iyidir.</p>
-<p>Ancak Madrona'nın raporundan elde edilen en çarpıcı bulgu, bir kuruluş yapay zeka teknolojisini piyasaya sürse bile, uzun vadede bunu taahhüt etmediğidir.</p>
-<p>İşletmelerin yaklaşık % 77 'si yapay zeka satıcılarını her altı ayda bir veya hatta sürekli olarak yeniden değerlendiriyor. Madrona raporda, &quot;Bu, çok yıllık sözleşmelerin bir atalet hendeği sağladığı geleneksel SaaS girişiminden temelde farklı bir’ hızlı giriş, hızlı çıkış ’dinamiği yaratıyor&quot; diye yazıyor. &quot;Kurumsal yapay zekada, anahtarlama maliyetleri daha düşüktür ve yeniden değerlendirme ritmi amansızdır .&quot;</p>
-<p>Bunun, tüm hızlı büyüyen yıllık yinelenen gelir (ARR) sayıları girişim raporu için yaygın etkileri vardır. Kurumsal deneme bütçeleri, 2025 'in ilk yapay zeka patlamasını körükleyen şeydir. Bu yıl, bu büyük müşterilerin yerleştiği ve yapay zeka girişimlerine uzun vadeli taahhüt vermeye başladığı yıl olması gerekiyordu. Kurumsal sözleşmeler, bu kadar çok yapay zeka girişiminin astronomik olarak hızlı gelir artışı talep etmesine izin veren şeydir — girişimlerin üç ay içinde $ 0 -$ 10 milyon arasında değiştiğini düşünün.</p>
-<p>Yine de, bir girişimin yapay zeka ürünü pilot aşamadan mezun olduktan ve bir şirket tarafından kabul edildikten sonra bile, kurumsal gelir ilk kez güvensizliğini koruyor.</p>
-<p>Sorunun bir kısmı, birçok yapay zeka girişiminin yapay zeka ürünlerini işletmeler için fiyatlandırmak için iyi bir yola tam olarak inmemiş olmasıdır. VC firması Andreessen Horowitz'in 50 teknik yapay zeka alıcısıyla yaptığı yeni araştırma, yarısından fazlasının yapay zeka ücretlerinin, tüketilen token sayısı gibi kullanımlardan ziyade üretilen işe veya diğer sonuçlara bağlı olmasını istediğini ortaya koydu.</p>
-<p>Token gibi kullanım için ücretlendirme temelde bir SaaS dönemi iş modelidir. Bir kuruluş e - postaya, İK yazılımına veya bulut depolamaya ihtiyaç duyduğunu bildiğinde, bu sadece kaç çalışana veya ne kadar veri için ödeme yapması gerektiği ile ilgilidir.</p>
-<p>Yapay zeka için, &quot;tanınabilir iş etrafında&quot; fiyatlandırma, girişimin müşteriye değerini kanıtlamasına yardımcı olan şeydir. a16z ortakları Tuğçe Erten ve Sarah Wang, ücretler kaç raporun işlendiği, biletlerin kapatıldığı veya potansiyel müşteri oluşturulduğu etrafında döndüğünde, bu ürünün &quot;her iki taraf için de ekonomik olarak değerli&quot; olduğunu yazıyor.</p>
-<p>Tüm bunlar, yapay zekanın potansiyel olarak yeni bir kurumsal deney çağını başlattığı anlamına geliyor. Bu, yeni başlayanlara kapıları açar — işletmeler teknolojilerini denemeye daha isteklidir — ancak aynı zamanda bir kurumsal sözleşmenin artık uzun vadeli geliri güvence altına almadığı anlamına gelir. İşletmelerin uzun vadeli satın alma alışkanlıklarına ne zaman veya ne zaman geri dönecekleri görülecektir.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/startup-arr-is-less-secure-than-ever-new-research-shows/PM-Images.jpg" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
     </item>
   </channel>
 </rss>

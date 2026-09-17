@@ -1,0 +1,39 @@
+{
+  "url": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
+  "slug": "apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens",
+  "title": "Apple will let EU apps use less-alarming tracking-consent screens",
+  "news_id": "apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens",
+  "date": "17 September 2026",
+  "author": "Sarah Perez",
+  "tags": [],
+  "body_paragraphs": [
+    "As a result of a multi-year antitrust probe by Germany’s federal competition regulator and others, Apple has agreed to modify the requirements for apps on its platforms that ask for consent to track the user across other apps or websites.",
+    "Regulators said this system, known as App Tracking Transparency, or ATT, had favored Apple over third-party apps, since Apple allows its own apps to use consumers’ data from its ecosystem without requiring a consent screen.",
+    "The new agreements with select European competition authorities don’t do away with the need to prompt users, or when that prompt is to be shown. Instead, they allow app developers whose software is distributed in the EU to display an alternative consent screen that includes modified formatting, language, and the option to link out to “additional information” about why the app is requesting this permission, among other things.",
+    "Apple’s compliance involves over half-a-dozen changes that attempt to make these ATT consent screens less scary to end users. This includes showing them as full-page screens, not pop-ups; removing the word “track”; changing the choice buttons to “Allow” and “Reject” instead of “Allow” and “Ask App Not to Track”; changing the colors and formatting; and more. Plus, developers can offer users more detailed information through a clickable link, explaining how they use this data and why it’s being requested.",
+    "The iPhone maker says that, due to legal requirements, only the alternative version of the system prompt will be available to apps distributed in Germany, France, Italy, Poland, and Romania.",
+    "Users typically respond to consent screens by asking apps not to track them, which hurts ad-supported businesses, like Meta, while boosting Apple’s own. In short, the apps asking for such permissions do so because it lets them show personalized advertising, which generates more revenue, helping the app developer to make money.",
+    "Apple, however, argued that these consent screens help protect consumer privacy, even though it permits its own apps to display personalized ads based on the data they collect from its ecosystem.",
+    "The company said it will now allow app developers distributing to the EU to re-prompt their EU users one year after the user’s previous choice in their ATT consent screen."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/app-store-ios-2022.jpg",
+      "alt": "App Store icon on iPhone screen"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-17T22:37:05.158414+00:00",
+  "title_tr": "Apple, AB uygulamalarının daha az endişe verici izleme - onay ekranları kullanmasına izin verecek",
+  "body_paragraphs_tr": [
+    "Almanya'nın federal rekabet düzenleyicisi ve diğerlerinin çok yıllı bir antitröst soruşturması sonucunda Apple, platformlarında kullanıcıyı diğer uygulamalar veya web sitelerinde izlemek için izin isteyen uygulamaların gereksinimlerini değiştirmeyi kabul etti.",
+    "Düzenleyiciler, Uygulama İzleme Şeffaflığı (App Tracking Transparency - ATT) olarak bilinen bu sistemin, Apple'ın kendi uygulamalarının bir izin ekranı gerektirmeden ekosistemindeki tüketicilerin verilerini kullanmasına izin vermesi nedeniyle Apple'ı üçüncü taraf uygulamalara tercih ettiğini söyledi.",
+    "Seçkin Avrupa rekabet otoriteleriyle yapılan yeni anlaşmalar, kullanıcıları uyarma ihtiyacını veya bu uyarının ne zaman gösterileceğini ortadan kaldırmıyor. Bunun yerine, yazılımı AB'de dağıtılan uygulama geliştiricilerinin, değiştirilmiş biçimlendirme, dil ve uygulamanın diğer şeylerin yanı sıra neden bu izni talep ettiğine dair \"ek bilgiler\" e bağlantı verme seçeneğini içeren alternatif bir onay ekranı görüntülemesine izin veriyorlar.",
+    "Apple'ın uyumluluğu, bu ATT onay ekranlarını son kullanıcılar için daha az korkutucu hale getirmeye çalışan yarım düzineden fazla değişiklik içeriyor. Bu, onları açılır pencereler olarak değil, tam sayfa ekranlar olarak göstermeyi; “track” kelimesini kaldırmayı; seçim düğmelerini “Allow” ve “Ask App Not to Track” yerine “Allow” ve “Reject” olarak değiştirmeyi; renkleri ve biçimlendirmeyi değiştirmeyi ve daha fazlasını içerir. Ayrıca geliştiriciler, bu verileri nasıl kullandıklarını ve neden talep edildiklerini açıklayan tıklanabilir bir bağlantı aracılığıyla kullanıcılara daha ayrıntılı bilgi sunabilir.",
+    "IPhone üreticisi, yasal gereklilikler nedeniyle Almanya, Fransa, İtalya, Polonya ve Romanya'da dağıtılan uygulamalar için yalnızca sistem isteminin alternatif sürümünün mevcut olacağını söylüyor.",
+    "Kullanıcılar genellikle onay ekranlarına, uygulamalardan onları izlememelerini isteyerek yanıt verir. Bu da Meta gibi reklam destekli işletmelere zarar verirken Apple'ın kendi uygulamalarını güçlendirir. Kısacası, bu tür izinler isteyen uygulamalar, daha fazla gelir sağlayan ve uygulama geliştiricisinin para kazanmasına yardımcı olan kişiselleştirilmiş reklamlar göstermelerine izin verdiği için bunu yapar.",
+    "Bununla birlikte Apple, kendi uygulamalarının ekosisteminden topladıkları verilere dayanarak kişiselleştirilmiş reklamlar göstermesine izin vermesine rağmen, bu onay ekranlarının tüketici gizliliğini korumaya yardımcı olduğunu savundu.",
+    "Şirket şimdi, AB'ye dağıtım yapan uygulama geliştiricilerinin, kullanıcının ATT onay ekranındaki önceki seçiminden bir yıl sonra AB kullanıcılarını yeniden teşvik etmelerine izin vereceğini söyledi."
+  ],
+  "tags_tr": []
+}
