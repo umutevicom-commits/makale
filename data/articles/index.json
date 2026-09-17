@@ -1,23 +1,43 @@
 [
   {
-    "slug": "anthropic-merges-claude-chat-and-cowork-in-one-interface",
-    "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+    "slug": "anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent",
+    "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
     "date": "16 September 2026",
-    "fetched_at": "2026-09-16T22:37:11.204778+00:00",
+    "fetched_at": "2026-09-17T03:08:42.044436+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "8d5a02b5800c6b8025db6e0c592f6ab697ccfeb7f978e6aeb4c7b9e282cbae6a"
+    "content_hash": "3929015c495229309e45930c6cc3b2d7a0f3189af128068c3831daec957e655c"
   },
   {
-    "slug": "ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first",
-    "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+    "slug": "after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera",
+    "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
     "date": "16 September 2026",
-    "fetched_at": "2026-09-16T22:36:33.033448+00:00",
+    "fetched_at": "2026-09-17T03:08:29.382152+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "deecb613a9bb25eba09b5ece3ceba932e33560cfc919003d3a400b2e5cf29d1d"
+    "content_hash": "24a9f79476eda339d9f2f338b426d3e4306bf35a5ba434738c8bbca1ea43dd3f"
+  },
+  {
+    "content_hash": "8d5a02b5800c6b8025db6e0c592f6ab697ccfeb7f978e6aeb4c7b9e282cbae6a",
+    "date": "16 September 2026",
+    "fetched_at": "2026-09-16T22:37:11.204778+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "anthropic-merges-claude-chat-and-cowork-in-one-interface",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/"
+  },
+  {
+    "content_hash": "deecb613a9bb25eba09b5ece3ceba932e33560cfc919003d3a400b2e5cf29d1d",
+    "date": "16 September 2026",
+    "fetched_at": "2026-09-16T22:36:33.033448+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/"
   },
   {
     "content_hash": "06d2a355b12c9d15280f9c5f96c0cb1ff8050def3a32ff560e21e175e5b99470",
