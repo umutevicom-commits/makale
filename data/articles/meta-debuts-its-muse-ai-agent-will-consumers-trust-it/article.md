@@ -1,0 +1,61 @@
+# Meta, Muse AI aracısını tanıttı. Tüketiciler buna güvenecek mi?
+
+Meta, sosyal medyanın tüketici zararlarına ilişkin bir davada 18 milyar $ tutarında çok devletli büyük bir anlaşmayı kabul ettikten iki haftadan kısa bir süre sonra, şirket bugüne kadarki en büyük tüketici yapay zekası bahsini ve sosyal medyadan çok daha fazla güven gerektiren bir bahsi açıkladı. Salı günü şirket, tüketicilere ABD'deki kullanıcılar için günlük görevlerde ve projelerde yardımcı olan yeni kişisel yapay zeka ajanı Muse'u tanıttı.
+
+Muse&#39;u kullanmak için tüketicilerin Meta&#39;ya her zamankinden daha fazla kişisel bilgilerini emanet etmeleri gerekecek. Yapay zekâ ajanı, kullanıcının günlük iş akışlarının bir parçası olan uygulamalara ve hizmetlere bağlanarak çalışır; bunlar arasında e-posta, takvimler, ödemeler ve bireyin düzenli olarak kullandığı diğer uygulamalar (sağlık ve fitness, akıllı ev, yemek, alışveriş, müzik ve etkinlikler vb.) yer alır.
+
+Buradaki fikir, yapay zeka sohbet robotlarının soruları yanıtladığı, ses tahtası olarak hizmet ettiği ve hatta dijital yoldaşlar haline geldiği ChatGPT döneminden sonra ne geleceğine dair büyük bir bahistir. Bunun yerine Muse, sizin için gerçekten bir şeyler yapabilen yapay zekaya odaklanıyor.
+
+Şirket, acentenin e - posta göndermek, seyahat rezervasyonu yapmak, faturaları düşürmek, form doldurmak, planlar oluşturmak, tarif makaralarını market listelerine dönüştürmek, parti davetiyeleri göndermek ve satın alma işlemleri yapmak gibi şeyleri yapabileceğini söylüyor. İkincisi, tüketicilerin bir yapay zekanın kendi adına ödeme yapmasına izin verme korkularını potansiyel olarak hafifletebilecek satın alma korumaları sunar. (Shopify'ın Shop Pay ve 1Password entegrasyonları da yakında geliyor.)
+
+Muse kullanıcıları, Muse kullanmanın tercih edilen doğasını daha şeffaf hale getirmek için her seferinde bir tane yaparak hangi uygulamalara ve hizmetlere bağlanmak istediklerine karar verebilir. Temsilci, Meta'nın yapay zeka modeli Muse Spark tarafından desteklenmektedir ve zaman içinde daha fazlasını eklemeyi planlayan çeşitli hizmetler için yerleşik konektörlere (aşağıda resmedilmiştir) sahiptir. Kullanıcının istediği bir hizmet mevcut değilse ancak herkese açık bir API sunuyorsa, Muse kullanıcının sağladığı kimlik bilgilerini kullanarak bir bağlantı kurabilir. API mevcut olmadığında, Muse hizmete tarayıcı üzerinden erişebilir.
+
+Muse başlangıçta web üzerinden muse.ai adresinden, iOS ve Android'deki uygulamalar aracılığıyla ve WhatsApp'taki sohbetler aracılığıyla kullanılabilecek. Şirket, yakında Meta'nın yapay zeka gözlüklerine de ulaşacağını söylüyor. Kullanım arttıkça abonelik planları devreye girerek kullanımı ücretsiz olacaktır, bu nedenle Muse başlamak için bir ödeme kartı gerektirir.
+
+Lansmanda iki ücretli plan sunulacak: Ayda 20 $ güç ve ayda 100 $ maksimum güç. Meta, çoğu insanın ücretsiz katmanda kalacağına inansa da, bu aboneliklerin her ikisi de günlük görevleri devretmek için daha fazla Muse kullanımı sunar. (Şirket, uygulamanın kullanıcılara kullanımlarının yüzde kaçının kaldığını gösteren bir kullanım sayacı içerdiğini söylüyor. Ayrıca ücretsiz kullanım sona erdiğinde kullanıcıları uyaracak ve abone olma seçenekleri sunacaktır.)
+
+Diğer yapay zeka aracıları gibi, Muse da kullanıcı uygulamadan ayrıldıktan sonra bile çalışmaya devam edecektir. Meta, kullanıcının konuşmalarından, istenmeden önerilerde bulunmaları için neyin önemli olduğunu öğrenerek zaman içinde gelişeceğini de belirtti.
+
+Konsept Meta'ya özgü değildir. Daha büyük şirketler ve daha küçük girişimler, yapay zeka temsilcilerinin tüketiciler için nasıl en anlamlı hale geleceğini ve insanların günlük yaşamlarına nasıl entegre edilebileceğini denerken, ajan çağı artık kendi haline geliyor.
+
+Bazıları, Gemini Spark veya Claude Cowork gibi tüketiciler adına çeşitli görevleri başlatabilen yapay zeka web tarayıcılarını veya hizmetlerini denedi. Diğerleri ise yapay zekayı, Apple'ın iMessage platformu, SMS ve WhatsApp gibi tüketicilerin en çok kullandığı sohbet uygulamalarına entegre ediyor.
+
+Yararlılıklarına rağmen, bu güçlü ajanlar tüketicileri ne kadar mahremiyetten vazgeçmeye istekli olduklarına dair zor sorularla boğuşmaya zorladı. Yapay zeka asistanı Instinct'in ilk testçilerinin çoğu, uygulamanın yapay zeka modellerini eğitmek de dahil olmak üzere kullanıcının herhangi bir materyaline "erişmek, kullanmak, barındırmak, önbelleğe almak, depolamak, çoğaltmak, iletmek, görüntülemek, yayınlamak, dağıtmak ve değiştirmek" için geniş bir "sürekli ve geri alınamaz" lisans gerektirdiğini görünce şok oldu.
+
+Meta, Muse'un müşterilerin verileri üzerinde çeşitli gizlilik, güvenlik ve güvenlik korumaları sunan kendi "kendi tarayıcısına sahip özel, güvenli bilgisayarında" çalıştığını iddia ediyor. Şirket, ayrı bir Sentinel aracısının aynı sanal makinede çalıştığını, ancak sistem düzeyinde Muse'dan ayrı tutulduğunu söylüyor.
+
+Bu, Muse'un kişilerin şifrelerini veya ödeme yöntemlerini göremeyeceği anlamına gelir. Meta ayrıca Muse'un insanların konuşmalarını veya verilerini Meta'nın reklam sistemleriyle paylaşmadığını iddia ediyor.
+
+(Bu iddialar, bugün de yayımlanan teknik bir gönderide daha ayrıntılı olarak açıklanmıştır, ancak güvenlik uzmanları tarafından daha derin bir soruşturma gerektirecektir.)
+
+Meta'nın güvenlik önlemlerini belgelemesine rağmen, şirketin temsilcisinin başarılı olması için yeterli tüketici güvenine sahip olup olmadığı henüz belli değil.
+
+Olduğu gibi, Meta'nın bir şeyi ilan etme ve başka bir şey yapma geçmişi vardır. Örneğin, 2011 'de teknoloji devi, kullanıcıların özel bilgilerini onayları olmadan kamuya açık hale getirerek tüketicileri aldattığı suçlamasıyla FTC ile anlaştı. 2019' da FTC, gizlilikle ilgili sekiz ayrı ihlal nedeniyle Facebook'u rekor kıran 5 milyar $ tutarında bir uzlaşmayla cezalandırdı. 2023 'te FTC, Meta'yı 2019 anlaşmasından sonra açılan bir gizlilik emrini ihlal etmekle suçladı.
+
+Teknik konular açısından Meta, 2019 ’da bir dizi kullanıcının şifrelerini okunabilir formatlarda keşfederek insanları potansiyel hack'lere maruz bırakarak daha önce de bazı büyük yanlış adımlar atmıştı. Milyonlarca tüketiciye ait Facebook verilerinin üçüncü bir tarafın rızası olmadan toplandığı devasa Cambridge Analytica veri skandalı, bazı insanların zihninde hala devam ediyor.
+
+Meta ayrıca, reşit olmayanları zarardan nasıl koruduğuna (veya koruyamadığına) dair ifade vermek için defalarca Kongre'nin önüne çıkarıldı. Kongre'nin harekete geçmemesi nedeniyle Meta, nihayetinde ağustosta 29 eyaletle yeni anlaşmaya varılan Meta, Meta'nın çocuklara yönelik zararlarla ilgili New Mexico davası, Meta'nın 942 milyon dolar (yaklaşık 5 milyar TL) ödemesine hükmedilen dava ve birden fazla sosyal medya devine karşı hala devam eden binlerce kişisel yaralanma ve okul bölgesi davası da dahil olmak üzere birçok ilgili davanın hedefi haline geldi. $ 942 milyon ve hala beklemede olan binlerce kişisel yaralanma ve okul bölgesi davası.
+
+Meta, tüketicilerin korkularını hafifletmek için yalnızca güvenlik vaatleri hakkında derinlemesine konuşmakla kalmıyor, teknik belgeler ve açıklamalar da sunuyor. Şirket ayrıca Muse'u tüketicilerin acentenin kendisiyle daha bağlı hissetmelerini sağlayacak şekilde tasarladı. Kullanıcılar, Muse'a bir isim vererek, avatarını seçerek ve aracının onlarla nasıl iletişim kurduğunu belirleyen görünümünü ve çeşitli ayarlarını yapılandırarak Muse'u özelleştirebilir.
+
+Bu kişisel bağlantının ve Muse'un sağladığı hizmetin, tüketicilerin kişisel bilgileri konusunda Meta'ya bir kez daha güvenmeleri için yeterli olup olmadığını zaman gösterecek.
+
+---
+
+## Görseller
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/Muse-Neswsroom-Banner.jpg)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/Goals.png)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/Connectors.png)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/Messaging.png)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/Approvals.png)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/Browser.png)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/Secure-Storage.png)
+
+![Mark Zuckerberg, chief executive officer of Meta Platforms Inc.](https://umutevicom-commits.github.io/makale/data/images/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/zuckerberg-LA-trial-2026-GettyImages-2261841364.jpg)

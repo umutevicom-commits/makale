@@ -1,5 +1,35 @@
 [
   {
+    "slug": "meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup",
+    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-18T09:03:10.628000+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "fb02d1f2de9257127c8899adc9576e44865ad0e148a1ed62396faa8383f3eb90"
+  },
+  {
+    "slug": "meta-expands-subscription-push-with-new-ai-focused-plans",
+    "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-18T09:02:03.293911+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "c37a12f8fd1697415579a256317da6281130ca0c285e5d016a0e45dcb13c5d38"
+  },
+  {
+    "slug": "meta-debuts-its-muse-ai-agent-will-consumers-trust-it",
+    "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "date": "08 September 2026",
+    "fetched_at": "2026-09-18T08:59:57.237537+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "170dbd5d2a06b681fadc5a5609695b515f204be56d4004dfafeb563c88d5b86c"
+  },
+  {
     "content_hash": "11681032e4b108ce977cb131099432590b8b7d3f8df8367ab1f545a17d6e9055",
     "date": "17 September 2026",
     "fetched_at": "2026-09-17T22:37:05.158414+00:00",

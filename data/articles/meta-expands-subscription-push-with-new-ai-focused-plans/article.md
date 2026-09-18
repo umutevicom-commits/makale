@@ -1,0 +1,51 @@
+# Meta, yeni yapay zeka odaklı planlarla abonelik iletimini genişletiyor
+
+Meta Salı günü, Facebook, Instagram ve WhatsApp'ta genişletilmiş yapay zeka kullanımı ve diğer premium özellikler sunan Meta One adlı yeni bir abonelik hizmetini tanıttı. Yeni planlar, kullanıcıların görsel oluşturma, düzenleme ve video oluşturma gibi bir dizi yapay zeka aracının yanı sıra Instagram'daki yapay zeka destekli Restyle düzenleme aracı gibi uygulama içi araçlara erişmelerini sağlıyor.
+
+Teknoloji devinin, girişimin CEO'su Alexandr Wang'ı yapay zeka çabalarına liderlik etmesi için şirkete getiren Scale AI'ya yaptığı 2025 $ 'lık 14,3 milyar dolarlık yatırımın ardından, planların Meta'nın Muse yapay zeka modellerinden para kazanmasına yardımcı olması amaçlanıyor.
+
+Ayrıca, Meta'nın Mart ayında en iyi sosyal uygulamalarına daha yeni abonelik katmanları eklemesinin ardından, tüketicilerin ayda sadece birkaç dolara profil özelleştirmeleri, süper tepkiler, hikaye içgörüleri ve daha fazlası gibi ekstra özelliklere erişmelerini sağladı.
+
+Yeni veriler, Instagram Plus ($ 3.99/ay), Facebook Plus ($ 3.99/ay) ve WhatsApp Plus'ı ($ 2.99/ay) içeren bu planların Meta için şimdiden ödeme yaptığını gösteriyor. Pazar istihbaratı sağlayıcısı Appfigures, Instagram'ın dünya çapındaki günlük gelirinin 9 Eylül haftası itibariyle ortalama 1,2 milyon $ olduğunu gösterirken, Facebook'un günlük gelirinin şu anda 528.000 $ 'a ulaştığını gösteriyor. Firma, bu rakamların bir önceki haftaya göre sırasıyla % 475 ve % 143 'lük artışları temsil ettiğini söyledi.
+
+Meta şimdi, AI uzman kullanıcılarına ve işletmeler ve yaratıcılar için diğerlerine yönelik olanlar da dahil olmak üzere yeni bir dizi abonelik planıyla hedeflerini genişletiyor.
+
+İlk sette, her ikisi de Facebook Plus, Instagram Plus ve WhatsApp Plus özelliklerini içeren 7,99 $/ ay Core ve 19,99 $/ ay Premium planları var. Bu planların birincil satış noktası, fiyatlandırmasının gösterdiği gibi Premium'un Core'dan daha fazla kullanım sunmasıyla genişletilmiş yapay zeka kullanımıdır.
+
+Yorum için ulaşılan Meta, "ülke, yüzey ve sistem koşullarına" göre değişebileceğinden, iki plan için kesin kullanım sınırlarını paylaşmayı reddetti.
+
+Planlar, abonelerin resim ve video oluşturmak, yapay zeka destekli Restyle özelliği ile Instagram Hikayelerini düzenlemek ve ses efektlerini ve yaratıcı araçları daha sık kullanmak için Muse Image ve Muse Video gibi araçları kullanmalarına olanak tanıyor.
+
+Bu arada, işletmeler ve yaratıcılar birkaç farklı plan arasından seçim yapabilir: Essential (14,99 $/ay ve üzeri), Advanced (49,99 $/ay'dan başlayan fiyatlarla), Expert (149 $/ay'dan başlayan fiyatlarla) ve Max (499 $/ay'dan başlayan fiyatlarla). Meta, planın avantajlarının, fiyatlandırmasının ve uygunluk durumunun bölgeye, uygulamaya ve hesaba göre değişebileceğini belirtti.
+
+Essential, yaratıcının veya işletmenin varlığını yönetmek için araçlar sunar; müşterilere yanıt vermek için Meta Business Agent'a genişletilmiş erişim; WhatsApp Business Uygulamasında doğrulanmış bir rozet ve kanal; ve kimliğe bürünme tespiti.
+
+Advanced, hikayeleri 30 güne kadar önceden planlama yeteneği; organik gönderilerdeki ve makaralardaki bağlantılar için destek; dışa aktarılabilir analizler; daha derin kitle içgörüleri; hesaba ekip üyesi erişimi için destek; daha bağlantılı cihazlar; daha fazla iş yayını kredisi ve daha fazla Meta Business Agent yanıtı gibi daha fazla özellik sunar.
+
+Hem Temel hem de Gelişmiş planlar, yaratıcının veya işletmenin web sitesini, konumlarını ve değerlendirmelerini sergileyen gelişmiş bir profil de dahil olmak üzere yeni özellikler sunar. Ayrıca makaralarda kalın bir Takip düğmesi alırlar ve içerikleriyle ilgilenen kişilere otomatik olarak gönderilen davetleri takip ederler.
+
+Meta daha sonra uçtan uca pazarlama, iş operasyonları, içerik oluşturma ve optimizasyon gibi konularda yardımcı olmak için daha fazla özellik ve aracı becerisi eklemeyi planlıyor. Ayrıca yakında Edits Plus'ı, içerik oluşturma uygulaması Edits için bir plan olan Meta One'a tanıtacak. Bu, cihazlar arasında projeleri senkronize etmek ve Düzenlemeler Yapay Zeka asistanının ek kullanımı için daha fazla bulut depolama alanı sağlayacaktır.
+
+Expert ve Max planları, en yüksek düzeyde özellik erişimi ve Meta Business Agent kapasitesi sunar.
+
+Yeni planların eklenmesi, tüm çeşitli seviyeler göz önüne alındığında biraz kafa karıştırıcı olsa da, Meta'nın en üst çizgisini artırmaya ve yapay zeka yatırımlarının bir kısmını telafi etmeye yardımcı olabilir.
+
+Appfigures'ın belirttiği gibi, planların 9 Eylül'de ilgi görmesinin ardından ABD'li kullanıcılar Instagram'ın % 32 'sini ve Facebook'un gelirinin % 39' unu oluşturdu. Bu, her uygulamanın tarihsel ABD taban çizgisinin yaklaşık % 10 üzerindeydi. Planlar ayrıca ileride daha fazla büyümeye işaret eden tahminlere de işaret ediyor. BNP Paribas, Meta'nın abonelik baskısının 2028 yılına kadar 13,5 milyar $ gelir sağlayacağını tahmin ediyor ve Truist, şirketin 2030 yılına kadar 20 milyar $ gelir sağlayabileceğini tahmin ediyor.
+
+---
+
+## Görseller
+
+![Meta app icons](https://umutevicom-commits.github.io/makale/data/images/meta-expands-subscription-push-with-new-ai-focused-plans/meta-muse-app-GettyImages-2293792137.jpg)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/meta-expands-subscription-push-with-new-ai-focused-plans/01_Plans-for-Individuals-and-AI-Power-Users_Carousel-01-1.webp)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/meta-expands-subscription-push-with-new-ai-focused-plans/01_Plans-for-Individuals-and-AI-Power-Users_Carousel-02-1.webp)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/meta-expands-subscription-push-with-new-ai-focused-plans/02_Core-and-Premium-1.webp)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/meta-expands-subscription-push-with-new-ai-focused-plans/03_Meta-One-offers_Carousel-03-1.webp)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/meta-expands-subscription-push-with-new-ai-focused-plans/04_-PLAN-OFFERINGS-INCLUDING-PRICING_Carousel-01-1.webp)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/meta-expands-subscription-push-with-new-ai-focused-plans/04_-PLAN-OFFERINGS-INCLUDING-PRICING_Carousel-02-1.jpg)
