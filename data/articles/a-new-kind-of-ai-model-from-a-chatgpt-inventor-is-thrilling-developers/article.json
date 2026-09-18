@@ -1,0 +1,63 @@
+{
+  "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+  "slug": "a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
+  "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+  "news_id": "a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
+  "date": "18 September 2026",
+  "author": "Tim Fernholz",
+  "tags": [],
+  "body_paragraphs": [
+    "ChatGPT broke Diogo Almeida’s heart.",
+    "Almeida was an OpenAI researcher who helped build the chatbot and then invent reinforcement learning from human feedback (RLHF), the model-training technique perhaps most responsible for our current age of AI. But despite its capabilities, he was disappointed.",
+    "“We have lightning in a bottle, and yet it is not useful,” Almeida told TechCrunch. “I’ve been battling that problem since then. It took me a while to come to the conclusion: The problem is we are optimizing for human language … We have been super good at human language for four years, but it’s not useful for automation because computers speak a different language.”",
+    "Two years ago, Almeida left OpenAI to start TypeSafe AI, a startup trying to fix that problem. This week, the company released a new transformer-based model, Jev, that is not a large language model (LLM). It doesn’t output text, but instead produces probabilities, or what the company calls “calibrated decisions.”",
+    "Eschewing language does a few things: It makes the model incredibly cheap and fast, and because users define the outputs in advance, it cannot hallucinate. Its output tokens are free, and input tokens are metered by the billion, not the million.",
+    "Developers are taking a great interest in the product; the company briefly lost the ability to serve users from its API because demand was so high. Jev appears most useful for software automation. Thus far, software developers see it as a cheaper and more robust way to incorporate intelligence into their code.",
+    "For example, Pranit Sharma, a software engineer at Vercel, a company making agentic infrastructure, said his company had used OpenAI’s ChatGPT Luna 5.6 to run a classifier to review commands for safety. When Vercel replaced OpenAI’s Luna with Jev, it got results five to 18 times more quickly and with greater accuracy.",
+    "Another developer, Bryo AI CTO Nikhil Mudholkar, tested Jev against Gemini for classifying business emails. In his test, Gemini was slightly more accurate, but 10 to 20 times more expensive. More interesting to Mudholkar were Jev’s confidence scores — “it is the only one that hands back a real probability which makes it ideal for automating workflows!!”",
+    "Besides replacing LLMs in certain use cases, the new model can also augment them, acting as a smart check on misbehavior. Using agents to monitor agents can quickly become expensive, but using Jev to do so, Almeida argues, makes sense. He sees users deploying Jev to track LLM agent traces and prevent jailbreaks.",
+    "“At the end of the day, it delegates the hallucination problem a little bit to the user,” explained Armin Ronacher, the CTO of Earendil, which builds the open source model harness Pi. “The user has to say, okay, if this only comes back with 50% probability, maybe this is a coin toss, and I disregard it. But if it’s 95%, sure, then I can do something with it.”",
+    "Another potential use for Jev is model routing, Ronacher said. Predicting whether a given workload requires a specific model would be useful, but using an LLM for the job would be expensive. Jev’s low cost and speed make that kind of real-time sorting possible.",
+    "And that’s Almeida’s hope. The model is named after William Stanley Jevons, the 19th-century economist whose eponymous paradox describes how the falling cost of a commodity can lead to it being used more and more. In this case, the falling cost of intelligence should lead to its widespread deployment.",
+    "“We think that there’s just going to be smart software all over the place in a way that’s emergent and distributed … much more like the early internet than you know like the mega apps that people are trying to build right now,” Almeida said.",
+    "Almeida is tight-lipped about the model’s architecture, which outside observers suspect is built on top of an open-weight LLM. The company refers to Jev as a “System One model,” focused on intuition rather than reasoning, and specifically focused on the right task. Almeida says Jev is trained exclusively on synthetic data using a technique he calls “reinforcement learning from calibrated decisions.”",
+    "“We made an early bet that we will be making all of our data, and that has been one of the best bets I’ve ever made in my life — better than our launch, in my opinion, better than RLHF,” he told TechCrunch. “Half of [our company] is a lab that basically owns this entire subfield of statistically well-understood synthetic data, and that is now my life joy.”",
+    "For now, Jev stands alone as this kind of model, but Ronacher expects that competitors will spring up now that its utility is apparent.",
+    "“We should have seen this earlier in many ways, but presumably because the LLMs are so cheap and subsidized, you often don’t have to be creative yet,” he said.",
+    "TypeSafe itself will be building more versions of the model, in new modalities. Asked if TypeSafe is a frontier lab, Almeida said, “the main product of frontier labs is fear or hype. I would like our main product to be intelligence…[but we are] not a lab in the sense of, you know, like bet on infinite wealth, or a religion, or building God in a data center, or whatever is the thing of today.”"
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/typesafe-ai.jpg",
+      "alt": "TypeSafe AI co-founders Erik Gafni, Sasha Sheng, and Diogo Almeida."
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/Screenshot-2026-09-18-at-12_08_01-PM.png",
+      "alt": ""
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-18T22:13:26.211411+00:00",
+  "title_tr": "ChatGPT mucidinin yeni bir yapay zeka modeli geliştiricileri heyecanlandırıyor",
+  "body_paragraphs_tr": [
+    "ChatGPT, Diogo Almeida'nın kalbini kırdı.",
+    "Almeida, sohbet robotunun oluşturulmasına yardımcı olan ve daha sonra mevcut yapay zeka çağımızdan belki de en çok sorumlu olan model eğitim tekniği olan insan geri bildiriminden (RLHF) pekiştirmeli öğrenmeyi icat eden bir OpenAI araştırmacısıydı. Ancak yeteneklerine rağmen hayal kırıklığına uğradı.",
+    "TechCrunch'a konuşan Almeida, \"Bir şişede yıldırımımız var ama yine de kullanışlı değil\" dedi. \"O zamandan beri bu sorunla mücadele ediyorum. Sonuca varmam biraz zaman aldı: Sorun şu ki, insan dilini optimize ediyoruz… Dört yıldır insan dilinde süper iyiyiz, ancak bilgisayarlar farklı bir dil konuştuğu için otomasyon için yararlı değil .”",
+    "İki yıl önce Almeida, bu sorunu çözmeye çalışan bir girişim olan TypeSafe AI'yı başlatmak için OpenAI'den ayrıldı. Bu hafta şirket, büyük bir dil modeli (LLM) olmayan yeni bir transformatör tabanlı model olan JEV'i piyasaya sürdü. Metin çıktısı vermez, bunun yerine olasılıklar veya şirketin “kalibre edilmiş kararlar” olarak adlandırdığı şeyler üretir.",
+    "Dilden kaçınmak birkaç şey yapar: Modeli inanılmaz derecede ucuz ve hızlı hale getirir ve kullanıcılar çıktıları önceden tanımladıkları için halüsinasyon göremez. Çıkış tokenleri ücretsizdir ve giriş tokenleri milyonla değil milyarla ölçülür.",
+    "Geliştiriciler ürüne büyük ilgi gösteriyor; şirket, talep çok yüksek olduğu için kullanıcılara API'sinden hizmet verme yeteneğini kısaca kaybetti. Jev en çok yazılım otomasyonu için yararlı görünmektedir. Şimdiye kadar, yazılım geliştiricileri bunu zekayı kodlarına dahil etmenin daha ucuz ve daha sağlam bir yolu olarak görüyorlar.",
+    "Örneğin, ajan altyapısı yapan bir şirket olan Vercel'de yazılım mühendisi olan Pranit Sharma, şirketinin OpenAI'nin ChatGPT Luna 5.6 'sını güvenlik komutlarını gözden geçirmek için bir sınıflandırıcı çalıştırmak için kullandığını söyledi. Vercel, OpenAI'nin Luna'sını Jev ile değiştirdiğinde, sonuçları beş ila 18 kat daha hızlı ve daha doğru bir şekilde elde etti.",
+    "Bir başka geliştirici, Bryo AI CTO Nikhil Mudholkar, Jev'i iş e - postalarını sınıflandırmak için Gemini'ye karşı test etti. Testinde İkizler biraz daha doğruydu, ancak 10 ila 20 kat daha pahalıydı. Mudholkar için daha ilginç olan Jev'in güven puanlarıydı — \"gerçek bir olasılığı geri veren tek kişi o, bu da onu iş akışlarını otomatikleştirmek için ideal kılıyor !!\"",
+    "Yeni model, belirli kullanım durumlarında LLM'lerin yerini almanın yanı sıra, yanlış davranışlara akıllı bir kontrol görevi görerek onları da artırabilir. Almeida, ajanları izlemek için ajan kullanmanın hızla pahalı hale gelebileceğini, ancak bunu yapmak için Jev kullanmanın mantıklı olduğunu savunuyor. Kullanıcıların LLM ajan izlerini izlemek ve jailbreak'leri önlemek için JEV'i konuşlandırdığını görüyor.",
+    "Açık kaynaklı model koşum takımı Pi'yi oluşturan Earendil'in CTO'su Armin Ronacher, \"Günün sonunda, halüsinasyon sorununu biraz kullanıcıya devrediyor\" dedi. \"Kullanıcı, tamam, eğer bu sadece % 50 olasılıkla geri gelirse, belki de bu bir yazı tura ve ben bunu göz ardı ediyorum demek zorunda. Ama eğer % 95 ise, o zaman onunla bir şeyler yapabilirim .\"",
+    "Ronacher, Jev için bir diğer potansiyel kullanımın model yönlendirmesi olduğunu söyledi. Belirli bir iş yükünün belirli bir model gerektirip gerektirmediğini tahmin etmek yararlı olacaktır, ancak iş için bir LLM kullanmak pahalı olacaktır. Jev'in düşük maliyeti ve hızı, bu tür gerçek zamanlı sıralamayı mümkün kılmaktadır.",
+    "Ve bu Almeida'nın umudu. Model, adını bir metanın düşen maliyetinin giderek daha fazla kullanılmasına nasıl yol açabileceğini açıklayan 19. yüzyıl ekonomisti William Stanley Jevons'tan almıştır. Bu durumda, düşen istihbarat maliyeti yaygınlaşmasına yol açmalıdır.",
+    "Almeida, \"Ortaya çıkan ve dağıtılan bir şekilde her yerde akıllı yazılımlar olacağını düşünüyoruz... insanların şu anda oluşturmaya çalıştığı mega uygulamalar gibi bildiğinizden çok daha fazla internet gibi\" dedi.",
+    "Almeida, dış gözlemcilerin açık ağırlıklı bir LLM'nin üzerine inşa edildiğinden şüphelendiği modelin mimarisi hakkında ağzı sıkı. Şirket, JEV'i akıl yürütmekten ziyade sezgiye odaklanan ve özellikle doğru göreve odaklanan bir \"Birinci Sistem modeli\" olarak adlandırıyor. Almeida, Jev'in \"kalibre edilmiş kararlardan pekiştirmeli öğrenme\" adını verdiği bir teknik kullanarak yalnızca sentetik veriler üzerinde eğitildiğini söylüyor.",
+    "TechCrunch'a verdiği demeçte, \"Tüm verilerimizi yapacağımıza dair erken bir bahse girdik ve bu hayatımda yaptığım en iyi bahislerden biriydi — bence lansmanımızdan daha iyi, RLHF'den daha iyi\" dedi. \"[ Şirketimizin] yarısı, temelde istatistiksel olarak iyi anlaşılmış sentetik verilerin tüm bu alt alanına sahip bir laboratuvar ve şimdi bu benim hayatımın neşesi .\"",
+    "Şimdilik, Jev bu tür bir model olarak tek başına duruyor, ancak Ronacher, faydası belirgin olduğu için rakiplerin ortaya çıkmasını bekliyor.",
+    "\"Bunu birçok yönden daha önce görmeliydik, ancak muhtemelen LLM'ler çok ucuz ve sübvanse edildiğinden, çoğu zaman henüz yaratıcı olmak zorunda değilsiniz\" dedi.",
+    "TypeSafe'in kendisi, yeni yöntemlerle modelin daha fazla sürümünü oluşturacaktır. TypeSafe'in bir sınır laboratuvarı olup olmadığı sorulduğunda Almeida, “sınır laboratuvarlarının ana ürünü korku veya aldatmacadır. Ana ürünümüzün zeka olmasını isterdim...[ama biz] sonsuz zenginliğe, bir dine, bir veri merkezinde Tanrı'yı inşa etmeye ya da bugünün olayı her neyse ona bahse girmek anlamında bir laboratuvar değiliz .\""
+  ],
+  "tags_tr": []
+}
