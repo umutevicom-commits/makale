@@ -1,13 +1,13 @@
 [
   {
-    "slug": "apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens",
-    "url": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
+    "content_hash": "11681032e4b108ce977cb131099432590b8b7d3f8df8367ab1f545a17d6e9055",
     "date": "17 September 2026",
     "fetched_at": "2026-09-17T22:37:05.158414+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "11681032e4b108ce977cb131099432590b8b7d3f8df8367ab1f545a17d6e9055"
+    "retries": 0,
+    "slug": "apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/"
   },
   {
     "content_hash": "391e5b17bd6e97b507b80d0cce32591215d9e660d9707a49db48d6bb96704107",
