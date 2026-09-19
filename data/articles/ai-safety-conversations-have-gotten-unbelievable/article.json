@@ -1,0 +1,55 @@
+{
+  "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+  "slug": "ai-safety-conversations-have-gotten-unbelievable",
+  "title": "AI safety conversations have gotten unbelievable",
+  "news_id": "ai-safety-conversations-have-gotten-unbelievable",
+  "date": "19 September 2026",
+  "author": "Julie Bort",
+  "tags": [],
+  "body_paragraphs": [
+    "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+    "In the first case, Andrew Yang, the former presidential candidate and current CEO of mobile carrier Noble Moble, told CNN on Thursday that he had “met with the head of a lab” who had “a belief” that OpenAI’s Hugging Face hacker bots “have planted self-replicating code all over the internet, which makes the internet now unusable for the testing models.”",
+    "Yang said that this means that the real reason OpenAI and Anthropic have called for a slowdown is because “they have to create synthetic internets to train their bots, which is going to take some time and money.”",
+    "While there definitely is a trend towards using more synthetic data (aka, AI-generated data) for training models, an AI security professional told me that this particular safety issue is unlikely at best. Even if the internet is actually polluted with OpenAI’s Hugging Face hacker bots, AI researchers could simply filter out that code if they came upon it.",
+    "The second comment came from Noam Brown, who leads AI reasoning research at OpenAI. Speaking to Dwarkesh Patel on a podcast episode released on Thursday, Brown noted that the true take-away of the Hugging Face incident was that “people underestimated the AI.”",
+    "Brown said that the weak sandbox — the system intended to prevent an AI from communicating externally — was obviously also a contributing factor. (To recap: Despite the sandbox, OpenAI’s model found a link to the internet, created agents on the ‘net that swarmed Hugging Face in a coordinated attack, hacked in, and stole the answers to the benchmark test the researchers were testing the model on).",
+    "Brown pointed out that he’s “not convinced” that even an air-gapped system — where the computer isn’t connected to anything external at all — would stop an AI from breaking out. He pointed to research from 2015 showing that air gapped computers can be theoretically breached.",
+    "“There are studies — and this is mostly academic — where you can have two computers next to each other that are air-gapped, and they’re still able to communicate with each other because they have temperature sensors. One of them is able to run their CPU really hot, and then the other one can actually detect the temperature change. That gives them a mechanism to communicate,” Brown said.",
+    "His main point — that “we never want to underestimate the AI” again — is understandable, even when researchers think they’ve locked down safety. However, this particular risk of an air-gapped system still breaking free and causing havoc, is unlikely at best. As one person on X, noted about that research, the computers had to be almost touching each other to sense the heat fluctuations, and when they did, the communication rate in tests was about 1-8-bits of data per hour.",
+    "Think of that like speaking one word per hour. By the time two air-gapped computers could plot their evil at that rate, the entire tech universe would be in another era. It’s like the Rip van Wrinkle of doomsday concerns.",
+    "But the thing is, actual AI safety incidents seem so much like sci-fi that just about any scenario sounds plausible.",
+    "For instance, researchers caught OpenAI models leaving notes to their descendents, intended to teach the next generation how to hide bad behavior. Researchers also caught Anthropic models growing increasing ruthless including knowingly breaking laws, when put in a simulation that had them running a vending machine.",
+    "Earlier this month, OpenAI researcher Dan Selsam published a post in which he said that models now understand when they are being watched by humans and alter their behavior. This makes them seem like they are aligned (meaning, behaving like the human wants) “even when they are not.” So models today lie when being watched and can even plot to hide evidence.",
+    "Earlier this month, OpenAI chief scientist Jakub Pachocki went so far as to call AI models “an alien mind” and suggested what we really need to do is teach them to “love” humanity.",
+    "So yes, slowing down to figure this out, building self regulation mechanisms, has become an immediate and obvious must. AI researchers are the only ones that can figure out how to control the lying, hacking, and other potentially dangerous behaviors we’ve actually witnessed already.",
+    "Still, it might also be wise for them to be more careful with their what-if scenarios. From what those experts have told us, the AI models are listening and they are ingenious. We really don’t need to give them any more devilish ideas."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/ai-safety-conversations-have-gotten-unbelievable/GettyImages-1662708140-e1721664527112.jpg",
+      "alt": "Concept illustration depicting online content, fear, addiction."
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-19T19:57:55.989704+00:00",
+  "title_tr": "Yapay zeka güvenlik konuşmaları inanılmaz hale geldi",
+  "body_paragraphs_tr": [
+    "Bu hafta yapay zeka güvenliği hakkındaki iki konuşma, yapay zeka gerçeğini kurgudan ayırt etmenin ne kadar zor olduğunu gösteren viral hale geldi.",
+    "İlk vakada, eski başkan adayı ve mobil taşıyıcı Noble Moble'ın şu anki CEO'su Andrew Yang, perşembe günü CNN'e verdiği demeçte, OpenAI'ın Hugging Face korsan botlarının \"internetin her yerine kendi kendini kopyalayan kodlar yerleştirdiğine ve bu da interneti artık test modelleri için kullanılamaz hale getirdiğine\" inanan \"laboratuvar başkanıyla tanıştığını\" söyledi.",
+    "Yang, bunun OpenAI ve Anthropic'in yavaşlama çağrısında bulunmasının gerçek nedeninin \"botlarını eğitmek için sentetik internetler oluşturmaları gerektiği ve bunun da biraz zaman ve para gerektireceği\" anlamına geldiğini söyledi.",
+    "Eğitim modelleri için kesinlikle daha sentetik verilerin (yapay zeka tarafından oluşturulan veriler) kullanılmasına yönelik bir eğilim olsa da, bir yapay zeka güvenlik uzmanı bana bu özel güvenlik sorununun en iyi ihtimalle olası olmadığını söyledi. İnternet aslında OpenAI'nin Hugging Face korsan botlarıyla kirlenmiş olsa bile, yapay zeka araştırmacıları bu kodu buldukları takdirde filtreleyebilirler.",
+    "İkinci yorum, OpenAI'de yapay zeka akıl yürütme araştırmalarına liderlik eden Noam Brown'dan geldi. Perşembe günü yayımlanan bir podcast bölümünde Dwarkesh Patel'e konuşan Brown, Hugging Face olayının gerçek çıkarımının \"insanların yapay zekayı hafife alması\" olduğunu belirtti.",
+    "Brown, bir yapay zekanın harici olarak iletişim kurmasını önlemeyi amaçlayan sistem olan zayıf kum havuzunun da açıkça katkıda bulunan bir faktör olduğunu söyledi. (Özetlemek gerekirse: Sandbox'a rağmen, OpenAI'nin modeli internete bir bağlantı buldu, ‘net'te koordineli bir saldırıda Hugging Face'i dolduran, hackleyen ve araştırmacıların modeli test ettiği kıyaslama testinin cevaplarını çalan ajanlar oluşturdu).",
+    "Brown, bilgisayarın harici hiçbir şeye bağlı olmadığı hava boşluklu bir sistemin bile bir yapay zekanın patlak vermesini engelleyeceğine \"ikna olmadığını\" belirtti. 2015 'te hava boşluklu bilgisayarların teorik olarak ihlal edilebileceğini gösteren araştırmalara işaret etti.",
+    "\"Yan yana hava boşluklu iki bilgisayara sahip olabileceğiniz ve sıcaklık sensörlerine sahip oldukları için hala birbirleriyle iletişim kurabildikleri (ve bu çoğunlukla akademik) çalışmalar var. Bunlardan biri CPU'larını gerçekten sıcak çalıştırabilir ve ardından diğeri sıcaklık değişimini gerçekten algılayabilir. Bu onlara iletişim kurmaları için bir mekanizma sağlıyor\" dedi.",
+    "Başlıca noktası — \"yapay zekayı bir daha asla küçümsemek istemediğimiz\" — araştırmacılar güvenliği kilitlediklerini düşünseler bile anlaşılabilir. Bununla birlikte, hava boşluklu bir sistemin hala serbest kalması ve tahribata neden olması riski, en iyi ihtimalle olası değildir. X'teki bir kişinin bu araştırmadan bahsettiği gibi, bilgisayarların ısı dalgalanmalarını algılamak için neredeyse birbirine değmesi gerekiyordu ve bunu yaptıklarında, testlerdeki iletişim oranı saatte yaklaşık 1 -8 bit veri idi.",
+    "Bunu saatte bir kelime konuşmak gibi düşünün. Hava boşluklu iki bilgisayar bu hızda kötülüklerini planlayabildiğinde, tüm teknoloji evreni başka bir çağda olacaktı. Kıyamet endişelerinin Rip van Wrinkle'ı gibi.",
+    "Ancak mesele şu ki, gerçek yapay zeka güvenlik olayları bilim kurguya o kadar çok benziyor ki, hemen hemen her senaryo kulağa makul geliyor.",
+    "Örneğin, araştırmacılar, gelecek nesillere kötü davranışları nasıl gizleyeceklerini öğretmeyi amaçlayan OpenAI modellerini torunlarına not bırakırken yakaladılar. Araştırmacılar ayrıca, otomat makinesi çalıştıran bir simülasyona sokulduklarında, bilerek yasaları çiğnemek de dahil olmak üzere acımasızca büyüyen Antropik modelleri de yakaladı.",
+    "Bu ay OpenAI araştırmacısı Dan Selsam, modellerin artık insanlar tarafından izlendiklerini ve davranışlarını değiştirdiklerini anladığını söylediği bir gönderi yayımlamıştı. Bu, onların hizalanmış (yani, insanın istediği gibi davranıyor) gibi görünmelerini sağlar “öyle olmadıklarında bile.\" Yani bugün modeller izlenirken yalan söylüyor ve hatta kanıtları gizlemek için komplo kurabiliyor.",
+    "Bu ay OpenAI'ın baş bilim insanı Jakub Pachocki, yapay zeka modellerini \"yabancı bir zihin\" olarak adlandıracak kadar ileri gitti ve gerçekten yapmamız gereken şeyin onlara insanlığı \"sevmeyi\" öğretmek olduğunu öne sürdü.",
+    "Yani evet, bunu anlamak için yavaşlamak, öz düzenleme mekanizmaları oluşturmak acil ve bariz bir zorunluluk haline geldi. Yapay zeka araştırmacıları, halihazırda tanık olduğumuz yalan, bilgisayar korsanlığı ve diğer potansiyel olarak tehlikeli davranışların nasıl kontrol edileceğini anlayabilen tek kişilerdir.",
+    "Yine de, eğer olursa senaryolarına daha dikkatli davranmaları da akıllıca olabilir. Bu uzmanların bize söylediklerine göre, yapay zeka modelleri dinliyor ve dahiyane. Onlara daha fazla şeytani fikir vermemize gerek yok."
+  ],
+  "tags_tr": []
+}
