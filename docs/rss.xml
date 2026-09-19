@@ -6,7 +6,26 @@
     <atom:link href="https://techcrunch.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>TechCrunch haberlerinin eksiksiz Türkçe çevirisi</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 18 Sep 2026 22:53:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 03:35:20 +0000</lastBuildDate>
+    <item>
+      <title>Anthropic'in ilk gömülü değerlendiricisi… Accenture?</title>
+      <link>https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <author>Tim Fernholz</author>
+      <description>Dario Amodei'nin yapay zeka laboratuvarlarına üçüncü taraf güvenlik değerlendiricileri yerleştirme planları şekilleniyor: Anthropic, teknoloji danışmanlığı devi Accenture'dan personelin modellerini ve personelini incelemek için şirket içinde çalışmaya başlayacağını söyledi.</description>
+      <media:content url="https://umutevicom-commits.github.io/makale/data/images/anthropics-first-embedded-evaluator-is-accenture/GettyImages-2194795244.jpg" medium="image" type="image/jpeg" />
+      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/anthropics-first-embedded-evaluator-is-accenture/GettyImages-2194795244.jpg" />
+      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/anthropics-first-embedded-evaluator-is-accenture/GettyImages-2194795244.jpg" type="image/jpeg" length="0" />
+      <content:encoded><![CDATA[<p>Dario Amodei'nin yapay zeka laboratuvarlarına üçüncü taraf güvenlik değerlendiricileri yerleştirme planları şekilleniyor: Anthropic, teknoloji danışmanlığı devi Accenture'dan personelin modellerini ve personelini incelemek için şirket içinde çalışmaya başlayacağını söyledi.</p>
+<p>Bir blog yazısında Anthropic, Accenture'ın Ocak ayında yapay zeka bölümü olarak hareket etmek üzere satın aldığı bir şirket olan Fakülte'nin &quot;modelleri değerlendirmeye ve kırmızıya boyamaya, hizalama değerlendirmeleri yapmaya ve model korumalarını test etmeye&quot; başlayacağını söyledi. &quot;Her iki şirket de önümüzdeki beş yıl içinde projeye en az 1 milyar $ yatırım yapmayı bekliyor.</p>
+<p>Accenture'ın seçimi, birçok yapay zeka gözlemcisini ve danışman şirketin hisselerinin saatler sonra % 8 arttığı pazarları şaşırttı. Amodei'nin blog gönderisinden çıkan gömülü değerlendiriciler etrafındaki tartışma, METR, Redwood Research ve Apollo Research gibi yapay zeka güvenlik araştırma kuruluşlarına odaklandı. Bu, özellikle yapay zeka güvenliğini ve uyumunu misyonunun merkezine koyan Anthropic için geçerlidir.</p>
+<p>Anthropic, önümüzdeki haftalarda daha fazla değerlendiricinin duyurulacağını ve METR ve diğer kâr amacı gütmeyen kuruluşlarla &quot;kendi fonlarını kullanarak yerleşik değerlendirmenin unsurlarını nasıl yönlendirecekleri&quot; konusunda görüştüklerini söyledi.</p>
+<p>Accenture, derin öğrenme araştırmalarının kanayan kenarı üzerindeki çalışmalarıyla bilinmese de, Anthropic, şirketin yapay zekayı büyük şirketler ve devlet kurumları için kullanmadaki pratik deneyimine önemli bir avantaj olarak işaret etti. Aynı zamanda, yapay zeka devriminden önce gelen büyük bir kamu şirketi olarak, Antropik'ten ve yapay zeka laboratuvarının etrafındaki karmaşık ekosistemden işlevsel olarak daha bağımsızdır.</p>
+<p>Laboratuvar, değerlendiricilerin erişimi veya iletişimi için henüz bir standart bulunmadığını ve yaklaşımının zaman içinde gelişmesini beklediğini belirtti. Dış değerlendirmeler zaten yeni büyük dil modelleri için sürecin serbest bırakılmasının önemli bir parçası olsa da, son olaylar riskleri artırdı: OpenAI ve Anthropic tarafından konuşlandırılan yapay zeka temsilcileri, laboratuvarlarda alarm vermeden dış web sitelerine girdi.</p>
+<p>Yapay zeka oluşturmaya yönelik daha sorumlu bir yaklaşım çağrısında bulunan bazı eleştirmenler, Amodei'nin yapay zeka endüstrisini kendi kendine denetleme planını, yapay zeka modellerinin yanlış davranışlarından sorumlu olmaktan kaçınmak için bir plan olarak görüyor. Anthropic, bu değerlendiricilerin “hesap verebilirliğimizi azaltmadığı, ancak daha doğrulanabilir hale getirmeye yardımcı olduğu konusunda ısrar ediyor. Modellerimizin güvenliği bizim sorumluluğumuz olmaya devam ediyor .&quot;</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/anthropics-first-embedded-evaluator-is-accenture/GettyImages-2194795244.jpg" alt="Dario Amodei, co-founder and chief executive officer of Anthropic" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
     <item>
       <title>ChatGPT mucidinin yeni bir yapay zeka modeli geliştiricileri heyecanlandırıyor</title>
       <link>https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/</link>
@@ -1445,37 +1464,6 @@
 <p>Şirket, Astra'nın da insan yönünü takip etme olasılığı en yüksek model olduğunu, ancak değerlendirmeleri istenen üçüncü taraf araştırmacıların Astra'nın uyumuyla ilgili endişelerini dile getirdiğini söylüyor. Birleşik Krallık Yapay Zeka Güvenlik Enstitüsü ve Apollo Research, modelin değerlendirildiğinin farkında olabileceğine ve potansiyel olarak gerçek davranışını gizleyebileceğine dair endişelerini bildirdi.</p>
 <p>Araştırmacılar değerlendirmelerinde &quot;Apollo, daha yüksek değerlendirme farkındalığı ve sınırlı değerlendirme penceresi göz önüne alındığında, buradaki düşük yanlış davranış oranlarının modelin hizalanması veya yanlış hizalanması hakkında önemli kanıtlar sağlamadığına inanıyor&quot; diye yazdı.</p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/Screenshot-2026-09-04-at-8_49_39-AM-e1788537064907.png" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Küçük çocuklara izin verilmez ve Tesla'nın Cybercab'ı hakkında diğer yeni bilgiler</title>
-      <link>https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <author>Sean O'Kane</author>
-      <description>Tesla'nın özel Cybercab etkinliği geldi geçti ve şirketin genellikle düzenlediği büyük, gürültülü, canlı yayınlanan etkinliklerden çok farklıydı. Bu, CEO Elon Musk'ın yıllarca geliştirdiği bir ürünün lansmanı için tuhaf bir seçim.</description>
-      <media:content url="https://umutevicom-commits.github.io/makale/data/images/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/tesla-cybercab-open.jpg" medium="image" type="image/jpeg" />
-      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/tesla-cybercab-open.jpg" />
-      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/tesla-cybercab-open.jpg" type="image/jpeg" length="0" />
-      <content:encoded><![CDATA[<p>Tesla'nın özel Cybercab etkinliği geldi geçti ve şirketin genellikle düzenlediği büyük, gürültülü, canlı yayınlanan etkinliklerden çok farklıydı. Bu, CEO Elon Musk'ın yıllarca geliştirdiği bir ürünün lansmanı için tuhaf bir seçim.</p>
-<p>Aslında, Musk'ın etkinlikte konuştuğu bile görünmüyor. Açılış konuşması, tüm hesaplara göre, sadece 15 dakika kadar sürdü.</p>
-<p>Cybercab'ın vaadi çok büyük: Bir Waymo'dan çok daha ucuza, yalnızca kameraları ve yapay zekayı kullanan tamamen otonom bir araç. Ancak Tesla birçok ayrıntıyı dağıttı. Bazıları şirketin perşembe günü yayımladığı PDF'lerde ve &quot;Robotaxi&quot; uygulamasındaki güncellenmiş hizmet şartlarında yer alıyor. Geri kalanlar, internette yaymaları için seçilmiş birkaç fanatiğe bırakıldı.</p>
-<p>Şirket şimdi bu araçların halka, yerel yönetimlere ve Tesla'nın Cybercab lansmanıyla ilgili bir soruşturma başlatan Ulusal Karayolu Trafik Güvenliği İdaresi'ne güvenli olduğunu kanıtlamak zorunda.</p>
-<p>Bu arada dikkatimizi çeken en ilginç yeni detaylardan bazıları şöyle:</p>
-<p>Cybercab ince baskısındaki daha ilginç ayrıntılardan biri, Tesla'nın 13 yaşın altındaki küçüklerin &quot;şu anda&quot; araca binmesine izin vermemesidir.</p>
-<p>Tesla'nın &quot;Robotaxi&quot; Model Y SUV'larında 8 ila 17 yaş arasındaki reşit olmayanların binmesine izin veriliyor ve Tesla'nın her iki araçta da çocuk koltuklarının nasıl kullanılacağına dair yönergeleri var.</p>
-<p>İlginç bir şekilde, Cybercab çocuk koltukları için standart MANDAL ankrajlarına sahip değildir. Bunun yerine, sadece emniyet kemeri kullanılarak takılabilirler. Musk da dahil olmak üzere Tesla yöneticileri, maliyetleri düşürmek için gereksiz parçaları çıkarmaya ne kadar odaklandıkları hakkında çok konuştular, ancak Musk'ın daha fazla bebek yapma takıntısı göz önüne alındığında, şirketin çocuk koltuğu çapalarını atmasını beklemediğimi itiraf etmeliyim.</p>
-<p>Tesla'ya göre 18 yaşın altındaki tüm çocuklara her iki araçta da bir yetişkin eşlik etmeli. Ancak bir şey Tesla'yı küçük çocukların şimdilik Cybercab'a girmesine izin vermekte tereddüt ettiriyor.</p>
-<p>Otonom bir aracın amacı çarpışmayı önlemek olsa da, bugün yoldaki en yetenekli olanlar bile çarpışmalarla sonuçlanıyor.</p>
-<p>Cybercab kaza yaptığında şunlar olur: Hava yastıkları şişer, kapılar açılır, tehlike uyarı ışıkları ve iç lambalar yanar, yüksek voltajlı batarya devre dışı kalır, pencereler &quot;havalandırma&quot; konumuna geçer, Cybercab durup park etmek için fren uygular ve bilgi - eğlence sistemi Tesla'nın sürücü destek ekibiyle iki yönlü bir bağlantı başlatır.</p>
-<p>Kapıların açılması dikkat çekicidir, çünkü Tesla hem Amerika Birleşik Devletleri'nin kendi pazarında hem de en büyük pazarı olan Çin'de elektronik kapı mandallarına güvendiği için eleştirilere maruz kalmıştır. Daha geçen ay Tesla, bir kazanın ardından insanları tuzağa düşürebilecek elektronik kapı mandallarıyla ilgili bir soruşturma sonucunda Çin'de bir dizi otomobil üreticisiyle birlikte 3 milyon aracı geri çağırmayı kabul etti.</p>
-<p>Kapılardan bahsetmişken, Tesla'ya yönelik son zamanlardaki bir başka eleştiri, iç mekan manuel kapı açma düğmelerinin acil bir durumda bulunmasının çok zor olmasıdır. Bunlar gereklidir, çünkü elektronik kapı mandalları, bir düğmeye basarak veya bir akıllı telefon kullanarak etkinleştirilen şirket araçlarına girip çıkmanın ana yöntemidir.</p>
-<p>Cybercab, kapıların sürüşün başında veya sonunda otomatik olarak açılmasını sağlayan elektronik kapı mandalları kullanır. Aracın dış kısmında, yolcuların kapıları açmak için kullanabilecekleri küçük bir düğme de bulunmaktadır. Ama içeride, manuel serbest bırakma neyse ki her kapının kolçağında çok belirgin bir noktadadır.</p>
-<p>Tesla, Cybercab'da yine büyük ölçüde (öyle görünüyor ki) maliyetleri düşürmek amacıyla telli fren sistemi kullanıyor. Tesla, fren basıncını kontrol etmek için hatlardan sıvı pompalayan bir hidrolik sistem kullanmak yerine, fren kaliperlerini kontrol eden elektronik aktüatörlere sahiptir.</p>
-<p>Musk gönderisinde, &quot;Elektrikli frenlere sahip olmak hidrolik sistemin karmaşıklığını önler: Arabanın her yerine sıhhi tesisat döşemeye gerek yok&quot; diye yazdı.</p>
-<p>Şirket halihazırda Cybertruck'ında kablo ile direksiyon kullanan ve direksiyon ile ön tekerlekler arasındaki fiziksel bağlantıyı koparan ilk büyük otomobil üreticisiydi.</p>
-<p>Bazı nedenlerden dolayı, Cybercab'ın pencereleri “şu anda tam olarak açılamıyor. Tesla, bu hafta yayımladığı belgelerde bunun nedenini açıklamıyor.</p>
-<p>Etkileyici yazar Jeremy Judkins'e göre, Cybercab'daki USB — C prizleri 90 W'lık güç tüketti. Bu, bir arabanın içinde bulabileceğinizden kabaca 4 kat daha fazla.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/tesla-cybercab-open.jpg" alt="people getting into gold Cybercab" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -1,13 +1,23 @@
 [
   {
-    "slug": "a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
-    "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+    "slug": "anthropics-first-embedded-evaluator-is-accenture",
+    "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
     "date": "18 September 2026",
-    "fetched_at": "2026-09-18T22:13:26.211411+00:00",
+    "fetched_at": "2026-09-19T02:53:59.441783+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "7a4015031f1d13fd8d39935f41b82f2ec48fe9df6aee33ec783708de00338464"
+    "content_hash": "9910b5a3e617dfe4ac8a58613b2d7847e25740f34675e67fe680c953dcb395ff"
+  },
+  {
+    "content_hash": "7a4015031f1d13fd8d39935f41b82f2ec48fe9df6aee33ec783708de00338464",
+    "date": "18 September 2026",
+    "fetched_at": "2026-09-18T22:13:26.211411+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/"
   },
   {
     "content_hash": "fb02d1f2de9257127c8899adc9576e44865ad0e148a1ed62396faa8383f3eb90",

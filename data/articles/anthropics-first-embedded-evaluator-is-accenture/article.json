@@ -1,0 +1,37 @@
+{
+  "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+  "slug": "anthropics-first-embedded-evaluator-is-accenture",
+  "title": "Anthropic’s first embedded evaluator is … Accenture?",
+  "news_id": "anthropics-first-embedded-evaluator-is-accenture",
+  "date": "18 September 2026",
+  "author": "Tim Fernholz",
+  "tags": [],
+  "body_paragraphs": [
+    "Dario Amodei’s plans to put third-party safety evaluators inside AI labs are taking shape: Anthropic said that staff from technology consulting giant Accenture will begin working inside the company to scrutinize its models and staff.",
+    "In a blog post, Anthropic said that Faculty, a company Accenture acquired in January to act as its AI division, will begin “evaluating and red-teaming models, conducting alignment assessments, and testing model safeguards.” Both companies expect to invest at least $1 billion in the project over the next five years.",
+    "The choice of Accenture surprised many AI watchers — and the markets, where the consultant company’s shares shot up 8% after hours. The discussion around embedded evaluators that sprang from Amodei’s blog post has focused on AI safety research organizations like METR, Redwood Research, and Apollo Research. That’s particularly true at Anthropic, which puts AI safety and alignment at the heart of its mission.",
+    "Anthropic said more evaluators will be announced in the weeks ahead and that it is in conversation with METR and other nonprofit organizations about how to “pilot elements of embedded evaluation using their own funding.”",
+    "While Accenture is not known for its work on the bleeding edge of deep learning research, Anthropic pointed to the company’s practical experience deploying AI for large corporations and government agencies as a key advantage. It is also, as a large public company that predates the AI revolution, more functionally independent of Anthropic and the complex ecosystem around the AI lab.",
+    "The lab noted that no standards yet exist for evaluators’ access or communications and that it expected its approach to evolve over time. While external evaluations are already a major part of the release of process for new large language models, recent incidents have raised the stakes: AI agents deployed by OpenAI and Anthropic have hacked into outside websites without raising alarms inside the labs.",
+    "Some critics calling for a more responsible approach to building artificial intelligence see Amodei’s scheme for self-policing the AI industry as a plan to evade accountability for the misbehavior of AI models. Anthropic insists that these evaluators “do not reduce our accountability, but help to make it more verifiable. The safety of our models remains our responsibility.”"
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/anthropics-first-embedded-evaluator-is-accenture/GettyImages-2194795244.jpg",
+      "alt": "Dario Amodei, co-founder and chief executive officer of Anthropic"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-19T02:53:59.441783+00:00",
+  "title_tr": "Anthropic'in ilk gömülü değerlendiricisi… Accenture?",
+  "body_paragraphs_tr": [
+    "Dario Amodei'nin yapay zeka laboratuvarlarına üçüncü taraf güvenlik değerlendiricileri yerleştirme planları şekilleniyor: Anthropic, teknoloji danışmanlığı devi Accenture'dan personelin modellerini ve personelini incelemek için şirket içinde çalışmaya başlayacağını söyledi.",
+    "Bir blog yazısında Anthropic, Accenture'ın Ocak ayında yapay zeka bölümü olarak hareket etmek üzere satın aldığı bir şirket olan Fakülte'nin \"modelleri değerlendirmeye ve kırmızıya boyamaya, hizalama değerlendirmeleri yapmaya ve model korumalarını test etmeye\" başlayacağını söyledi. \"Her iki şirket de önümüzdeki beş yıl içinde projeye en az 1 milyar $ yatırım yapmayı bekliyor.",
+    "Accenture'ın seçimi, birçok yapay zeka gözlemcisini ve danışman şirketin hisselerinin saatler sonra % 8 arttığı pazarları şaşırttı. Amodei'nin blog gönderisinden çıkan gömülü değerlendiriciler etrafındaki tartışma, METR, Redwood Research ve Apollo Research gibi yapay zeka güvenlik araştırma kuruluşlarına odaklandı. Bu, özellikle yapay zeka güvenliğini ve uyumunu misyonunun merkezine koyan Anthropic için geçerlidir.",
+    "Anthropic, önümüzdeki haftalarda daha fazla değerlendiricinin duyurulacağını ve METR ve diğer kâr amacı gütmeyen kuruluşlarla \"kendi fonlarını kullanarak yerleşik değerlendirmenin unsurlarını nasıl yönlendirecekleri\" konusunda görüştüklerini söyledi.",
+    "Accenture, derin öğrenme araştırmalarının kanayan kenarı üzerindeki çalışmalarıyla bilinmese de, Anthropic, şirketin yapay zekayı büyük şirketler ve devlet kurumları için kullanmadaki pratik deneyimine önemli bir avantaj olarak işaret etti. Aynı zamanda, yapay zeka devriminden önce gelen büyük bir kamu şirketi olarak, Antropik'ten ve yapay zeka laboratuvarının etrafındaki karmaşık ekosistemden işlevsel olarak daha bağımsızdır.",
+    "Laboratuvar, değerlendiricilerin erişimi veya iletişimi için henüz bir standart bulunmadığını ve yaklaşımının zaman içinde gelişmesini beklediğini belirtti. Dış değerlendirmeler zaten yeni büyük dil modelleri için sürecin serbest bırakılmasının önemli bir parçası olsa da, son olaylar riskleri artırdı: OpenAI ve Anthropic tarafından konuşlandırılan yapay zeka temsilcileri, laboratuvarlarda alarm vermeden dış web sitelerine girdi.",
+    "Yapay zeka oluşturmaya yönelik daha sorumlu bir yaklaşım çağrısında bulunan bazı eleştirmenler, Amodei'nin yapay zeka endüstrisini kendi kendine denetleme planını, yapay zeka modellerinin yanlış davranışlarından sorumlu olmaktan kaçınmak için bir plan olarak görüyor. Anthropic, bu değerlendiricilerin “hesap verebilirliğimizi azaltmadığı, ancak daha doğrulanabilir hale getirmeye yardımcı olduğu konusunda ısrar ediyor. Modellerimizin güvenliği bizim sorumluluğumuz olmaya devam ediyor .\""
+  ],
+  "tags_tr": []
+}
