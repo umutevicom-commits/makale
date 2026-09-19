@@ -1,13 +1,63 @@
 [
   {
-    "slug": "anthropics-first-embedded-evaluator-is-accenture",
-    "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-    "date": "18 September 2026",
-    "fetched_at": "2026-09-19T02:53:59.441783+00:00",
+    "slug": "spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22",
+    "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-19T09:03:12.104810+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "9910b5a3e617dfe4ac8a58613b2d7847e25740f34675e67fe680c953dcb395ff"
+    "content_hash": "7f8a2554c8975ca3bcd399502647c422de925c3dce4454e4b8cee6c6c2b4604e"
+  },
+  {
+    "slug": "sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg",
+    "url": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
+    "date": "14 September 2026",
+    "fetched_at": "2026-09-19T09:02:11.701305+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "738d85df67a2509cca1b84a5e8e6d90a8e352f0093dfa6686cc7c909907e08ec"
+  },
+  {
+    "slug": "snapchat-takes-aim-at-partiful-with-new-event-planning-features",
+    "url": "https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-19T09:01:26.428981+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "e124818e596c2c93114946c0f1e968bc11af23858f2f489b8fecf36f2b699884"
+  },
+  {
+    "slug": "sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us",
+    "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+    "date": "16 September 2026",
+    "fetched_at": "2026-09-19T09:00:34.758277+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "56d98ec1e0f48462e0dccc7dbbc6c57a7208c5c41769354cdda9b396169162d1"
+  },
+  {
+    "slug": "shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant",
+    "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-19T09:00:03.001644+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "8fef63dbaae35a7f1fd417fd6ca416c695ad78c25b7bc59d43a8ea1e9fd93c29"
+  },
+  {
+    "content_hash": "9910b5a3e617dfe4ac8a58613b2d7847e25740f34675e67fe680c953dcb395ff",
+    "date": "18 September 2026",
+    "fetched_at": "2026-09-19T02:53:59.441783+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "anthropics-first-embedded-evaluator-is-accenture",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/"
   },
   {
     "content_hash": "7a4015031f1d13fd8d39935f41b82f2ec48fe9df6aee33ec783708de00338464",
