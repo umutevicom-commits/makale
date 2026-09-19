@@ -1,13 +1,13 @@
 [
   {
-    "slug": "ai-safety-conversations-have-gotten-unbelievable",
-    "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "content_hash": "caf14b0e5ddd50b5069934fee930c23059814aa191a96f310dad0685942965a1",
     "date": "19 September 2026",
     "fetched_at": "2026-09-19T19:57:55.989704+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "caf14b0e5ddd50b5069934fee930c23059814aa191a96f310dad0685942965a1"
+    "retries": 0,
+    "slug": "ai-safety-conversations-have-gotten-unbelievable",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/"
   },
   {
     "content_hash": "7f8a2554c8975ca3bcd399502647c422de925c3dce4454e4b8cee6c6c2b4604e",
