@@ -1,13 +1,13 @@
 [
   {
-    "slug": "a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry",
-    "url": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+    "content_hash": "49393f1a8d76470a96def0d812d7e0dffe19e6e77fda8eae78d76182785cf632",
     "date": "20 September 2026",
     "fetched_at": "2026-09-20T20:13:39.535996+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "49393f1a8d76470a96def0d812d7e0dffe19e6e77fda8eae78d76182785cf632"
+    "retries": 0,
+    "slug": "a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/"
   },
   {
     "content_hash": "26508c4bdefdcad632fa5d1ad03ce8ee9df3405bdafe067673047815c852577e",
