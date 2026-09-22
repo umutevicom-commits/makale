@@ -1,0 +1,41 @@
+{
+  "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+  "slug": "anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
+  "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+  "news_id": "anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
+  "date": "22 September 2026",
+  "author": "Russell Brandom",
+  "tags": [],
+  "body_paragraphs": [
+    "Anthropic’s newest model, Opus 5.5, was released on Tuesday, setting a new state-of-the-art in coding and knowledge work performance, according to the company. Opus is the most capable and expensive tier in Anthropic’s three-tier Claude lineup; Sonnet sits in the middle, while Haiku is the fastest and cheapest. Notably, Anthropic says, the release outpaces the larger Fable model in many benchmarks and succeeded in a number of informal tasks that Fable failed to complete.",
+    "The new model is also significantly cheaper than its predecessor. Output tokens will be charged at $20 per million tokens for Opus 5.5, compared to $25 for the previous model. Other metrics have similar price drops. The model is also faster to run, reflecting an overall drop in the compute required to serve it.",
+    "The new version also makes significant changes to how Opus communicates, with the Opus 5.5 less likely to use jargon and more likely to put important information at the start of its messages.",
+    "The launch comes just two months after the release of Opus 5 on July 24. According to the announcement, Sonnet 5.5 and Haiku 5.5, which are the next tiers in the lineup, will be released “in the coming weeks,” with similar performance improvements.",
+    "Anthropic says that Opus 5.5 is comparable to Mythos in its biology and cybersecurity capabilities, so its release is subject to the same safeguards as the company’s Fable model. Those safeguards limit how much the models can be used to discover exploits in compiled programs or developing recognizable biological weapons, among other tasks.",
+    "Opus 5.5 is Anthropic’s first model release since CEO Dario Amodei embraced calls to pace the frontier, deliberately slowing down progress on AI capabilities to match the rate of progress on alignment.",
+    "“I have become convinced that fully addressing the risks requires even more prudence,” Amodei wrote in a post earlier this month, “not just investing in risk prevention, but pacing the rate of capabilities advancement so that risk prevention has time to keep up.”",
+    "Opus 5.5’s safety training was broadly similar to its predecessors, with alignment testing and pre-release evaluation by outside organizations like METR and Frontier Design. But Anthropic emphasized that more advanced training and evaluation systems were already being prepared for future models, including improved security and monitoring systems.",
+    "“As AI becomes more capable, public policy should play a larger role in making sure the systems people rely on are safe. That capacity takes time to build, and we’ve started to put the infrastructure in place to support it,” the blog post reads. “We expect to share more details on these efforts soon.”"
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/GettyImages-2252871842.jpg",
+      "alt": "AI sign displayed on a screen and Anthropic logo displayed on a phone screen are seen in this illustration photo."
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-22T20:49:59.571390+00:00",
+  "title_tr": "Anthropic, daha düşük fiyatlar ve Masal düzeyinde performansla Opus 5.5 'i piyasaya sürdü",
+  "body_paragraphs_tr": [
+    "Şirkete göre Anthropic'in en yeni modeli Opus 5.5, salı günü piyasaya sürüldü ve kodlama ve bilgi birikimi çalışma performansında yeni bir teknoloji ortaya koydu. Opus, Anthropic'in üç katmanlı Claude serisindeki en yetenekli ve pahalı kademedir; Sonnet ortada yer alırken, Haiku en hızlı ve en ucuz olanıdır. Anthropic, özellikle sürümün birçok ölçütte daha büyük Fable modelini geride bıraktığını ve Fable'ın tamamlayamadığı bir dizi gayri resmi görevde başarılı olduğunu söylüyor.",
+    "Yeni model aynı zamanda selefinden önemli ölçüde daha ucuz. Çıkış tokenleri, önceki model için 25 $ 'a kıyasla Opus 5.5 için milyon token başına 20 $ olarak ücretlendirilecektir. Diğer metriklerde de benzer fiyat düşüşleri vardır. Modelin çalıştırılması da daha hızlıdır, bu da ona hizmet etmek için gereken hesaplamadaki genel bir düşüşü yansıtır.",
+    "Yeni sürüm aynı zamanda Opus'un iletişim kurma biçiminde de önemli değişiklikler yapıyor; Opus 5.5 'in jargon kullanma olasılığı daha düşük ve mesajlarının başlangıcına önemli bilgiler koyma olasılığı daha yüksek.",
+    "Lansman, Opus 5 'in 24 Temmuz'da piyasaya sürülmesinden sadece iki ay sonra gerçekleşti. Duyuruya göre, dizideki bir sonraki kademe olan Sonnet 5.5 ve Haiku 5.5, benzer performans iyileştirmeleriyle “önümüzdeki haftalarda” piyasaya sürülecek.",
+    "Anthropic, Opus 5.5 'in biyoloji ve siber güvenlik yeteneklerinde Mythos ile karşılaştırılabilir olduğunu, bu nedenle piyasaya sürülmesinin şirketin Fable modeliyle aynı önlemlere tabi olduğunu söylüyor. Bu önlemler, modellerin derlenmiş programlardaki istismarları keşfetmek veya diğer görevlerin yanı sıra tanınabilir biyolojik silahlar geliştirmek için ne kadar kullanılabileceğini sınırlar.",
+    "Opus 5.5, Anthropic'in CEO Dario Amodei'nin sınırı hızlandırma çağrılarını benimsemesinden bu yana ilk model sürümüdür ve hizalamadaki ilerleme hızına uymak için yapay zeka yeteneklerindeki ilerlemeyi kasıtlı olarak yavaşlatır.",
+    "Amodei bu ayın başlarında yaptığı bir yazıda, \"Riskleri tam olarak ele almanın daha da fazla ihtiyat gerektirdiğine ikna oldum\" diye yazmıştı, \"sadece risk önlemeye yatırım yapmakla kalmıyor, aynı zamanda risk önlemenin devam etmek için zamana sahip olması için yeteneklerin ilerleme hızını hızlandırıyorum .\"",
+    "Opus 5.5 'in güvenlik eğitimi, METR ve Frontier Design gibi dış kuruluşlar tarafından hizalama testi ve yayın öncesi değerlendirme ile öncekilere büyük ölçüde benzerdi. Ancak Anthropic, gelişmiş güvenlik ve izleme sistemleri de dahil olmak üzere gelecekteki modeller için daha gelişmiş eğitim ve değerlendirme sistemlerinin hazırlandığını vurguladı.",
+    "\"Yapay zeka daha yetenekli hale geldikçe, kamu politikası insanların güvendiği sistemlerin güvenli olmasını sağlamada daha büyük bir rol oynamalıdır. Bu kapasitenin inşa edilmesi zaman alıyor ve bunu desteklemek için altyapıyı devreye sokmaya başladık\" ifadeleri yer alıyor. \"Bu çabalarla ilgili daha fazla ayrıntıyı yakında paylaşmayı umuyoruz .\""
+  ],
+  "tags_tr": []
+}
