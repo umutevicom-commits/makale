@@ -1,33 +1,43 @@
 [
   {
-    "slug": "anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
-    "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+    "slug": "apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says",
+    "url": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
+    "date": "22 September 2026",
+    "fetched_at": "2026-09-22T23:58:17.824002+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "0281b379b3a50353835beca908c66fd85c55cf9df78d713ad66307d547703c59"
+  },
+  {
+    "content_hash": "5c2928ac253a1a1cd65b1fac422b9973dba32623d14950487d8dfb5b571ed618",
     "date": "22 September 2026",
     "fetched_at": "2026-09-22T20:49:59.571390+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "5c2928ac253a1a1cd65b1fac422b9973dba32623d14950487d8dfb5b571ed618"
+    "retries": 0,
+    "slug": "anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/"
   },
   {
-    "slug": "a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school",
-    "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+    "content_hash": "7f561c2d8a489a8c6fb995ee2e548ad39740f420ff6d1016d57c435c2f9a4af7",
     "date": "22 September 2026",
     "fetched_at": "2026-09-22T20:49:35.638186+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "7f561c2d8a489a8c6fb995ee2e548ad39740f420ff6d1016d57c435c2f9a4af7"
+    "retries": 0,
+    "slug": "a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/"
   },
   {
-    "slug": "4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026",
-    "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+    "content_hash": "9b8ec9071c2faf888f2b8d7dd4bef5369d8ec1a4fc143c5b7b21c7fbb298da1a",
     "date": "22 September 2026",
     "fetched_at": "2026-09-22T20:48:41.155120+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "9b8ec9071c2faf888f2b8d7dd4bef5369d8ec1a4fc143c5b7b21c7fbb298da1a"
+    "retries": 0,
+    "slug": "4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/"
   },
   {
     "content_hash": "49393f1a8d76470a96def0d812d7e0dffe19e6e77fda8eae78d76182785cf632",
