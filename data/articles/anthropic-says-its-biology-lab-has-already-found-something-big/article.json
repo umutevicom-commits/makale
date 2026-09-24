@@ -1,0 +1,49 @@
+{
+  "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+  "slug": "anthropic-says-its-biology-lab-has-already-found-something-big",
+  "title": "Anthropic says its biology lab has already found something big",
+  "news_id": "anthropic-says-its-biology-lab-has-already-found-something-big",
+  "date": "23 September 2026",
+  "author": "Julie Bort",
+  "tags": [],
+  "body_paragraphs": [
+    "Last week, Anthropic confirmed that it was operating a wet biology lab in the Bay Area where it uses its AI models to run physical experiments. This week, the AI giant announced that this lab has already made what it believes is a big discovery: a new enzyme “system” that has certain “properties reminiscent of CRISPR,” as Anthropic describes it.",
+    "CRISPR is a natural immune system used by bacteria to fight off viruses that has become a gene-editing technology widely used by researchers.",
+    "Essentially, what Anthropic says it found is a previously unknown enzyme system hidden in the DNA of bacteriophages, which are viruses that infect and replicate within bacteria. Anthropic’s researchers say this system behaves similarly to CRISPR in that it can “perform operations like cutting, copying, and pasting DNA.”",
+    "It will be up to the broader research community to validate how big, or new, this discovery actually is. Anthropic CEO Dario Amodei acknowledges that the discovery was based on the work of others and that a team from Stanford previously discovered a system “that is in some ways similar to the one Claude found,” he wrote on X.",
+    "But Amodei and Anthropic are not just emphasizing the discovery. They are touting it was found “mostly, though not entirely, by Claude,” the CEO wrote.",
+    "On the one hand, that is astounding. This lab was only established this spring (though Anthropic declined to be more specific about how many months it has been open). A discovery in just a few short months would be speedy enough work, but the team said it actually only took Claude 21 hours of concerted effort. Claude searched through data using about 950 agents that burned through 210 million tokens.",
+    "Still, the revelation that Anthropic has been conducting biology experiments comes right after AI CEOs, including Amodei, publicly admitted that models have become so capable, and so potentially dangerous, that the industry must slow down and develop safety-testing procedures. This after a couple of his employees publicly said earlier this month that there’s a risk AI could kill us all.",
+    "Amodei himself has said one of the things he fears most is that AI could be used for bioterrorism. But he also believes AI will “cure most diseases in 5-10 years,” he wrote. So Anthropic has clearly decided the rewards are worth the risks.",
+    "Given that, perhaps the biggest reveal in this news isn’t the discovery itself but that the biology lab hasn’t let Claude loose. The physical experiments were done by humans.",
+    "“Our lab, located in the Bay Area, looks like a typical molecular biology lab. We do research that involves only the lower-levels of the biosafety risk level (BSL-1 and BSL-2) and we do not handle pathogens that can infect humans. All of the lab work is performed by human scientists.”",
+    "It’s also true that AI-powered biological research is hardly unique to Anthropic. Researchers from Stanford just published a paper on the work they are doing with LLMs and CRISPR. Researchers at UC San Francisco used AI to design enzymes from scratch. Google launched its first AI-powered biology research tool, AlphaFold, back in 2020. So AI has clearly arrived in biological research beyond the AI labs pursuing it themselves.",
+    "Yet, Amodei hasn’t ruled out a fully automated biology lab in the future. “Eventually it may even be possible for Claude itself to safely perform the experiments by autonomously controlling lab equipment, with appropriate safeguards in place, but we aren’t doing that today,” he said.",
+    "."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/anthropic-says-its-biology-lab-has-already-found-something-big/Claude_3-7_illustration.jpg",
+      "alt": "Claude 3.7 Sonnet"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-24T02:54:47.221150+00:00",
+  "title_tr": "Anthropic, biyoloji laboratuvarının şimdiden büyük bir şey bulduğunu söylüyor",
+  "body_paragraphs_tr": [
+    "Geçen hafta Anthropic, Körfez Bölgesi'nde fiziksel deneyler yürütmek için yapay zeka modellerini kullandığı ıslak bir biyoloji laboratuvarı işlettiğini doğruladı. Bu hafta yapay zeka devi, bu laboratuvarın zaten büyük bir keşif olduğuna inandığı şeyi yaptığını duyurdu: Anthropic'in tanımladığı gibi, belirli \"CRISPR'ı andıran özelliklere\" sahip yeni bir enzim \"sistemi \".",
+    "CRISPR, araştırmacılar tarafından yaygın olarak kullanılan bir gen düzenleme teknolojisi haline gelen virüslerle savaşmak için bakteriler tarafından kullanılan doğal bir bağışıklık sistemidir.",
+    "Esasen Anthropic'in bulduğu şey, bakteriyofajların DNA'sında gizlenmiş, bakterileri enfekte eden ve çoğaltan virüsler olan daha önce bilinmeyen bir enzim sistemi. Anthropic'in araştırmacıları, bu sistemin \"DNA'yı kesme, kopyalama ve yapıştırma gibi işlemleri gerçekleştirebildiği\" için CRISPR'a benzer davrandığını söylüyor.",
+    "Bu keşfin gerçekte ne kadar büyük veya yeni olduğunu doğrulamak daha geniş araştırma topluluğuna bağlı olacaktır. Anthropic CEO'su Dario Amodei, keşfin başkalarının çalışmalarına dayandığını ve Stanford'dan bir ekibin daha önce \"bazı yönlerden Claude'un bulduğuna benzer\" bir sistem keşfettiğini kabul ediyor.",
+    "Ancak Amodei ve Anthropic sadece keşfi vurgulamakla kalmıyor. CEO, bunun \"tamamen olmasa da çoğunlukla Claude tarafından\" bulunduğunu söylüyor.",
+    "Bir yandan, bu şaşırtıcı. Bu laboratuvar sadece bu baharda kuruldu (ancak Anthropic kaç aydır açık olduğu konusunda daha spesifik olmayı reddetti). Sadece birkaç kısa ay içinde bir keşif yeterince hızlı bir çalışma olurdu, ancak ekip aslında Claude'un sadece 21 saatlik uyumlu bir çaba harcadığını söyledi. Claude, 210 milyon token'ı yakan yaklaşık 950 aracı kullanarak verileri araştırdı.",
+    "Yine de Anthropic'in biyoloji deneyleri yürüttüğünün ortaya çıkması, Amodei de dahil olmak üzere yapay zeka CEO'larının, modellerin o kadar yetenekli ve potansiyel olarak tehlikeli hale geldiğini ve endüstrinin yavaşlaması ve güvenlik testi prosedürleri geliştirmesi gerektiğini açıkça kabul etmesinden hemen sonra geldi. Bu, birkaç çalışanının bu ayın başlarında yapay zekanın hepimizi öldürme riski olduğunu açıkça söylemesinden sonra gerçekleşti.",
+    "Amodei'nin kendisi de en çok korktuğu şeylerden birinin yapay zekanın biyoterörizm için kullanılabileceği olduğunu söyledi. Ama aynı zamanda yapay zekanın \"çoğu hastalığı 5 -10 yıl içinde tedavi edeceğine\" inanıyor. Bu yüzden Anthropic, ödüllerin risklere değeceğine açıkça karar verdi.",
+    "Bununla birlikte, belki de bu haberdeki en büyük açıklama keşfin kendisi değil, biyoloji laboratuvarının Claude'u serbest bırakmamış olmasıdır. Fiziksel deneyler insanlar tarafından yapıldı.",
+    "\"Körfez Bölgesi'nde bulunan laboratuvarımız tipik bir moleküler biyoloji laboratuvarına benziyor. Sadece biyogüvenlik risk seviyesinin (BSL -1 ve BSL -2) daha düşük seviyelerini içeren araştırmalar yapıyoruz ve insanları enfekte edebilecek patojenleri ele almıyoruz. Tüm laboratuvar çalışmaları insan bilim insanları tarafından gerçekleştiriliyor .\"",
+    "Yapay zeka destekli biyolojik araştırmaların Antropik'e özgü olmadığı da doğrudur. Stanford'dan araştırmacılar, LLM'ler ve CRISPR ile yaptıkları çalışmalar hakkında bir makale yayımladı. UC San Francisco'daki araştırmacılar, enzimleri sıfırdan tasarlamak için yapay zeka kullandı. Google, ilk yapay zeka destekli biyoloji araştırma aracı AlphaFold'u 2020 'de piyasaya sürdü. Bu nedenle yapay zeka, kendisini takip eden yapay zeka laboratuvarlarının ötesinde biyolojik araştırmalara açıkça ulaşmıştır.",
+    "Yine de Amodei, gelecekte tam otomatik bir biyoloji laboratuvarını göz ardı etmedi. \"Sonunda Claude'un laboratuvar ekipmanlarını uygun önlemlerle özerk bir şekilde kontrol ederek deneyleri güvenli bir şekilde gerçekleştirmesi bile mümkün olabilir, ancak bugün bunu yapmıyoruz\" dedi.",
+    "Adı"
+  ],
+  "tags_tr": []
+}
