@@ -1,0 +1,45 @@
+# Automattic'in geçici CEO'su ve yasal şefi, Mullenweg'in kısa süreli görevden alınması sırasında karşılıklı kıdem tazminatı anlaşmaları imzaladı
+
+Geçen hafta, 9 Eylül'de Automattic'in yönetim kurulu, CEO Matt Mullenweg'i ücretli izne çıkarmak için oy kullandı ve yönetim kurulu bu kararı hala kamuoyuna açıklamadı. Mullenweg, şirket genelindeki Slack mesajında, CFO Mark Davies'i oylamaya zorlamak için üç yönetim kurulu üyesinin arkasından "komplo kurmakla" suçladı ve yalnızca 50 dakika önceden haber verildiğini ve kararın dış hukuk müşaviri tarafından gözden geçirilmesi için zaman tanınmadığını söyledi. Yaklaşık 33 saat sonra göreve geri döndü ve o zamandan beri onu oylayan aynı yönetim kurulu üyeleri şirketten ayrıldı.
+
+Yine de öylece kapıdan çıkıp gitmediler. Mullenweg'in izne ayrılmasıyla dönüşü arasındaki 33 saatlik sürede, şirketteki iki kilit yönetici birbirleri için cömert çıkış paketleri imzaladı. Bu süre zarfında geçici CEO olan Davies ve Baş Hukuk Görevlisi Andy Missan, 10 Eylül'den itibaren geçerli olmak üzere birbirlerinin kıdem tazminat anlaşmasını imzaladılar.
+
+TechCrunch tarafından incelenen kıdem tazminatı belgelerine göre, etkin bir şekilde altın paraşütler olan bu anlaşmalar, her birine toplu olarak ödenen 12 aylık taban maaş, özkaynakları için hızlandırılmış bir hakediş programı, kazanılmış hisse senedi opsiyonlarını kullanma yeteneği ve bir yıl daha sağlık sigortası sağlıyor.
+
+İkisi arasında, tam paket — hızlandırılmış özkaynak artı bir yıllık maaş — Automattic'in şimdi her iki yöneticiye de borçlu olacağı 8.15 milyon $ 'a çıkıyor, çünkü Mullenweg döndüğünde onları kovdu.
+
+Automattic'in hukuk ekibi, bir sonraki adımların ne olduğunu belirlemek için çalışıyor: bu meblağları ödemek veya yasal geçerliliklerine meydan okuyarak onlarla savaşmak. (Şirket ve Mullenweg'in çarşamba günü ortaklaşa duyurduğu üzere, şirket daha önceki danışmanı Gibson Dunn'ı Susman Godfrey LLP'den Stephen Shackelford ve Shawn J. Rabin ile değiştirdi. Kaynaklar bize Automattic'in genel danışmanı Jordan Hinkes'in de şirket hesabının devre dışı bırakıldığını söyledi. Mullenweg o zamandan beri X'te, Hinkes bir yapay zeka girişimine katıldığı için bu hareketin haftalardır üzerinde çalışıldığını belirtti.)
+
+Yanlış anlaşılmayı düzeltmek istiyorum: Jordan Hinkes, benim desteğim ve teşvikimle, heyecan verici bir yapay zeka girişim şirketine Genel Hukuk Müşaviri olarak katılıyor. Her şey başlamadan haftalar önce bunu planlıyorduk; kendisi Cuma gününe kadar tamamen @automattic&#39;te görev yapmaya devam edecek. :)
+
+Anlaşmalar uyarınca, yöneticiler yalnızca geniş bir talep beyanı imzalarlarsa ve gizlilik, talep etmeme ve diğer yasal olarak bağlayıcı istihdam sonrası kısıtlamalara uymaya devam ederlerse faydalarını elde ederler.
+
+Anlaşmalar ayrıca, bir şirketin kıdem tazminatı ödemeden birisini kovmak için karşılaması gereken yasal standart olan "nedenin" nasıl tanımlandığı konusunda yöneticilerin lehine olacak şekilde yazılmıştır. Bu şartlar altında, şirket, davranışı öğrendikten sonraki 60 gün içinde yöneticiyi yazılı olarak bilgilendirmeli, tedavi edilebilirse davranışı düzeltmesi için 30 gün vermeli, ardından yönetim kurulunun çoğunluğunun bu nedenin var olduğunu kabul etmesini sağlamalıdır.
+
+“Sebep” in kendisi, anlaşmalarda şirkete maddi olarak zarar veren ağır ihmal; sahtekarlık, dolandırıcılık veya maddi zarara neden olan yanlış beyanı bilmek; maddi zarara neden olan maddi bir yasal ihlal; maddi gizlilik veya fikri mülkiyet ihlali; veya “ahlaki küstahlık” (doğası gereği sahtekar veya ahlaki olarak kınanabilir olarak kabul edilen davranış için yasal bir terim) içeren bir suç veya suç olarak dar bir şekilde tanımlanmaktadır.
+
+Davies'in durumunda, anlaşma ayrıca, geçici CEO rolünden çıkarılmasının, CFO olarak kaldığı sürece, normalde bir yöneticinin istifa etmesine ve iş koşullarının daha da kötüye gittiği gerekçesiyle kıdem tazminatı toplamasına izin veren yasal bir terim olan "İyi Neden" olarak sayılmayacağını da belirtiyor. Bu maddenin kendisi yasal bir anlaşma için garip olmasa da, belgenin Davies'in geçici CEO olma şartlarını göz önünde bulundurarak hazırlandığını ve geçici CEO görevi sona erdiğinde Automattic'in kendisine kıdem tazminatı borçlu kalmamasını etkili bir şekilde sağladığını, çünkü bunu tek başına istifa nedeni olarak iddia edemeyeceğini öne sürüyor.
+
+Yöneticilerin birbirlerinin anlaşmalarını imzalaması ille de uygunsuz olmasa da, Automattic'teki yönetişim mücadelesi bağlamında dikkat çekicidir.
+
+TechCrunch'ın incelediği bir İK belgesine göre, Davies'in ayrıldığı sırada hiçbir Automattic hissesine sahip olmaması yakın zamanda gün yüzüne çıkan bir diğer faktör. (Şirketteki bir kaynak, Davies'in hisse senedini "birkaç ay önce" sattığını, ancak TechCrunch'ın satış zamanını doğrulayamadığını söyledi. Ancak İK belgesi, Davies'in hala çok sayıda olağanüstü kazanılmış seçeneğe sahip olduğunu gösterdi.)
+
+Bu olaylar çok farklı iki şekilde yorumlanabilir. Bir senaryoda, Automattic'in yönetim kurulu bir iç liderlik krizine yanıt veriyor, Mullenweg'i izne çıkarmak için oy kullandı ve ardından müdahale başarısız olursa (şu anda olduğu gibi) olumsuz sonuçlarla karşılaşabilecek yöneticiler için korumalar oluşturdu.
+
+Automattic'in barındırma sağlayıcısı WP Engine ile yasal mücadelesi burada devreye girebilir. Temmuzda WP Engine, Mullenweg'i yasal dosyalardaki kanıtları, özellikle de Signal, WhatsApp ve Telegram gibi mesajlaşma uygulamaları aracılığıyla metinleri yok etmekle suçlamıştı. Yöneticiler, Mullenweg'in davranışının ciddi bir kurumsal risk haline geldiğine inanıyorsa, onu izne çıkarmak ve yönetimi değiştirmek, mahkemeye yönetim kurulunun endişeleri ciddiye aldığını göstermeye yardımcı olabilir. Bu, olası yaptırımları veya para cezalarını azaltmaya veya uzlaşma koşullarını iyileştirmeye potansiyel olarak yardımcı olabilir. ( Mullenweg'in 10 Eylül'de yayınladığı ve yönetim kurulu eyleminden hemen sonra kanıtların iddia edilen imhasına veya "yağmalanmasına" atıfta bulunan X yazısı bu teoriyi destekleyebilir.)
+
+Başka bir senaryoda, Automattic yönetim kurulunun Mullenweg'i izne çıkarıp dizginleri ele geçirerek başka bir nedenle (belki de stratejik bir işlem) bir kontrol penceresi yaratmaya çalıştığı görülebilir. Kaynaklara göre bu, Mullenweg'in şüphelendiği teori. Ancak yönetim kurulu, Mullenweg'e oylamanın başlaması için hiçbir zaman belirli bir neden vermemiş ve onu dış gözlemciler gibi büyük ölçüde altta yatan güdü hakkında spekülasyon yapmaya bırakmıştı. CFO'nun hisse senedi satışıyla birlikte bu açıklama eksikliği, şüphelerini beslemiş ve CEO rolünü yeniden alma ve yönetim kurulunu ve diğer yöneticileri görevden alma kararını etkilemiş gibi görünüyor.
+
+Automattic'ten yorum istendi. Missan ve Davies'e ulaşma girişimleri başarısız oldu.
+
+Bu makale, Hinkes&#39;in ayrılışıyla ilgili daha fazla bağlam eklemek ve bir X gönderisi yerleştirmek amacıyla yayınlandıktan sonra güncellenmiştir.
+
+---
+
+## Görseller
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/Matt-Mullenweg.jpg)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/x-post.jpg)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/Screenshot-2026-09-16-at-1_36_59-PM.jpg)
