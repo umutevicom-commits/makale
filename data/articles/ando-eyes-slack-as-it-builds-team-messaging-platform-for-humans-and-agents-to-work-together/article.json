@@ -1,0 +1,55 @@
+{
+  "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+  "slug": "ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together",
+  "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+  "news_id": "ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together",
+  "date": "24 September 2026",
+  "author": "Dominic-Madori Davis",
+  "tags": [],
+  "body_paragraphs": [
+    "When Sara Du was helping companies build MCP servers in 2025, people kept asking her how they could use AI agents from within Slack itself. But there were a bunch of technical hurdles in the way: moving messages back and forth and getting agents the right context, all without burning through token budgets.",
+    "Upon digging into the problem, Du realized that there was a deeper issue that stemmed from how communication platforms were designed. “The deeper I went, the more I felt Slack and Teams were built for a world that was starting to pass us by,” Du told TechCrunch. “Agents were treated as apps you install even as they were becoming participants in the team.”",
+    "The solution, Du thought, could be a system that eliminates “meat proxies,” as Du calls the phenomenon of people having to relay AI agents’ work to their teams. “The human effectively becomes the messenger between the agent and the rest of the company,” she said.",
+    "An ideal system would instead let agents “participate in the shared conversations where work already gets coordinated,” Du said. “They should be able to understand why a decision was made, ask a colleague a question, build on another agent’s work, and bring in a human when judgment is needed.”",
+    "Her startup, Ando, on Thursday came out of stealth with an app that sets out to do exactly that: It’s a team messaging platform designed for both human and AI workers.",
+    "Ando bills itself as a full replacement for Slack or any other messaging platform that companies using AI agents might want for internal communication. The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can.",
+    "The app has channels, DMs, group conversations, and even live calls that can be transcribed and viewed by an agent, Du said. Agents can browse channels, pick which ones to join, and can even join conversations without being tagged. If a company’s agent thinks a human worker needs to be notified of something, it can message them on its own rather than waiting for approvals.",
+    "To continue building the app, Ando on Thursday said it has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
+    "Du’s idea isn’t a new one. Most of the major players in the workplace collaboration space have already built in support for AI agents — Slack, for instance, has turned its native bot into an AI agent, and Microsoft has gone to great lengths to integrate Copilot into Teams in ways that connect to the rest of its Office 365 suite.",
+    "But there is still a market for apps to challenge the incumbents given how quickly AI is invading workplaces. Just a few months ago, Twitter and Block co-founder Jack Dorsey announced Buzz, which brings together people and AI agents into one messaging app, though it’s more targeted at developers.",
+    "Du also feels there’s still enough of an advantage in building an AI-agent-native team messaging platform as legacy incumbents try to figure out how to pivot their existing software.",
+    "Regardless, she seems to understand that Ando has an uphill battle ahead of it, and said that things were slow in the beginning. “A lot of people we showed it to early on were understandably unimpressed. It was, in many respects, just a jankier messaging platform. People would get stuck on that before they even got to what was different about the agents,” she explained.",
+    "But she said her team knew they were onto something when more and more customers started using Ando for longer periods. With Ando, she started to see that agents could do more than people expect: An agent could notice two conversations being held in different channels about the same problem, and without being asked to, could bring everyone together in a group chat, explain the context, and even suggest a decision.",
+    "“That was really delightful for me,” she said, “I felt agents could better manage people than humans can because they can process a lot more messages than a human can in a shorter span of time.”",
+    "She said Ando is currently working with customers in software, real estate, and finance across 15 countries, though many of the teams it serves right now are small. The fresh capital will be used to hire more people and burn through more tokens, she said.",
+    "“I think agents will let very small teams operate at a scale that previously required hundreds of people,” she said. “They can take on more of the execution, research, and coordination work, while humans spend more of their time on judgment, strategy, and deciding what should happen next.”"
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/Sara-Du.png",
+      "alt": "Ando team at work"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-24T19:46:10.617518+00:00",
+  "title_tr": "Ando, insanlarla temsilcilerin birlikte çalışmasına olanak tanıyan bir ekip mesajlaşma uygulamasıyla Slack'in karşısına çıkmak istiyor",
+  "body_paragraphs_tr": [
+    "Sara Du, 2025 'te şirketlerin MHP sunucuları kurmasına yardımcı olurken, insanlar ona Slack'in kendi içindeki yapay zeka ajanlarını nasıl kullanabileceklerini sormaya devam etti. Ancak arada bir sürü teknik engel vardı: mesajları ileri geri hareket ettirmek ve aracılara doğru bağlamı sağlamak, hepsi token bütçelerini boşa harcamadan.",
+    "Sorunu inceledikten sonra Du, iletişim platformlarının nasıl tasarlandığından kaynaklanan daha derin bir sorun olduğunu fark etti. TechCrunch'a konuşan Du, \"Ne kadar derine inersem, Slack ve Teams'in bizi geçmeye başlayan bir dünya için kurulduğunu o kadar çok hissettim\" dedi. \"Temsilcilere, ekibe katılırken bile yüklediğiniz uygulamalar gibi davranıldı .\"",
+    "Du, çözümün \"et vekillerini\" ortadan kaldıran bir sistem olabileceğini düşündü. Du, insanların yapay zeka ajanlarının çalışmalarını ekiplerine aktarmak zorunda olduğu olgusunu böyle adlandırıyor. \"İnsan etkin bir şekilde temsilci ve şirketin geri kalanı arasında elçi haline geliyor\" dedi.",
+    "Du, ideal bir sistemin bunun yerine temsilcilerin \"işin zaten koordine edildiği ortak konuşmalara katılmasına\" izin vereceğini söyledi. \"Bir kararın neden alındığını anlayabilmeli, bir meslektaşına soru sormalı, başka bir ajanın çalışmalarını geliştirmeli ve muhakeme gerektiğinde bir insanı işe alabilmelidir .\"",
+    "Perşembe günü girişimi Ando, tam olarak bunu yapmak için yola çıkan bir uygulamayla gizlilikten çıktı: Hem insan hem de yapay zeka çalışanları için tasarlanmış bir ekip mesajlaşma platformu.",
+    "Ando, kendisini Slack'in veya yapay zeka aracılarını kullanan şirketlerin dahili iletişim için isteyebileceği diğer herhangi bir mesajlaşma platformunun yerini alacak şekilde faturalandırır. Uygulama, temsilcilere kendi kimliklerini ve gelen kutularını verir ve mümkün olduğunca doğal bir şekilde sohbetlere katılmalarını sağlar.",
+    "Du, uygulamanın bir temsilci tarafından kaydedilebilen ve görüntülenebilen kanallara, DM'lere, grup konuşmalarına ve hatta canlı aramalara sahip olduğunu söyledi. Temsilciler kanallara göz atabilir, hangilerine katılacağını seçebilir ve hatta etiketlenmeden sohbetlere katılabilir. Bir şirketin temsilcisi, bir insan işçinin bir şey hakkında bilgilendirilmesi gerektiğini düşünüyorsa, onay beklemek yerine onlara kendi başına mesaj gönderebilir.",
+    "Perşembe günü Ando, uygulamayı geliştirmeye devam etmek için Accel, Index Ventures ve Emergence dahil yatırımcılardan 20 milyon $ tohum öncesi ve tohum fonu topladığını söyledi.",
+    "Du'nun fikri yeni değil. İşyeri işbirliği alanındaki büyük oyuncuların çoğu zaten yapay zeka ajanlarına destek sağladı — örneğin Slack, yerel botunu bir yapay zeka ajanına dönüştürdü ve Microsoft, yardımcı pilotu Office 365 paketinin geri kalanına bağlanacak şekilde Teams'e entegre etmek için büyük çaba sarf etti.",
+    "Ancak, yapay zekanın işyerlerini ne kadar hızlı istila ettiği göz önüne alındığında, yerleşiklere meydan okuyacak uygulamalar için hala bir pazar var. Sadece birkaç ay önce, Twitter ve Block kurucu ortağı Jack Dorsey, geliştiricileri daha çok hedef alsa da, insanları ve yapay zeka temsilcilerini tek bir mesajlaşma uygulamasında bir araya getiren Buzz'ı duyurdu.",
+    "Du ayrıca, eski görevliler mevcut yazılımlarını nasıl harekete geçireceklerini anlamaya çalışırken, yapay zeka aracısı yerel bir ekip mesajlaşma platformu oluşturmanın hala yeterli bir avantaj olduğunu düşünüyor.",
+    "Ne olursa olsun, Ando'nun önünde yokuş yukarı bir savaş olduğunu anlıyor ve başlangıçta işlerin yavaş olduğunu söylüyor. \"Erken gösterdiğimiz birçok kişi anlaşılır bir şekilde etkilenmedi. Birçok bakımdan, sadece daha kurnaz bir mesajlaşma platformuydu. İnsanlar ajanlarla ilgili farklı olan şeye bile ulaşamadan buna takılıp kalırdı\" diye açıkladı.",
+    "Ancak ekibinin, giderek daha fazla müşteri Ando'yu daha uzun süre kullanmaya başladığında bir şeylerin peşinde olduklarını bildiğini söyledi. Ando ile, temsilcilerin insanların beklediğinden daha fazlasını yapabileceğini görmeye başladı: Bir temsilci, aynı sorun hakkında farklı kanallarda iki konuşmanın yapıldığını fark edebilir ve istenmeden, herkesi bir grup sohbetinde bir araya getirebilir, bağlamı açıklayabilir ve hatta bir karar önerebilir.",
+    "\"Bu benim için gerçekten keyifliydi\" diyen Musk şöyle devam etti: \"Temsilcilerin insanları insanlardan daha iyi yönetebileceğini hissettim çünkü daha kısa sürede bir insanın işleyebileceğinden çok daha fazla mesajı işleyebiliyorlar .\"",
+    "Ando'nun şu anda 15 ülkede yazılım, gayrimenkul ve finans alanlarında müşterilerle çalıştığını, ancak şu anda hizmet verdiği ekiplerin çoğunun küçük olduğunu söyledi. Yeni sermayenin daha fazla insanı işe almak ve daha fazla token yakmak için kullanılacağını söyledi.",
+    "\"Bence menajerler çok küçük ekiplerin daha önce yüzlerce kişi gerektiren bir ölçekte çalışmasına izin verecek\" dedi. \"İnsanlar zamanlarının çoğunu muhakeme, strateji ve daha sonra ne olması gerektiğine karar vermek için harcarken, yürütme, araştırma ve koordinasyon çalışmalarının daha fazlasını üstlenebilirler .\""
+  ],
+  "tags_tr": []
+}
