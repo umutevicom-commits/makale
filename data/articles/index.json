@@ -1,33 +1,33 @@
 [
   {
-    "slug": "automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster",
-    "url": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
+    "content_hash": "3fb7e69550dcba5af6ee3fe964d21a989a8656941a1a86464851bd6da7edbba3",
     "date": "16 September 2026",
     "fetched_at": "2026-09-24T09:02:20.050432+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "3fb7e69550dcba5af6ee3fe964d21a989a8656941a1a86464851bd6da7edbba3"
+    "retries": 0,
+    "slug": "automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/"
   },
   {
-    "slug": "automattic-names-interim-cfo-after-exec-departures",
-    "url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
+    "content_hash": "a65c751d5e8d7508d1c5cc0ccea204cd52fe8189924982e4483645a7f6ff9726",
     "date": "18 September 2026",
     "fetched_at": "2026-09-24T09:01:40.393488+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "a65c751d5e8d7508d1c5cc0ccea204cd52fe8189924982e4483645a7f6ff9726"
+    "retries": 0,
+    "slug": "automattic-names-interim-cfo-after-exec-departures",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/"
   },
   {
-    "slug": "automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board",
-    "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+    "content_hash": "4f734a46d460fa95326ada0c0e3b9aa8971711c7889f6c7a9c7e5939386578ab",
     "date": "12 September 2026",
     "fetched_at": "2026-09-24T08:59:59.655078+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "4f734a46d460fa95326ada0c0e3b9aa8971711c7889f6c7a9c7e5939386578ab"
+    "retries": 0,
+    "slug": "automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/"
   },
   {
     "content_hash": "f6149a6b7894e1f5e6363ba1768af9687d11821ea2d7d79ee022192845837755",
