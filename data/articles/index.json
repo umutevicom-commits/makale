@@ -1,13 +1,33 @@
 [
   {
-    "slug": "anthropics-founders-seek-voting-control-ahead-of-ipo",
-    "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+    "slug": "anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
+    "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
     "date": "25 September 2026",
-    "fetched_at": "2026-09-25T19:47:13.129724+00:00",
+    "fetched_at": "2026-09-25T23:02:03.935168+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "29fd8fb74e861cd771e1aaf74c59c97c9b0c6dc172bef4886ed2e13b3b4398bd"
+    "content_hash": "7f517d93d3a5942dfbb82f1e77613cf56f859ff9f128c346a5ba92122071bd26"
+  },
+  {
+    "slug": "ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing",
+    "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+    "date": "25 September 2026",
+    "fetched_at": "2026-09-25T23:01:52.211428+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "a2d69c5fe99efa4e57222369127f577bff15a56a3a76604421a68b67d4ef2f32"
+  },
+  {
+    "content_hash": "29fd8fb74e861cd771e1aaf74c59c97c9b0c6dc172bef4886ed2e13b3b4398bd",
+    "date": "25 September 2026",
+    "fetched_at": "2026-09-25T19:47:13.129724+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "anthropics-founders-seek-voting-control-ahead-of-ipo",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/"
   },
   {
     "content_hash": "aeb4d55ad2915b2c3072e6c7960b1f6ff5d57cf118be2e86687a6cc96eb851e7",
