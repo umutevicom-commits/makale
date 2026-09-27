@@ -6,7 +6,27 @@
     <atom:link href="https://techcrunch.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>TechCrunch haberlerinin eksiksiz Türkçe çevirisi</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 27 Sep 2026 20:34:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 23:53:42 +0000</lastBuildDate>
+    <item>
+      <title>Anthropic'ten Dario Amodei'ye SNL tedavisi uygulandı</title>
+      <link>https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <author>Anthony Ha</author>
+      <description>Oyuncu kadrosu üyesi Jane Wickline, Anthropic CEO'su Dario Amodei hakkındaki izlenimini paylaşırken Saturday Night Live, dün gece yapay zeka endüstrisinin son kıyamet uyarılarını üstlendi.</description>
+      <media:content url="https://umutevicom-commits.github.io/makale/data/images/anthropics-dario-amodei-gets-the-snl-treatment/saturday-night-live.jpg" medium="image" type="image/jpeg" />
+      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/anthropics-dario-amodei-gets-the-snl-treatment/saturday-night-live.jpg" />
+      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/anthropics-dario-amodei-gets-the-snl-treatment/saturday-night-live.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://www.youtube.com/embed/-Nvne3LzBls?feature=oembed" medium="video" />
+      <content:encoded><![CDATA[<p>Oyuncu kadrosu üyesi Jane Wickline, Anthropic CEO'su Dario Amodei hakkındaki izlenimini paylaşırken Saturday Night Live, dün gece yapay zeka endüstrisinin son kıyamet uyarılarını üstlendi.</p>
+<p>Amodei'nin soyadının nasıl telaffuz edileceği konusunda biraz kararsız görünen Weekend Update sunucusu Michael Che, CEO'yu eski bir çalışanın yapay zekanın insanlığı yok edebileceği iddiasını görünüşte kabul ettiği &quot;bir basın turunda tökezlemiş&quot; diye tanımlayarak bölümü kapattı.</p>
+<p>Wickline'ın Amodei versiyonu etkileyici bir peruk taktı ve ara sıra karanlık tarafıyla tam Gollum tarzı değiş tokuşlara dönüşen, bir noktada &quot;AI şeytan ve ben onun yapımcısıyım&quot; diye itiraf eden duraksayan cevaplar verdi.</p>
+<p>Wickline - as - Amodei, izleyicilere yapay zeka yöneticilerinin &quot;burada hepsinin aynı fikirde olduğuna&quot; dair güvence verdi: &quot;Yaptığımız şeye göz yummuyoruz .&quot;</p>
+<p>&quot;Yapay zeka bir silah değil, bir araçtır: Silah yapmak için bir araç&quot; dedi. &quot;Ve durmam için ısrar etmeni istiyorum .&quot;</p>
+<p>Teknolojinin kanseri tedavi etme potansiyeli gibi sözde faydalarına gelince, kurgusal Amodei, &quot;Şöyle söyleyeyim: 10 yıl içinde kanserin kimse için sorun olmayacağına dair yaklaşık % 10 'luk bir şans var&quot; dedi.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/anthropics-dario-amodei-gets-the-snl-treatment/saturday-night-live.jpg" alt="Saturday Night Live impression of Dario Amodei" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<div style="clear:both;margin:16px 0;position:relative;width:100%;padding-top:56.25%;overflow:hidden;background:#000;"><iframe src="https://www.youtube.com/embed/-Nvne3LzBls?feature=oembed" title="Weekend Update: Anthropic CEO Dario Amodei on A.I.’s Threat to Humanity - SNL" loading="lazy" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;display:block;border:0;float:none;"></iframe></div>]]></content:encoded>
+    </item>
     <item>
       <title>Anthropic, Akamai'ye bulut anlaşmasında yedi yıl boyunca 11,6 milyar $ ödeyecek</title>
       <link>https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/</link>
@@ -1452,26 +1472,6 @@
 <p>Şirket, iPhone 18 Pro'nun son yıllardaki en büyük kamera gelişimini içerdiğini söyledi. Fotoğrafçıların kesinlikle dikkatini çekecek bir yükseltme, yeni 48 megapiksel füzyon ana kameradaki değişken diyafram açıklığıdır. Diyafram, merceğe ne kadar ışık gireceğini kontrol eden şeydir. Bu yeni ana kameranın değişken bir diyaframı var, bu da kullanıcıların gelen ışık miktarı ve nihai görüntünün neye benzediği üzerinde daha fazla kontrole sahip olduğu anlamına geliyor. Özellikle geceleri fotoğraf çekmeyi sevenler için faydalı olmalıdır.</p>
 <p>Bunu başarmak için Apple, her biri insan saçından daha ince ve özel bir polimer kompozitten, hareketleri kontrol etmek için yeni bir rotor mekanizmasından ve özel olarak tasarlanmış bir mercekten yapılmış 6 lazer kesim bıçağından oluşan bir sistem geliştirdiğini söyledi.</p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/Apple-iPhone-18-Pro-Photos-app-Apple-Reference-Image-260909_big_jpg_large_2x.jpg" alt="Three iPhones showing images verified by Apple Reference Image." loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Apple CEO'su John Ternus, en iyi yapay zeka cihazının hala iPhone olduğunu söylüyor</title>
-      <link>https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <author>Sarah Perez</author>
-      <description>Apple'ın yeni CEO'su John Ternus, Çarşamba günü şirketin Surprise and Shine etkinliğinin açılışını yapay zeka stratejisini netleştirmek için kullandı: iPhone zaten piyasadaki en iyi yapay zeka cihazı ve Apple veri gizliliğine rakiplerinden daha fazla önem veriyor.</description>
-      <media:content url="https://umutevicom-commits.github.io/makale/data/images/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/ternus-2.jpg" medium="image" type="image/jpeg" />
-      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/ternus-2.jpg" />
-      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/ternus-2.jpg" type="image/jpeg" length="0" />
-      <content:encoded><![CDATA[<p>Apple'ın yeni CEO'su John Ternus, Çarşamba günü şirketin Surprise and Shine etkinliğinin açılışını yapay zeka stratejisini netleştirmek için kullandı: iPhone zaten piyasadaki en iyi yapay zeka cihazı ve Apple veri gizliliğine rakiplerinden daha fazla önem veriyor.</p>
-<p>Yorumlar, Ternus'un Apple'daki dizginleri şu anda yönetim kurulu başkanı olan Tim Cook'tan alması ve şirketin yapay zeka çağında nasıl rekabet etmeyi planladığına dair net bir resim sunmasıyla geliyor. Yapay zeka için yeni donanımlar geliştirmek yerine Apple, iPhone'u tüketicilerin yeni teknolojiyle etkileşime girdiği merkezi bir yol haline getirmek istiyor.</p>
-<p>Cupertino etkinliğindeki tanıtımı sırasında Ternus, ideal yapay zeka cihazını &quot;akıllı bir kişisel merkez&quot; olarak tanımladı. &quot;Böyle bir merkezin kullanıcının kişisel bağlamı hakkında geniş bir anlayışa sahip olacağını, her zaman yanında olacağını ve hem yapay zeka modellerini cihazda çalıştırabilen güçlü bir işlemciye hem de buluttaki modellere erişmek için bir internet bağlantısına sahip olacağını söyledi.</p>
-<p>Ternus, cihazın ayrıca büyük bir ekrana, yüksek kaliteli kameralara ve mikrofonlara sahip olacağını, böylece uzun pil ömrünün yanı sıra etrafındaki dünyayı görebileceğini ve duyabileceğini de sözlerine ekledi.</p>
-<p>Ayrıca, “büyük bir öğrenme eğrisi olmadan kullanımının çok kolay olmasını istersiniz. Ve son olarak, diğer cihazlarınız, uygulamalarınız ve hizmetlerinizle sorunsuz bir şekilde çalışmasını istersiniz, böylece entegre bir deneyim gibi hissedersiniz” dedi.</p>
-<p>Ternus, &quot;Başka bir deyişle, oldukça tanıdık bir şeye ulaşırsınız, çünkü dünyada iPhone'dan daha akıllı kişisel merkeziniz olacak şekilde tasarlanmış hiçbir ürün yoktur&quot; dedi.</p>
-<p>Ternus ayrıca, Apple'ın veri gizliliğine nasıl daha fazla önem verdiğini vurguladı ve &quot;diğerlerinin [kullanıcıların kişisel] verilerini toplanacak ve depolanacak bir şey olarak gördüğünü&quot; ekledi. &quot;Bu, Apple'ın yapay zeka platformunu rekabetten nasıl farklılaştırmayı planladığına dair yaptığı daha keskin açıklamalardan biriydi.</p>
-<p>Ternus, &quot;Dürüst olmak gerekirse, güven ancak verileriniz artık sizin kontrolünüzde olmadığında bu kadar ileri gidebilir; bu nedenle Apple Intelligence mümkün olduğunca cihazda çalışır&quot; dedi.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/ternus-2.jpg" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
     </item>
   </channel>
 </rss>

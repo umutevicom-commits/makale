@@ -1,5 +1,15 @@
 [
   {
+    "slug": "anthropics-dario-amodei-gets-the-snl-treatment",
+    "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "date": "27 September 2026",
+    "fetched_at": "2026-09-27T22:46:06.249324+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "e1d00bf2b584e727e9bcfb53e6ea323ab58fba53e1bd3128ab39125bde8c88d7"
+  },
+  {
     "content_hash": "7f517d93d3a5942dfbb82f1e77613cf56f859ff9f128c346a5ba92122071bd26",
     "date": "25 September 2026",
     "fetched_at": "2026-09-25T23:02:03.935168+00:00",
