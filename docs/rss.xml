@@ -6,7 +6,23 @@
     <atom:link href="https://techcrunch.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>TechCrunch haberlerinin eksiksiz Türkçe çevirisi</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 27 Sep 2026 23:53:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 04:26:00 +0000</lastBuildDate>
+    <item>
+      <title>Anthropic'in CEO'su Başkan Trump'la akşam yemeği yemek üzere</title>
+      <link>https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <author>Anthony Ha</author>
+      <description>Anthropic CEO'su Dario Amodei bu hafta sonu her yerde olacak gibi görünüyor: Saturday Night Live'ın sezon prömiyeriyle dalga geçti ve bu gece Beyaz Saray'da Başkan Donald Trump'la akşam yemeği yemeye hazırlanıyor.</description>
+      <media:content url="https://umutevicom-commits.github.io/makale/data/images/anthropics-ceo-is-about-to-have-dinner-with-president-trump/GettyImages-2261854833.jpg" medium="image" type="image/jpeg" />
+      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/anthropics-ceo-is-about-to-have-dinner-with-president-trump/GettyImages-2261854833.jpg" />
+      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/anthropics-ceo-is-about-to-have-dinner-with-president-trump/GettyImages-2261854833.jpg" type="image/jpeg" length="0" />
+      <content:encoded><![CDATA[<p>Anthropic CEO'su Dario Amodei bu hafta sonu her yerde olacak gibi görünüyor: Saturday Night Live'ın sezon prömiyeriyle dalga geçti ve bu gece Beyaz Saray'da Başkan Donald Trump'la akşam yemeği yemeye hazırlanıyor.</p>
+<p>Axios ilk olarak Amodei'nin akşam yemeği planlarının haberini verdi ve TechCrunch daha sonra planlarına aşina bir kaynakla bunu doğruladı.</p>
+<p>Bu, yakın zamanda kendilerini yapay zeka güvenliği tartışmasının zıt taraflarında bulan iki adam arasındaki ilk bire bir görüşme olacak. Amodei, yapay zeka gelişimini yavaşlatmak (veya en azından daha dikkatli ilerlemek) için bir plan yayınlarken, Trump kanıt olmadan yapay zeka tepkisinin Demokratik bir aldatmaca olduğu konusunda ısrar etti; ayrıca teknolojiyi &quot;süper zeka&quot; olarak yeniden markalaştırmak istiyor.</p>
+<p>Mevcut iniş çıkışlardan önce bile Amodei ve Anthropic'in Trump yönetimiyle endişe verici bir ilişkisi olmalı. Bu yılın başlarında Pentagon, şirketin teknolojisinin kullanımının etrafına korkuluklar koyma girişimine yanıt olarak Anthropic'i tedarik zinciri riski olarak belirlemişti ( Anthropic mahkemede bu unvanla mücadele ediyor), ancak diğer yönetim yetkilileri daha dostane davranmıştı.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/anthropics-ceo-is-about-to-have-dinner-with-president-trump/GettyImages-2261854833.jpg" alt="Anthropic CEO Dario Amodei" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
     <item>
       <title>Anthropic'ten Dario Amodei'ye SNL tedavisi uygulandı</title>
       <link>https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/</link>
@@ -1451,27 +1467,6 @@
 <p>Şirket, önceki serideki turuncuyu değiştirerek çarpıcı yeni bir bordo rengini piyasaya sürüyor.</p>
 <p>IPhone 18 Pro'nun fiyatı 1.199 $ ve 18 Pro Max'in fiyatı 1.299 $, bu da geçen yılki cihazlardan 100 $ daha fazla. Kullanıcılar cihazları Cumartesi günü ön sipariş verebilir ve cihazlar 18 Eylül'de kullanıma sunulacak.</p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/apple-launches-iphone-18-pro-with-upgraded-camera/HRymOiMbQAAozT9.jpeg" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Apple, iPhone fotoğraflarınızın yapay zeka ürünü olmadığını kanıtlamanın yeni bir yolunu buldu</title>
-      <link>https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <author>Tim De Chant</author>
-      <description>Yapay zeka çöplüğündeki bir dünyada Apple, iPhone'larında yakalanan şeylere güvenmenizi istiyor.</description>
-      <media:content url="https://umutevicom-commits.github.io/makale/data/images/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/Apple-iPhone-18-Pro-Photos-app-Apple-Reference-Image-260909_big_jpg_large_2x.jpg" medium="image" type="image/jpeg" />
-      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/Apple-iPhone-18-Pro-Photos-app-Apple-Reference-Image-260909_big_jpg_large_2x.jpg" />
-      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/Apple-iPhone-18-Pro-Photos-app-Apple-Reference-Image-260909_big_jpg_large_2x.jpg" type="image/jpeg" length="0" />
-      <content:encoded><![CDATA[<p>Yapay zeka çöplüğündeki bir dünyada Apple, iPhone'larında yakalanan şeylere güvenmenizi istiyor.</p>
-<p>Şirket, Çarşamba günü Surprise and Shine etkinliği sırasında, iPhone 18 Pro ile çekilen bir görüntünün gerçek olup olmadığını kanıtlayabileceğini söylediği bir özellik olan Apple Reference Image'ı tanıttığını duyurdu.</p>
-<p>Şirket, &quot;Bu, foto muhabirleri ve fotoğrafçılar için hayati önem taşıyor&quot; dedi.</p>
-<p>Bir fotoğraf çekildiğinde, ana kamera sensörü, Apple'ın Özel Bulut Bilişim hizmetinin daha sonra Fotoğraflar uygulamasında görüntülenebilen &quot;değiştirilemez bir görüntüye&quot; dönüştüğü imzalı sensör verilerini de yakalar. Referans görüntü daha sonra herhangi bir değişiklik yapılıp yapılmadığını belirlemek için fotoğrafın diğer sürümleriyle karşılaştırılabilir. Apple, referans görüntüyü &quot;dijital negatife&quot; benzetiyor.</p>
-<p>Referans görüntüler başlangıçta yalnızca Fotoğraflar uygulamasında görüntülenebilirken, şirket özelliği kendi uygulamalarına entegre edebilmeleri için API'leri geliştiricilerin kullanımına sunuyor.</p>
-<p>Apple ayrıca, insanların görüntülerin yapay zeka ile oluşturulup oluşturulmadığını veya değiştirilip değiştirilmediğini belirlemesine yardımcı olmak için SynthID standardını destekleyeceğini söyledi.</p>
-<p>Apple Reference Image, şirketin kameraya odaklanan donanım ve yazılımındaki birkaç yeni özellik ve güncellemeden biridir.</p>
-<p>Şirket, iPhone 18 Pro'nun son yıllardaki en büyük kamera gelişimini içerdiğini söyledi. Fotoğrafçıların kesinlikle dikkatini çekecek bir yükseltme, yeni 48 megapiksel füzyon ana kameradaki değişken diyafram açıklığıdır. Diyafram, merceğe ne kadar ışık gireceğini kontrol eden şeydir. Bu yeni ana kameranın değişken bir diyaframı var, bu da kullanıcıların gelen ışık miktarı ve nihai görüntünün neye benzediği üzerinde daha fazla kontrole sahip olduğu anlamına geliyor. Özellikle geceleri fotoğraf çekmeyi sevenler için faydalı olmalıdır.</p>
-<p>Bunu başarmak için Apple, her biri insan saçından daha ince ve özel bir polimer kompozitten, hareketleri kontrol etmek için yeni bir rotor mekanizmasından ve özel olarak tasarlanmış bir mercekten yapılmış 6 lazer kesim bıçağından oluşan bir sistem geliştirdiğini söyledi.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/Apple-iPhone-18-Pro-Photos-app-Apple-Reference-Image-260909_big_jpg_large_2x.jpg" alt="Three iPhones showing images verified by Apple Reference Image." loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
