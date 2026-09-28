@@ -1,13 +1,13 @@
 [
   {
-    "slug": "anthropics-ceo-is-about-to-have-dinner-with-president-trump",
-    "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+    "content_hash": "ad10b8db2c7d04aacbdf7377bb7bb3ad8b51da2ba602a24822e826c0ea251412",
     "date": "27 September 2026",
     "fetched_at": "2026-09-28T03:19:32.963041+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "ad10b8db2c7d04aacbdf7377bb7bb3ad8b51da2ba602a24822e826c0ea251412"
+    "retries": 0,
+    "slug": "anthropics-ceo-is-about-to-have-dinner-with-president-trump",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
   },
   {
     "content_hash": "e1d00bf2b584e727e9bcfb53e6ea323ab58fba53e1bd3128ab39125bde8c88d7",
