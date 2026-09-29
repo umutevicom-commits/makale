@@ -1,0 +1,47 @@
+{
+  "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+  "slug": "after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action",
+  "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+  "news_id": "after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action",
+  "date": "28 September 2026",
+  "author": "Connie Loizos",
+  "tags": [],
+  "body_paragraphs": [
+    "When the call came, Tarini Padmanabhuni’s grandfather believed he was talking to his brother. The voice on the other end of the line said he’d been kidnapped and that the only way to get him back was to pay a ransom. Her grandfather paid, only to learn later that his brother had been somewhere else entirely, with no clue any of it was happening. The voice, it turned out, was a deepfake, an AI-generated imitation.",
+    "“What stayed with me wasn’t the money,” Padmanabhuni says of the incident. “It was that he had no way of telling.”",
+    "That was about two years ago. Today, she says, DetectifAI, the San Francisco-based company she founded, aims to ensure that others can’t be hoodwinked the same way.",
+    "It’s a big and growing problem, with a market to match. According to the FBI, Americans lost close to $900 million to AI-driven scams last year, up 24% from 2024. People 60 and older lost twice as much as those aged 50 to 59.",
+    "There’s no shortage of competition in deepfake voice detection, from companies such as Reality Defender, Pindrop, Resemble AI, Microsoft Azure AI Content Safety, and Nuance (which Microsoft also owns). But today’s detection products run in the cloud on remote servers, so phone makers can’t build them directly into their devices, Padmanabhuni says, leaving the person being targeted with little in the way of defense.",
+    "Rather than shrinking large cloud models to fit on a phone, as some companies do, DetectifAI says it designs compact AI models from the start that are small enough to run inside a smartphone’s operating system. The aim is to deliver an instant verdict on whether a voice is AI-generated during calls, in voice messages, and in other audio, without the audio ever leaving the device.",
+    "DetectifAI is selling first to phone manufacturers, licensing its software tools so that detection can ship as a built-in feature of the phone’s operating system. Padmanabhuni’s analogy is AT&T’s role in the original iPhone launch, when the carrier’s exclusive deal set it apart from its rivals: The first phone maker to ship DetectifAI will gain an edge over competitors, she offers.",
+    "The core of the product is DetectifAI’s software development kit (SDK), a package of code other companies can build into their products and can be licensed through existing channels. Padmanabhuni says a secondary revenue stream will come from licensing the technology to businesses and fraud-prevention firms.",
+    "In the meantime, the startup already has early revenue, according to Padmanabhuni, and handles more than 100,000 calls a month for financial institutions in India. Those calls are placed by AI voice agents that handle debt collections and follow up on loan documents, with deepfake detection and speaker verification (confirming that callers are who they claim to be) on every call. Padmanabhuni declined to name customers, citing confidentiality agreements.",
+    "Padmanabhuni says she began working in machine learning at age 12 and later studied cyber-physical systems (technology that links software with physical machinery) at Manipal Institute of Technology in India, where she says she became the youngest team lead of what she describes as India’s first driverless race car division in Formula Student, an international student engineering competition.",
+    "DetectifAI has so far raised a small seed amount from investors Josh Constine (formerly an editor at TechCrunch) and Manohar Kamath, a principal at the consulting services firm KM Growth. The outfit is one of the startups vetted by TechCrunch’s editorial team to compete in its prestigious Startup Battlefield competition, taking place at TechCrunch Disrupt October 13 to 15 in downtown San Francisco.",
+    "To check out DetecifAI and the other startups that are part of this year’s competition, (as well as to network with the folks funding them), join us next month."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/iPhone-call.png",
+      "alt": ""
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-29T00:08:42.093955+00:00",
+  "title_tr": "Deepfake bir ses büyükbabasını kandırdıktan sonra, bu kurucu harekete geçti",
+  "body_paragraphs_tr": [
+    "Çağrı geldiğinde Tarini Padmanabhuni'nin büyükbabası onun erkek kardeşiyle konuştuğuna inanıyordu. Hattın diğer ucundaki ses, kaçırıldığını ve onu geri almanın tek yolunun fidye ödemek olduğunu söyledi. Büyükbabası ödedi, ancak daha sonra kardeşinin tamamen başka bir yerde olduğunu ve hiçbir şeyden habersiz olduğunu öğrendi. Ortaya çıkan ses, yapay zeka tarafından üretilen bir taklitti.",
+    "Padmanabhuni, olayla ilgili olarak \"Benimle kalan şey para değildi\" diyor. \"Bunu söylemesinin bir yolu yoktu .\"",
+    "Bu yaklaşık iki yıl önceydi. Bugün, kurduğu San Francisco merkezli şirket DetectifAI, başkalarının da aynı şekilde kandırılmamasını sağlamayı amaçlıyor.",
+    "Bu, eşleşecek bir pazarla büyük ve büyüyen bir sorun. FBI'a göre, Amerikalılar geçen yıl yapay zeka kaynaklı dolandırıcılıklara karşı 2024 'e göre % 24 artışla 900 milyon $' a yakın para kaybetti. 60 yaş ve üstü kişiler, 50 ila 59 yaş arasındakilere göre iki kat daha fazla kayıp verdi.",
+    "Reality Defender, Pindrop, Resemble AI, Microsoft Azure AI Content Safety ve Nuance (Microsoft'un da sahibi olduğu) gibi şirketlerden deepfake ses algılama konusunda rekabet sıkıntısı yok. Ancak Padmanabhuni, günümüzün algılama ürünlerinin bulutta uzak sunucularda çalıştığını, bu nedenle telefon üreticilerinin bunları doğrudan cihazlarına kuramadığını ve kişinin savunma yolunda çok az şey bıraktığını söylüyor.",
+    "DetectifAI, bazı şirketlerin yaptığı gibi, büyük bulut modellerini bir telefona sığacak şekilde küçültmek yerine, en başından itibaren bir akıllı telefonun işletim sisteminde çalışacak kadar küçük kompakt yapay zeka modelleri tasarladığını söylüyor. Amaç, ses cihazdan hiç çıkmadan aramalar sırasında, sesli mesajlarda ve diğer seslerde bir sesin yapay zeka tarafından üretilip üretilmediğine dair anında bir karar vermektir.",
+    "DetectifAI önce telefon üreticilerine satıyor, yazılım araçlarını lisanslıyor, böylece algılama telefonun işletim sisteminin yerleşik bir özelliği olarak gönderilebiliyor. Padmanabhuni'nin analojisi, AT&T'nin orijinal iPhone lansmanındaki rolü, taşıyıcının özel anlaşması onu rakiplerinden ayırdığında: DetectifAI'yi gönderen ilk telefon üreticisinin rakiplerine göre bir avantaj kazanacağını söylüyor.",
+    "Ürünün özü, diğer şirketlerin ürünlerine ekleyebileceği ve mevcut kanallar aracılığıyla lisanslanabilen bir kod paketi olan DetectifAI'nin yazılım geliştirme kitidir (SDK). Padmanabhuni, ikincil bir gelir akışının teknolojiyi işletmelere ve dolandırıcılık önleme firmalarına lisanslamaktan geleceğini söylüyor.",
+    "Bu arada, Padmanabhuni'ye göre girişimin halihazırda erken geliri var ve Hindistan'daki finans kurumları için ayda 100.000 'den fazla çağrı gerçekleştiriyor. Bu aramalar, her aramada deepfake tespiti ve hoparlör doğrulaması (arayanların iddia ettikleri kişi olduğunu teyit eder) ile borç tahsilatlarını ele alan ve kredi belgelerini takip eden yapay zeka ses temsilcileri tarafından yapılır. Padmanabhuni, gizlilik anlaşmalarını gerekçe göstererek müşterileri belirtmeyi reddetti.",
+    "Padmanabhuni, 12 yaşında makine öğrenimi alanında çalışmaya başladığını ve daha sonra Hindistan'daki Manipal Teknoloji Enstitüsü'nde siber - fiziksel sistemleri (yazılımı fiziksel makinelere bağlayan teknoloji) incelediğini ve burada uluslararası bir öğrenci mühendisliği yarışması olan Formula Student'da Hindistan'ın ilk sürücüsüz yarış arabası bölümü olarak tanımladığı şeyin en genç takım lideri olduğunu söyledi.",
+    "DetectifAI şu ana kadar yatırımcılardan Josh Constine (eski TechCrunch editörü) ve danışmanlık hizmetleri firması KM Growth'un müdürü Manohar Kamath'tan küçük bir tohum miktarı topladı. Kıyafet, TechCrunch'ın editoryal ekibi tarafından 13 -15 Ekim tarihleri arasında San Francisco şehir merkezindeki TechCrunch Disrupt'ta gerçekleşen prestijli Startup Battlefield yarışmasında yarışmak için incelenen girişimlerden biri.",
+    "DetecifAI ve bu yılki yarışmanın bir parçası olan diğer girişimlere göz atmak (ve onları finanse eden kişilerle ağ kurmak) için önümüzdeki ay bize katılın."
+  ],
+  "tags_tr": []
+}

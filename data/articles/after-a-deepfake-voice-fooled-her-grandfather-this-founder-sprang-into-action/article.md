@@ -1,0 +1,31 @@
+# Deepfake bir ses büyükbabasını kandırdıktan sonra, bu kurucu harekete geçti
+
+Çağrı geldiğinde Tarini Padmanabhuni'nin büyükbabası onun erkek kardeşiyle konuştuğuna inanıyordu. Hattın diğer ucundaki ses, kaçırıldığını ve onu geri almanın tek yolunun fidye ödemek olduğunu söyledi. Büyükbabası ödedi, ancak daha sonra kardeşinin tamamen başka bir yerde olduğunu ve hiçbir şeyden habersiz olduğunu öğrendi. Ortaya çıkan ses, yapay zeka tarafından üretilen bir taklitti.
+
+Padmanabhuni, olayla ilgili olarak "Benimle kalan şey para değildi" diyor. "Bunu söylemesinin bir yolu yoktu ."
+
+Bu yaklaşık iki yıl önceydi. Bugün, kurduğu San Francisco merkezli şirket DetectifAI, başkalarının da aynı şekilde kandırılmamasını sağlamayı amaçlıyor.
+
+Bu, eşleşecek bir pazarla büyük ve büyüyen bir sorun. FBI'a göre, Amerikalılar geçen yıl yapay zeka kaynaklı dolandırıcılıklara karşı 2024 'e göre % 24 artışla 900 milyon $' a yakın para kaybetti. 60 yaş ve üstü kişiler, 50 ila 59 yaş arasındakilere göre iki kat daha fazla kayıp verdi.
+
+Reality Defender, Pindrop, Resemble AI, Microsoft Azure AI Content Safety ve Nuance (Microsoft'un da sahibi olduğu) gibi şirketlerden deepfake ses algılama konusunda rekabet sıkıntısı yok. Ancak Padmanabhuni, günümüzün algılama ürünlerinin bulutta uzak sunucularda çalıştığını, bu nedenle telefon üreticilerinin bunları doğrudan cihazlarına kuramadığını ve kişinin savunma yolunda çok az şey bıraktığını söylüyor.
+
+DetectifAI, bazı şirketlerin yaptığı gibi, büyük bulut modellerini bir telefona sığacak şekilde küçültmek yerine, en başından itibaren bir akıllı telefonun işletim sisteminde çalışacak kadar küçük kompakt yapay zeka modelleri tasarladığını söylüyor. Amaç, ses cihazdan hiç çıkmadan aramalar sırasında, sesli mesajlarda ve diğer seslerde bir sesin yapay zeka tarafından üretilip üretilmediğine dair anında bir karar vermektir.
+
+DetectifAI önce telefon üreticilerine satıyor, yazılım araçlarını lisanslıyor, böylece algılama telefonun işletim sisteminin yerleşik bir özelliği olarak gönderilebiliyor. Padmanabhuni'nin analojisi, AT&T'nin orijinal iPhone lansmanındaki rolü, taşıyıcının özel anlaşması onu rakiplerinden ayırdığında: DetectifAI'yi gönderen ilk telefon üreticisinin rakiplerine göre bir avantaj kazanacağını söylüyor.
+
+Ürünün özü, diğer şirketlerin ürünlerine ekleyebileceği ve mevcut kanallar aracılığıyla lisanslanabilen bir kod paketi olan DetectifAI'nin yazılım geliştirme kitidir (SDK). Padmanabhuni, ikincil bir gelir akışının teknolojiyi işletmelere ve dolandırıcılık önleme firmalarına lisanslamaktan geleceğini söylüyor.
+
+Bu arada, Padmanabhuni'ye göre girişimin halihazırda erken geliri var ve Hindistan'daki finans kurumları için ayda 100.000 'den fazla çağrı gerçekleştiriyor. Bu aramalar, her aramada deepfake tespiti ve hoparlör doğrulaması (arayanların iddia ettikleri kişi olduğunu teyit eder) ile borç tahsilatlarını ele alan ve kredi belgelerini takip eden yapay zeka ses temsilcileri tarafından yapılır. Padmanabhuni, gizlilik anlaşmalarını gerekçe göstererek müşterileri belirtmeyi reddetti.
+
+Padmanabhuni, 12 yaşında makine öğrenimi alanında çalışmaya başladığını ve daha sonra Hindistan'daki Manipal Teknoloji Enstitüsü'nde siber - fiziksel sistemleri (yazılımı fiziksel makinelere bağlayan teknoloji) incelediğini ve burada uluslararası bir öğrenci mühendisliği yarışması olan Formula Student'da Hindistan'ın ilk sürücüsüz yarış arabası bölümü olarak tanımladığı şeyin en genç takım lideri olduğunu söyledi.
+
+DetectifAI şu ana kadar yatırımcılardan Josh Constine (eski TechCrunch editörü) ve danışmanlık hizmetleri firması KM Growth'un müdürü Manohar Kamath'tan küçük bir tohum miktarı topladı. Kıyafet, TechCrunch'ın editoryal ekibi tarafından 13 -15 Ekim tarihleri arasında San Francisco şehir merkezindeki TechCrunch Disrupt'ta gerçekleşen prestijli Startup Battlefield yarışmasında yarışmak için incelenen girişimlerden biri.
+
+DetecifAI ve bu yılki yarışmanın bir parçası olan diğer girişimlere göz atmak (ve onları finanse eden kişilerle ağ kurmak) için önümüzdeki ay bize katılın.
+
+---
+
+## Görseller
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/iPhone-call.png)
