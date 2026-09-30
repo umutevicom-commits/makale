@@ -1,0 +1,29 @@
+# Yapay zeka destekli uygulama üreticisi Wabi, mesajlaşma deneyimini bir adım öteye taşıyor
+
+Herkesin uygulama oluşturmak için istemleri kullanmasına izin veren yapay zeka girişimi Wabi, Meta'nın Muse ve Instinct gibi yapay zeka ajanlarına olan talep arttıkça hafif bir dönüş yaşıyor. Şirket bu hafta yaptığı duyuruda, artık bir tür yapay zeka habercisi haline geldiğini, ancak yine de işleri halletmenize yardımcı olacak uygulamalar yapabileceğini duyurdu.
+
+Daha önce yapay zeka şirketi Replika'yı kuran girişimin kurucusu Eugenia Kuyda, Wabi 2.0 'ı "sizin için bir şeyler yapan ve şu anda ihtiyacınız olan arayüzü oluşturan kişisel bir ajan" olarak tanımladı.
+
+Wabi 2.0 ile tanışın: Siz ve arkadaşlarınız için uygulamalar yapan ve işleri halleden yeni bir haberci türü. Ajan dönemi için işletim sistemi geliştiriyoruz – hayatınıza uyum sağlayan, işleri halleden ve önemli insanlar ve şeyler için daha fazla yer açan bir yazılım. Yalnızca davet edin… pic.twitter.com/x9UlzrJSXs
+
+Bu, Wabi'nin orijinal sürümünün sunduğuna benzer, ancak kullanıcıların farklı bir şekilde etkileşime gireceği bir değer önerisidir. Wabi 2.0, kendisini diğer vibe kodlama araçlarına göre konumlandırmak yerine, hem konuşmaları hem de verimlilik görevlerini tek bir arayüzde birleştiren yapay zeka temsilcileriyle daha doğrudan rekabet etmeyi amaçlamaktadır.
+
+Ayrıca, OpenAI ve diğerleri gibi şirketler, uygulamaların daha genelleştirilmiş chatbot kullanıcı arayüzlerinde nasıl çalışacağını düşünürken; örneğin, OpenAI bugün DevDay etkinliğinde ChatGPT'nin eklentilerinde, uygulamaların ChatGPT içinde etkileşimli deneyimler sunmasına ve uygulamanın adının ChatGPT'nin kenar çubuğunda daha görünür bir noktaya sabitlenmesine izin verecek bir güncelleme yaptığını duyurdu.
+
+X'teki bir gönderide Kuyda, Wabi'nin yeni deneyiminin bir temsilciye yazmaktan daha fazlasını yapmak isteyen tüketiciler için nasıl daha anlamlı olacağını açıkladı.
+
+"Yalnızca sohbet eden bir aracıyı ne kadar çok kullanırsanız deneyim o kadar kötüleşir. Geçmişiniz ve devam eden görevleriniz sonsuz bir parşömene gömülür. İnsanlar sadece yazı yazmak istemezler; dokun - dokun - dokun, kaydır ve bak isterler. Temsilcilerin yapabileceklerini seviyorlar ama aynı zamanda yazılımı da seviyorlar" diye yazdı. "En güçlü ajan, her ikisini de birleştiren ajan olacak ."
+
+Buradaki fikir, bir kullanıcı temsilciden bir görevi yerine getirmesini istediğinde, istek ne olursa olsun tamamlanmasına yardımcı olmak için talep üzerine bir kullanıcı arayüzü oluşturabilmesidir. Örneğin, Kuyda, kullanıcıların sağlıkla ilgili konularla ilgili dizisinde erişilebilecek bir kalori takipçisi, bir halter günlüğü ve bir ağırlık takipçisi gibi şeyler oluşturabileceğini öne sürdü.
+
+Aileye odaklanan başka bir başlıkta, kullanıcılar çocukların etkinliklerinin bir takvimini, bir dil öğrenme uygulamasını, yerel çocuk dostu etkinliklere ayak uyduran bir uygulamayı ve ebeveynlik, hane halkı yönetimi veya çocukların ilgi alanlarıyla ilgili diğer şeyleri oluşturabilir.
+
+"Şimdiye kadar kişisel temsilciler bir kişi, bir sohbet ve tek seferlik görevlerden oluşuyordu. Geleceğin ajanınız, uygulamalarınız ve çalışanlarınız olduğunu, hayatın en önemli kısımlarını birlikte yönettiğini düşünüyoruz" diye yazdı.
+
+Yeni Wabi 2.0 uygulaması şu anda yalnızca X'te dağıtılan davet koduyla kullanılabiliyor.
+
+---
+
+## Görseller
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/wabi-20.jpg)

@@ -1,13 +1,33 @@
 [
   {
-    "slug": "after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice",
-    "url": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
+    "slug": "apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say",
+    "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
     "date": "29 September 2026",
-    "fetched_at": "2026-09-29T20:25:00.037917+00:00",
+    "fetched_at": "2026-09-30T00:59:59.467798+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "43200d5c445cc332d832fc5875b943f65085497111989207e904d93d9900fdbf"
+    "content_hash": "382f283bd9bf9cf801e17419786bdda33b6fbb9ba63cf6b9af7a35a7f9c7970f"
+  },
+  {
+    "slug": "ai-powered-app-maker-wabi-pivots-to-a-messaging-experience",
+    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-30T00:59:40.004930+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "ed70c42dbeae0d6645c5c752cdec455752ba71035e09c9de8363611b867b8dae"
+  },
+  {
+    "content_hash": "43200d5c445cc332d832fc5875b943f65085497111989207e904d93d9900fdbf",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T20:25:00.037917+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/"
   },
   {
     "content_hash": "3202123f10f6c5a658ecd19b69add26470b2670c65fad451fcd614a3bf5dbfe6",
