@@ -1,33 +1,43 @@
 [
   {
-    "slug": "amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote",
-    "url": "https://techcrunch.com/2026/09/30/amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote/",
+    "slug": "ai-voice-startup-elevenlabs-doubles-valuation-to-22b",
+    "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+    "date": "30 September 2026",
+    "fetched_at": "2026-10-01T01:02:05.112108+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "bed835430c94109646a01c5f7a4f526ea7abb7a5673b80d23db4bd64f082517e"
+  },
+  {
+    "content_hash": "e922fdabbfe1f587501e356ebda5c8f3e97fc27b137a45dae3c3bb4042c78f9f",
     "date": "30 September 2026",
     "fetched_at": "2026-09-30T20:29:57.057291+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "e922fdabbfe1f587501e356ebda5c8f3e97fc27b137a45dae3c3bb4042c78f9f"
+    "retries": 0,
+    "slug": "amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/30/amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote/"
   },
   {
-    "slug": "airbnb-adds-ai-search-more-social-features",
-    "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+    "content_hash": "315dca51c3e51ec665798f0b8b77b35ab588f4770c8542e31542bf18f3664661",
     "date": "30 September 2026",
     "fetched_at": "2026-09-30T20:29:39.488802+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "315dca51c3e51ec665798f0b8b77b35ab588f4770c8542e31542bf18f3664661"
+    "retries": 0,
+    "slug": "airbnb-adds-ai-search-more-social-features",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/"
   },
   {
-    "slug": "3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2",
-    "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
+    "content_hash": "6d2b7a41cfbc551ac977327821e844cf3b874866476dc2676f0a7851b623c3a1",
     "date": "30 September 2026",
     "fetched_at": "2026-09-30T20:29:11.275260+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "6d2b7a41cfbc551ac977327821e844cf3b874866476dc2676f0a7851b623c3a1"
+    "retries": 0,
+    "slug": "3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/"
   },
   {
     "content_hash": "382f283bd9bf9cf801e17419786bdda33b6fbb9ba63cf6b9af7a35a7f9c7970f",
