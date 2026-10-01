@@ -1,0 +1,49 @@
+{
+  "url": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
+  "slug": "nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions",
+  "title": "Nitter and XCancel are dead (again) after X’s latest legal actions",
+  "news_id": "nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions",
+  "date": "15 September 2026",
+  "author": "Sarah Perez",
+  "tags": [],
+  "body_paragraphs": [
+    "After X threatened legal action last month, Nitter and XCancel, privacy-friendly services for viewing X posts, appear to be officially dead — for real this time.",
+    "Nitter, an open source project that let people read X posts without logging in, had been used to power a number of services, like XCancel and others. But last month, X sent Nitter a cease-and-desist letter over its alleged “unlawful use and circumvention” of X’s API and associated data.",
+    "Essentially, X said that Nitter had scraped the social network’s data to access accounts and session tokens in violation of its rules.",
+    "Despite the threat, Nitter said on its GitHub page that “following legal advice, the Nitter project will continue,” and promised more details would come soon. In early September, both Nitter and XCancel were up and running again after a short pause.",
+    "Unfortunately, things have since changed.",
+    "Nitter’s GitHub page was archived on Friday, September 11, indicating it’s now in read-only status and can no longer be modified or updated. XCancel, meanwhile, shut its service down on Monday, and published a new message on its home page: “Unfortunately, due to a new development in the ongoing legal proceedings, we are required to suspend this service again until further notice.”",
+    "Nitter, which worked by fetching public X posts and then stripping out the ads, tracking cookies, and JavaScript, gave people a clean, clutter-free way to read posts without an account or the social network’s app.",
+    "For X, however, this is not ideal, as it doesn’t want people to access its content without being able to monetize those views with ads. That’s also why Twitter had disallowed third-party apps from accessing its content years ago, wiping out popular services like Twitterrific and Tweetbot along the way.",
+    "This wasn’t X’s first attempt to shut down Nitter, but it seems to have worked. Back in 2024, Nitter’s main instance, Nitter.net, temporarily went offline after X rolled out new API restrictions. After that crackdown, those who wanted to host a Nitter instance had to connect it to a real X account.",
+    "For lurkers, the services’ closures are a bummer, as they had offered a way to view what was happening on X without having to actually participate on X or help it boost its user numbers.",
+    "Nitter did not respond to a request for comment."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/twitter-x-logo-musk-2.jpg",
+      "alt": "X (formerly Twitter) logo on a cracked wall"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/Screenshot-2026-09-15-at-11_02_12-AM.jpg",
+      "alt": ""
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-01T09:01:17.976261+00:00",
+  "title_tr": "Nitter ve XCancel, X'in son yasal işlemlerinden sonra (tekrar) öldü",
+  "body_paragraphs_tr": [
+    "X'in geçen ay yasal işlem başlatma tehdidinde bulunmasının ardından X gönderilerini görüntülemeye yönelik gizlilik dostu hizmetler sunan Nitter ve XCancel, bu sefer gerçekten resmen ölmüş gibi görünüyor.",
+    "İnsanların X gönderilerini oturum açmadan okumasına izin veren açık kaynaklı bir proje olan Nitter, XCancel ve diğerleri gibi bir dizi hizmete güç sağlamak için kullanılmıştı. Ancak geçen ay X, Nitter'a X'in API'sini ve ilgili verileri \"yasa dışı kullandığı ve atlattığı\" iddiasıyla bir durdurma ve vazgeçme mektubu göndermişti.",
+    "Esasen X, Nitter'ın kurallarını ihlal ederek hesaplara ve oturum jetonlarına erişmek için sosyal ağın verilerini kazıdığını söyledi.",
+    "Tehdide rağmen Nitter, GitHub sayfasında \"yasal tavsiyelerin ardından Nitter projesinin devam edeceğini\" söyledi ve daha fazla detayın yakında geleceğine söz verdi. Eylül başında hem Nitter hem de XCancel kısa bir aradan sonra tekrar çalışmaya başlamıştı.",
+    "Maalesef işler değişti. ",
+    "Nitter'ın GitHub sayfası 11 Eylül Cuma günü arşivlendi ve artık salt okunur durumda olduğunu ve artık değiştirilemeyeceğini veya güncellenemeyeceğini belirtti. Bu arada XCancel, pazartesi günü hizmetini kapattı ve ana sayfasında yeni bir mesaj yayınladı: \"Ne yazık ki, devam eden yasal işlemlerdeki yeni bir gelişme nedeniyle, bir sonraki bildirime kadar bu hizmeti tekrar askıya almamız gerekiyor .\"",
+    "Herkese açık X gönderilerini alarak ve ardından reklamları silerek, çerezleri ve JavaScript'i izleyerek çalışan Nitter, insanlara bir hesap veya sosyal ağın uygulaması olmadan gönderileri okumanın temiz ve karmaşık olmayan bir yolunu sundu.",
+    "Ancak X için bu ideal bir durum değil, çünkü insanların içeriğine reklamlarla gelir elde etmeden erişmesini istemiyor. Bu nedenle Twitter, yıllar önce üçüncü taraf uygulamaların içeriğine erişmesini yasaklamış ve bu süreçte Twitterrific ve Tweetbot gibi popüler hizmetleri ortadan kaldırmıştı.",
+    "Bu, X'in Nitter'ı kapatmaya yönelik ilk girişimi değildi ama işe yaramış gibi görünüyor. 2024 'te Nitter'ın ana örneği Nitter.net, X'in yeni API kısıtlamalarını kullanıma sunmasının ardından geçici olarak çevrimdışı oldu. Bu kısıtlamadan sonra, bir Nitter örneğine ev sahipliği yapmak isteyenler bunu gerçek bir X hesabına bağlamak zorunda kaldı.",
+    "X'e gerçekten katılmak veya kullanıcı sayılarını artırmasına yardımcı olmak zorunda kalmadan X'te neler olup bittiğini görmenin bir yolunu sundukları için, gizlenenler için hizmetlerin kapanması bir serseri.",
+    "Nitter yorum talebine yanıt vermedi."
+  ],
+  "tags_tr": []
+}

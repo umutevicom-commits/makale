@@ -1,13 +1,53 @@
 [
   {
-    "slug": "ai-voice-startup-elevenlabs-doubles-valuation-to-22b",
-    "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-    "date": "30 September 2026",
-    "fetched_at": "2026-10-01T01:02:05.112108+00:00",
+    "slug": "north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year",
+    "url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
+    "date": "25 September 2026",
+    "fetched_at": "2026-10-01T09:03:54.335057+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "bed835430c94109646a01c5f7a4f526ea7abb7a5673b80d23db4bd64f082517e"
+    "content_hash": "09b2acb45ee6a82986e2d9e7c6bb7c3a9cb62dcef621c935f06313f227cdf89e"
+  },
+  {
+    "slug": "noise-wants-to-help-everyday-people-become-paid-content-creators",
+    "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+    "date": "16 September 2026",
+    "fetched_at": "2026-10-01T09:02:49.644155+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "ad28aba4d27584f80bb435b9af2f6afdd62afe3442da15e4ce3c861b28c48d99"
+  },
+  {
+    "slug": "noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt",
+    "url": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
+    "date": "22 September 2026",
+    "fetched_at": "2026-10-01T09:02:04.237043+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "f72f4be0f261ddd94aa21ed44197e94f595600740337c39b67e45533f645d807"
+  },
+  {
+    "slug": "nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions",
+    "url": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
+    "date": "15 September 2026",
+    "fetched_at": "2026-10-01T09:01:17.976261+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "412fb85d752d8dcd813aa98f8b7ec2fdd620e6ff8846ae5dec415a5d9e2a8a1d"
+  },
+  {
+    "content_hash": "bed835430c94109646a01c5f7a4f526ea7abb7a5673b80d23db4bd64f082517e",
+    "date": "30 September 2026",
+    "fetched_at": "2026-10-01T01:02:05.112108+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "ai-voice-startup-elevenlabs-doubles-valuation-to-22b",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/"
   },
   {
     "content_hash": "e922fdabbfe1f587501e356ebda5c8f3e97fc27b137a45dae3c3bb4042c78f9f",

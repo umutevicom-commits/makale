@@ -1,0 +1,35 @@
+{
+  "url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
+  "slug": "north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year",
+  "title": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
+  "news_id": "north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year",
+  "date": "25 September 2026",
+  "author": "Zack Whittaker",
+  "tags": [],
+  "body_paragraphs": [
+    "North Korean hackers are suspected of stealing more than $351 million from the servers of cryptocurrency exchange Bitget during a cyberattack on Thursday.",
+    "The cyberattack is the latest in an ongoing spate of high-profile hacks targeting the crypto sector. It’s also the largest known heist of digital currency this year, eclipsing a $340 million hack in September that saw the hacker returning all but $47 million of the stolen funds.",
+    "In a series of posts on X on Thursday and Friday, Bitget said the breach involved the unauthorized transfer of crypto from its hot wallets, which are connected to the internet and designed to be used for active trading. Bitget has since suspended crypto withdrawals on its network. The company said it has $464 million in its user protection fund, which should cover the costs of the theft.",
+    "Bitget chief executive Gracy Chen said the breach and heist was “highly consistent with known patterns of North Korean hacker organizations.” Such collectives have been linked to crypto thefts and have been suspected of targeting open source software to mass-hack victims with the aim of funding the country’s nuclear weapons program.",
+    "According to blockchain intelligence firm TRM Labs, North Korea is behind aro u nd three-quarters of all crypto thefts during 2026 to date.",
+    "Chen did not say when Bitget’s withdrawals would open again."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/ransomware-crypto-gold-Samuil_Levich-getty.jpg",
+      "alt": "gold bitcoin logos featured on spiky-shaped coins on a darkened black background"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-01T09:03:54.335057+00:00",
+  "title_tr": "Kuzey Koreli bilgisayar korsanlarının 351 milyon $ kripto hırsızlığından şüphelenilmesi, bu yıl şimdiye kadarki en büyüğü",
+  "body_paragraphs_tr": [
+    "Kuzey Koreli bilgisayar korsanlarının perşembe günkü bir siber saldırı sırasında kripto para borsası Bitget'in sunucularından 351 milyon $ 'dan fazla para çaldığından şüpheleniliyor.",
+    "Siber saldırı, kripto sektörünü hedef alan yüksek profilli saldırıların en sonuncusu. Aynı zamanda bu yılki bilinen en büyük dijital para soygunu, Eylül ayında 340 milyon $ 'lık bir hack'i gölgede bıraktı ve bilgisayar korsanının çalınan fonların 47 milyon $ hariç tümünü iade ettiğini gördü.",
+    "Bitget, perşembe ve cuma günü X'te yayımladığı bir dizi gönderide, ihlalin internete bağlı ve aktif işlem için kullanılmak üzere tasarlanmış sıcak cüzdanlarından yetkisiz kripto transferini içerdiğini söyledi. Bitget o zamandan beri ağındaki kripto para çekme işlemlerini askıya aldı. Şirket, kullanıcı koruma fonunda hırsızlığın maliyetini karşılayacak 464 milyon $ olduğunu söyledi.",
+    "Bitget CEO'su Gracy Chen, ihlal ve soygunun \"Kuzey Koreli hacker organizasyonlarının bilinen modelleriyle son derece tutarlı olduğunu\" söyledi. \"Bu tür kolektiflerin kripto hırsızlıklarıyla bağlantılı olduğu ve ülkenin nükleer silah programını finanse etmek amacıyla açık kaynaklı yazılımları kitlesel hack mağdurlarına hedef aldığından şüpheleniliyor.",
+    "Blockchain istihbarat firması TRM Labs'e göre, Kuzey Kore 2026 'da bugüne kadarki tüm kripto hırsızlıklarının dörtte üçünün arkasında.",
+    "Chen, Bitget'in para çekme işlemlerinin ne zaman tekrar başlayacağını söylemedi."
+  ],
+  "tags_tr": []
+}
