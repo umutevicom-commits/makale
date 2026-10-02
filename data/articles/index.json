@@ -1,23 +1,23 @@
 [
   {
-    "slug": "amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web",
-    "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+    "content_hash": "6dc65bb31b295f81d12f07aab3de9b57ff97c71ee5494eacf78caac47156928b",
     "date": "01 October 2026",
     "fetched_at": "2026-10-01T22:16:55.424318+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "6dc65bb31b295f81d12f07aab3de9b57ff97c71ee5494eacf78caac47156928b"
+    "retries": 0,
+    "slug": "amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/"
   },
   {
-    "slug": "amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading",
-    "url": "https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/",
+    "content_hash": "1b9dc3f07f3c74747554c8f9421a28a44118d9a565ba01f8b7e1e3bb8c4ae774",
     "date": "01 October 2026",
     "fetched_at": "2026-10-01T22:16:39.077288+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "1b9dc3f07f3c74747554c8f9421a28a44118d9a565ba01f8b7e1e3bb8c4ae774"
+    "retries": 0,
+    "slug": "amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/"
   },
   {
     "content_hash": "09b2acb45ee6a82986e2d9e7c6bb7c3a9cb62dcef621c935f06313f227cdf89e",
