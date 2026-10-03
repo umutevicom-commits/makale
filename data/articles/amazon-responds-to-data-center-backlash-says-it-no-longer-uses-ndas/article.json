@@ -1,0 +1,51 @@
+{
+  "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+  "slug": "amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas",
+  "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+  "news_id": "amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas",
+  "date": "03 October 2026",
+  "author": "Anthony Ha",
+  "tags": [],
+  "body_paragraphs": [
+    "Amazon Web Services CEO Matt Garman said the company has stopped using nondisclosure agreements (NDAs) in its dealings with government agencies as it seeks approval to build new data centers.",
+    "Garman’s statement is just one sentence in a longer blog post in which he tried to push back against widespread suspicion of data centers, and to make the case that they’re actually good for communities.",
+    "NDAs are a significant piece of the broader data center backlash. For example, environmental activist Erin Brockovich recently said that the number one complaint she’s heard about data centers is transparency, with these projects following a common pattern: “projects announced after permits are already secured, developers who don’t return calls, local officials who signed NDAs before their neighbors knew a project was being considered.”",
+    "As a result of that backlash, New York announced a one-year moratorium on permits for large data centers, and according to Garman, there are more than 100 data center moratoriums currently being considered across the United States.",
+    "“If these measures are enacted, the U.S. could be writing its own losing ticket to this race, and the consequences would last generations,” Garman claimed. “As a country, we can’t afford to find ourselves in that position.”",
+    "Garman also attempted to puncture what he said are four big myths around data centers: that they consume too much water, that they increase electricity costs, that they emit an enormous amount of pollution, and that they don’t provide any benefits to their communities.",
+    "Pointing to an Amazon report about its own water usage, Garman said that “direct data center water consumption” only accounts for 0.5% of all industrial water usage in the United States, “orders of magnitude less than golf courses, almond farming, and many other industries.”",
+    "Nvidia recently said its new cooling system eliminates “pretty much all water usage” inside the data center, but those claims — like Amazon’s — seem to ignore the broader water usage involved in electricity generation and chip manufacturing. Scientists have also said they need to study data centers’ water and energy usage independently, since there are no federal or state requirements around how tech companies report this data.",
+    "As for electricity rates, Garman said they’ve only gone up in some states with large numbers of data centers, while they’ve gone down or at least grown more slowly in others. And he argued, “In instances where energy rates are going up, it’s primarily because the grid is old and hasn’t been invested in and expanded before the demand arrived.”",
+    "On the other hand, an independent watchdog said recently data centers were the main culprit behind a 76% year-over-year price increase on America’s largest electrical grid.",
+    "When it comes to pollution — an issue that the NAACP is currently suing Elon Musk’s SpaceX/xAI over — Garman complained that critics focus on the maximum amount of pollution allowed under data center permits. For example, a planned Amazon data center in Texas is permitted to release 33 million tons of carbon dioxide per year, which is more than any other power plant in the United States.",
+    "“The truth is data center generators almost never run,” Garman said. “They’re idle 99.9% of the time (they run roughly 10 hours per year, mostly for required maintenance testing).”",
+    "As for the community benefits, this is where Garman wrote, “We no longer use nondisclosure agreements with the government agencies we work with on our projects.” Plus, he said, “Over the past three years, Amazon has contributed more than $1 billion to communities across the U.S. in which we have a meaningful data center presence.”",
+    "Will this be enough to quell community suspicion? Perhaps not — Anthropic CEO Dario Amodei recently argued that the AI backlash is “fundamentally a crisis of trust, ” where people assume governments and tech companies are always “cooking up some new way to screw them over.” Similarly, writer Jasmine Sun noted that when data center opponents are presented with the tech companies’ arguments, their response is usually, “I don’t believe them.”"
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/GettyImages-2283113936-maller.jpg",
+      "alt": "A sign opposed to AI is held during a protest against AI data centers in Vancouver, British Columbia, Canada, on Saturday, June 27, 2026. Canadians aren't universally sold on building sovereign compute, with early signs of protest against AI server farms in British Columbia and Manitoba. Photographer: Ethan Cairns/Bloomberg via Getty Images"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-03T20:32:09.170720+00:00",
+  "title_tr": "Amazon, veri merkezi tepkisine yanıt veriyor ve artık gizlilik anlaşması kullanmadığını söylüyor",
+  "body_paragraphs_tr": [
+    "Amazon Web Services CEO'su Matt Garman, yeni veri merkezleri inşa etmek için onay isteyen şirketin devlet kurumlarıyla ilişkilerinde gizlilik anlaşmaları (nda) kullanmayı bıraktığını söyledi.",
+    "Garman'ın açıklaması, veri merkezlerinin yaygın şüphesine karşı geri adım atmaya ve topluluklar için gerçekten iyi olduklarını iddia etmeye çalıştığı daha uzun bir blog yazısında sadece bir cümledir.",
+    "Gizlilik sözleşmeleri, daha geniş veri merkezi tepkisinin önemli bir parçasıdır. Örneğin, çevre aktivisti Erin Brockovich kısa süre önce veri merkezleri hakkında duyduğu bir numaralı şikayetin şeffaflık olduğunu söyledi ve bu projeler ortak bir örüntüyü takip ediyor: \"İzinler zaten güvence altına alındıktan sonra ilan edilen projeler, çağrılara cevap vermeyen geliştiriciler, komşuları bir projenin düşünüldüğünü bilmeden önce gizlilik sözleşmelerini imzalayan yerel yetkililer .\"",
+    "Bu tepkinin bir sonucu olarak, New York büyük veri merkezleri için izinler konusunda bir yıllık bir moratoryum ilan etti ve Garman'a göre, şu anda Amerika Birleşik Devletleri'nde kabul edilen 100 'den fazla veri merkezi moratoryumu var.",
+    "Garman, \"Bu önlemler yürürlüğe girerse, ABD bu yarışa kendi kaybeden biletini yazıyor olabilir ve sonuçları nesiller boyu sürebilir\" iddiasında bulundu. \"Ülke olarak kendimizi bu pozisyonda bulmayı göze alamayız .\"",
+    "Garman ayrıca veri merkezleri etrafında dört büyük efsane olduğunu söylediği şeyi delmeye çalıştı: çok fazla su tükettikleri, elektrik maliyetlerini artırdıkları, muazzam miktarda kirlilik yaydıkları ve topluluklarına herhangi bir fayda sağlamadıkları.",
+    "Kendi su kullanımıyla ilgili bir Amazon raporuna işaret eden Garman, \"doğrudan veri merkezi su tüketiminin\" Amerika Birleşik Devletleri'ndeki tüm endüstriyel su kullanımının yalnızca % 0,5 'ini oluşturduğunu, \"golf sahalarından, badem tarımından ve diğer birçok sektörden daha az büyüklükte siparişler\" olduğunu söyledi.",
+    "Nvidia kısa süre önce, yeni soğutma sisteminin veri merkezindeki \"hemen hemen tüm su kullanımını\" ortadan kaldırdığını, ancak Amazon'unki gibi bu iddiaların elektrik üretimi ve çip üretiminde yer alan daha geniş su kullanımını göz ardı ediyor gibi göründüğünü söyledi. Bilim insanları, teknoloji şirketlerinin bu verileri nasıl raporladığına dair herhangi bir federal veya eyalet şartı bulunmadığından, veri merkezlerinin su ve enerji kullanımını bağımsız olarak incelemeleri gerektiğini de söyledi.",
+    "Elektrik fiyatlarına gelince, Garman, sadece çok sayıda veri merkezine sahip bazı eyaletlerde arttıklarını, bazılarında ise azaldıklarını veya en azından daha yavaş büyüdüklerini söyledi. Ve “Enerji oranlarının yükseldiği durumlarda, bunun nedeni öncelikle şebekenin eski olması ve talep gelmeden önce yatırım yapılmaması ve genişletilmemesidir” diye savundu.",
+    "Öte yandan, bağımsız bir gözlemci, son zamanlarda Amerika'nın en büyük elektrik şebekesinde yıllık bazda % 76 'lık bir fiyat artışının arkasındaki ana suçlunun veri merkezleri olduğunu söyledi.",
+    "NAACP'nin şu anda Elon Musk'ın SpaceX/xAI'sini dava ettiği bir konu olan kirlilik söz konusu olduğunda Garman, eleştirmenlerin veri merkezi izinleri kapsamında izin verilen maksimum kirlilik miktarına odaklandığından şikayet etti. Örneğin, Teksas'taki planlı bir Amazon veri merkezinin yılda 33 milyon ton karbondioksit salmasına izin verilir, bu da Amerika Birleşik Devletleri'ndeki diğer tüm enerji santrallerinden daha fazladır.",
+    "Garman, \"Gerçek şu ki veri merkezi jeneratörleri neredeyse hiç çalışmıyor\" dedi. \"Zamanın % 99,9 'unda atıl durumdalar (çoğunlukla gerekli bakım testleri için yılda yaklaşık 10 saat çalışıyorlar ).\"",
+    "Toplumsal faydalara gelince, Garman'ın yazdığı yer burasıdır: “Artık projelerimizde birlikte çalıştığımız devlet kurumlarıyla gizlilik anlaşmaları yapmıyoruz. Ayrıca,\" Son üç yılda Amazon, anlamlı bir veri merkezi varlığına sahip olduğumuz ABD'deki topluluklara 1 milyar $ 'dan fazla katkıda bulundu \"dedi.",
+    "Bu, topluluk şüphesini bastırmak için yeterli olacak mı? Belki de hayır. Anthropic CEO'su Dario Amodei kısa süre önce yapay zeka tepkisinin \"temelde bir güven krizi\" olduğunu savundu. Bu krizde insanlar hükümetlerin ve teknoloji şirketlerinin her zaman \"kendilerini mahvetmek için yeni bir yol uydurduğunu\" varsayıyor. Benzer şekilde, yazar Jasmine Sun, veri merkezi muhaliflerine teknoloji şirketlerinin argümanları sunulduğunda, yanıtlarının genellikle \"Onlara inanmıyorum\" olduğunu belirtti."
+  ],
+  "tags_tr": []
+}

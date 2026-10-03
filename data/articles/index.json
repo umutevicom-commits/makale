@@ -1,13 +1,23 @@
 [
   {
-    "slug": "all-the-ai-agents-that-can-live-in-your-text-messages",
-    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "slug": "amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas",
+    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
     "date": "03 October 2026",
-    "fetched_at": "2026-10-03T17:43:47.658314+00:00",
+    "fetched_at": "2026-10-03T20:32:09.170720+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "627ae19eeb1f2c3569055471ca61ae0f2be7f8937749ae182985d934ef6f94f6"
+    "content_hash": "af627dacfead7843c88fdd5d6fd97146c4d4dd3dc8e4944c4b0b05ad235c54da"
+  },
+  {
+    "content_hash": "627ae19eeb1f2c3569055471ca61ae0f2be7f8937749ae182985d934ef6f94f6",
+    "date": "03 October 2026",
+    "fetched_at": "2026-10-03T17:43:47.658314+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "all-the-ai-agents-that-can-live-in-your-text-messages",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
   },
   {
     "content_hash": "206d561333f575747606966cf92715aea36dd98c2c7098cd0d1f71c18beb2d3b",
