@@ -1,0 +1,199 @@
+{
+  "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+  "slug": "all-the-ai-agents-that-can-live-in-your-text-messages",
+  "title": "All the AI agents that can live in your text messages",
+  "news_id": "all-the-ai-agents-that-can-live-in-your-text-messages",
+  "date": "03 October 2026",
+  "author": "Lauren Forristal",
+  "tags": [],
+  "body_paragraphs": [
+    "Rather than downloading another app, a growing number of agents can simply be texted like an ordinary person.",
+    "You text it what you need, and it can remember context, connect to the apps and services you already use, and complete tasks on your behalf. That can mean scheduling an appointment, organizing a calendar, researching a trip, sending an email, making a reservation, shopping online, or reminding you about something days later.",
+    "While Instinct is one of the buzziest AI agents at present, thanks to its $10 billion valuation after its latest funding round of $1 billion, there are many others also making a play for this space.",
+    "Below are some of the most notable options so far, from general-purpose personal assistants to agents designed for families, travel, and work.",
+    "Caddy is an AI assistant that turns the information scattered across your phone into things you can actually act on. It lives in iMessage for iPhone users and RCS for Android users, so there’s no separate app or inbox to constantly check.",
+    "For instance, an email contains an appointment that needs to be added to your calendar or a friend sends a list of things to pick up. Instead of worrying about all the details getting buried, Caddy connects to your calendars and conversations, then identifies things that may require action. It can add events to your calendar, set reminders, keep track of follow-ups, and even do research for you.",
+    "Caddy has been available in public beta since April 2026.",
+    "Fambot is an AI-powered “chief of staff” for families, designed to bring together the many moving parts of family life, including school communications, sports activities, meal planning, calendars, and other day-to-day responsibilities, and turn them into an organized plan.",
+    "The service is designed to work across both an app and text messages. Fambot is available on iOS devices, Android devices, and the web, and families can also interact with it directly over SMS. Every night, Fambot automatically sends a summary of the following day, including upcoming events, to-dos, and details such as school uniform or packing requirements. Parents can reply to those messages to ask questions, check information, or make changes to their calendar.",
+    "Fambot currently connects to Gmail and Google Calendar, with support for Outlook and Apple Calendar planned for the future.",
+    "The company launched in beta in early September 2026 and has raised $3.5 million in pre-seed funding. The service is currently free during the beta period, but Fambot expects to eventually charge roughly the equivalent of a Netflix subscription.",
+    "Folk is designed to be an AI assistant you can reach through iMessage, WhatsApp, and Telegram. It can remember personal context, manage reminders, research topics, track flights, handle email, and perform real-world tasks such as restaurant reservations.",
+    "One distinction is that Folk runs on its own private cloud computer. It can also run code and execute multi-step tasks rather than merely responding conversationally.",
+    "Folk launched its beta in May 2026, and it’s available for free but also offers a Pro subscription for $8.33/month if you want unlimited tasks running in the background.",
+    "Instinct first made headlines after raising $350 million at a $2.5 billion valuation. In September 2026, it raised $1 billion, valuing it at $10 billion.",
+    "The always-available agent can take actions on your behalf, rather than simply answer questions. Users can communicate with Instinct by text or voice and connect it to the apps and services they already use, such as email, calendar, Google Workspace, and more. The company says early users have used Instinct for tasks ranging from planning trips and buying groceries to booking tickets and cancelling subscriptions.",
+    "In September, Instinct began giving users dedicated email addresses for their assistants. The idea is to let Instinct create and manage accounts on a user’s behalf without filling the user’s personal inbox. The agent can use its address to sign up for services, contact businesses, follow up on requests, and handle tasks that require an email account. (However, this level of autonomy has also raised concerns about privacy and security.) It’s also begun rolling out support for placing calls.",
+    "The company remains in private beta.",
+    "Powered by Hermes agent, Iris is designed to let users delegate tasks to an AI assistant directly through iMessage. Users can connect the apps they use and hand over a task with a simple message. The agent then works through the required steps, while retaining relevant context from previous interactions. It’s also designed to follow up with users proactively rather than waiting for another request.",
+    "Martin is a general-purpose personal assistant reachable through SMS as well as phone, WhatsApp, email, Slack, and its own iOS app.",
+    "It can help manage calendars, email, reminders, tasks, notes, and communications. It can also act on behalf of users by sending messages or making phone calls, while providing daily summaries of what needs attention.",
+    "It’s a bit on the pricier side, with subscriptions starting at $21 per month.",
+    "Miso takes the personal-assistant concept and applies it specifically to travel.",
+    "It operates through iMessage and combines AI trip planning with support from a dedicated travel team. Users can arrange flights through messaging while Miso takes into account their travel preferences, loyalty points, and other priorities. Miso also gives travelers access to trip details, flight updates, along with personalized recommendations.",
+    "Ohai is another family assistant focused on helping households manage the constant stream of information and tasks involved in everyday family life.",
+    "Users can send messages, forward emails, or make voice requests, and the assistant can transform them into schedules, reminders, and plans. It can also coordinate calendars, household chores, and meals across multiple members of a family.",
+    "It includes a free basic option, but also offers different subscriptions based on family size, starting at $9.99 per month.",
+    "Similar to the other family-focused agents, the idea behind Ollie is that families already have the information they need, but it lives across school messages, calendars, task lists, and group chats. Ollie aims to bring those pieces together and keep them in sync. It can keep track of calendars, emails, reminders, tasks, and other household details, then deliver relevant information to users through text.",
+    "Its biggest differentiator from other agents is that Ollie is one of the first mainstream, family-focused AI assistants to achieve SOC 2 compliance, a widely used security standard.",
+    "Launched in June 2026, Ollie offers a free tier, as well as paid plans starting at $25 per month for 150 messages. A $100-per-month plan includes up to 1,000 messages.",
+    "Orbits also has an AI assistant that is focused on the household.",
+    "It works through both the Orbits app and text messaging, and can bring together calendars, lists, and conversations while also carrying out tasks for you. That can include searching the web, making purchases, booking restaurants, changing appointments, and requesting quotes for household services.",
+    "Additionally, Orbits can remind family members about chores, communicate with service providers, and help coordinate responsibilities beyond the immediate household.",
+    "Orbits is backed by investors like Andreessen Horowitz (a16z) Speedrun fund, N49P, and Garage Capital.",
+    "Users can interact with Pally as they would with a friend while giving it access to the apps they already rely on. The assistant can connect information spread across services such as WhatsApp, Gmail, calendars, and Google Drive, helping users keep track of plans, receipts, dates, files, and other details.",
+    "There’s a free plan available, which offers features like 15 minutes of calls per month, or there are paid plans, including $25 per month for 30 minutes of calls and $100 per month for 60 minutes.",
+    "Poke launched in March 2026 as a general-purpose assistant that you can reach through text messaging. It can handle tasks involving calendars, planning, health and fitness, smart-home controls, photos, and other everyday activities.",
+    "Poke became particularly notable in June 2026 when Apple approved Poke as the first AI agent on the Apple Messages for Business platform. A month later, parent company The Interaction Company of California was acquired by AI coding startup Cognition in a deal valued in the low nine figures.",
+    "Rene is an AI personal assistant designed to be a user’s “best contact” rather than another productivity agent. It’s text-based and can turn natural-language conversations into tasks, reminders, summaries, and other follow-up actions. Rene also maintains context across conversations, allowing it to remember details and surface things that may need attention later.",
+    "Additionally, it has a browser, can write code, shop for you, as well as create slides and images.",
+    "Rene is currently available on iMessage, Telegram, and WhatsApp.",
+    "Instead of waiting for users to open an app, Skye is an “ agentic homescreen ” for the iPhone that analyzes information from connected services and surfaces what it thinks is relevant through contextual cards, suggestions, and daily briefings. The assistant can generate audio briefings, prepare information ahead of meetings, surface reminders, and identify potentially useful information.",
+    "The company, Signull Labs, raised about $3.6 million in seed funding in 2025. It entered private testing and beta in April 2026, and hasn’t yet announced a public release date.",
+    "Stanley is an AI content assistant aimed at content creators rather than general personal productivity. Available through iMessage, Telegram, and the web, it acts as a kind of AI head of content, helping users come up with ideas, turn them into posts, and maintain a consistent publishing schedule.",
+    "For instance, Stanley can connect to a user’s Instagram account, using that context to suggest content based on what the user has actually been doing. Users can also send voice notes, which Stanley turns into scripts, captions, and other social assets. It includes a content calendar and can schedule posts, with the broader goal of making content creation a more continuous, automated process rather than something users have to sit down and plan from scratch.",
+    "The biggest differentiator with Tomo ’s personal assistant for iMessage is that, instead of being a private assistant that only you interact with, Tomo can become part of group conversations.",
+    "Also, like other agents, it’s designed to help with goals, accountability, scheduling, and everyday organization. It also has the ability to send reminders, search the web, work with calendars and email, watch videos, and edit photos.",
+    "The basic plan starts at $19.99 per month.",
+    "Town is aimed more at professional life. It gives users a “Townie,” an AI assistant designed to learn how they work and handle recurring professional tasks. It can work with email, calendars, documents, Slack, and other platforms.",
+    "In June 2026, the company raised a $55 million Series A led by Andreessen Horowitz and Forerunner.",
+    "Wajo ’s first consumer agent, Fo, can call businesses, send emails, join group chats, make bookings and purchases, and coordinate with people to complete everyday tasks.",
+    "A key part of Wajo’s approach is giving Fo its own identity. The agent has its own email address, phone number, and payment card, allowing it to interact with businesses without requiring users to hand over their own credentials.",
+    "Notably, when Fo encounters something it cannot handle on its own, Wajo says it can bring in a human assistant to finish the task.",
+    "Fo launched publicly in September 2025 with a free tier, while heavier workloads and custom agents are available through a paid Pro offering."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/gettyimages-673436934-e1790964942865.jpg",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/CaddyAI.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/fambot-app.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/Folk-agent.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/Instinct-assistant.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/Iris-agent.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/Martin-agent.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/miso.jpg",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/ohai-agent.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/ollie-3.jpg",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/Orbits-assistant.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/Pally-AI.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/poke-ai-at-3_04_44-PM-e1790950860170.jpg",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/ReneAI.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/SkyeAIagent.jpg",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/StanleyAI.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/Whatsapp-hero-town.webp",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/Wajo-.png",
+      "alt": ""
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-03T17:43:47.658314+00:00",
+  "title_tr": "Kısa mesajlarınızda yaşayabilen tüm yapay zeka temsilcileri",
+  "body_paragraphs_tr": [
+    "Başka bir uygulama indirmek yerine, giderek artan sayıda aracıya sıradan bir insan gibi mesaj gönderilebilir.",
+    "İhtiyacınız olanı mesajla gönderirsiniz ve bağlamı hatırlayabilir, halihazırda kullandığınız uygulamalara ve hizmetlere bağlanabilir ve görevleri sizin adınıza tamamlayabilir. Bu, bir randevu planlamak, takvim düzenlemek, bir seyahati araştırmak, e - posta göndermek, rezervasyon yapmak, çevrimiçi alışveriş yapmak veya günler sonra size bir şeyi hatırlatmak anlamına gelebilir.",
+    "Instinct şu anda en hareketli yapay zeka ajanlarından biri olsa da, 1 milyar dolarlık son finansman turundan sonra 10 milyar dolarlık değerlemesi sayesinde, bu alan için oyun oynayan birçok kişi var.",
+    "Aşağıda, genel amaçlı kişisel asistanlardan aileler, seyahat ve iş için tasarlanmış acentelere kadar şimdiye kadarki en önemli seçeneklerden bazıları bulunmaktadır.",
+    "Caddy, telefonunuza dağılan bilgileri gerçekten harekete geçebileceğiniz şeylere dönüştüren bir yapay zeka asistanıdır. iPhone kullanıcıları için iMessage ve Android kullanıcıları için RCS'de bulunur, bu nedenle sürekli kontrol edilecek ayrı bir uygulama veya gelen kutusu yoktur.",
+    "Örneğin, bir e - posta takviminize eklenmesi gereken bir randevu içerir veya bir arkadaşınız alınması gereken şeylerin bir listesini gönderir. Caddy, gömülen tüm ayrıntılar hakkında endişelenmek yerine takvimlerinize ve konuşmalarınıza bağlanır, ardından işlem gerektirebilecek şeyleri tanımlar. Takviminize etkinlikler ekleyebilir, hatırlatıcılar ayarlayabilir, takipleri takip edebilir ve hatta sizin için araştırma yapabilir.",
+    "Caddy, Nisan 2026 'dan beri genel beta sürümünde mevcuttur.",
+    "Fambot, okul iletişimi, spor faaliyetleri, yemek planlaması, takvimler ve diğer günlük sorumluluklar dahil olmak üzere aile hayatının birçok hareketli parçasını bir araya getirmek ve bunları organize bir plana dönüştürmek için tasarlanmış, aileler için yapay zeka destekli bir \"personel şefidir \".",
+    "Hizmet, hem bir uygulamada hem de kısa mesajlarda çalışacak şekilde tasarlanmıştır. Fambot, iOS cihazlarda, Android cihazlarda ve web'de kullanılabilir ve aileler de SMS yoluyla doğrudan etkileşime girebilir. Fambot her gece, yaklaşan etkinlikler, yapılacak işler ve okul üniforması veya paketleme gereksinimleri gibi ayrıntılar da dahil olmak üzere bir sonraki günün bir özetini otomatik olarak gönderir. Ebeveynler soru sormak, bilgileri kontrol etmek veya takvimlerinde değişiklik yapmak için bu mesajları yanıtlayabilir.",
+    "Fambot şu anda Gmail ve Google Takvim'e bağlanıyor ve Outlook ve Apple Takvim desteği gelecek için planlanıyor.",
+    "Şirket, Eylül 2026 'nın başlarında beta sürümünü başlattı ve tohum öncesi finansmanda 3,5 milyon $ topladı. Hizmet şu anda beta döneminde ücretsiz, ancak Fambot sonunda kabaca bir Netflix aboneliğine eşdeğer ücret almayı bekliyor.",
+    "Folk, iMessage, WhatsApp ve Telegram aracılığıyla ulaşabileceğiniz bir yapay zeka asistanı olarak tasarlanmıştır. Kişisel bağlamı hatırlayabilir, hatırlatıcıları yönetebilir, konuları araştırabilir, uçuşları takip edebilir, e - postaları ele alabilir ve restoran rezervasyonları gibi gerçek dünyadaki görevleri gerçekleştirebilir.",
+    "Bir fark, Folk'un kendi özel bulut bilgisayarında çalışmasıdır. Ayrıca, yalnızca konuşarak yanıt vermek yerine kodu çalıştırabilir ve çok adımlı görevleri yürütebilir.",
+    "Folk, beta sürümünü Mayıs 2026 'da başlattı ve ücretsiz olarak sunuluyor, ancak arka planda sınırsız görev çalıştırmak istiyorsanız aylık 8,33 $ karşılığında bir Pro aboneliği de sunuyor.",
+    "Instinct, ilk olarak 2,5 milyar $ değerlemeyle 350 milyon $ topladıktan sonra manşetlere çıktı. Eylül 2026 'da, 10 milyar $ değerinde 1 milyar $ topladı.",
+    "Her zaman müsait olan temsilci, sadece soruları cevaplamak yerine sizin adınıza harekete geçebilir. Kullanıcılar Instinct ile metin veya sesle iletişim kurabilir ve onu e - posta, takvim, Google Workspace ve daha fazlası gibi halihazırda kullandıkları uygulamalara ve hizmetlere bağlayabilir. Şirket, ilk kullanıcıların seyahat planlamaktan market alışverişi yapmaya, bilet rezervasyonu yapmaktan abonelikleri iptal etmeye kadar çeşitli görevler için Instinct'i kullandığını söylüyor.",
+    "Eylül ayında Instinct, kullanıcılara yardımcıları için özel e - posta adresleri vermeye başladı. Buradaki fikir, Instinct'in kullanıcının kişisel gelen kutusunu doldurmadan bir kullanıcı adına hesap oluşturmasına ve yönetmesine izin vermektir. Temsilci, hizmetlere kaydolmak, işletmelerle iletişime geçmek, talepleri takip etmek ve e - posta hesabı gerektiren görevleri yerine getirmek için adresini kullanabilir. (Bununla birlikte, bu özerklik düzeyi gizlilik ve güvenlikle ilgili endişeleri de beraberinde getirmiştir.) Ayrıca çağrı yapma desteğini de sunmaya başladı.",
+    "Şirket özel beta aşamasındadır.",
+    "Hermes aracısı tarafından desteklenen IRIS, kullanıcıların görevleri doğrudan iMessage aracılığıyla bir yapay zeka asistanına devretmelerine izin vermek için tasarlanmıştır. Kullanıcılar kullandıkları uygulamaları bağlayabilir ve basit bir mesajla bir görevi teslim edebilirler. Temsilci daha sonra önceki etkileşimlerden ilgili bağlamı korurken gerekli adımlar üzerinde çalışır. Ayrıca, başka bir istek beklemek yerine kullanıcıları proaktif olarak takip etmek için tasarlanmıştır.",
+    "Martin, SMS, telefon, WhatsApp, e - posta, Slack ve kendi iOS uygulaması aracılığıyla erişilebilen genel amaçlı bir kişisel asistandır.",
+    "Takvimleri, e - postaları, hatırlatıcıları, görevleri, notları ve iletişimleri yönetmeye yardımcı olabilir. Ayrıca, dikkat edilmesi gerekenlerin günlük özetlerini sağlarken, mesaj göndererek veya telefon görüşmeleri yaparak kullanıcılar adına da hareket edebilir.",
+    "Abonelikler aylık 21 $ 'dan başlayan fiyatlarla biraz daha pahalı.",
+    "Miso, kişisel asistan kavramını alır ve özellikle seyahate uygular.",
+    "IMessage aracılığıyla çalışır ve yapay zeka seyahat planlamasını özel bir seyahat ekibinin desteğiyle birleştirir. Miso seyahat tercihlerini, sadakat puanlarını ve diğer önceliklerini dikkate alırken, kullanıcılar mesajlaşma yoluyla uçuş ayarlayabilirler. Miso ayrıca seyahatseverlere seyahat ayrıntılarına, uçuş güncellemelerine ve kişiselleştirilmiş önerilere erişim sağlar.",
+    "Ohai, hanelerin günlük aile yaşamında yer alan sürekli bilgi ve görev akışını yönetmesine yardımcı olmaya odaklanan başka bir aile asistanıdır.",
+    "Kullanıcılar mesaj gönderebilir, e - posta iletebilir veya sesli taleplerde bulunabilir ve asistan bunları programlara, hatırlatıcılara ve planlara dönüştürebilir. Ayrıca, bir ailenin birden fazla üyesi arasında takvimleri, ev işlerini ve yemekleri koordine edebilir.",
+    "Ücretsiz bir temel seçenek içerir, ancak aynı zamanda aile büyüklüğüne göre aylık 9,99 $ 'dan başlayan farklı abonelikler de sunar.",
+    "Diğer aile odaklı ajanlara benzer şekilde, Ollie'nin arkasındaki fikir, ailelerin zaten ihtiyaç duydukları bilgilere sahip olmaları, ancak okul mesajları, takvimler, görev listeleri ve grup sohbetleri arasında yaşamalarıdır. Ollie bu parçaları bir araya getirmeyi ve senkronize tutmayı hedefliyor. Takvimleri, e - postaları, hatırlatıcıları, görevleri ve diğer ev ayrıntılarını takip edebilir, ardından ilgili bilgileri kullanıcılara metin yoluyla iletebilir.",
+    "Ollie'nin diğer ajanlardan en büyük farkı, yaygın olarak kullanılan bir güvenlik standardı olan SOC 2 uyumluluğunu sağlayan ilk ana akım, aile odaklı AI asistanlarından biri olmasıdır.",
+    "Haziran 2026 'da piyasaya sürülen Ollie, 150 mesaj için aylık 25 $' dan başlayan ücretli planların yanı sıra ücretsiz bir seviye de sunuyor. Aylık 100 $ tutarındaki bir plan 1.000 'e kadar mesaj içerir.",
+    "Orbits ayrıca hane halkına odaklanan bir yapay zeka asistanına sahiptir.",
+    "Hem Orbits uygulaması hem de kısa mesaj aracılığıyla çalışır ve sizin için görevleri yerine getirirken takvimleri, listeleri ve konuşmaları bir araya getirebilir. Bu, internette arama yapmayı, alışveriş yapmayı, restoran rezervasyonu yapmayı, randevuları değiştirmeyi ve ev hizmetleri için fiyat teklifi talep etmeyi içerebilir.",
+    "Ek olarak, Orbits aile üyelerine ev işlerini hatırlatabilir, hizmet sağlayıcılarla iletişim kurabilir ve yakın hane halkının ötesindeki sorumlulukları koordine etmeye yardımcı olabilir.",
+    "Orbits, Andreessen Horowitz (a16z) Speedrun fonu, N49P ve Garage Capital gibi yatırımcılar tarafından desteklenmektedir.",
+    "Kullanıcılar, zaten güvendikleri uygulamalara erişim sağlarken Pally ile bir arkadaşlarıyla olduğu gibi etkileşime girebilirler. Asistan, WhatsApp, Gmail, takvimler ve Google Drive gibi hizmetlere yayılan bilgileri bağlayarak kullanıcıların planları, makbuzları, tarihleri, dosyaları ve diğer ayrıntıları takip etmesine yardımcı olabilir.",
+    "Ayda 15 dakikalık arama gibi özellikler sunan ücretsiz bir plan veya 30 dakikalık aramalar için ayda 25 $ ve 60 dakika için ayda 100 $ olmak üzere ücretli planlar vardır.",
+    "Poke, kısa mesaj yoluyla ulaşabileceğiniz genel amaçlı bir asistan olarak Mart 2026 'da piyasaya sürüldü. Takvimler, planlama, sağlık ve zindelik, akıllı ev kontrolleri, fotoğraflar ve diğer günlük etkinlikleri içeren görevleri yerine getirebilir.",
+    "Poke, Apple'ın Apple Messages for Business platformundaki ilk yapay zeka temsilcisi olarak Poke'u onayladığı Haziran 2026 'da özellikle dikkat çekici hale geldi. Bir ay sonra, ana şirket The Interaction Company of California, yapay zeka kodlama girişimi Cognition tarafından düşük dokuz haneli bir anlaşma ile satın alındı.",
+    "Rene, başka bir üretkenlik aracısından ziyade bir kullanıcının \"en iyi teması\" olacak şekilde tasarlanmış bir yapay zeka kişisel asistanıdır. Metin tabanlıdır ve doğal dil konuşmalarını görevlere, hatırlatıcılara, özetlere ve diğer takip eylemlerine dönüştürebilir. Rene ayrıca konuşmalar arasında bağlamı koruyarak ayrıntıları hatırlamasını ve daha sonra dikkat edilmesi gerekebilecek şeyleri ortaya çıkarmasını sağlar.",
+    "Ek olarak, bir tarayıcıya sahiptir, kod yazabilir, sizin için alışveriş yapabilir, ayrıca slaytlar ve resimler oluşturabilir.",
+    "Rene şu anda iMessage, Telegram ve WhatsApp'ta mevcuttur.",
+    "Skye, kullanıcıların bir uygulamayı açmasını beklemek yerine, iPhone için bağlı hizmetlerden gelen bilgileri analiz eden ve bağlamsal kartlar, öneriler ve günlük brifingler yoluyla alakalı olduğunu düşündüğü şeyleri ortaya çıkaran bir \" aracı ana ekranıdır \". Asistan, sesli brifingler oluşturabilir, toplantılardan önce bilgi hazırlayabilir, hatırlatıcıları ortaya çıkarabilir ve potansiyel olarak yararlı bilgileri belirleyebilir.",
+    "Signull Labs adlı şirket, 2025 'te yaklaşık 3,6 milyon $ tohum fonu topladı. Nisan 2026' da özel testlere ve beta sürümüne girdi ve henüz kamuya açık bir çıkış tarihi açıklamadı.",
+    "Stanley, genel kişisel üretkenlikten ziyade içerik oluşturuculara yönelik bir yapay zeka içerik asistanıdır. iMessage, Telegram ve web üzerinden erişilebilen, kullanıcıların fikir üretmelerine, yayınlara dönüştürmelerine ve tutarlı bir yayınlama programı sürdürmelerine yardımcı olan bir tür yapay zeka içerik başkanı görevi görür.",
+    "Örneğin, Stanley, kullanıcının gerçekte ne yaptığına bağlı olarak içerik önermek için bu bağlamı kullanarak bir kullanıcının Instagram hesabına bağlanabilir. Kullanıcılar ayrıca Stanley'nin komut dosyalarına, alt yazılara ve diğer sosyal varlıklara dönüştürdüğü sesli notlar da gönderebilir. Bir içerik takvimi içerir ve içerik oluşturmayı kullanıcıların oturması ve sıfırdan planlaması gereken bir şey yerine daha sürekli, otomatik bir süreç haline getirmek gibi daha geniş bir hedefle gönderileri zamanlayabilir.",
+    "Tomo'nun iMessage için kişisel asistanı ile en büyük fark, yalnızca sizin etkileşimde bulunduğunuz özel bir asistan olmak yerine, Tomo'nun grup sohbetlerinin bir parçası olabilmesidir.",
+    "Ayrıca, diğer aracılar gibi, hedeflere, hesap verebilirliğe, programlamaya ve günlük organizasyona yardımcı olmak için tasarlanmıştır. Ayrıca hatırlatıcı gönderme, web'de arama yapma, takvimler ve e - posta ile çalışma, video izleme ve fotoğrafları düzenleme yeteneğine de sahiptir.",
+    "Temel plan aylık 19,99 $ 'dan başlıyor.",
+    "Kasaba daha çok meslek hayatına yöneliktir. Kullanıcılara, nasıl çalıştıklarını ve yinelenen profesyonel görevleri nasıl yerine getirdiklerini öğrenmek için tasarlanmış bir yapay zeka asistanı olan bir \"Townie\" veriyor. E - posta, takvimler, belgeler, Slack ve diğer platformlarla çalışabilir.",
+    "Haziran 2026 'da şirket, Andreessen Horowitz ve Forerunner liderliğinde 55 milyon $ A Serisi topladı.",
+    "Wajo'nun ilk tüketici temsilcisi Fo, işletmeleri arayabilir, e - posta gönderebilir, grup sohbetlerine katılabilir, rezervasyon ve satın alma işlemleri yapabilir ve günlük görevleri tamamlamak için insanlarla koordinasyon sağlayabilir.",
+    "Wajo'nun yaklaşımının önemli bir parçası Fo'ya kendi kimliğini vermektir. Temsilcinin kendi e - posta adresi, telefon numarası ve ödeme kartı vardır, bu da kullanıcıların kendi kimlik bilgilerini vermelerini gerektirmeden işletmelerle etkileşime girmesine olanak tanır.",
+    "Özellikle, Fo kendi başına üstesinden gelemeyeceği bir şeyle karşılaştığında, Wajo görevi tamamlamak için bir insan asistan getirebileceğini söylüyor.",
+    "Fo, Eylül 2025 'te ücretsiz bir katmanla halka açık olarak başlatılırken, ücretli bir Pro teklifi aracılığıyla daha ağır iş yükleri ve özel acenteler mevcuttur."
+  ],
+  "tags_tr": []
+}

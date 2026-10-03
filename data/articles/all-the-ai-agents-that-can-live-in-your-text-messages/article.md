@@ -1,0 +1,149 @@
+# Kısa mesajlarınızda yaşayabilen tüm yapay zeka temsilcileri
+
+Başka bir uygulama indirmek yerine, giderek artan sayıda aracıya sıradan bir insan gibi mesaj gönderilebilir.
+
+İhtiyacınız olanı mesajla gönderirsiniz ve bağlamı hatırlayabilir, halihazırda kullandığınız uygulamalara ve hizmetlere bağlanabilir ve görevleri sizin adınıza tamamlayabilir. Bu, bir randevu planlamak, takvim düzenlemek, bir seyahati araştırmak, e - posta göndermek, rezervasyon yapmak, çevrimiçi alışveriş yapmak veya günler sonra size bir şeyi hatırlatmak anlamına gelebilir.
+
+Instinct şu anda en hareketli yapay zeka ajanlarından biri olsa da, 1 milyar dolarlık son finansman turundan sonra 10 milyar dolarlık değerlemesi sayesinde, bu alan için oyun oynayan birçok kişi var.
+
+Aşağıda, genel amaçlı kişisel asistanlardan aileler, seyahat ve iş için tasarlanmış acentelere kadar şimdiye kadarki en önemli seçeneklerden bazıları bulunmaktadır.
+
+Caddy, telefonunuza dağılan bilgileri gerçekten harekete geçebileceğiniz şeylere dönüştüren bir yapay zeka asistanıdır. iPhone kullanıcıları için iMessage ve Android kullanıcıları için RCS'de bulunur, bu nedenle sürekli kontrol edilecek ayrı bir uygulama veya gelen kutusu yoktur.
+
+Örneğin, bir e - posta takviminize eklenmesi gereken bir randevu içerir veya bir arkadaşınız alınması gereken şeylerin bir listesini gönderir. Caddy, gömülen tüm ayrıntılar hakkında endişelenmek yerine takvimlerinize ve konuşmalarınıza bağlanır, ardından işlem gerektirebilecek şeyleri tanımlar. Takviminize etkinlikler ekleyebilir, hatırlatıcılar ayarlayabilir, takipleri takip edebilir ve hatta sizin için araştırma yapabilir.
+
+Caddy, Nisan 2026 'dan beri genel beta sürümünde mevcuttur.
+
+Fambot, okul iletişimi, spor faaliyetleri, yemek planlaması, takvimler ve diğer günlük sorumluluklar dahil olmak üzere aile hayatının birçok hareketli parçasını bir araya getirmek ve bunları organize bir plana dönüştürmek için tasarlanmış, aileler için yapay zeka destekli bir "personel şefidir ".
+
+Hizmet, hem bir uygulamada hem de kısa mesajlarda çalışacak şekilde tasarlanmıştır. Fambot, iOS cihazlarda, Android cihazlarda ve web'de kullanılabilir ve aileler de SMS yoluyla doğrudan etkileşime girebilir. Fambot her gece, yaklaşan etkinlikler, yapılacak işler ve okul üniforması veya paketleme gereksinimleri gibi ayrıntılar da dahil olmak üzere bir sonraki günün bir özetini otomatik olarak gönderir. Ebeveynler soru sormak, bilgileri kontrol etmek veya takvimlerinde değişiklik yapmak için bu mesajları yanıtlayabilir.
+
+Fambot şu anda Gmail ve Google Takvim'e bağlanıyor ve Outlook ve Apple Takvim desteği gelecek için planlanıyor.
+
+Şirket, Eylül 2026 'nın başlarında beta sürümünü başlattı ve tohum öncesi finansmanda 3,5 milyon $ topladı. Hizmet şu anda beta döneminde ücretsiz, ancak Fambot sonunda kabaca bir Netflix aboneliğine eşdeğer ücret almayı bekliyor.
+
+Folk, iMessage, WhatsApp ve Telegram aracılığıyla ulaşabileceğiniz bir yapay zeka asistanı olarak tasarlanmıştır. Kişisel bağlamı hatırlayabilir, hatırlatıcıları yönetebilir, konuları araştırabilir, uçuşları takip edebilir, e - postaları ele alabilir ve restoran rezervasyonları gibi gerçek dünyadaki görevleri gerçekleştirebilir.
+
+Bir fark, Folk'un kendi özel bulut bilgisayarında çalışmasıdır. Ayrıca, yalnızca konuşarak yanıt vermek yerine kodu çalıştırabilir ve çok adımlı görevleri yürütebilir.
+
+Folk, beta sürümünü Mayıs 2026 'da başlattı ve ücretsiz olarak sunuluyor, ancak arka planda sınırsız görev çalıştırmak istiyorsanız aylık 8,33 $ karşılığında bir Pro aboneliği de sunuyor.
+
+Instinct, ilk olarak 2,5 milyar $ değerlemeyle 350 milyon $ topladıktan sonra manşetlere çıktı. Eylül 2026 'da, 10 milyar $ değerinde 1 milyar $ topladı.
+
+Her zaman müsait olan temsilci, sadece soruları cevaplamak yerine sizin adınıza harekete geçebilir. Kullanıcılar Instinct ile metin veya sesle iletişim kurabilir ve onu e - posta, takvim, Google Workspace ve daha fazlası gibi halihazırda kullandıkları uygulamalara ve hizmetlere bağlayabilir. Şirket, ilk kullanıcıların seyahat planlamaktan market alışverişi yapmaya, bilet rezervasyonu yapmaktan abonelikleri iptal etmeye kadar çeşitli görevler için Instinct'i kullandığını söylüyor.
+
+Eylül ayında Instinct, kullanıcılara yardımcıları için özel e - posta adresleri vermeye başladı. Buradaki fikir, Instinct'in kullanıcının kişisel gelen kutusunu doldurmadan bir kullanıcı adına hesap oluşturmasına ve yönetmesine izin vermektir. Temsilci, hizmetlere kaydolmak, işletmelerle iletişime geçmek, talepleri takip etmek ve e - posta hesabı gerektiren görevleri yerine getirmek için adresini kullanabilir. (Bununla birlikte, bu özerklik düzeyi gizlilik ve güvenlikle ilgili endişeleri de beraberinde getirmiştir.) Ayrıca çağrı yapma desteğini de sunmaya başladı.
+
+Şirket özel beta aşamasındadır.
+
+Hermes aracısı tarafından desteklenen IRIS, kullanıcıların görevleri doğrudan iMessage aracılığıyla bir yapay zeka asistanına devretmelerine izin vermek için tasarlanmıştır. Kullanıcılar kullandıkları uygulamaları bağlayabilir ve basit bir mesajla bir görevi teslim edebilirler. Temsilci daha sonra önceki etkileşimlerden ilgili bağlamı korurken gerekli adımlar üzerinde çalışır. Ayrıca, başka bir istek beklemek yerine kullanıcıları proaktif olarak takip etmek için tasarlanmıştır.
+
+Martin, SMS, telefon, WhatsApp, e - posta, Slack ve kendi iOS uygulaması aracılığıyla erişilebilen genel amaçlı bir kişisel asistandır.
+
+Takvimleri, e - postaları, hatırlatıcıları, görevleri, notları ve iletişimleri yönetmeye yardımcı olabilir. Ayrıca, dikkat edilmesi gerekenlerin günlük özetlerini sağlarken, mesaj göndererek veya telefon görüşmeleri yaparak kullanıcılar adına da hareket edebilir.
+
+Abonelikler aylık 21 $ 'dan başlayan fiyatlarla biraz daha pahalı.
+
+Miso, kişisel asistan kavramını alır ve özellikle seyahate uygular.
+
+IMessage aracılığıyla çalışır ve yapay zeka seyahat planlamasını özel bir seyahat ekibinin desteğiyle birleştirir. Miso seyahat tercihlerini, sadakat puanlarını ve diğer önceliklerini dikkate alırken, kullanıcılar mesajlaşma yoluyla uçuş ayarlayabilirler. Miso ayrıca seyahatseverlere seyahat ayrıntılarına, uçuş güncellemelerine ve kişiselleştirilmiş önerilere erişim sağlar.
+
+Ohai, hanelerin günlük aile yaşamında yer alan sürekli bilgi ve görev akışını yönetmesine yardımcı olmaya odaklanan başka bir aile asistanıdır.
+
+Kullanıcılar mesaj gönderebilir, e - posta iletebilir veya sesli taleplerde bulunabilir ve asistan bunları programlara, hatırlatıcılara ve planlara dönüştürebilir. Ayrıca, bir ailenin birden fazla üyesi arasında takvimleri, ev işlerini ve yemekleri koordine edebilir.
+
+Ücretsiz bir temel seçenek içerir, ancak aynı zamanda aile büyüklüğüne göre aylık 9,99 $ 'dan başlayan farklı abonelikler de sunar.
+
+Diğer aile odaklı ajanlara benzer şekilde, Ollie'nin arkasındaki fikir, ailelerin zaten ihtiyaç duydukları bilgilere sahip olmaları, ancak okul mesajları, takvimler, görev listeleri ve grup sohbetleri arasında yaşamalarıdır. Ollie bu parçaları bir araya getirmeyi ve senkronize tutmayı hedefliyor. Takvimleri, e - postaları, hatırlatıcıları, görevleri ve diğer ev ayrıntılarını takip edebilir, ardından ilgili bilgileri kullanıcılara metin yoluyla iletebilir.
+
+Ollie'nin diğer ajanlardan en büyük farkı, yaygın olarak kullanılan bir güvenlik standardı olan SOC 2 uyumluluğunu sağlayan ilk ana akım, aile odaklı AI asistanlarından biri olmasıdır.
+
+Haziran 2026 'da piyasaya sürülen Ollie, 150 mesaj için aylık 25 $' dan başlayan ücretli planların yanı sıra ücretsiz bir seviye de sunuyor. Aylık 100 $ tutarındaki bir plan 1.000 'e kadar mesaj içerir.
+
+Orbits ayrıca hane halkına odaklanan bir yapay zeka asistanına sahiptir.
+
+Hem Orbits uygulaması hem de kısa mesaj aracılığıyla çalışır ve sizin için görevleri yerine getirirken takvimleri, listeleri ve konuşmaları bir araya getirebilir. Bu, internette arama yapmayı, alışveriş yapmayı, restoran rezervasyonu yapmayı, randevuları değiştirmeyi ve ev hizmetleri için fiyat teklifi talep etmeyi içerebilir.
+
+Ek olarak, Orbits aile üyelerine ev işlerini hatırlatabilir, hizmet sağlayıcılarla iletişim kurabilir ve yakın hane halkının ötesindeki sorumlulukları koordine etmeye yardımcı olabilir.
+
+Orbits, Andreessen Horowitz (a16z) Speedrun fonu, N49P ve Garage Capital gibi yatırımcılar tarafından desteklenmektedir.
+
+Kullanıcılar, zaten güvendikleri uygulamalara erişim sağlarken Pally ile bir arkadaşlarıyla olduğu gibi etkileşime girebilirler. Asistan, WhatsApp, Gmail, takvimler ve Google Drive gibi hizmetlere yayılan bilgileri bağlayarak kullanıcıların planları, makbuzları, tarihleri, dosyaları ve diğer ayrıntıları takip etmesine yardımcı olabilir.
+
+Ayda 15 dakikalık arama gibi özellikler sunan ücretsiz bir plan veya 30 dakikalık aramalar için ayda 25 $ ve 60 dakika için ayda 100 $ olmak üzere ücretli planlar vardır.
+
+Poke, kısa mesaj yoluyla ulaşabileceğiniz genel amaçlı bir asistan olarak Mart 2026 'da piyasaya sürüldü. Takvimler, planlama, sağlık ve zindelik, akıllı ev kontrolleri, fotoğraflar ve diğer günlük etkinlikleri içeren görevleri yerine getirebilir.
+
+Poke, Apple'ın Apple Messages for Business platformundaki ilk yapay zeka temsilcisi olarak Poke'u onayladığı Haziran 2026 'da özellikle dikkat çekici hale geldi. Bir ay sonra, ana şirket The Interaction Company of California, yapay zeka kodlama girişimi Cognition tarafından düşük dokuz haneli bir anlaşma ile satın alındı.
+
+Rene, başka bir üretkenlik aracısından ziyade bir kullanıcının "en iyi teması" olacak şekilde tasarlanmış bir yapay zeka kişisel asistanıdır. Metin tabanlıdır ve doğal dil konuşmalarını görevlere, hatırlatıcılara, özetlere ve diğer takip eylemlerine dönüştürebilir. Rene ayrıca konuşmalar arasında bağlamı koruyarak ayrıntıları hatırlamasını ve daha sonra dikkat edilmesi gerekebilecek şeyleri ortaya çıkarmasını sağlar.
+
+Ek olarak, bir tarayıcıya sahiptir, kod yazabilir, sizin için alışveriş yapabilir, ayrıca slaytlar ve resimler oluşturabilir.
+
+Rene şu anda iMessage, Telegram ve WhatsApp'ta mevcuttur.
+
+Skye, kullanıcıların bir uygulamayı açmasını beklemek yerine, iPhone için bağlı hizmetlerden gelen bilgileri analiz eden ve bağlamsal kartlar, öneriler ve günlük brifingler yoluyla alakalı olduğunu düşündüğü şeyleri ortaya çıkaran bir " aracı ana ekranıdır ". Asistan, sesli brifingler oluşturabilir, toplantılardan önce bilgi hazırlayabilir, hatırlatıcıları ortaya çıkarabilir ve potansiyel olarak yararlı bilgileri belirleyebilir.
+
+Signull Labs adlı şirket, 2025 'te yaklaşık 3,6 milyon $ tohum fonu topladı. Nisan 2026' da özel testlere ve beta sürümüne girdi ve henüz kamuya açık bir çıkış tarihi açıklamadı.
+
+Stanley, genel kişisel üretkenlikten ziyade içerik oluşturuculara yönelik bir yapay zeka içerik asistanıdır. iMessage, Telegram ve web üzerinden erişilebilen, kullanıcıların fikir üretmelerine, yayınlara dönüştürmelerine ve tutarlı bir yayınlama programı sürdürmelerine yardımcı olan bir tür yapay zeka içerik başkanı görevi görür.
+
+Örneğin, Stanley, kullanıcının gerçekte ne yaptığına bağlı olarak içerik önermek için bu bağlamı kullanarak bir kullanıcının Instagram hesabına bağlanabilir. Kullanıcılar ayrıca Stanley'nin komut dosyalarına, alt yazılara ve diğer sosyal varlıklara dönüştürdüğü sesli notlar da gönderebilir. Bir içerik takvimi içerir ve içerik oluşturmayı kullanıcıların oturması ve sıfırdan planlaması gereken bir şey yerine daha sürekli, otomatik bir süreç haline getirmek gibi daha geniş bir hedefle gönderileri zamanlayabilir.
+
+Tomo'nun iMessage için kişisel asistanı ile en büyük fark, yalnızca sizin etkileşimde bulunduğunuz özel bir asistan olmak yerine, Tomo'nun grup sohbetlerinin bir parçası olabilmesidir.
+
+Ayrıca, diğer aracılar gibi, hedeflere, hesap verebilirliğe, programlamaya ve günlük organizasyona yardımcı olmak için tasarlanmıştır. Ayrıca hatırlatıcı gönderme, web'de arama yapma, takvimler ve e - posta ile çalışma, video izleme ve fotoğrafları düzenleme yeteneğine de sahiptir.
+
+Temel plan aylık 19,99 $ 'dan başlıyor.
+
+Kasaba daha çok meslek hayatına yöneliktir. Kullanıcılara, nasıl çalıştıklarını ve yinelenen profesyonel görevleri nasıl yerine getirdiklerini öğrenmek için tasarlanmış bir yapay zeka asistanı olan bir "Townie" veriyor. E - posta, takvimler, belgeler, Slack ve diğer platformlarla çalışabilir.
+
+Haziran 2026 'da şirket, Andreessen Horowitz ve Forerunner liderliğinde 55 milyon $ A Serisi topladı.
+
+Wajo'nun ilk tüketici temsilcisi Fo, işletmeleri arayabilir, e - posta gönderebilir, grup sohbetlerine katılabilir, rezervasyon ve satın alma işlemleri yapabilir ve günlük görevleri tamamlamak için insanlarla koordinasyon sağlayabilir.
+
+Wajo'nun yaklaşımının önemli bir parçası Fo'ya kendi kimliğini vermektir. Temsilcinin kendi e - posta adresi, telefon numarası ve ödeme kartı vardır, bu da kullanıcıların kendi kimlik bilgilerini vermelerini gerektirmeden işletmelerle etkileşime girmesine olanak tanır.
+
+Özellikle, Fo kendi başına üstesinden gelemeyeceği bir şeyle karşılaştığında, Wajo görevi tamamlamak için bir insan asistan getirebileceğini söylüyor.
+
+Fo, Eylül 2025 'te ücretsiz bir katmanla halka açık olarak başlatılırken, ücretli bir Pro teklifi aracılığıyla daha ağır iş yükleri ve özel acenteler mevcuttur.
+
+---
+
+## Görseller
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/gettyimages-673436934-e1790964942865.jpg)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/CaddyAI.png)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/fambot-app.png)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/Folk-agent.png)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/Instinct-assistant.png)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/Iris-agent.png)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/Martin-agent.png)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/miso.jpg)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/ohai-agent.png)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/ollie-3.jpg)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/Orbits-assistant.png)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/Pally-AI.png)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/poke-ai-at-3_04_44-PM-e1790950860170.jpg)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/ReneAI.png)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/SkyeAIagent.jpg)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/StanleyAI.png)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/Whatsapp-hero-town.webp)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/all-the-ai-agents-that-can-live-in-your-text-messages/Wajo-.png)

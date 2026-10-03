@@ -1,5 +1,15 @@
 [
   {
+    "slug": "all-the-ai-agents-that-can-live-in-your-text-messages",
+    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "date": "03 October 2026",
+    "fetched_at": "2026-10-03T17:43:47.658314+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "627ae19eeb1f2c3569055471ca61ae0f2be7f8937749ae182985d934ef6f94f6"
+  },
+  {
     "content_hash": "206d561333f575747606966cf92715aea36dd98c2c7098cd0d1f71c18beb2d3b",
     "date": "02 October 2026",
     "fetched_at": "2026-10-02T21:45:28.125594+00:00",
