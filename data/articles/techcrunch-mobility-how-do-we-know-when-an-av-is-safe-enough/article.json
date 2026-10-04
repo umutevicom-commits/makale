@@ -1,0 +1,91 @@
+{
+  "url": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+  "slug": "techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough",
+  "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+  "news_id": "techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough",
+  "date": "20 September 2026",
+  "author": "Kirsten Korosec",
+  "tags": [],
+  "body_paragraphs": [
+    "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!",
+    "One of the stickier problems for autonomous vehicle developers, regulators, and the public is determining when self-driving technology is safe enough for the road. So far, that question has largely fallen to industry to answer — companies that are applying their autonomous vehicle technology to self-driving trucks, robotaxis, and maybe someday personally owned passenger vehicles.",
+    "Today, there is no standardized test for judging how well an automated driving system performs in the real world. We require people to pass a driver’s test before getting a license, but there isn’t an equivalent test or system for autonomous vehicle technology.",
+    "So how do we know whether an AV is a safe driver? The National Highway Traffic Safety Administration says it’s working on an answer.",
+    "Federal motor vehicle safety standards (FMVSS) already govern the vehicle automakers sell today. But those FMVSS rules weren’t designed for vehicles like the Tesla Cybercab and Zoox robotaxi, which lack traditional, and federally required, equipment like pedals, steering wheels, and design features like side mirrors and rearview mirrors.",
+    "The NHTSA is working on a federal automated vehicle framework that it says will put safety at the foundation without stifling innovation, or as Administrator Jonathan Morrison put it this week, force the agency to play “whack-a-mole” with policy decisions or try to predict how the technology will evolve. That’s a tricky recipe to get right.",
+    "The agency took a notable step toward that goal this week by reaching an agreement with SAE to launch ASCEND, a government-industry initiative aimed at speeding up the development of data-driven AV performance standards.",
+    "“Our top priority for this consortium is ADS competency, which will inform and accelerate a corresponding federal motor vehicle safety standard,” Morrison said at the AI Horizons Summit in Pittsburgh. “Ultimately, our ADS performance rulemaking will provide federal leadership in this space. By delivering an AV competency standard, we hope we’ll be able to address the burgeoning past patchwork of inconsistent state and local level requirements, and continue to encourage American innovation and promote the safe deployment and development of these vehicles on the road.”",
+    "There is no timeline yet for when this consortium will produce ADS standards. But I bet the AV industry is already weighing in.",
+    "Note: Want to hear Morrison’s complete comments? Check out this video of the AI Horizons Summit, and fast-forward to the 04:36:00 mark.",
+    "We have a few things cookin’ but nothing quite ready to share. This is a reminder that you can send us tips!",
+    "Will Wall Street invest in a pure-play robotaxi company? We’re about to find out.",
+    "Autonomous vehicle company May Mobility plans to go public through a merger with special purpose acquisition company ACP Holdings Acquisition Corp. in a deal that could raise more than $300 million at a valuation of $1.4 billion.",
+    "There are other publicly traded companies working on autonomous vehicle technology: Aurora and Kodiak, which are both focused on self-driving trucks; Rivian; and Tesla. And while Waymo is not (yet) publicly traded, its parent company Alphabet is. It’s the same story for Amazon-owned Zoox.",
+    "But May Mobility, which operates autonomous Toyota Siennas in three locations, says it will be the first public company in the U.S. focused entirely on autonomous ride-hailing vehicles. Senior reporter Sean O’Kane notes this will also be a test of May Mobility’s “asset-light” and “partnership-first” approach to autonomy.",
+    "Other deals that got my attention …",
+    "Autonomous vehicle company Beep has merged with Freebee, an on-demand public transportation firm based in Miami. The combined company will be called Beep and will be led by Beep co-founder Kevin Reid as chair and CEO. Freebee co-founders Kris Kimball and Jason Spiegel will join as chief operating officer and president and chief growth officer, respectively.",
+    "Lucid Motors struck a partnership with European mobility platform Bolt to “deploy at least 25,000 fully autonomous vehicles” built on the EV maker’s upcoming midsize EV architecture, which is supposed to be smaller and cheaper than its current offerings.",
+    "R3 Lithium, a battery recycling startup based in Georgia, raised $15 million in a Series A round that included funding from TDK Ventures, Integral GlobalTech Partners, and Axial Partners.",
+    "Cybersecurity teams with the U.S. Coast Guard and FBI boarded two U.S.-bound oil tankers after hackers reportedly compromised at least one of the ship’s networks and took control of its navigation, propulsion, and cargo systems.",
+    "GM unveiled a new user interface for its full-size pickups, the Chevy Silverado and GMC Sierra, a makeover that includes picture-in-picture displays for Apple CarPlay and Android Automotive.",
+    "An aircraft equipped with Joby Aviation’s autonomy technology flew more than 3,100 miles across the United States without a human pilot taking control at any point. As I noted in my article, this should be viewed as more than a splashy demo.",
+    "ShinyHunters hacking group published hundreds of thousands of files from a Florida state database of vehicles and driver information.",
+    "U.S. automakers may be forced to build AM radio into new vehicles within the next year after the House overwhelmingly approved the AM Radio for Every Vehicle Act. EV makers have eschewed AM receivers because the electromagnetic interference generated by electric motors can affect the frequencies used by AM radio.",
+    "Volkswagen unveiled a new prototype electric vehicle with record-breaking efficiency.",
+    "Waymo restarted its robotaxi service in San Antonio, Texas, five months after one of its vehicles was swept away during a flash flood. The company also launched a new robotaxi service in Las Vegas and announced it was headed to Singapore, where it would begin mapping and eventually testing its AV tech.",
+    "Wayve hired Elisa de Martel as its next CFO, an executive who has held several top financial jobs at tech companies, including Waymo.",
+    "Zoox is currently under a 100-vehicle cap in Las Vegas, the only market in which it operates a commercial service. That cap expires September 25, clearing the way for the Amazon-owned company to expand its commercial fleet of custom-built robotaxis."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/waymo-ojai-getty.jpg",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/blinky-cat-bird-green.gif",
+      "alt": "blinky cat bird green"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/money-the-station.png",
+      "alt": "money the station"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/the-station-ride-hailing1.png",
+      "alt": ""
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-04T09:01:23.753986+00:00",
+  "title_tr": "Neyin doğru olduğunu nasıl bileceğiz? ",
+  "body_paragraphs_tr": [
+    "TechCrunch Mobility&#39;ye tekrar hoş geldiniz! Ulaşımın geleceği ve özellikle yapay zekanın bu alandaki rolü hakkında bilgi edinmek için doğru adrestesiniz. Bu içeriği e-posta kutunuza almak için buraya tıklayarak ücretsiz kayıt olabilirsiniz — TechCrunch Mobility&#39;ye tıklamanız yeterli!",
+    "Otonom araç geliştiricileri, düzenleyiciler ve kamuoyu için en zorlu sorunlardan biri, sürücüsüz araç teknolojisinin yolda yeterince güvenli olup olmadığını belirlemektir. Şimdiye kadar bu sorunun cevabı büyük ölçüde endüstriye, yani otonom araç teknolojilerini sürücüsüz kamyonlara, robot taksilere ve belki bir gün kişisel yolcu araçlarına uygulayan şirketlere kaldı.",
+    "Günümüzde, otomatik sürüş sistemlerinin gerçek dünyada ne kadar iyi performans gösterdiğini değerlendirmek için standart bir test bulunmamaktadır. Ehliyet almadan önce sürücü sınavını geçmek zorunludur, ancak otonom araç teknolojisi için eşdeğer bir test veya sistem yoktur.",
+    "Peki, otonom bir aracın güvenli bir sürücü olup olmadığını nasıl anlarız? Ulusal Karayolu Trafik Güvenliği İdaresi bu soruya yanıt bulmak için çalıştığını söylüyor.",
+    "Federal motorlu taşıt güvenlik standartları (FMVSS) halihazırda otomobil üreticilerinin bugün sattığı araçları yönetiyor. Ancak bu FMVSS kuralları, pedallar, direksiyon simidi ve yan aynalar ve dikiz aynaları gibi geleneksel ve federal olarak zorunlu ekipmanlardan yoksun olan Tesla Cybercab ve Zoox robotaksi gibi araçlar için tasarlanmamıştı.",
+    "NHTSA, inovasyonu boğmadan güvenliği temeline oturtacağını söylediği federal bir otonom araç çerçevesi üzerinde çalışıyor veya Yönetici Jonathan Morrison'ın bu hafta belirttiği gibi, ajansı politika kararlarıyla \"köstebek vurma\" oynamaya veya teknolojinin nasıl gelişeceğini tahmin etmeye çalışmaya zorluyor. Bu doğru yapmak için zor bir tarif.",
+    "Ajans, bu hafta veri odaklı AV performans standartlarının geliştirilmesini hızlandırmayı amaçlayan bir devlet - sanayi girişimi olan ASCELD'i başlatmak için SAE ile bir anlaşmaya vararak bu hedefe yönelik önemli bir adım attı.",
+    "Morrison, Pittsburgh'daki Yapay Zeka Ufukları Zirvesi'nde \"Bu konsorsiyum için en önemli önceliğimiz, ilgili federal motorlu araç güvenlik standardını bilgilendirecek ve hızlandıracak ADS yetkinliğidir\" dedi. \"Nihayetinde, REKLAM performansı kurallarımız bu alanda federal liderlik sağlayacak. Bir AV yetkinlik standardı sunarak, tutarsız eyalet ve yerel düzeydeki gereksinimlerin filizlenen geçmiş yamalarını ele alabileceğimizi ve Amerikan inovasyonunu teşvik etmeye ve bu araçların yolda güvenli bir şekilde konuşlandırılmasını ve geliştirilmesini teşvik etmeye devam edeceğimizi umuyoruz .\"",
+    "Bu konsorsiyumun ADS standartlarını ne zaman üreteceği konusunda henüz bir zaman çizelgesi yok. Ama bahse girerim AV endüstrisi zaten ağırlığını koyuyordur.",
+    "Not: Morrison'ın tüm yorumlarını duymak ister misiniz? AI Horizons Summit'in bu videosuna göz atın ve 04:36:00 işaretine kadar ileri sarın.",
+    "Pişirdiğimiz birkaç şey var ama paylaşmaya hazır bir şey yok. Bize ipuçları gönderebileceğinizi hatırlatmak isteriz!",
+    "Wall Street saf bir robotaksi şirketine yatırım yapacak mı? Öğrenmek üzereyiz.",
+    "Otonom araç şirketi May Mobility, özel amaçlı satın alma şirketi ACP Holdings Acquisition Corp. ile 1,4 milyar dolarlık bir değerlemeyle 300 milyon $ 'dan fazla para toplayabilecek bir anlaşmayla birleşme yoluyla halka açılmayı planlıyor. $.",
+    "Otonom araç teknolojisi üzerinde çalışan başka halka açık şirketler de var: Her ikisi de otonom kamyonlara odaklanan Aurora ve Kodiak; Rivian; ve Tesla. Waymo (henüz) halka açık olmasa da, ana şirketi Alphabet halka açık. Amazon'a ait Zoox için de aynı hikaye geçerli.",
+    "Ancak otonom Toyota Siennas'ı üç yerde işleten May Mobility, ABD'de tamamen otonom binek araçlara odaklanan ilk halka açık şirket olacağını söylüyor. Kıdemli muhabir Sean O’Kane, bunun May Mobility'nin özerkliğe yönelik \"varlık - ışık\" ve \"ortaklık - ilk\" yaklaşımının da bir testi olacağını belirtiyor.",
+    "Dikkatimi çeken diğer anlaşmalar…",
+    "Otonom araç şirketi Beep, Miami merkezli isteğe bağlı bir toplu taşıma şirketi olan Freebee ile birleşti. Birleşen şirketin adı Beep olacak ve Beep'in kurucu ortağı Kevin Reid tarafından başkan ve CEO olarak yönetilecek. Freebee kurucu ortakları Kris Kimball ve Jason Spiegel sırasıyla operasyon direktörü, başkan ve büyüme direktörü olarak katılacak.",
+    "Lucid Motors, EV üreticisinin mevcut tekliflerinden daha küçük ve daha ucuz olması beklenen yaklaşmakta olan orta ölçekli EV mimarisi üzerine inşa edilen \"en az 25.000 tam otonom aracı dağıtmak\" için Avrupa hareketlilik platformu Bolt ile bir ortaklık kurdu.",
+    "Gürcistan merkezli bir batarya geri dönüşüm girişimi olan R3 Lithium, TDK Ventures, Integral GlobalTech Partners ve Axial Partners'ın finansmanını içeren A Serisi turda 15 milyon $ topladı.",
+    "ABD Sahil Güvenliği ve FBI ile siber güvenlik ekipleri, bilgisayar korsanlarının geminin ağlarından en az birini tehlikeye attığı ve navigasyon, tahrik ve kargo sistemlerinin kontrolünü ele geçirdiği bildirildikten sonra ABD'ye giden iki petrol tankerine bindi.",
+    "GM, tam boyutlu pikapları Chevy Silverado ve GMC Sierra için Apple CarPlay ve Android Automotive için resim içinde resim görüntülerini içeren yeni bir kullanıcı arayüzünü tanıttı.",
+    "Joby Aviation'ın otonomi teknolojisiyle donatılmış bir uçak, herhangi bir noktada kontrolü ele alan bir insan pilot olmadan Amerika Birleşik Devletleri genelinde 3 bin 100 milden fazla uçtu. Makalemde belirttiğim gibi, bu gösterişli bir demodan daha fazlası olarak görülmelidir.",
+    "ShinyHunters bilgisayar korsanlığı grubu, Florida eyaletinin araç ve sürücü bilgileri veri tabanından yüz binlerce dosya yayınladı.",
+    "ABD'li otomobil üreticileri, Temsilciler Meclisi'nin Her Araç İçin AM Radyosu Yasası'nı ezici bir çoğunlukla onaylamasından sonraki bir yıl içinde AM radyosunu yeni araçlara dönüştürmek zorunda kalabilirler. Elektrikli araç üreticileri, elektrik motorları tarafından üretilen elektromanyetik parazit AM radyo tarafından kullanılan frekansları etkileyebileceğinden AM alıcılarından kaçınmıştır.",
+    "Volkswagen, rekor verimlilikte yeni bir elektrikli araç prototipini tanıttı.",
+    "Waymo, araçlarından birinin ani bir sel sırasında süpürülmesinden 5 ay sonra San Antonio, Teksas'taki robotaksi hizmetini yeniden başlattı. Şirket ayrıca Las Vegas'ta yeni bir robotaksi hizmeti başlattı ve haritalamaya ve nihayetinde AV teknolojisini test etmeye başlayacağı Singapur'a gideceğini duyurdu.",
+    "Wayve, teknoloji şirketlerinde Waymo da dahil olmak üzere birçok üst düzey finans işinde çalışan bir yönetici olan Elisa de Martel'i bir sonraki CFO'su olarak işe aldı.",
+    "Zoox şu anda ticari bir hizmet işlettiği tek pazar olan Las Vegas'ta 100 araç sınırının altında. Bu üst sınırın süresi 25 Eylül'de doluyor ve Amazon'a ait şirketin özel yapım robotakslardan oluşan ticari filosunu genişletmesinin önünü açıyor."
+  ],
+  "tags_tr": []
+}
