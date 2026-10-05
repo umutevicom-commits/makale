@@ -1,43 +1,43 @@
 [
   {
-    "slug": "obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards",
-    "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "content_hash": "22bdc1a7025f3ad459e46eb7949ad59dfe8fade0710ca1af6228ea9db2b432cb",
     "date": "13 September 2026",
     "fetched_at": "2026-10-05T09:04:19.301835+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "22bdc1a7025f3ad459e46eb7949ad59dfe8fade0710ca1af6228ea9db2b432cb"
+    "retries": 0,
+    "slug": "obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
   },
   {
-    "slug": "nvidia-launches-new-platform-for-reining-in-rogue-ai-agents",
-    "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "content_hash": "5ec029ec5d4e6751f2bf101a9f45d775be2120ac7758b9c90a4b0617259542ae",
     "date": "28 September 2026",
     "fetched_at": "2026-10-05T09:03:21.054530+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "5ec029ec5d4e6751f2bf101a9f45d775be2120ac7758b9c90a4b0617259542ae"
+    "retries": 0,
+    "slug": "nvidia-launches-new-platform-for-reining-in-rogue-ai-agents",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/"
   },
   {
-    "slug": "nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch",
-    "url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
+    "content_hash": "7d07f4f13a039a54b284cd346d8c4595e9d2aba9fd5ef44290cb67b7b8c9d3a3",
     "date": "08 September 2026",
     "fetched_at": "2026-10-05T09:02:30.356825+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "7d07f4f13a039a54b284cd346d8c4595e9d2aba9fd5ef44290cb67b7b8c9d3a3"
+    "retries": 0,
+    "slug": "nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/"
   },
   {
-    "slug": "nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo",
-    "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+    "content_hash": "e139a13dc8370341f81affa6558b26ca1e149873bc465782ada2aa15a6c11b84",
     "date": "11 September 2026",
     "fetched_at": "2026-10-05T09:00:06.039127+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "e139a13dc8370341f81affa6558b26ca1e149873bc465782ada2aa15a6c11b84"
+    "retries": 0,
+    "slug": "nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/"
   },
   {
     "content_hash": "0fb4890dfc96d7c6f1499724d6b08e5b68ff61c768f5aeab5cc82a6246a3b39f",
