@@ -1,5 +1,25 @@
 [
   {
+    "slug": "after-factorys-public-spat-with-khosla-menlo-proudly-invests",
+    "url": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
+    "date": "05 October 2026",
+    "fetched_at": "2026-10-06T01:05:53.999347+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "95ba9619ec93b91d89fc29720b07567e137339d566d066e919481c6de9fa692a"
+  },
+  {
+    "slug": "5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day",
+    "url": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
+    "date": "05 October 2026",
+    "fetched_at": "2026-10-06T01:05:17.243392+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "9044fd4584f858bdd83db2fdf77550971bde1035f04495332ae3be87f7ab3ee5"
+  },
+  {
     "content_hash": "22bdc1a7025f3ad459e46eb7949ad59dfe8fade0710ca1af6228ea9db2b432cb",
     "date": "13 September 2026",
     "fetched_at": "2026-10-05T09:04:19.301835+00:00",
