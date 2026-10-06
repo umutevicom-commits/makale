@@ -6,7 +6,23 @@
     <atom:link href="https://techcrunch.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>TechCrunch haberlerinin eksiksiz Türkçe çevirisi</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 06 Oct 2026 18:09:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 23:56:27 +0000</lastBuildDate>
+    <item>
+      <title>Anthropic, girişimlere Claude Ekibi'nde ücretsiz bir yıl ve 1.000 $ kredi veriyor</title>
+      <link>https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <author>Russell Brandom</author>
+      <description>Salı günü Anthropic, Claude for Startups programının genişletildiğini ve AI modellerine sübvanse edilmiş erişim ve nitelikli şirketlere çeşitli diğer avantajlar sunduğunu duyurdu.</description>
+      <media:content url="https://umutevicom-commits.github.io/makale/data/images/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/Claude-photo.jpg" medium="image" type="image/jpeg" />
+      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/Claude-photo.jpg" />
+      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/Claude-photo.jpg" type="image/jpeg" length="0" />
+      <content:encoded><![CDATA[<p>Salı günü Anthropic, Claude for Startups programının genişletildiğini ve AI modellerine sübvanse edilmiş erişim ve nitelikli şirketlere çeşitli diğer avantajlar sunduğunu duyurdu.</p>
+<p>Anthropic'in SF Tech Week etkinliğinin bir parçası olarak başlatılan programın yeni sürümü, Anthropic'in gruplar için ücretli planı Claude Team'in ücretsiz bir yılını, en fazla beş premium koltuğun yanı sıra Claude ile inşa etmek için 1.000 $ 'lık API kredisi sağlıyor. Şirketler ayrıca hizmet için eklentiler oluşturmalarına olanak tanıyan Claude Marketplace'e de erişebilecekler. Şirketler ayrıca Anthropic'in Uygulamalı Yapay Zeka ekibiyle sanal çalışma saatleri rezerve edebilir.</p>
+<p>Anthropic yaptığı duyuruda, &quot;Bu programı oluşturduk çünkü yapay zekanın faydalarının çoğu insana yalnızca modellerden ziyade modellerin üzerine inşa edilen şirketler aracılığıyla ulaşacağına inanıyoruz&quot; dedi. &quot;Bu, kurucular ve geliştiricilerle yakın ortaklık kurmayı misyonumuzun merkezi haline getiriyor .&quot;</p>
+<p>Şirketler son beş yıl içinde kurulmuşlarsa veya son iki yıl içinde finansman almışlarsa uygun şartlara sahiptirler. İlgilenen firmalar Claude for Startups program sayfası üzerinden başvuru yapabilirler.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/Claude-photo.jpg" alt="The Claude app icon is displayed on a smartphone screen" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
     <item>
       <title>İş gününüzü daha iyi hale getirebilecek 7 masa aleti</title>
       <link>https://techcrunch.com/2026/10/06/5-desk-gadgets-that-can-make-your-workday-better/</link>
@@ -1527,26 +1543,6 @@
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/Browser.png" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/Secure-Storage.png" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/zuckerberg-LA-trial-2026-GettyImages-2261841364.jpg" alt="Mark Zuckerberg, chief executive officer of Meta Platforms Inc." loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Apple, AB uygulamalarının daha az endişe verici izleme - onay ekranları kullanmasına izin verecek</title>
-      <link>https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <author>Sarah Perez</author>
-      <description>Almanya'nın federal rekabet düzenleyicisi ve diğerlerinin çok yıllı bir antitröst soruşturması sonucunda Apple, platformlarında kullanıcıyı diğer uygulamalar veya web sitelerinde izlemek için izin isteyen uygulamaların gereksinimlerini değiştirmeyi kabul etti.</description>
-      <media:content url="https://umutevicom-commits.github.io/makale/data/images/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/app-store-ios-2022.jpg" medium="image" type="image/jpeg" />
-      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/app-store-ios-2022.jpg" />
-      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/app-store-ios-2022.jpg" type="image/jpeg" length="0" />
-      <content:encoded><![CDATA[<p>Almanya'nın federal rekabet düzenleyicisi ve diğerlerinin çok yıllı bir antitröst soruşturması sonucunda Apple, platformlarında kullanıcıyı diğer uygulamalar veya web sitelerinde izlemek için izin isteyen uygulamaların gereksinimlerini değiştirmeyi kabul etti.</p>
-<p>Düzenleyiciler, Uygulama İzleme Şeffaflığı (App Tracking Transparency - ATT) olarak bilinen bu sistemin, Apple'ın kendi uygulamalarının bir izin ekranı gerektirmeden ekosistemindeki tüketicilerin verilerini kullanmasına izin vermesi nedeniyle Apple'ı üçüncü taraf uygulamalara tercih ettiğini söyledi.</p>
-<p>Seçkin Avrupa rekabet otoriteleriyle yapılan yeni anlaşmalar, kullanıcıları uyarma ihtiyacını veya bu uyarının ne zaman gösterileceğini ortadan kaldırmıyor. Bunun yerine, yazılımı AB'de dağıtılan uygulama geliştiricilerinin, değiştirilmiş biçimlendirme, dil ve uygulamanın diğer şeylerin yanı sıra neden bu izni talep ettiğine dair &quot;ek bilgiler&quot; e bağlantı verme seçeneğini içeren alternatif bir onay ekranı görüntülemesine izin veriyorlar.</p>
-<p>Apple'ın uyumluluğu, bu ATT onay ekranlarını son kullanıcılar için daha az korkutucu hale getirmeye çalışan yarım düzineden fazla değişiklik içeriyor. Bu, onları açılır pencereler olarak değil, tam sayfa ekranlar olarak göstermeyi; “track” kelimesini kaldırmayı; seçim düğmelerini “Allow” ve “Ask App Not to Track” yerine “Allow” ve “Reject” olarak değiştirmeyi; renkleri ve biçimlendirmeyi değiştirmeyi ve daha fazlasını içerir. Ayrıca geliştiriciler, bu verileri nasıl kullandıklarını ve neden talep edildiklerini açıklayan tıklanabilir bir bağlantı aracılığıyla kullanıcılara daha ayrıntılı bilgi sunabilir.</p>
-<p>IPhone üreticisi, yasal gereklilikler nedeniyle Almanya, Fransa, İtalya, Polonya ve Romanya'da dağıtılan uygulamalar için yalnızca sistem isteminin alternatif sürümünün mevcut olacağını söylüyor.</p>
-<p>Kullanıcılar genellikle onay ekranlarına, uygulamalardan onları izlememelerini isteyerek yanıt verir. Bu da Meta gibi reklam destekli işletmelere zarar verirken Apple'ın kendi uygulamalarını güçlendirir. Kısacası, bu tür izinler isteyen uygulamalar, daha fazla gelir sağlayan ve uygulama geliştiricisinin para kazanmasına yardımcı olan kişiselleştirilmiş reklamlar göstermelerine izin verdiği için bunu yapar.</p>
-<p>Bununla birlikte Apple, kendi uygulamalarının ekosisteminden topladıkları verilere dayanarak kişiselleştirilmiş reklamlar göstermesine izin vermesine rağmen, bu onay ekranlarının tüketici gizliliğini korumaya yardımcı olduğunu savundu.</p>
-<p>Şirket şimdi, AB'ye dağıtım yapan uygulama geliştiricilerinin, kullanıcının ATT onay ekranındaki önceki seçiminden bir yıl sonra AB kullanıcılarını yeniden teşvik etmelerine izin vereceğini söyledi.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/app-store-ios-2022.jpg" alt="App Store icon on iPhone screen" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
     </item>
   </channel>
 </rss>

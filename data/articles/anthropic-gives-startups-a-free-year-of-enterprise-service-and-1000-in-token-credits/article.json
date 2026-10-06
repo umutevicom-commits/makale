@@ -1,0 +1,31 @@
+{
+  "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+  "slug": "anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits",
+  "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+  "news_id": "anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits",
+  "date": "06 October 2026",
+  "author": "Russell Brandom",
+  "tags": [],
+  "body_paragraphs": [
+    "On Tuesday, Anthropic announced an expansion of its Claude for Startups program, offering subsidized access to its AI models and a variety of other benefits to qualifying companies.",
+    "The new version of the program, which launched as part of Anthropic’s SF Tech Week event, provides a free year of Claude Team, Anthropic’s paid plan for groups, with up to five premium seats, as well as $1,000 in API credits for building with Claude. Companies will also get access to Claude Marketplace, which lets them build plug-ins for the service. Companies can also book virtual office hours with Anthropic’s Applied AI team.",
+    "“We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone,” Anthropic said in an announcement. “That makes partnering closely with founders and developers central to our mission.”",
+    "Companies are eligible if they were founded in the last five years or received funding in the last two years. Interested companies can apply through the Claude for Startups program page."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/Claude-photo.jpg",
+      "alt": "The Claude app icon is displayed on a smartphone screen"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-06T22:13:54.904777+00:00",
+  "title_tr": "Anthropic, girişimlere Claude Ekibi'nde ücretsiz bir yıl ve 1.000 $ kredi veriyor",
+  "body_paragraphs_tr": [
+    "Salı günü Anthropic, Claude for Startups programının genişletildiğini ve AI modellerine sübvanse edilmiş erişim ve nitelikli şirketlere çeşitli diğer avantajlar sunduğunu duyurdu.",
+    "Anthropic'in SF Tech Week etkinliğinin bir parçası olarak başlatılan programın yeni sürümü, Anthropic'in gruplar için ücretli planı Claude Team'in ücretsiz bir yılını, en fazla beş premium koltuğun yanı sıra Claude ile inşa etmek için 1.000 $ 'lık API kredisi sağlıyor. Şirketler ayrıca hizmet için eklentiler oluşturmalarına olanak tanıyan Claude Marketplace'e de erişebilecekler. Şirketler ayrıca Anthropic'in Uygulamalı Yapay Zeka ekibiyle sanal çalışma saatleri rezerve edebilir.",
+    "Anthropic yaptığı duyuruda, \"Bu programı oluşturduk çünkü yapay zekanın faydalarının çoğu insana yalnızca modellerden ziyade modellerin üzerine inşa edilen şirketler aracılığıyla ulaşacağına inanıyoruz\" dedi. \"Bu, kurucular ve geliştiricilerle yakın ortaklık kurmayı misyonumuzun merkezi haline getiriyor .\"",
+    "Şirketler son beş yıl içinde kurulmuşlarsa veya son iki yıl içinde finansman almışlarsa uygun şartlara sahiptirler. İlgilenen firmalar Claude for Startups program sayfası üzerinden başvuru yapabilirler."
+  ],
+  "tags_tr": []
+}
