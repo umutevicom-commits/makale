@@ -1,33 +1,43 @@
 [
   {
-    "slug": "i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it",
-    "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "slug": "5-desk-gadgets-that-can-make-your-workday-better",
+    "url": "https://techcrunch.com/2026/10/06/5-desk-gadgets-that-can-make-your-workday-better/",
+    "date": "06 October 2026",
+    "fetched_at": "2026-10-06T16:27:47.897373+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "bf43100226199a2a78d6d630952eed5d535eb5970a39c2db8df4cd899ff06d4a"
+  },
+  {
+    "content_hash": "552fe464652cd453dc62df2046b6cf62f59f6ec395a393527499daafde3460a5",
     "date": "26 September 2026",
     "fetched_at": "2026-10-06T09:01:35.869865+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "552fe464652cd453dc62df2046b6cf62f59f6ec395a393527499daafde3460a5"
+    "retries": 0,
+    "slug": "i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"
   },
   {
-    "slug": "huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia",
-    "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+    "content_hash": "4a1867e7842be63c672ac045bb16dcea5101499e2a0719e170f3c8a71265e869",
     "date": "17 September 2026",
     "fetched_at": "2026-10-06T09:00:35.075744+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "4a1867e7842be63c672ac045bb16dcea5101499e2a0719e170f3c8a71265e869"
+    "retries": 0,
+    "slug": "huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/"
   },
   {
-    "slug": "how-to-watch-apples-foldable-iphone-announcement",
-    "url": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
+    "content_hash": "7df587c8e48010ea0c54d3a99ffba115146121cba4f6f92ce9c927d894c17616",
     "date": "08 September 2026",
     "fetched_at": "2026-10-06T08:59:53.300629+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "7df587c8e48010ea0c54d3a99ffba115146121cba4f6f92ce9c927d894c17616"
+    "retries": 0,
+    "slug": "how-to-watch-apples-foldable-iphone-announcement",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/"
   },
   {
     "content_hash": "95ba9619ec93b91d89fc29720b07567e137339d566d066e919481c6de9fa692a",
