@@ -1,13 +1,33 @@
 [
   {
-    "slug": "anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits",
-    "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+    "slug": "apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell",
+    "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
     "date": "06 October 2026",
-    "fetched_at": "2026-10-06T22:13:54.904777+00:00",
+    "fetched_at": "2026-10-07T04:01:13.716391+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "90b66a74ac77fe4adae120832a43d72d7c1962fdc35ba8bd819f1f8d3046d4b1"
+    "content_hash": "e360dafd84464a70e2062292e48db93399781e5db85b957e30a67b8c19187077"
+  },
+  {
+    "slug": "ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo",
+    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "date": "06 October 2026",
+    "fetched_at": "2026-10-07T04:00:56.647880+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "5628e6f4590fd721414709961b8c4f3757a2c509c9adca1ce78eea30774c260d"
+  },
+  {
+    "content_hash": "90b66a74ac77fe4adae120832a43d72d7c1962fdc35ba8bd819f1f8d3046d4b1",
+    "date": "06 October 2026",
+    "fetched_at": "2026-10-06T22:13:54.904777+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
   },
   {
     "content_hash": "bf43100226199a2a78d6d630952eed5d535eb5970a39c2db8df4cd899ff06d4a",
