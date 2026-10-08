@@ -1,5 +1,15 @@
 [
   {
+    "slug": "amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access",
+    "url": "https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/",
+    "date": "08 October 2026",
+    "fetched_at": "2026-10-08T19:38:49.923485+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "3e1f12dde2b4a14144c35f512fdcbc6277876b3093af0898cecbab6686486b1c"
+  },
+  {
     "content_hash": "dd63c0a3210473f93ecb0f19b94280ec0ced2903b7d52380731b5874dc0822cd",
     "date": "07 October 2026",
     "fetched_at": "2026-10-07T23:59:28.732045+00:00",
