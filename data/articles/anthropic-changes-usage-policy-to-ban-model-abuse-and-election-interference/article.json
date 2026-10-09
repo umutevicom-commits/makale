@@ -1,0 +1,33 @@
+{
+  "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+  "slug": "anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference",
+  "title": "Anthropic changes usage policy to ban model abuse and election interference",
+  "news_id": "anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference",
+  "date": "08 October 2026",
+  "author": "Russell Brandom",
+  "tags": [],
+  "body_paragraphs": [
+    "Anthropic updated its usage policy on Thursday, codifying new prohibitions on election interference, weapons software, and surveillance. But perhaps the most attention-getting change is a new prohibition against prolonged verbal abuse of the model, which is now expressly forbidden.",
+    "Since an update in August, Claude has been trained to end conversations with “persistently harmful or abusive user interactions” — but the new policy explicitly bars users from pursuing those conversations.",
+    "“The policy update is meant to apply only in extreme cases, where users repeatedly act cruelly toward our models, with no discernible purpose,” the post explains. “It does not apply to common versions of user frustration, pushback, dark creative themes, or model testing and research.”",
+    "The change comes after Anthropic has sought out collaborations with prominent religious scholars — in some cases, seeking to convince them that Claude could be conscious or have a soul.",
+    "Separate sections of the usage policy forbid users from engaging in broadly deceptive campaigns, such as using Claude to run fake accounts or fabricated news outlets. The policy also includes rules against deceiving voters or disrupting elections, collected in a section titled “Do Not Undermine Democratic Processes.”"
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/GettyImages-2294192768.jpg",
+      "alt": "The Claude logo is displayed on a smartphone screen."
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-09T00:07:26.311317+00:00",
+  "title_tr": "Antropik, model suistimalini ve seçim müdahalesini yasaklamak için kullanım politikasını değiştirdi",
+  "body_paragraphs_tr": [
+    "Anthropic, perşembe günü kullanım politikasını güncelleyerek seçimlere müdahale, silah yazılımı ve gözetimle ilgili yeni yasakları kodladı. Ancak belki de en dikkat çekici değişiklik, modelin uzun süreli sözlü tacizine karşı yeni bir yasaklamadır ve bu artık açıkça yasaklanmıştır.",
+    "Ağustostaki güncellemeden bu yana Claude, konuşmaları \"sürekli zararlı veya küfürlü kullanıcı etkileşimleriyle\" sonlandırmak için eğitildi ancak yeni politika, kullanıcıların bu konuşmaları takip etmesini açıkça engelliyor.",
+    "Gönderide, \"Politika güncellemesinin yalnızca kullanıcıların fark edilebilir bir amacı olmadan modellerimize karşı defalarca acımasızca davrandığı aşırı durumlarda geçerli olması amaçlanıyor\" ifadeleri yer alıyor. \"Bu, kullanıcı hayal kırıklığının, tepkinin, karanlık yaratıcı temaların veya model testi ve araştırmasının yaygın versiyonları için geçerli değil .\"",
+    "Değişiklik, Anthropic'in önde gelen din bilginleriyle işbirliği arayışına girmesinin ardından geldi. Bazı durumlarda, onları Claude'un bilinçli olabileceğine veya bir ruha sahip olabileceğine ikna etmeye çalıştı.",
+    "Kullanım politikasının ayrı bölümleri, kullanıcıların sahte hesaplar veya uydurma haber kanalları çalıştırmak için Claude'u kullanmak gibi geniş çapta aldatıcı kampanyalara katılmasını yasaklar. Politika, “Demokratik Süreçleri Baltalamayın” başlıklı bir bölümde toplanan seçmenleri aldatmaya veya seçimleri aksatmaya karşı kurallar da içeriyor."
+  ],
+  "tags_tr": []
+}
