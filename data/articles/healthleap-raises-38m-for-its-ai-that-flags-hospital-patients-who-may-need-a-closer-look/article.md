@@ -1,0 +1,31 @@
+# Healthleap, daha yakından bakması gerekebilecek hastane hastalarını işaretleyen yapay zekası için 38 MİLYON $ topladı
+
+TechCrunch, teşhis edilmemiş hastalık riski taşıyan hastaları belirlemek için hasta kayıtlarını okuyan bir yapay zeka platformu oluşturan bir girişim olan Healthleap'in tohum ve A Serisi fonlarından 38 milyon $ topladığını özel olarak öğrendi.
+
+Finansman, Sequoia Capital ve First Round Capital tarafından ortaklaşa yönetilen 8 milyon $ 'lık bir tohum turu ve Hummingbird Ventures tarafından yönetilen 30 milyon $' lık bir A Serisi içerir. Şirket değerlemesini açıklamamaktadır.
+
+2022 'de Güney Afrika'da kardeşler Jemima ve Josiah Meyer (yukarıda resmedilmiştir) tarafından kurulan girişim, başlangıçta Jemima'nın diyetisyenler için geliştirdiği bir klinik beslenme aracı sundu. Ancak CEO ve kurucu ortak Josiah Meyer, TechCrunch'a verdiği demeçte, şirketin daha sonra yetersiz beslenme veya deliryum gibi erken teşhis edilmeyen durumlardan muzdarip olabilecek hastanelere başvuran hastaları belirlemeyi amaçlayan daha genel amaçlı bir platform oluşturduğunu söyledi.
+
+“Bir hastanın çizelgesi iki tür veri barındırır. Laboratuvarlar, ağırlıklar ve hayati belirtiler yapılandırılmış alanlarda bulunur, ancak en belirgin işaretler klinisyenlerin yazılı notlarında bulunur: iştahsızlık, yakın zamanda kilo kaybı, kas kaybı, yutma güçlüğü. Gelişmekte olan yaklaşımımız, bu klinik kavramlardan olumlu veya olumsuz bahsedenleri kolayca genişletilebilir ve ölçeklenebilir bir şekilde çıkarmaktır" dedi.
+
+Musk, şirketin platformunun şu anda hastaları yetersiz beslenme ve deliryum gibi durumlara karşı taradığı 50 'den fazla hastanede konuşlandırıldığını söyledi. Girişim ayrıca aspirasyon pnömonisini, basınç ülserlerini ve konjestif kalp yetmezliği için yeniden kabul riskini belirlemek için programlar geliştirdi. Josiah, bunun daha fazla klinik doğrulama sürecinden geçtiğini söyledi.
+
+Bir hastalık riski altında olabilecek veya teşhis edilmemiş hastaları bulmak için Healthleap, bir hastanenin elektronik sağlık kayıt sistemine bağlanır ve son zamanlarda kilo kaybı veya yutma zorluğu gibi yazılı notlardan bilgi almak için dil modellerini kullanır. Bu analiz daha sonra, daha yakından bakmaya ihtiyaç duyabilecek hastaları yüzeye çıkarmak için laboratuvar raporları ve hayati önem taşıyan bilgiler gibi yapılandırılmış bilgilerin yanı sıra risk modellerine de aktarılır. Şirket, yazılımının hastaları teşhis etmediğini, yalnızca ek inceleme için öğeleri vurguladığını belirtiyor.
+
+Josiah, "Her gece yatan her yetişkinin kaydını analiz ediyoruz: laboratuvar sonuçları, hayati belirtiler, ağırlıklar, ilaçlar, diyet emirleri, tanılar, klinisyenlerin notları ve daha fazlası" diye açıkladı. "Her sabah, bakım ekibinin mevcut iş akışına, hastaların eğilimleri hakkında ek bilgi içeren erişilebilir bir gösterge panosu ile bir risk puanı yazıyoruz ."
+
+Yetersiz beslenme, genellikle teşhis edilmeyen ve hastanın iyileşmesini çeşitli şekillerde olumsuz etkileyebilecek bir durum olduğundan, muhtemelen Healthleap için yararlı bir başlangıç noktası olarak hizmet etmiştir. Araştırmalar, hastanede yatan hastaların % 20 ila % 50 'sinin yetersiz beslendiğini ve bazı çalışmaların yetersiz beslenmeyi daha uzun kalışlar, yara iyileşmesinin bozulması, enfeksiyonlar ve diğer komplikasyonların yanı sıra daha yüksek morbidite ve mortalite ile ilişkilendirdiğini göstermektedir.
+
+Josiah, Healthleap&#39;in son bir yılda üç hastane ortağından 50&#39;den fazlasına ulaştığını ve müşterileri arasında Penn Medicine, Cedars-Sinai, Intermountain, Houston Methodist ve Emory Healthcare&#39;in de bulunduğunu söyledi. Gelirlerin aynı dönemde 10 kattan fazla arttığını belirtti, ancak ayrıntıları açıklamadı.
+
+Girişim, bir hastanenin lisanslı yatak sayısına göre fiyatlandırılmış üç yıllık sözleşmeler satıyor ve ayrıca sonuca dayalı bir fiyatlandırma modeli kullanıyor. "Hastane finans ekibinin doğruladığı ve ölçülebilir yatırım getirisi olarak bize atfettiği sabit yatırım getirisini kullanıyoruz. Buna dayanarak, sözleşme fiyatının katlarını teslim etmemizi sözleşmeye bağlı olarak sağlıyoruz. Bugüne kadar, her müşteri 5 kat veya daha fazla, bazı durumlarda 20 katın üzerinde yıllık toplam yatırım getirisi gördü” dedi.
+
+Pennsylvania Üniversitesi Hastanesi'nde Healthleap, yetersiz beslenme programının yıllık finansal etkide 23,8 milyon $ ile sonuçlandığını, bunun 6,3 milyon $ 'ının ek geri ödemeden ve 17,5 milyon $' ının daha kısa hastanede kalış sürelerinden geldiğini söyledi.
+
+Healthleap, daha fazla koşul belirlemek için destek eklediği için mühendislik, ürün, satış ve müşteri başarısına taze nakit harcamayı planlıyor. Josiah, şirketin nihayetinde 40 'tan fazla önemli sağlık sorununu ele almak ve ayakta tedavi ve evde bakıma doğru genişlemek istediğini söyledi.
+
+---
+
+## Görseller
+
+![Healthleap co-founders Josiah and Jemima Meyer](https://umutevicom-commits.github.io/makale/data/images/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/healthleap.jpeg)
