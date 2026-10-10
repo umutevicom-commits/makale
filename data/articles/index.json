@@ -1,13 +1,13 @@
 [
   {
-    "slug": "an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "content_hash": "48a398bd82f12a83b74d786c53593e38d3a25162be84f0dae3ea93208f8ca606",
     "date": "09 October 2026",
     "fetched_at": "2026-10-10T04:04:12.770568+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "48a398bd82f12a83b74d786c53593e38d3a25162be84f0dae3ea93208f8ca606"
+    "retries": 0,
+    "slug": "an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
   },
   {
     "content_hash": "dc20a74c5e0948e890fe62f2ece27d10f2492d07447688a041435d3dd7edb7d2",
