@@ -1,0 +1,59 @@
+{
+  "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+  "slug": "a16zs-olivia-moore-on-the-state-of-consumer-ai",
+  "title": "a16z’s Olivia Moore on the state of consumer AI",
+  "news_id": "a16zs-olivia-moore-on-the-state-of-consumer-ai",
+  "date": "09 October 2026",
+  "author": "Russell Brandom",
+  "tags": [],
+  "body_paragraphs": [
+    "I wrote this week about the bleak economics of consumer AI — but where some see a crisis, others see an opportunity.",
+    "Olivia Moore covers consumer AI as a partner at Andreessen Horowitz — and on Monday, she released a report on the top 100 consumer AI apps. ChatGPT is still the biggest player by a mile, but smaller players like Suno and ElevenLabs are showing real staying power. Even more interesting is what we don’t see, as Moore’s report details half a dozen consumer categories that seem to be completely untouched by AI.",
+    "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges. On a call this week, I talked with her about the unusual economics of consumer AI and why it’s still early days for the category.",
+    "This interview has been edited for length and clarity.",
+    "It’s an interesting moment for a report about consumer AI, since we’ve seen OpenAI pivot back to enterprise this year. It’s inspired a lot of pessimism about the overall revenue picture for consumer AI, including from me. But I take it you’re more optimistic?",
+    "I agree with you that OpenAI has moved back towards the enterprise. To me, it’s not necessarily a pivot because they’re still launching a lot in consumer. It’s more of an expansion. But I don’t blame them, as much as I love consumer, because almost all of the AI revenue thus far has come from subscriptions and then token usage. And that is much more concentrated on the enterprise and prosumer side.",
+    "How can consumer AI products change that revenue problem? The State of Markets report reminded us that just 2.2% of U.S. households are paying for AI. Do we need that number to rise before the market becomes attractive?",
+    "I actually don’t know if I want to see that user number increase. I’m more interested in getting back to a world where the consumer is monetized in a way that isn’t subscription dollars out of their own pocket.",
+    "I think it’s very easy in Silicon Valley, with people who are high-income and have corporate cards to pay for those tools, to say, “oh well, I’d rather pay for the product.” But I think most people would actually rather have free access to something and see some ads, and then they can decide if they want to subscribe or not to make the ads go away.",
+    "The other challenge is the marginal cost of AI services, which is still a lot higher than classic internet services like Facebook or Google Search. Do you see a lot of these services finding ways to keep those costs down, whether it’s open source or other lightweight models?",
+    "Yeah, I think we’re seeing improvements there. Even ChatGPT now has a Go plan, which is just $8 a month, and I’m assuming it runs on cheaper models. We don’t necessarily need frontier intelligence for every task, and so that could mean cheaper models, especially for some consumer use cases. It could also mean more consumer companies building on top of open source models. We’ve heard a lot of that from our founders lately, and it really feels like it’s starting to change.",
+    "The problem is that right now, the users driving the revenue are doing coding and other technical automation, where they probably do need frontier intelligence. I think as we get more people building for the consumer, where the model is not the product, we’ll start to see lower-cost models used more often.",
+    "It’s unusual to talk about technical automation in a consumer service, which feels like another unique feature of AI. Are we starting to blur the lines between consumer and enterprise?",
+    "I wrote an article about this maybe a year or so ago called The Great Expansion trying to get at this. Pre-AI, you would have companies like Canva that were consumer-first and often took six or seven years to even add teams or enterprise plans. Now we’re seeing companies like Gamma, ElevenLabs, and Cursor that start as consumer and within 18 months become majority-enterprise businesses.",
+    "Almost all of what we think of as consumer AI, I would argue, is prosumer AI. This really comes out on the revenue list, where there’s basically like three categories that power users are spending on. There’s product-building apps, so like Lovable, Replit, and Fal. There’s product marketing, which is AI ad generators like Higgsfield or HeyGen. Then there’s general work management, like Manus, Fireflies AI, and Granola. Those are like being paid for by consumers to start with, but I would argue that they’re not consumer in the way that we would think about pre-AI.",
+    "There are also all these whitespace categories: social apps, dating apps, marketplaces, retail, travel, finance, health. There are no entrants in our top 100 list in those categories, which is pretty surprising. And that’s what I think we need to see over the next six months.",
+    "So maybe we haven’t really seen true consumer AI yet?",
+    "It’s definitely very early."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/a16zs-olivia-moore-on-the-state-of-consumer-ai/Olivia-Moore-Headshot-2026.jpg",
+      "alt": "Olivia Moore"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-09T22:10:24.458433+00:00",
+  "title_tr": "a16z'den Olivia Moore, tüketici yapay zekasının durumu hakkında konuşuyor",
+  "body_paragraphs_tr": [
+    "Bu hafta tüketici yapay zekasının kasvetli ekonomisi hakkında yazdım — ancak bazılarının bir kriz gördüğü yerde, diğerleri bir fırsat görüyor.",
+    "Olivia Moore, tüketici yapay zekasını Andreessen Horowitz'in ortağı olarak ele alıyor ve pazartesi günü en iyi 100 tüketici yapay zeka uygulaması hakkında bir rapor yayımladı. ChatGPT hala bir mil farkla en büyük oyuncu, ancak Suno ve ElevenLabs gibi daha küçük oyuncular gerçek kalma gücü gösteriyor. Moore'un raporu, yapay zeka tarafından tamamen dokunulmamış gibi görünen yarım düzine tüketici kategorisini detaylandırdığı için, daha da ilginç olan göremediğimiz şey.",
+    "Moore, özellikle sektör sadece aboneliklerin ve API ücretlerinin ötesinde gelir akışlarından yararlanabilirse, tüketici yapay zekasında büyük bir fırsat görüyor. Bu hafta bir telefon görüşmesinde, onunla tüketici yapay zekasının olağandışı ekonomisi ve neden kategori için hala erken günler olduğu hakkında konuştum.",
+    "Bu görüşme, uzunluk ve netlik açısından düzenlenmiştir.",
+    "OpenAI'nin bu yıl işletmeye geri döndüğünü gördüğümüz için tüketici yapay zekası hakkında bir rapor için ilginç bir an. Ben de dahil olmak üzere tüketici yapay zekasının genel gelir tablosu hakkında çok fazla kötümserliğe ilham verdi. Ama sanırım sen daha iyimsersin?",
+    "OpenAI'nin işletmeye geri döndüğüne katılıyorum. Bana göre, bu mutlaka bir pivot değil çünkü tüketicide hala çok fazla lansman yapıyorlar. Bu daha çok bir genişleme. Ancak tüketiciyi sevdiğim kadar onları suçlamıyorum, çünkü şu ana kadarki yapay zeka gelirinin neredeyse tamamı aboneliklerden ve ardından token kullanımından geliyor. Ve bu, işletme ve üretici tarafında çok daha fazla yoğunlaşmıştır.",
+    "Tüketici yapay zeka ürünleri bu gelir sorununu nasıl değiştirebilir? State of Markets raporu bize ABD'deki hanelerin sadece % 2,2 'sinin yapay zeka için ödeme yaptığını hatırlattı. Piyasa cazip hale gelmeden önce bu rakamın artmasına ihtiyacımız var mı?",
+    "Aslında o kullanıcı sayısının artmasını isteyip istemediğimi bilmiyorum. Tüketicinin kendi cebinden dolar aboneliği olmayan bir şekilde para kazandığı bir dünyaya geri dönmekle daha çok ilgileniyorum.",
+    "Silikon Vadisi'nde bunun çok kolay olduğunu düşünüyorum, yüksek gelirli ve bu araçlar için ödeme yapacak kurumsal kartları olan insanlar, “ah, ürün için ödeme yapmayı tercih ederim.\" Ama bence çoğu insan aslında bir şeye ücretsiz erişmeyi ve bazı reklamları görmeyi tercih eder ve daha sonra abone olmak isteyip istemediklerine karar verebilirler.",
+    "Diğer zorluk, Facebook veya Google Arama gibi klasik internet hizmetlerinden hala çok daha yüksek olan yapay zeka hizmetlerinin marjinal maliyetidir. Bu hizmetlerin çoğunun, ister açık kaynak ister diğer hafif modeller olsun, bu maliyetleri düşük tutmanın yollarını bulduğunu görüyor musunuz?",
+    "Evet, sanırım orada gelişmeler görüyoruz. ChatGPT'nin bile artık ayda sadece 8 $ olan bir Go planı var ve daha ucuz modellerde çalıştığını varsayıyorum. Her görev için mutlaka sınır zekasına ihtiyacımız yoktur ve bu, özellikle bazı tüketici kullanım durumları için daha ucuz modeller anlamına gelebilir. Ayrıca, daha fazla tüketici şirketinin açık kaynaklı modellerin üzerine inşa edilmesi anlamına da gelebilir. Son zamanlarda kurucularımızdan çok şey duyduk ve gerçekten değişmeye başladığını hissediyoruz.",
+    "Sorun şu ki, şu anda geliri yönlendiren kullanıcılar, muhtemelen sınır istihbaratına ihtiyaç duydukları kodlama ve diğer teknik otomasyonu yapıyorlar. Modelin ürün olmadığı tüketici için daha fazla insan oluşturdukça, daha düşük maliyetli modellerin daha sık kullanıldığını görmeye başlayacağımızı düşünüyorum.",
+    "Yapay zekanın başka bir benzersiz özelliği gibi hissettiren bir tüketici hizmetinde teknik otomasyondan bahsetmek olağandışıdır. Tüketici ve işletme arasındaki çizgileri bulanıklaştırmaya mı başlıyoruz?",
+    "Bu konuda belki bir yıl kadar önce The Great Expansion (Büyük Genişleme) adlı bir makale yazdım. Yapay zeka öncesi, Canva gibi tüketiciye öncelik veren ve ekipler veya kurumsal planlar eklemek için genellikle altı veya yedi yıl süren şirketlere sahip olursunuz. Şimdi Gamma, ElevenLabs ve Cursor gibi tüketici olarak başlayan ve 18 ay içinde çoğunluk kurumsal işletmeleri haline gelen şirketleri görüyoruz.",
+    "Tüketici yapay zekası olarak düşündüğümüz şeylerin neredeyse tamamının üretici - tüketici yapay zekası olduğunu iddia ediyorum. Bu, temel olarak güçlü kullanıcıların harcama yaptığı üç kategorinin olduğu gelir listesinde gerçekten ortaya çıkıyor. Lovable, Replit ve Fal gibi ürün geliştirme uygulamaları var. Higgsfield veya HeyGen gibi yapay zeka reklam oluşturucuları olan ürün pazarlaması var. Sonra Manus, Fireflies AI ve Granola gibi genel iş yönetimi var. Bunlar başlangıçta tüketiciler tarafından ödenmek gibidir, ancak AI öncesi hakkında düşüneceğimiz şekilde tüketici olmadıklarını iddia ediyorum.",
+    "Tüm bu beyaz alan kategorileri de vardır: sosyal uygulamalar, arkadaşlık uygulamaları, pazar yerleri, perakende, seyahat, finans, sağlık. Bu kategorilerde ilk 100 listemize giren yok, bu oldukça şaşırtıcı. Ve bence önümüzdeki altı ay boyunca görmemiz gereken şey de bu.",
+    "Yani belki de henüz gerçek tüketici yapay zekasını görmedik?",
+    "Kesinlikle çok erken."
+  ],
+  "tags_tr": []
+}
