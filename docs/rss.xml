@@ -6,7 +6,30 @@
     <atom:link href="https://techcrunch.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>TechCrunch haberlerinin eksiksiz Türkçe çevirisi</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 10 Oct 2026 00:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 05:57:20 +0000</lastBuildDate>
+    <item>
+      <title>Antropik bir yapay zeka modeli Philadelphia polisine sahte bir cinayet ihbarı gönderdi</title>
+      <link>https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <author>Amanda Silberling</author>
+      <description>Bir Anthropic yapay zeka modeli, çözülmemiş bir cinayet hakkında Philadelphia polisine yanlış bir ipucu verdi.</description>
+      <media:content url="https://umutevicom-commits.github.io/makale/data/images/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/GettyImages-1490947739.jpg" medium="image" type="image/jpeg" />
+      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/GettyImages-1490947739.jpg" />
+      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/GettyImages-1490947739.jpg" type="image/jpeg" length="0" />
+      <content:encoded><![CDATA[<p>Bir Anthropic yapay zeka modeli, çözülmemiş bir cinayet hakkında Philadelphia polisine yanlış bir ipucu verdi.</p>
+<p>Yapay zekanın bu yanlış bilgiyi 18 Temmuz'da kamuya açık bir Philadelphia Polis Departmanı'na (PPD) ihbar hattına gönderdiği ancak Anthropic'in bu davranışı 28 Eylül'e kadar fark etmediği bildirildi. Polis, spam olarak işaretlendiği için bahşişi görmemişti.</p>
+<p>Çarşamba günü olayı PPD'ye bildiren Anthropic, ertesi gün bölümle görüştü.</p>
+<p>&quot;Şirket, benzer olayların şehrin bilgisi olmadan şehir sistemlerini etkilemesini önlemek için önlemlerini güçlendirmeli. Olayı tespit edip Belediyeye bildirmedeki iki aylık gecikme kabul edilemez&quot; dedi.</p>
+<p>Anthropic yorum talebine hemen yanıt vermedi ancak PPD, TechCrunch'la paylaştığı e - postayla yapılan basın açıklamasında olayı detaylandırdı.</p>
+<p>&quot;Anthropic'e göre, modeli PhillyUnsolvedMurders.com'a erişip çözülmemiş bir cinayetle ilgili yanlış bilgiler sunduğunda rastgele seçilen web siteleriyle etkileşimleri içeren bir test yürütüyordu. 18 Temmuz 2026 'da saat 23:27' de yapılan başvurunun, dava hakkında bilgi sahibi olabilecek birinden geldiği iddia edildi&quot; denildi.</p>
+<p>Otonom yapay zeka ajanları tüketicilere giderek daha fazla sunulduğundan, bu olay yapay zekaya herhangi bir insan gözetimi olmadan görevleri yerine getirme yeteneği verme tehlikesini vurgulamaktadır.</p>
+<p>Anthropic CEO'su Dario Amodei, laboratuvarların yeterli korkulukları uygulayabilmesi için yapay zeka gelişiminin yavaşlatılması gerektiğine olan inancını özellikle dile getirdi. Belki de bu duruş, kısmen, şirketinin araçlarının sahte cinayet ipuçları verdiğine tanık olarak bilgilendirildi.</p>
+<p>Bu sorunlar Anthropic'e özel değildir. OpenAI kısa süre önce modellerinden birinin bir test sırasında beklenmedik bir şekilde hareket ettiğini ve yapay zeka veri kümesi platformu Hugging Face'i hackleyerek yazılımındaki kritik güvenlik açıklarını ortaya çıkardığını ortaya çıkardı. Yapay zeka modellerine insanların bilgisayarlarına ve oturum açma kimlik bilgilerine kontrolsüz erişim verilmeye devam edildiğinden, bu sorunun devam etmesi beklenmektedir.</p>
+<p>PPD, &quot;Çözülmemiş vakalar gerçek kurbanları, yas tutan aileleri ve cevapları güvence altına almak için çalışan araştırmacıları içeriyor&quot; diye ekledi. &quot;Teknoloji şirketleri, sistemlerinin kolluk kuvvetlerine yanlış bilgi vermesini önlemek için gerekli tüm adımları atmalı .&quot;</p>
+<p>PPD, Anthropic'in cuma günü olay ve diğer istenmeyen model davranış örnekleri hakkında daha fazla bilgi içeren bir rapor yayınlamayı planladığını söyledi.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/GettyImages-1490947739.jpg" alt="Police vehicles with their lights flashing alongside traffic in downtown Philadelphia." loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
     <item>
       <title>a16z'den Olivia Moore, tüketici yapay zekasının durumu hakkında konuşuyor</title>
       <link>https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/</link>
@@ -1484,29 +1507,6 @@
 <p>Gerçekten de, şu anda “beraberliğin” kendi büyük yatırım kategorisi haline gelip gelmediği belirsizdir. Yabancıların birbirleri için ortaya çıkmalarını sağlamak — toplum için ne kadar iyi olursa olsun — nakliye yazılımı kadar ölçeklenebilir değildir.</p>
 <p>Dikkate değer olan şey, bu şirketleri kimin kurduğu: Putnam, Walker, Dunn, Gelman ve Neumann daha önce bir kez gerçek bir marka oluşturdu. Bu, sermaye artırmayı kolaylaştırır ve yatırımcılara, insanların gerçekten satın aldıkları bir şeyi nasıl inşa edeceklerini bilen kurucular olduklarına dair biraz güven verir. Her biri, diskin daha önce bir kez nereye gittiğini doğru tahmin etti. Bir veya iki yıl içinde yeterli sayıda müşterinin takip edip etmediğini daha iyi öğreneceğiz.</p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/StrictlyVC-with-Brynn-Putnam-and-Tristan-Walker.jpg" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>TechCrunch Disrupt 2026 'da öne geçmek için 6 gününüz kaldı</title>
-      <link>https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <author>TechCrunch Events</author>
-      <description>200 $ tutarına kadar tasarruf etme süreniz hızla kapanıyor. Mevcut bilet fiyatlandırması 25 Eylül 23:59 PT'de sona eriyor. Ondan sonra fiyatlar yükseliyor.</description>
-      <media:content url="https://umutevicom-commits.github.io/makale/data/images/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/ac_crowd.png" medium="image" type="image/png" />
-      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/ac_crowd.png" />
-      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/ac_crowd.png" type="image/png" length="0" />
-      <content:encoded><![CDATA[<p>200 $ tutarına kadar tasarruf etme süreniz hızla kapanıyor. Mevcut bilet fiyatlandırması 25 Eylül 23:59 PT'de sona eriyor. Ondan sonra fiyatlar yükseliyor.</p>
-<p>Disrupt'ta öne geçmek, harika oturumlara katılmaktan daha fazlası anlamına gelir. Bu, tanımanız gereken insanlarla tanışmak, ana akıma girmeden önce neyin geldiğini görmek ve işe koyulabileceğiniz pratik içgörüler elde etmek anlamına gelir.</p>
-<p>TechCrunch Disrupt 2026, 10.000 'den fazla kurucu, yatırımcı, operatör ve teknoloji liderini startup ekosisteminde üç gün boyunca fikirler, bağlantılar ve fırsatlar için bir araya getiriyor.</p>
-<p>250 'den fazla konuşmacı, 200'den fazla oturum ve altı aşamayla, yapay zeka ve robotikten fintech'e, altyapıya ve işin geleceğine kadar şirketlerin nasıl kurulduğunu, finanse edildiğini ve ölçeklendirildiğini değiştiren güçler hakkında pratik bilgiler edineceksiniz.</p>
-<p>Bağlantıları kurun. Yapay zeka destekli eşleştirme, bire bir toplantılar ve Deal Flow Café dahil olmak üzere ağ oluşturma yoluyla potansiyel yatırımcılarla, müşterilerle, ortaklarla, işe alınanlarla ve ortak çalışanlarla tanışın.</p>
-<p>Piyasanın önünde olun. Liderlerin yapay zeka, rekabet avantajı, bağış toplama, yetenek, pazara açılma ve ölçeklendirme ile ilgili en büyük stratejik sorulara nasıl yaklaştıklarını dinleyin.</p>
-<p>Ortaya çıkmadan önce sırada ne olduğunu görün. 300 'den fazla startup'ı keşfedin, Startup Battlefield 200' ü izleyin ve Expo Salonunda ve altı aşamada ortaya çıkan teknolojileri keşfedin.</p>
-<p>Kullanabileceğiniz bir şeyle bırakın. Bağış toplama stratejilerinden GTM taktiklerine ve yapay zeka çağında savunulabilir şirketler kurma konusundaki içgörülere kadar Disrupt, yalnızca büyük konuşmalar değil, eyleme geçirilebilir fikirler etrafında inşa edilmiştir.</p>
-<p>Tanışmanız gereken insanlar, duymanız gereken fikirler ve kaçırmak istemediğiniz fırsatların hepsi bu Ekim ayında San Francisco'da olacak.</p>
-<p>13 -15 Ekim'de Moscone West'te bize katılın. Biletinizi 25 Eylül 23:59 PT'ye kadar alın ve fiyatlar yükselmeden önce 200 $ 'a kadar tasarruf edin.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/ac_crowd.png" alt="TechCrunch Disrupt 2023 crowd sitting at the Disrupt Stage" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/TC26_Disrupt_General_Article_Headers_1920x1080.png" alt="TechCrunch Disrupt 2026, October 13-15" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
