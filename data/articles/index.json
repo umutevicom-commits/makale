@@ -1,13 +1,23 @@
 [
   {
-    "slug": "3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream",
-    "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+    "slug": "apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe",
+    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
     "date": "10 October 2026",
-    "fetched_at": "2026-10-10T21:04:26.721358+00:00",
+    "fetched_at": "2026-10-11T00:38:36.815147+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "d47873e2dcd35518843333c80315ad845dd9f5d5db0ddc6af520409b64f3a453"
+    "content_hash": "057debc652ba729deef1154ba26de781b3fecc0bb0e600027d03242073de20fe"
+  },
+  {
+    "content_hash": "d47873e2dcd35518843333c80315ad845dd9f5d5db0ddc6af520409b64f3a453",
+    "date": "10 October 2026",
+    "fetched_at": "2026-10-10T21:04:26.721358+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/"
   },
   {
     "content_hash": "48a398bd82f12a83b74d786c53593e38d3a25162be84f0dae3ea93208f8ca606",
