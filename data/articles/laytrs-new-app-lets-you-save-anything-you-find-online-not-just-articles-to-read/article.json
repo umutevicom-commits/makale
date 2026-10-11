@@ -1,0 +1,47 @@
+{
+  "url": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
+  "slug": "laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read",
+  "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
+  "news_id": "laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read",
+  "date": "02 October 2026",
+  "author": "Sarah Perez",
+  "tags": [],
+  "body_paragraphs": [
+    "After Mozilla’s read-it-later app Pocket shut down in August, a number of alternatives popped up to take its place. But one newcomer, Laytr, is taking things further than offering a way to save things to read. The app lets you save anything on the web for later consumption, whether that’s an article, recipe, screenshot, video, PDF, bookmark, or tab.",
+    "The app also automatically sorts those different file types and lets you organize them into collections it calls “cases.” It can also remind you about a saved item on a date you choose, which could help you remember local events or places you want to visit on certain days, for instance. (Or perhaps as a way to force you to get through your reading list!)",
+    "What’s interesting about how the app works is that everything you save becomes a private archive that’s only accessible on your own device. That means you don’t have to create an account to use Laytr, and the developer can’t see anything you’ve saved either. Still, you can access your content across multiple Apple devices, including iPhone, iPad, and Mac, because the content syncs over iCloud.",
+    "The idea for Laytr comes from Ontario-area indie developer Mostafa Talaat, and is published under his company’s name, Waitery Inc. Talaat told TechCrunch he was inspired to build his own read-it-later app after hearing about Pocket’s shutdown. Creating an app without a server was a privacy choice on his part.",
+    "“What you save says a lot about you, and I didn’t want to be holding it. Everything stays on your device and in your own iCloud,” Talaat explained. “When you save something, Laytr asks when you want it back and reminds you on that day. It also imports your old Pocket export, so nobody has to start over,” he added.",
+    "Because the app is privacy-focused, there are things it won’t do, including personalizing a feed or using AI to summarize or automatically tag items.",
+    "The app is free to try, but limits you to 30 saved items. For full access, the app’s Premium tier costs either $1.99 a month, $14.99 a year, or a one-time $39.99 for a lifetime plan. (The lifetime offering is on sale for $24.99 until the end of December.) Talaat said the app will focus on adding more languages over time.",
+    "If your subscription lapses, you also won’t lose your saves — you just won’t be able to add more until you rejoin a plan or get your archive back under the 30-item limit for free plans. You can also leave Laytr at any time, as the entire archive can be exported as a ZIP file, with readable Markdown and HTML for every item, note, tag, date, and collection (aka “case”)."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/laytr2.jpg",
+      "alt": "Laytr"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/laytr1.jpg",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/01-save-anything.png",
+      "alt": ""
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-11T08:59:53.324466+00:00",
+  "title_tr": "Laytr'ın yeni uygulaması, yalnızca okunacak makaleleri değil, internette bulduğunuz her şeyi kaydetmenizi sağlıyor",
+  "body_paragraphs_tr": [
+    "Mozilla'nın daha sonra oku uygulaması Pocket'ın ağustosta kapanmasının ardından yerini bir dizi alternatif aldı. Ancak yeni gelenlerden biri olan Laytr, işleri okumak için bir şeyler kaydetmenin bir yolunu sunmaktan daha ileri götürüyor. Uygulama, ister makale, tarif, ekran görüntüsü, video, PDF, yer imi veya sekme olsun, daha sonra tüketmek üzere web'de herhangi bir şeyi kaydetmenize olanak tanır.",
+    "Uygulama ayrıca bu farklı dosya türlerini otomatik olarak sıralıyor ve bunları &quot;vakalar&quot; olarak adlandırdığı koleksiyonlar halinde düzenlemenize olanak tanıyor. Ayrıca, seçtiğiniz bir tarihte kaydedilmiş bir öğeyi size hatırlatabiliyor; bu da örneğin belirli günlerde ziyaret etmek istediğiniz yerel etkinlikleri veya yerleri hatırlamanıza yardımcı olabilir. (Ya da belki de okuma listenizi tamamlamanız için bir yol olarak!)",
+    "Uygulamanın çalışma şekliyle ilgili ilginç olan şey, kaydettiğiniz her şeyin yalnızca kendi cihazınızda erişebileceğiniz özel bir arşiv haline gelmesidir. Bu, Laytr&#39;ı kullanmak için bir hesap oluşturmanıza gerek olmadığı ve geliştiricinin de kaydettiğiniz hiçbir şeyi göremediği anlamına gelir. Yine de, içerik iCloud üzerinden senkronize edildiği için iPhone, iPad ve Mac dahil olmak üzere birden fazla Apple cihazında içeriğinize erişebilirsiniz.",
+    "Laytr fikri, Ontario bölgesinden bağımsız geliştirici Mostafa Talaat&#39;tan geliyor ve şirketi Waitery Inc. adı altında yayınlanıyor. Talaat, TechCrunch&#39;a Pocket&#39;ın kapanışını duyduktan sonra kendi &quot;sonra oku&quot; uygulamasını geliştirmeye ilham aldığını söyledi. Sunucu olmadan uygulama oluşturmak, onun açısından bir gizlilik tercihiydi.",
+    "Talaat, “Kaydettiğiniz şeyler sizin hakkınızda çok şey söylüyor ve ben bunları saklamak istemedim. Her şey cihazınızda ve kendi iCloud hesabınızda kalıyor,” diye açıkladı. “Bir şey kaydettiğinizde, Laytr ne zaman geri almak istediğinizi soruyor ve o gün size hatırlatıyor. Ayrıca eski Pocket dışa aktarımlarınızı da içe aktarıyor, böylece kimsenin baştan başlamasına gerek kalmıyor,” diye ekledi.",
+    "Uygulama gizlilik odaklı olduğundan, bir akışı kişiselleştirmek veya öğeleri özetlemek veya otomatik olarak etiketlemek için yapay zeka kullanmak da dahil olmak üzere yapmayacağı şeyler vardır.",
+    "Uygulamayı denemek ücretsizdir, ancak sizi 30 kayıtlı ürünle sınırlar. Tam erişim için, uygulamanın Premium seviyesi ayda 1,99 $, yılda 14,99 $ veya ömür boyu plan için tek seferlik 39,99 $ tutarındadır. (Ömür boyu teklif Aralık ayı sonuna kadar 24,99 $ karşılığında satılmaktadır.) Talat, uygulamanın zaman içinde daha fazla dil eklemeye odaklanacağını söyledi.",
+    "Aboneliğiniz sona ererse, kaydettiklerinizi de kaybetmezsiniz. Bir plana yeniden katılana veya ücretsiz planlar için 30 maddelik sınırın altında arşivinizi geri alana kadar daha fazlasını ekleyemezsiniz. Tüm arşiv, her öğe, not, etiket, tarih ve koleksiyon (\" vaka \"olarak da bilinir) için okunabilir Markdown ve HTML ile bir ZIP dosyası olarak dışa aktarılabildiğinden, Laytr'den istediğiniz zaman ayrılabilirsiniz."
+  ],
+  "tags_tr": []
+}
