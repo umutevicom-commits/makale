@@ -1,5 +1,25 @@
 [
   {
+    "slug": "aaron-sorkins-social-reckoning-is-off-to-a-weak-start",
+    "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
+    "date": "11 October 2026",
+    "fetched_at": "2026-10-12T00:56:09.639309+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "7683e4c17fb3d9865736d47faadf5dc362064555b8b2b2e4cc2430996bfd0194"
+  },
+  {
+    "slug": "48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next",
+    "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+    "date": "11 October 2026",
+    "fetched_at": "2026-10-12T00:55:49.708229+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "58c93881e266c1ea553cf87ceecfc21ff15f98e7b8374d1d71fb89f1fe50ea3f"
+  },
+  {
     "content_hash": "63907e6f07c6fb9849f3c78cec3c83a1946f240197913b9051ef94f2fd61516a",
     "date": "02 October 2026",
     "fetched_at": "2026-10-11T09:02:10.604769+00:00",
