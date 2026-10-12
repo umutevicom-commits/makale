@@ -1,23 +1,53 @@
 [
   {
-    "slug": "aaron-sorkins-social-reckoning-is-off-to-a-weak-start",
-    "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
-    "date": "11 October 2026",
-    "fetched_at": "2026-10-12T00:56:09.639309+00:00",
+    "slug": "from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026",
+    "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+    "date": "21 September 2026",
+    "fetched_at": "2026-10-12T09:03:24.391336+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "7683e4c17fb3d9865736d47faadf5dc362064555b8b2b2e4cc2430996bfd0194"
+    "content_hash": "5f82b0909abe87c31533def91660e81acb7ecd83fe9baf07401e6c2e5469cdc6"
   },
   {
-    "slug": "48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next",
-    "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-    "date": "11 October 2026",
-    "fetched_at": "2026-10-12T00:55:49.708229+00:00",
+    "slug": "former-waymo-cfo-jumps-to-self-driving-startup-wayve",
+    "url": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
+    "date": "16 September 2026",
+    "fetched_at": "2026-10-12T09:02:01.149781+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "58c93881e266c1ea553cf87ceecfc21ff15f98e7b8374d1d71fb89f1fe50ea3f"
+    "content_hash": "f15c30d2b01b7a229f26bbac16913f599bec87cc486cf4cd68f622efeb3e9551"
+  },
+  {
+    "slug": "former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo",
+    "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+    "date": "15 September 2026",
+    "fetched_at": "2026-10-12T08:59:55.606463+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "73c3d5733649855937ca029ad33da56a3e4dab3463a393c80aee0d3113587521"
+  },
+  {
+    "content_hash": "7683e4c17fb3d9865736d47faadf5dc362064555b8b2b2e4cc2430996bfd0194",
+    "date": "11 October 2026",
+    "fetched_at": "2026-10-12T00:56:09.639309+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "aaron-sorkins-social-reckoning-is-off-to-a-weak-start",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/"
+  },
+  {
+    "content_hash": "58c93881e266c1ea553cf87ceecfc21ff15f98e7b8374d1d71fb89f1fe50ea3f",
+    "date": "11 October 2026",
+    "fetched_at": "2026-10-12T00:55:49.708229+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/"
   },
   {
     "content_hash": "63907e6f07c6fb9849f3c78cec3c83a1946f240197913b9051ef94f2fd61516a",

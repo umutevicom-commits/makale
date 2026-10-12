@@ -1,0 +1,53 @@
+{
+  "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+  "slug": "former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo",
+  "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+  "news_id": "former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo",
+  "date": "15 September 2026",
+  "author": "Ivan Mehta",
+  "tags": [],
+  "body_paragraphs": [
+    "Companies have been increasingly using AI’s image generation chops to teach people photography skills. Google last year released a feature called Camera Coach on Pixel phones to guide users about framing and composition, and in July, Adobe released a new feature in its experimental camera app to use AI to critique photos and suggest changes for capture.",
+    "On the same slant, two former TikTok employees, Melody Chu and Jing Liu, are launching a new iOS app called Superpose that uses an AI guide to teach people how to pose for pictures.",
+    "Superpose essentially is a camera app. Users can take a selfie or photo of a friend, and the app will generate four potential poses using AI. Some of the poses are extravagant, and, at times, the generation seems uncanny.",
+    "Users can save generated poses, or use the match-pose feature to try to place themselves in the frame based on its suggestions.",
+    "Prior to founding Superpose, Chu worked in various product roles in companies like Meta, Nextdoor, Roblox, TikTok, and Slack. Meanwhile, Liu was a founding engineer at a 3D face-scanning startup, and later worked on image and video models at TikTok.",
+    "Chu said that the idea for the app stemmed from a personal problem: her husband wasn’t able to take good photos of her.",
+    "“My husband just takes awful photos of me. It was a true pain point in our marriage where I don’t understand how he gets me to look just so terrible all the time. And I thought to myself, there has to be a way to solve this problem with advancements in computer vision and generative AI. And I decided to set out on my own,” Chu told TechCrunch.",
+    "Superpose was launched in July, and has been downloaded over 22,000 times so far. The company says its users have generated more than 190,000 poses. The app gives users five generations for free every day, but they can buy a pack of five additional generations for $2.99, or 20 generations for $9.99.",
+    "Loading the player…",
+    "While Chu acknowledged that other companies are also entering the AI-guided photography space, she said Superpose wants to focus on becoming the best camera to take portrait photos by following directions from AI. The startup doesn’t want to get into creating AI backgrounds and images, and wants to focus on real-life photographs, she added.",
+    "“We want to lean into the core of memory capture versus, say, putting you in a fantastical place that you’ve never been. I think there are so many apps that do that well already, but we really wanna focus on actually capturing the lived moment and experience,” Chu said.",
+    "She also acknowledged that some of the pose suggestions might seem uncanny, and the company is working on improving that. The startup says it is working on improving its generation styles, personalization, and ways to better coach users directly from the viewfinder.",
+    "Superpose has raised $2.2 million in funding from Khosla Ventures, Chinese smartphone and selfie app maker Meitu, and OVTR VC."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/PressKit_Superpose_Hero.jpeg",
+      "alt": "Superpose app on smartphone screen"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/PressKit_Superpose_Mobile.jpeg",
+      "alt": ""
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-12T08:59:55.606463+00:00",
+  "title_tr": "Eski TikTok yöneticileri, size bir fotoğraf için nasıl poz vereceğinizi öğretmek için yapay zeka kullanan bir uygulama geliştirdi",
+  "body_paragraphs_tr": [
+    "Şirketler, yapay zekanın görüntü oluşturma yeteneklerini giderek daha fazla kullanarak insanlara fotoğrafçılık becerileri öğretiyor. Google geçen yıl Pixel telefonlarında kadraj ve kompozisyon konusunda kullanıcılara rehberlik eden Camera Coach adlı bir özellik yayınladı ve Temmuz ayında Adobe, deneysel kamera uygulamasında fotoğrafları eleştirmek ve çekim için değişiklikler önermek üzere yapay zekayı kullanan yeni bir özellik yayınladı.",
+    "Benzer bir yaklaşımla, eski TikTok çalışanları Melody Chu ve Jing Liu, yapay zeka destekli bir rehber kullanarak insanlara fotoğraf çekimi için nasıl poz vereceklerini öğreten Superpose adlı yeni bir iOS uygulaması piyasaya sürüyor.",
+    "Superpose aslında bir kamera uygulamasıdır. Kullanıcılar bir arkadaşının selfie'sini veya fotoğrafını çekebilir ve uygulama yapay zeka kullanarak dört potansiyel poz oluşturur. Bazı pozlar abartılıdır ve bazen nesil esrarengiz görünür.",
+    "Kullanıcılar oluşturulan pozları kaydedebilir veya önerilerine göre kendilerini çerçeveye yerleştirmeye çalışmak için eşleştirme özelliğini kullanabilirler.",
+    "Superpose&#39;u kurmadan önce Chu, Meta, Nextdoor, Roblox, TikTok ve Slack gibi şirketlerde çeşitli ürün geliştirme pozisyonlarında çalıştı. Liu ise 3D yüz tarama alanında faaliyet gösteren bir girişimde kurucu mühendis olarak görev yaptı ve daha sonra TikTok&#39;ta görüntü ve video modelleri üzerinde çalıştı.",
+    "Chu, uygulamanın fikrinin kişisel bir sorundan kaynaklandığını söyledi: kocası onun iyi fotoğraflarını çekemiyordu.",
+    "\"Kocam sadece korkunç fotoğraflarımı çekiyor. Evliliğimizde her zaman beni nasıl bu kadar berbat gösterdiğini anlamadığım gerçek bir acı noktasıydı. Ve kendi kendime düşündüm, bu sorunu bilgisayar görüşü ve üretken yapay zekadaki gelişmelerle çözmenin bir yolu olmalı. Ve kendi başıma yola çıkmaya karar verdim\" dedi.",
+    "Superpose temmuzda piyasaya sürülmüş ve şimdiye kadar 22 binden fazla kez indirilmişti. Şirket, kullanıcılarının 190 binden fazla poz ürettiğini söylüyor. Uygulama, kullanıcılara her gün ücretsiz olarak beş nesil verir, ancak beş ek nesilden oluşan bir paketi 2,99 $ karşılığında veya 20 nesli 9,99 $ karşılığında satın alabilirler.",
+    "Player Yüklenirken SSL Kullanın:",
+    "Chu, diğer şirketlerin de yapay zeka rehberliğinde fotoğraf alanına girdiğini kabul ederken, Superpose'un yapay zekanın talimatlarını izleyerek portre fotoğrafları çekmek için en iyi kamera olmaya odaklanmak istediğini söyledi. Girişimin yapay zeka arka planları ve görüntüleri oluşturmaya başlamak istemediğini ve gerçek hayattaki fotoğraflara odaklanmak istediğini de sözlerine ekledi.",
+    "\"Diyelim ki sizi hiç bulunmadığınız fantastik bir yere koymak yerine, bellek yakalamanın özüne yaslanmak istiyoruz. Bence bunu zaten iyi yapan çok fazla uygulama var ama biz gerçekten yaşanılan anı ve deneyimi yakalamaya odaklanmak istiyoruz\" dedi.",
+    "Ayrıca, bazı poz önerilerinin tuhaf görünebileceğini ve şirketin bunu iyileştirmek için çalıştığını da kabul etti. Girişim, oluşturma stillerini, kişiselleştirmeyi ve kullanıcıları doğrudan vizörden daha iyi yönlendirmenin yollarını geliştirmek üzerinde çalıştığını söylüyor.",
+    "Superpose, Khosla Ventures, Çinli akıllı telefon ve selfie uygulaması üreticisi Meitu ve OVTR VC'den 2,2 milyon $ fon topladı."
+  ],
+  "tags_tr": []
+}

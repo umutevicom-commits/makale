@@ -1,0 +1,47 @@
+{
+  "url": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
+  "slug": "former-waymo-cfo-jumps-to-self-driving-startup-wayve",
+  "title": "Former Waymo CFO jumps to self-driving startup Wayve",
+  "news_id": "former-waymo-cfo-jumps-to-self-driving-startup-wayve",
+  "date": "16 September 2026",
+  "author": "Kirsten Korosec",
+  "tags": [],
+  "body_paragraphs": [
+    "Elisa de Martel, who was chief financial officer at Alphabet’s autonomous vehicle company Waymo, has been hired to the same position at buzzy self-driving vehicle startup Wayve. Outgoing CFO Max Warburton, who held the position at Wayve since 2024, is moving into a strategic advisory role supporting the company’s leadership team.",
+    "Her appointment as CFO comes as Wayve moves from development and testing to a company on the verge of deploying its automated driving technology on two fronts: robotaxis and passenger vehicles.",
+    "De Martel, who will be based out of Sunnyvale, California, has a history of working for tech companies, including as CFO at industrial-grade 3D printing company Carbon and an 11-year stint as manufacturing finance director at Apple. She was CFO at Waymo from 2022 to January 2026 — a critical period for the company as it began to commercially operate in several cities and raised $5.6 billion in a Series C fundraising round that was led by its parent company and pushed its valuation to more than $45 billion.",
+    "Wayve now sits in a similarly pivotal moment. The startup, which was founded in 2017 and is now valued at about $8.5 billion, attracted investors and automotive customers for its self-learning approach to its automated driving software. The company developed a software layer using an end-to-end neural network that doesn’t rely on high-definition maps, custom hardware, or hand-coded rules and only uses data to teach the vehicle how to drive.",
+    "The company’s tech is the basis of two products: an “eyes on” assisted-driving system and an “eyes off” fully automated-driving system, which could be applied to robotaxis or consumer vehicles that can handle all of the driving in certain environments.",
+    "Wayve’s pitch, and the agnostic nature of its technology, has resonated with automakers already locked into certain hardware. It’s also attracted investors — Wayve has raised $3.2 billion to date — and companies like Uber that want to use a more capable version of the self-driving tech to deploy robotaxis.",
+    "While de Martel has a well-documented career in top financial posts, it was her connection to deep tech that was particularly attractive to Wayve’s leadership, including founder and CEO Alex Kendall, according to insiders who asked not to be named.",
+    "As CFO at Wayve, she will oversee financial strategy and planning, capital allocation, reporting, governance, treasury, and tax. The company said she will also work closely with Wayve’s executive team to support and advise on commercial, investor, and strategic partnership deals.",
+    "Wayve has locked in a number of partnerships with automakers, including Nissan and Stellantis. The company has also made progress on the automated vehicle driving systems for robotaxis; the company recently launched public rides in London — with a human safety operator on board — and Tokyo is expected to follow soon.",
+    "Now the company has to push past this historically precarious point of early and limited deployment and into a high-volume supplier to automotive."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/former-waymo-cfo-jumps-to-self-driving-startup-wayve/Wayve-Germany-02.jpg",
+      "alt": "Wayve car headlight/hood"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/former-waymo-cfo-jumps-to-self-driving-startup-wayve/Elisa-wayve-cfo.jpg",
+      "alt": ""
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-12T09:02:01.149781+00:00",
+  "title_tr": "Eski Waymo CFO'su sürücüsüz startup Wayve'e geçti",
+  "body_paragraphs_tr": [
+    "Alphabet'in otonom araç şirketi Waymo'da finans direktörü olan Elisa de Martel, buzzy otonom araç girişimi Wayve'de aynı pozisyona işe alındı. 2024 'ten bu yana Wayve'de görev yapan görevden ayrılan CFO Max Warburton, şirketin liderlik ekibini destekleyen stratejik danışmanlık rolüne geçiyor.",
+    "CFO olarak atanması, Wayve'in geliştirme ve testten, otomatik sürüş teknolojisini iki cephede kullanmanın eşiğindeki bir şirkete geçmesiyle geliyor: robotaks ve binek araçlar.",
+    "Kaliforniya, Sunnyvale merkezli olacak De Martel, endüstriyel sınıf 3D baskı şirketi Carbon'da CFO ve Apple'da üretim finans direktörü olarak 11 yıllık bir görev süresi de dahil olmak üzere teknoloji şirketleri için çalışma geçmişine sahiptir. 2022 'den Ocak 2026' ya kadar Waymo'da CFO olarak görev yaptı — şirket için kritik bir dönemdi, çünkü birkaç şehirde ticari olarak faaliyet göstermeye başladı ve ana şirketi tarafından yönetilen C Serisi bağış toplama turunda 5,6 milyar $ topladı ve değerlemesini 45 milyar dolardan fazla $ 'a çıkardı.",
+    "Wayve şu anda benzer şekilde çok önemli bir dönüm noktasında bulunuyor. 2017 yılında kurulan ve şu anda yaklaşık 8,5 milyar dolar değerinde olan bu girişim, otomatik sürüş yazılımına yönelik kendi kendine öğrenme yaklaşımıyla yatırımcıları ve otomotiv müşterilerini kendine çekti. Şirket, yüksek çözünürlüklü haritalara, özel donanıma veya elle kodlanmış kurallara dayanmayan ve yalnızca verileri kullanarak araca nasıl sürüleceğini öğreten uçtan uca bir sinir ağı kullanan bir yazılım katmanı geliştirdi.",
+    "Şirketin teknolojisi, iki ürünün temelini oluşturuyor: belirli ortamlarda tüm sürüşü idare edebilen robotakslara veya tüketici araçlarına uygulanabilen bir \"göz açık\" destekli sürüş sistemi ve bir \"göz kapalı\" tam otomatik sürüş sistemi.",
+    "Wayve'in konuşması ve teknolojisinin agnostik doğası, halihazırda belirli donanımlara kilitlenmiş otomobil üreticileriyle yankılandı. Aynı zamanda yatırımcıları da cezbetti — Wayve bugüne kadar 3,2 milyar $ topladı — ve Uber gibi robotaksileri dağıtmak için kendi kendine sürüş teknolojisinin daha yetenekli bir versiyonunu kullanmak isteyen şirketler.",
+    "De Martel, üst düzey finans görevlerinde iyi belgelenmiş bir kariyere sahip olsa da, adını vermek istemeyen içeridekilere göre, kurucusu ve CEO'su Alex Kendall da dahil olmak üzere Wayve'in liderliği için özellikle çekici olan derin teknolojiyle olan bağlantısıydı.",
+    "Wayve'de CFO olarak finansal strateji ve planlama, sermaye tahsisi, raporlama, yönetişim, hazine ve vergiyi denetleyecektir. Şirket ayrıca ticari, yatırımcı ve stratejik ortaklık anlaşmalarını desteklemek ve tavsiyelerde bulunmak için Wayve'nin yönetim ekibiyle yakın bir şekilde çalışacağını söyledi.",
+    "Wayve, Nissan ve Stellantis de dahil olmak üzere otomobil üreticileriyle bir dizi ortaklık kurdu. Şirket ayrıca robotaksis için otomatik araç sürüş sistemlerinde de ilerleme kaydetti; şirket kısa süre önce Londra'da bir insan güvenliği operatörüyle halka açık gezintiler başlattı ve Tokyo'nun da yakında bunu takip etmesi bekleniyor.",
+    "Şimdi şirket, tarihsel olarak güvencesiz olan bu erken ve sınırlı dağıtım noktasını aşarak yüksek hacimli bir otomotiv tedarikçisine dönüşmek zorunda."
+  ],
+  "tags_tr": []
+}
