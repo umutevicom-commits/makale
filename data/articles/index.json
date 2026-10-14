@@ -1,33 +1,33 @@
 [
   {
-    "slug": "apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells",
-    "url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
+    "content_hash": "596a708a5dda269751c962d1c6d4956f483974fd458632fca5549b29ee15d3f8",
     "date": "13 October 2026",
     "fetched_at": "2026-10-13T22:14:52.231957+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "596a708a5dda269751c962d1c6d4956f483974fd458632fca5549b29ee15d3f8"
+    "retries": 0,
+    "slug": "apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/"
   },
   {
-    "slug": "apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag",
-    "url": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
+    "content_hash": "825eb801085bf2ea8faba40579b169dfdba3781af65e4c38c4116e9234ffb831",
     "date": "13 October 2026",
     "fetched_at": "2026-10-13T22:14:38.842700+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "825eb801085bf2ea8faba40579b169dfdba3781af65e4c38c4116e9234ffb831"
+    "retries": 0,
+    "slug": "apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/"
   },
   {
-    "slug": "apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands",
-    "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
+    "content_hash": "511c50fa746c86fc21b9692eb41d9f4f903521f6120d225ec58b14c7556cafa1",
     "date": "13 October 2026",
     "fetched_at": "2026-10-13T22:14:22.665674+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "511c50fa746c86fc21b9692eb41d9f4f903521f6120d225ec58b14c7556cafa1"
+    "retries": 0,
+    "slug": "apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/"
   },
   {
     "content_hash": "a164c54256933c2c735a69229ea91cdb2834f0fc79179f083ce1a9d84a6954ee",
