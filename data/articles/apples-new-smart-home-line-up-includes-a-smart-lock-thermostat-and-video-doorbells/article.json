@@ -1,0 +1,44 @@
+{
+  "url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
+  "slug": "apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells",
+  "title": "Apple’s new smart home lineup includes a smart lock, thermostat, and video doorbells",
+  "news_id": "apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells",
+  "date": "13 October 2026",
+  "author": "Lauren Forristal",
+  "tags": [],
+  "body_paragraphs": [
+    "Apple is getting serious about the smart home space. The company on Tuesday showed off its new Apple Home Collection, which includes a new smart deadbolt lock, video doorbell, thermostat, temperature sensor, and a range of security cameras.",
+    "The new devices are designed to work with HomeView, the company’s new smart home hub which can be used to control connected accessories and interact with Apple’s software.",
+    "This new range of smart home accessories could help Apple compete better with Amazon Ring and Google Nest, two established players in connected home security. The products will become available in December.",
+    "Apple says the devices were built in partnership with LG Electronics and Schneider Electric — an interesting move for the company, which has long sought to build and support every smart home accessory itself.",
+    "The smart lock, priced at $349.95, stands out for its support for ultra-wideband (UWB), a wireless technology that enables more precise proximity detection than traditional Bluetooth. This could allow the lock to recognize when an authorized user approaches and automatically unlock the door, reducing the need to pull out a phone or reach for a physical key.",
+    "The $249.95 wired video doorbell, meanwhile, will let homeowners see who’s outside, monitor visitors, and receive notifications when someone approaches their property. When someone rings it, a chime will sound through Apple devices like HomeView, HomePod, and HomePod mini. Users will also be notified on their iPhone or iPad.",
+    "As for the temperature sensor, it can provide insight into conditions in individual rooms, helping users identify temperature differences between areas and make adjustments.",
+    "For security, Apple is also introducing indoor and outdoor cameras, as well as a floodlight camera ($399.95) that combines exterior lighting with video monitoring. The camera lineup includes features such as live viewing, motion detection, intelligent alerts, and video storage."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/Apple-Home-Collection-lineup-261013_big_jpg_large_2x.jpg",
+      "alt": ""
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/embed/SqkhdhuN6OU?si=NJXmlR-AkIzvllDM&autoplay=1&mute=1",
+      "title": "YouTube video player"
+    }
+  ],
+  "fetched_at": "2026-10-13T22:14:52.231957+00:00",
+  "title_tr": "Apple'ın yeni akıllı ev serisinde akıllı kilit, termostat ve görüntülü kapı zilleri bulunuyor",
+  "body_paragraphs_tr": [
+    "Apple akıllı ev alanı konusunda ciddileşiyor. Salı günü şirket, yeni bir akıllı sürgü kilidi, görüntülü kapı zili, termostat, sıcaklık sensörü ve bir dizi güvenlik kamerası içeren yeni Apple Home Koleksiyonu'nu tanıttı.",
+    "Yeni cihazlar, bağlı aksesuarları kontrol etmek ve Apple'ın yazılımıyla etkileşim kurmak için kullanılabilen şirketin yeni akıllı ev merkezi HomeView ile çalışacak şekilde tasarlandı.",
+    "Bu yeni akıllı ev aksesuarları yelpazesi, Apple'ın bağlı ev güvenliğinde yerleşik iki oyuncu olan Amazon Ring ve Google Nest ile daha iyi rekabet etmesine yardımcı olabilir. Ürünler Aralık ayında satışa sunulacak.",
+    "Apple, cihazların LG Electronics ve Schneider Electric ortaklığıyla üretildiğini söylüyor. Bu, uzun zamandır her akıllı ev aksesuarını kendisi inşa etmeye ve desteklemeye çalışan şirket için ilginç bir hamle.",
+    "349,95 $ fiyatlı akıllı kilit, geleneksel Bluetooth'tan daha hassas yakınlık algılaması sağlayan kablosuz bir teknoloji olan ultra geniş bant (UWB) desteğiyle öne çıkıyor. Bu, kilidin yetkili bir kullanıcının ne zaman yaklaştığını algılamasını ve kapının kilidini otomatik olarak açmasını sağlayarak bir telefonu çıkarma veya fiziksel bir anahtara ulaşma ihtiyacını azaltabilir.",
+    "Bu arada 249,95 $ değerindeki kablolu görüntülü kapı zili, ev sahiplerinin dışarıda kimin olduğunu görmesine, ziyaretçileri izlemesine ve biri mülklerine yaklaştığında bildirim almasına olanak tanıyacak. Birisi çaldığında HomeView, HomePod ve HomePod mini gibi Apple cihazlarından bir zil sesi duyulur. Kullanıcılar ayrıca iPhone veya iPad'lerinde de bilgilendirilecek.",
+    "Sıcaklık sensörüne gelince, kullanıcıların alanlar arasındaki sıcaklık farklarını belirlemelerine ve ayarlamalar yapmalarına yardımcı olarak tek tek odalardaki koşullar hakkında fikir verebilir.",
+    "Güvenlik için Apple, iç ve dış mekan kameralarının yanı sıra dış aydınlatmayı video izleme ile birleştiren bir projektör kamerası (399,95 $) da tanıtıyor. Kamera serisi, canlı görüntüleme, hareket algılama, akıllı uyarılar ve video depolama gibi özellikleri içerir."
+  ],
+  "tags_tr": []
+}

@@ -6,7 +6,70 @@
     <atom:link href="https://techcrunch.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>TechCrunch haberlerinin eksiksiz Türkçe çevirisi</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 13 Oct 2026 19:18:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 00:11:56 +0000</lastBuildDate>
+    <item>
+      <title>Apple'ın yeni akıllı ev serisinde akıllı kilit, termostat ve görüntülü kapı zilleri bulunuyor</title>
+      <link>https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <author>Lauren Forristal</author>
+      <description>Apple akıllı ev alanı konusunda ciddileşiyor. Salı günü şirket, yeni bir akıllı sürgü kilidi, görüntülü kapı zili, termostat, sıcaklık sensörü ve bir dizi güvenlik kamerası içeren yeni Apple Home Koleksiyonu'nu tanıttı.</description>
+      <media:content url="https://umutevicom-commits.github.io/makale/data/images/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/Apple-Home-Collection-lineup-261013_big_jpg_large_2x.jpg" medium="image" type="image/jpeg" />
+      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/Apple-Home-Collection-lineup-261013_big_jpg_large_2x.jpg" />
+      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/Apple-Home-Collection-lineup-261013_big_jpg_large_2x.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://www.youtube.com/embed/SqkhdhuN6OU?si=NJXmlR-AkIzvllDM&amp;autoplay=1&amp;mute=1" medium="video" />
+      <content:encoded><![CDATA[<p>Apple akıllı ev alanı konusunda ciddileşiyor. Salı günü şirket, yeni bir akıllı sürgü kilidi, görüntülü kapı zili, termostat, sıcaklık sensörü ve bir dizi güvenlik kamerası içeren yeni Apple Home Koleksiyonu'nu tanıttı.</p>
+<p>Yeni cihazlar, bağlı aksesuarları kontrol etmek ve Apple'ın yazılımıyla etkileşim kurmak için kullanılabilen şirketin yeni akıllı ev merkezi HomeView ile çalışacak şekilde tasarlandı.</p>
+<p>Bu yeni akıllı ev aksesuarları yelpazesi, Apple'ın bağlı ev güvenliğinde yerleşik iki oyuncu olan Amazon Ring ve Google Nest ile daha iyi rekabet etmesine yardımcı olabilir. Ürünler Aralık ayında satışa sunulacak.</p>
+<p>Apple, cihazların LG Electronics ve Schneider Electric ortaklığıyla üretildiğini söylüyor. Bu, uzun zamandır her akıllı ev aksesuarını kendisi inşa etmeye ve desteklemeye çalışan şirket için ilginç bir hamle.</p>
+<p>349,95 $ fiyatlı akıllı kilit, geleneksel Bluetooth'tan daha hassas yakınlık algılaması sağlayan kablosuz bir teknoloji olan ultra geniş bant (UWB) desteğiyle öne çıkıyor. Bu, kilidin yetkili bir kullanıcının ne zaman yaklaştığını algılamasını ve kapının kilidini otomatik olarak açmasını sağlayarak bir telefonu çıkarma veya fiziksel bir anahtara ulaşma ihtiyacını azaltabilir.</p>
+<p>Bu arada 249,95 $ değerindeki kablolu görüntülü kapı zili, ev sahiplerinin dışarıda kimin olduğunu görmesine, ziyaretçileri izlemesine ve biri mülklerine yaklaştığında bildirim almasına olanak tanıyacak. Birisi çaldığında HomeView, HomePod ve HomePod mini gibi Apple cihazlarından bir zil sesi duyulur. Kullanıcılar ayrıca iPhone veya iPad'lerinde de bilgilendirilecek.</p>
+<p>Sıcaklık sensörüne gelince, kullanıcıların alanlar arasındaki sıcaklık farklarını belirlemelerine ve ayarlamalar yapmalarına yardımcı olarak tek tek odalardaki koşullar hakkında fikir verebilir.</p>
+<p>Güvenlik için Apple, iç ve dış mekan kameralarının yanı sıra dış aydınlatmayı video izleme ile birleştiren bir projektör kamerası (399,95 $) da tanıtıyor. Kamera serisi, canlı görüntüleme, hareket algılama, akıllı uyarılar ve video depolama gibi özellikleri içerir.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/Apple-Home-Collection-lineup-261013_big_jpg_large_2x.jpg" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<div style="clear:both;margin:16px 0;position:relative;width:100%;padding-top:56.25%;overflow:hidden;background:#000;"><iframe src="https://www.youtube.com/embed/SqkhdhuN6OU?si=NJXmlR-AkIzvllDM&amp;autoplay=1&amp;mute=1" title="YouTube video player" loading="lazy" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;display:block;border:0;float:none;"></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Apple, HomePod mini'sini yeni bir çip ve 149 $ fiyat etiketi ile yeniledi</title>
+      <link>https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <author>Ivan Mehta</author>
+      <description>Apple'ın yeni HomeView cihazı, salı günkü akıllı ev etkinliğinde gösterinin merkeziydi, ancak şirket ayrıca HomePod mini akıllı hoparlörünü yeni bir çip ve Siri AI entegrasyonu ile yeniledi.</description>
+      <media:content url="https://umutevicom-commits.github.io/makale/data/images/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/Apple-HomePod-mini-2-color-lineup-261013_big_jpg_large_2x.jpg" medium="image" type="image/jpeg" />
+      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/Apple-HomePod-mini-2-color-lineup-261013_big_jpg_large_2x.jpg" />
+      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/Apple-HomePod-mini-2-color-lineup-261013_big_jpg_large_2x.jpg" type="image/jpeg" length="0" />
+      <media:content url="https://www.youtube.com/embed/SqkhdhuN6OU?si=NJXmlR-AkIzvllDM&amp;autoplay=1&amp;mute=1" medium="video" />
+      <content:encoded><![CDATA[<p>Apple'ın yeni HomeView cihazı, salı günkü akıllı ev etkinliğinde gösterinin merkeziydi, ancak şirket ayrıca HomePod mini akıllı hoparlörünü yeni bir çip ve Siri AI entegrasyonu ile yeniledi.</p>
+<p>$ 149 güncellemesi, altı yıl önce 2020 'de piyasaya sürülen orijinal sürümden 50 $ daha pahalıdır. Yeni HomePod mini, dinamik aralığı, ses yüksekliğini ve akustik performansı optimize etmeye yardımcı olan bir S10 çipine sahiptir.</p>
+<p>Yeni HomePod mini ile kullanıcılar akıllı ev cihazlarını sesli komutlarla kontrol edebiliyor. Ayrıca, hoparlör duman alarmı gibi sesleri dinleyebilir ve Alexa cihazlarının yıllardır sunduğu bir özellik olan kullanıcıların telefonlarına bir bildirim gönderebilir.</p>
+<p>Apple, Siri AI ile kullanıcıların çok turlu konuşmalar yapabileceğini söyledi, ancak yeni asistanın HomePod mini 2 alıcılarına ne zaman sunulacağı konusunda bir tarih vermedi.</p>
+<p>Şirket ayrıca yeni hoparlörün diğer cihazlarla daha iyi çalıştığını söyledi. Örneğin, kullanıcılar yeni Apple TV 4K ile eşleştirilmiş dört hoparlörlü bir ev eğlence sistemi oluşturabilirler. Ayrıca, HomePod mini 2 hoparlörleri, yerleşik hoparlörler yerine video görüşmeleri veya müzik çalma için Mac'in varsayılan hoparlörü olabilir.</p>
+<p>Cihazın yeni bir özelliği daha var: HomePod mini'nin üst kısmını müzikle senkronize bir şekilde parıldayacak ve nabız atacak görsel bir tuvale dönüştürmek için albüm sanatının renk şemasını kullanan “Sound Glow” adlı görsel bir tuval. Kullanıcılar ayrıca animasyonları başlatmak için yağmur veya okyanus dalgaları gibi ses manzaralarını da seçebilir.</p>
+<p>Yeni hoparlör pembe, yeşil, mavi, beyaz ve gece yarısı varyantlarında geliyor ve 30 Ekim'den itibaren satışa sunulacak. Tüketiciler bugünden itibaren ön sipariş verebilirler.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/Apple-HomePod-mini-2-color-lineup-261013_big_jpg_large_2x.jpg" alt="array of 5 Apple HomePod minis" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<div style="clear:both;margin:16px 0;position:relative;width:100%;padding-top:56.25%;overflow:hidden;background:#000;"><iframe src="https://www.youtube.com/embed/SqkhdhuN6OU?si=NJXmlR-AkIzvllDM&amp;autoplay=1&amp;mute=1" title="YouTube video player" loading="lazy" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;display:block;border:0;float:none;"></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Apple, Siri AI ve uzaktan kumandasız ses komutlarıyla yeni bir Apple TV 4K'yı piyasaya sürdü</title>
+      <link>https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <author>Ivan Mehta</author>
+      <description>Apple, bugün yükseltilmiş bir çip, içerik keşfi için Siri AI'nın güncellenmiş sürümü ile entegrasyon ve kullanıcıların uzaktan kumandayı kullanmadan doğrudan sesli komutlar vermesine izin veren mikrofonlarla yeni bir 299 $ Apple TV 4K akış cihazını piyasaya sürdü.</description>
+      <media:content url="https://umutevicom-commits.github.io/makale/data/images/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/Apple-TV-4K-261013_big_jpg_large_2x.jpg" medium="image" type="image/jpeg" />
+      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/Apple-TV-4K-261013_big_jpg_large_2x.jpg" />
+      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/Apple-TV-4K-261013_big_jpg_large_2x.jpg" type="image/jpeg" length="0" />
+      <content:encoded><![CDATA[<p>Apple, bugün yükseltilmiş bir çip, içerik keşfi için Siri AI'nın güncellenmiş sürümü ile entegrasyon ve kullanıcıların uzaktan kumandayı kullanmadan doğrudan sesli komutlar vermesine izin veren mikrofonlarla yeni bir 299 $ Apple TV 4K akış cihazını piyasaya sürdü.</p>
+<p>Yenilenen Apple TV 4K, çeşitli yapay zeka özelliklerini etkinleştirmek için yükseltilmiş bir A19 çip ile birlikte gelir. Donanım açısından yeni akış kutusu, kullanıcıların uzaktan kumanda veya eşleştirilmiş bir HomePod olmadan Siri ile konuşmasını sağlayan üç uzak alan mikrofonuyla birlikte geliyor.</p>
+<p>Şirket, kullanıcıların artık Apple TV 4K ve HomePod mini 2 veya HomePod 2 hoparlörlerle dört hoparlörlü surround ses deneyimi yaşayabileceğini söyledi.</p>
+<p>Uzaktan kumanda ayrıca hoş bir güncelleme alır: Artık küçük bir hoparlör içerir. Bu, kullanıcıların uzaktan kumandayı kanepenin köşelerinde ve köşelerinde kaybolduğunda veya bir angarya yaparken başka bir odada bıraktıklarında kolayca bulmalarına yardımcı olur. (Apple, 2023 'te Siri ve Find My ile uzaktan kumandayı bulmanın bir yolunu ekledi, ancak sesli bir ses yerine uygulamada yol tarifini göstermeye bağlıydı.)</p>
+<p>Siri AI artık tüm Apple platformlarına yayılırken, Apple için en önemli şey onu daha iyi kişiselleştirme ve içerik önerileri için kullanmaktır. İzleyiciler Apple TV'de içerik aramak için &quot;Bu yıl Emmy Ödülleri'nde hangi Apple TV şovları kazandı ?&quot; gibi sorular sorabilir veya &quot;'Pluribus ‘nerede çekildi ?&quot; gibi soruları olan şovlar hakkında daha fazla bilgi isteyebilir.</p>
+<p>Rakipler Google ve Amazon da son birkaç yılda içerik önerileri için yapay zeka ekledi.</p>
+<p>Cihaz, uzun süredir bekleyen bu yükseltmenin 2022 'de Apple TV 4K'nın piyasaya sürülmesinden dört yıl sonra geldiği göz önüne alındığında, diğer Apple donanımları kadar sık güncellenmiyor. Bloomberg, şirketin yeni cihazı 2024' te piyasaya sürmek istediğini, ancak yapay zeka destekli Siri'nin piyasaya sürülmesindeki gecikmelerin Apple'ı yeni ev cihazlarının piyasaya sürülmesini de zorlamaya zorladığını bildirdi.</p>
+<p>Tüketiciler bugünden itibaren yeni Apple TV 4K'yı ön sipariş verebilir ve cihaz 13 Kasım'da satışa sunulacak.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/Apple-TV-4K-261013_big_jpg_large_2x.jpg" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
     <item>
       <title>Yapay zeka endüstrisi, gizlilik anlaşmalarından kurtularak veri merkezi rakiplerini ikna edebilir mi?</title>
       <link>https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/</link>
@@ -1447,61 +1510,6 @@
 <p>Teknolojinin kanseri tedavi etme potansiyeli gibi sözde faydalarına gelince, kurgusal Amodei, &quot;Şöyle söyleyeyim: 10 yıl içinde kanserin kimse için sorun olmayacağına dair yaklaşık % 10 'luk bir şans var&quot; dedi.</p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/anthropics-dario-amodei-gets-the-snl-treatment/saturday-night-live.jpg" alt="Saturday Night Live impression of Dario Amodei" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
 <div style="clear:both;margin:16px 0;position:relative;width:100%;padding-top:56.25%;overflow:hidden;background:#000;"><iframe src="https://www.youtube.com/embed/-Nvne3LzBls?feature=oembed" title="Weekend Update: Anthropic CEO Dario Amodei on A.I.’s Threat to Humanity - SNL" loading="lazy" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;display:block;border:0;float:none;"></iframe></div>]]></content:encoded>
-    </item>
-    <item>
-      <title>Anthropic, Akamai'ye bulut anlaşmasında yedi yıl boyunca 11,6 milyar $ ödeyecek</title>
-      <link>https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <author>Aditya Mehta</author>
-      <description>Akamai Perşembe günü yaptığı açıklamada, Anthropic'in Akamai'nin bulut altyapısına yedi yıl boyunca 11,6 milyar $ harcayacağını söyledi. Bu, Bloomberg'in mayısta bildirdiği iki şirket arasındaki 1,8 milyar $ değerindeki anlaşmanın 6 katından fazla. Taahhüt sağlam değildir; Akamai'nin menkul kıymet dosyalamasına göre, Akamai'nin belirli teslimat ve hizmet kullanılabilirliği gereksinimlerini karşılamasına bağlıdır ve her iki şirket de sözleşmeyi belirli koşullar altında sona erdirebilir.</description>
-      <media:content url="https://umutevicom-commits.github.io/makale/data/images/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/GettyImages-1333934328.jpg" medium="image" type="image/jpeg" />
-      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/GettyImages-1333934328.jpg" />
-      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/GettyImages-1333934328.jpg" type="image/jpeg" length="0" />
-      <content:encoded><![CDATA[<p>Akamai Perşembe günü yaptığı açıklamada, Anthropic'in Akamai'nin bulut altyapısına yedi yıl boyunca 11,6 milyar $ harcayacağını söyledi. Bu, Bloomberg'in mayısta bildirdiği iki şirket arasındaki 1,8 milyar $ değerindeki anlaşmanın 6 katından fazla. Taahhüt sağlam değildir; Akamai'nin menkul kıymet dosyalamasına göre, Akamai'nin belirli teslimat ve hizmet kullanılabilirliği gereksinimlerini karşılamasına bağlıdır ve her iki şirket de sözleşmeyi belirli koşullar altında sona erdirebilir.</p>
-<p>Anlaşma, Akamai'nin tarihindeki en büyük anlaşma ve Anthropic'in hesaplama gobbling serisini devam ettiriyor. Aynı zamanda yapay zeka altyapısının daha az sinirli bir köşesine oynanan bir bahistir: CPU'lar. Kod çalıştırma ve web'de gezinme gibi işleri yapan genel amaçlı çipler olan CPU'lara olan talep, yapay zeka ajanları daha fazla görev üstlendikçe arttı, ancak Akamai, Anthropic'in bunları ne için kullanacağını söylemedi.</p>
-<p>Akamai bu yıl anlaşmadan gelir elde etmeyecek. Perşembe günü yapılan bir yatırımcı görüşmesinde yöneticiler, 2028 'in ikinci yarısından başlayarak 2027' de 150 milyon ila 300 milyon dolar arasında bir gelir beklediklerini ve gelirin 2028 'in sonuna kadar yıllık yaklaşık 1,7 milyar dolarlık bir hıza ulaştığını söyledi.</p>
-<p>Kapasiteyi artırmak için Akamai yaklaşık 5,5 milyar $ harcamayı bekliyor. Ayrıca, bellek gibi bileşenleri önceden satın almak için bu yılki sermaye harcamalarına yaklaşık 1,7 milyar $ ekliyor.</p>
-<p>Anlaşmanın bir parçası olarak Akamai, Anthropic'e, esasen belirli bir fiyattan hisse satın alma hakkı, 7,7 milyon adi hisse senedine dönüştürülebilen oy kullanmayan imtiyazlı hisse senetleri veya şirketin tedavüldeki hisselerinin yaklaşık % 5 'i için hisse başına 111,33 $ tutarında bir teminat verdi. Yaklaşık % 2' sinin, anlaşma kapsamındaki ilk ödemesini yaptıktan sonra Anthropic'e geçmesi veya kullanılabilir hale gelmesi bekleniyor. Gerisi Antropik harcamalara daha fazla bağlı. Akamai'nin bulut hizmetlerine taahhüt ettiği her 3 milyar $ kabaca % 1 daha açılıyor, bu nedenle anlaşma 9 milyar $ 'a kadar büyüyebilir ve toplamda yaklaşık 20 milyar $' a ulaşabilir.</p>
-<p>Bloomberg'in bildirdiğine göre, Akamai ilk kez bir bulut anlaşmasına teminat ekledi ve sözleşme şirket tarihinin en büyüğü oldu.</p>
-<p>Bu emir, tedarikçilerin — çip üreticileri ve bulut sağlayıcıları — ürünlerini satın alan yapay zeka laboratuvarlarına doğrudan yatırım yaptığı döngüsel yapay zeka anlaşmalarında daha yaygın olan modeli tersine çeviriyor. Burada tedarikçi bunun yerine müşterisine, Anthropic'in Akamai ile yaptığı harcamalar kadar büyüyen potansiyel bir hisse veriyor. AMD, geçen yıl OpenAI ile benzer bir yapı kullandı ve varantları çip satın alma kilometre taşlarına bağladı.</p>
-<p>Antropik, bu tür düzenlemelere yabancı değildir. Amazon, Google, Microsoft ve AMD, çipleri veya bulut kapasitesini satarken şirkete yatırım yaptı veya yatırım yapmayı kabul etti. The New York Times'a geçen aralıkta konuşan CEO Dario Amodei, Anthropic'in bu anlaşmalara &quot;diğer bazı oyuncularla aynı ölçekte&quot; katılmadığını söyledi.</p>
-<p>The Wall Street Journal'ın haberine göre, Perşembe günü mesai sonrası işlemlerde Akamai hisseleri % 17 'ye kadar yükseldi.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/GettyImages-1333934328.jpg" alt="Images of lights and light trails against a black background, used in a post about Akamai's investment in Macrometa" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>ABD halka arzından önce, İngiliz AI neocloud Nscale, dönüştürülebilir finansmanda 3,36milyar $ güvence altına aldı</title>
-      <link>https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <author>Marina Temkin</author>
-      <description>Şirketten cuma günü yapılan duyuruda, Britanyalı bir neo - bulut olan Nscale'in bu yılki halka arzı öncesinde 3,36 milyar $ finansman sağladığı belirtildi. Dönüştürülebilir bir banknot olarak yapılandırılan devasa finansman turu, yapay zeka veri merkezleri oluşturmak için gereken şaşırtıcı sermayenin altını çiziyor.</description>
-      <media:content url="https://umutevicom-commits.github.io/makale/data/images/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/GettyImages-2235971874.jpg" medium="image" type="image/jpeg" />
-      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/GettyImages-2235971874.jpg" />
-      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/GettyImages-2235971874.jpg" type="image/jpeg" length="0" />
-      <content:encoded><![CDATA[<p>Şirketten cuma günü yapılan duyuruda, Britanyalı bir neo - bulut olan Nscale'in bu yılki halka arzı öncesinde 3,36 milyar $ finansman sağladığı belirtildi. Dönüştürülebilir bir banknot olarak yapılandırılan devasa finansman turu, yapay zeka veri merkezleri oluşturmak için gereken şaşırtıcı sermayenin altını çiziyor.</p>
-<p>Riskten korunma fonu Third Point liderliğindeki yeni yatırım, şirketin hemen kullanabileceği 2,36 milyar doları ve Nscale'in Kasım ayı ortasında alacağı mevcut yatırımcı Nvidia'dan gelen 1 milyar doları içeriyor. Tahviller, halka arz tamamlandıktan sonra hisse senetlerine dönüşecektir.</p>
-<p>Financial Times'ın haberine göre, halka arz evraklarını geçen hafta dosyalayan Nscale'in NYSE'de 35 milyar $ değerinde olması bekleniyor ve Bloomberg'e göre teklifte 3 milyar $ toplamaya çalışıyor.</p>
-<p>Nscale, iki yıl önce Avustralyalı kripto para madenciliği şirketi Arkon Energy'den çıktığından beri halka arz dosyasına göre 103 milyar $ değerinde sözleşme topladı.</p>
-<p>Şirket şu anda Norveç ve Batı Virginia da dahil olmak üzere birkaç büyük veri merkezi kampüsü geliştiriyor.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/GettyImages-2235971874.jpg" alt="Nscale logo shown on a smartphone screen" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Anthropic'in kurucuları halka arzdan önce oylama kontrolü istiyor</title>
-      <link>https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <author>Connie Loizos</author>
-      <description>Anthropic'in kurucuları, şirket halka açıldıktan sonra da yönetimde kalmak istiyor. The Information'a göre şirket, hissedarlardan CEO Dario Amodei ve altı kurucu ortağına, en az üçü minimum hisseye sahip olduğu sürece, çoğu kurumsal konuda toplam % 50,1 oy oranına sahip özel hisseler verecek bir yapıyı &quot;önümüzdeki günlerde&quot; onaylamalarını istiyor.</description>
-      <media:content url="https://umutevicom-commits.github.io/makale/data/images/anthropics-founders-seek-voting-control-ahead-of-ipo/GettyImages-2261514463.jpg" medium="image" type="image/jpeg" />
-      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/anthropics-founders-seek-voting-control-ahead-of-ipo/GettyImages-2261514463.jpg" />
-      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/anthropics-founders-seek-voting-control-ahead-of-ipo/GettyImages-2261514463.jpg" type="image/jpeg" length="0" />
-      <content:encoded><![CDATA[<p>Anthropic'in kurucuları, şirket halka açıldıktan sonra da yönetimde kalmak istiyor. The Information'a göre şirket, hissedarlardan CEO Dario Amodei ve altı kurucu ortağına, en az üçü minimum hisseye sahip olduğu sürece, çoğu kurumsal konuda toplam % 50,1 oy oranına sahip özel hisseler verecek bir yapıyı &quot;önümüzdeki günlerde&quot; onaylamalarını istiyor.</p>
-<p>Bu yeni bir fikir değil; süper oylama hisseleri, Mark Zuckerberg'in Meta'nın kontrolünü nasıl elinde tuttuğu ve Evan Spiegel'in Snap'i nasıl elinde tuttuğu. Liste uzun. Alışılmadık olan grup yaklaşımıdır.</p>
-<p>Neden? Yedi kurucu ortağın, şirketin her birinin sadece % 2 'sine sahip olduğu bildirildi. Amodei, CEO'nun Ocak ayında duyurduğu ve yapay zeka güdümlü servet konsantrasyonunun toplumu istikrarsızlaştırabileceği uyarısının yanı sıra servetlerinin % 80' ini vermeyi taahhüt etti. Yeni hisseler ekstra ekonomik değer taşımaz, ancak şirket halka açık olarak işlem görmeye başladığında grubun kontrolünü koruyacaklardır.</p>
-<p>Bir de dönüm noktaları var: Anthropic'in Uzun Vadeli Fayda Vakfı yine de yönetim kurulunun çoğunu seçecekti; kurucuların yönetim kurulu koltukları ikiden üçe çıkacaktı; ve çalışanlar bazı konularda bağları koparmak için kendi hisselerini alacaklardı.</p>
-<p>5 yaşındaki Anthropic mayısta 965 milyar $ değerindeydi. Şirket kısa süre önce ikincil piyasada 1,5 trilyon $ değerindeydi ve yaklaşan halka arzının bu yeni değerlemeyi yansıtması bekleniyor.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/anthropics-founders-seek-voting-control-ahead-of-ipo/GettyImages-2261514463.jpg" alt="Dario Amodei, co-founder and chief executive officer of Anthropic" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
