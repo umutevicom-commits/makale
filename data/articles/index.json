@@ -1,5 +1,25 @@
 [
   {
+    "slug": "amazons-bee-launches-two-new-personal-ai-devices-starting-at-75",
+    "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+    "date": "15 October 2026",
+    "fetched_at": "2026-10-15T19:40:16.881430+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "3d1e2f799fdc157636c219c0e2ce35fc4abe0d650925cf7a9952c16979325b14"
+  },
+  {
+    "slug": "ai-agents-are-coming-to-rivians-cars",
+    "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+    "date": "15 October 2026",
+    "fetched_at": "2026-10-15T19:39:54.899156+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "e17ea18445b95d2feeb20357b0de13b43ae09c0a0b96203b8d737f36dc420df7"
+  },
+  {
     "content_hash": "baf04c23129bd8b1e8c8793792154a093550fd2073e995324526f3144fbc1308",
     "date": "17 September 2026",
     "fetched_at": "2026-10-15T09:02:47.586613+00:00",
