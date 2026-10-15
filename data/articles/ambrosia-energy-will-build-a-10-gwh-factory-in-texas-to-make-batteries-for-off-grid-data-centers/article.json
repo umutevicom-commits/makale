@@ -1,0 +1,48 @@
+{
+  "url": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
+  "slug": "ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers",
+  "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+  "news_id": "ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers",
+  "date": "14 October 2026",
+  "author": "Tim De Chant",
+  "tags": [],
+  "body_paragraphs": [
+    "Ambrosia Energy has begun work on a massive, 10 gigawatt-hour battery factory near Austin, Texas, co-founder and CEO Ben Longmier announced onstage Tuesday at TechCrunch Disrupt in San Francisco.",
+    "“That allows us to build about a 300 megawatt power plant per year out at our field sites,” he said.",
+    "The factory will occupy 150,000 square feet, and Longmier said that Ambrosia plans to reach full production in two to three years.",
+    "The startup emerged from stealth in June to build power plants for data centers at a cost of $100 per megawatt hour. Longmier and his co-founder, Sara Spangelo, had settled on solar plus batteries as the cheapest option that’s the fastest to deploy. Solar panels power the load during the day and charge the batteries, which discharge at night and on cloudy days to keep the data center operating round the clock.",
+    "Longmier and Spangelo previously founded the satellite constellation startup Swarm, which they sold to SpaceX.",
+    "Ambrosia is also beginning work on its first commercial power plant in West Texas later this year, Longmier said. The facility will pair 300 megawatts of solar panels with 660 megawatt-hours of batteries to deliver 30 megawatts of continuous power, with a goal of 99.3% uptime.",
+    "Even with “overbuilding” solar and batteries to deliver continuous uptime, Longmier said the company can be profitable at $100 per megawatt-hour, making it competitive with natural gas turbines that many hyperscalers are planning to use to power their data centers.",
+    "Sections of Ambrosia’s first pilot-scale power plant have been operating continuously for more than 100 days, Longmier said. The pilot is capable of generating 200 kilowatts of electricity 24/7.",
+    "To hit its cost targets, Ambrosia has been finding ways to simplify its components, including solar mounts and battery packs. By reducing part counts, and manufacturing many components in a factory, the startup has been able to reduce costs relative to buying from outside suppliers.",
+    "“We buy existing cells and we make our own pack in-house, and it has the fewest parts by a factor of about 100 compared to any other competitor we’ve seen,” Longmier said. ”We’ve been able to get to about 1.3x the cost of the bare cell compared to about a 5- or 7x for most stationary storage systems.”"
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/Austin-Factory-150000-sqft.jpg",
+      "alt": "A white warehouse stands against a partly cloudy sky."
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/embed/oLAH4RfCZXQ?si=Z7LUr39_aXW4uwTd&autoplay=1&mute=1",
+      "title": "YouTube video player"
+    }
+  ],
+  "fetched_at": "2026-10-14T22:59:12.676451+00:00",
+  "title_tr": "Ambrosia Energy, şebeke dışı veri merkezleri için pil üretmek üzere Teksas'ta 10 GWh'lik bir fabrika kuracak",
+  "body_paragraphs_tr": [
+    "Ambrosia Energy'nin kurucu ortağı ve CEO'su Ben Longmier, salı günü San Francisco'daki TechCrunch Disrupt'ta yaptığı açıklamada, Austin, Teksas yakınlarındaki 10 gigawatt saatlik devasa bir batarya fabrikası üzerinde çalışmaya başladığını duyurdu.",
+    "\"Bu, saha sahalarımızda yılda yaklaşık 300 megavatlık bir enerji santrali kurmamızı sağlıyor\" dedi.",
+    "Fabrika 150.000 feet kare alana sahip olacak ve Longmier, Ambrosia'nın iki ila üç yıl içinde tam üretime ulaşmayı planladığını söyledi.",
+    "Girişim, veri merkezleri için megawatt saat başına 100 $ maliyetle enerji santralleri kurmak için haziran ayında gizlilikten çıktı. Longmier ve kurucu ortağı Sara Spangelo, konuşlandırılması en hızlı olan en ucuz seçenek olarak solar plus bataryalara karar vermişti. Güneş panelleri gün boyunca yüke güç verir ve veri merkezinin 24 saat çalışmasını sağlamak için gece ve bulutlu günlerde deşarj olan pilleri şarj eder.",
+    "Longmier ve Spangelo daha önce SpaceX'e sattıkları uydu takımyıldızı girişimi Swarm'ı kurmuştu.",
+    "Longmier, Ambrosia'nın bu yılın ilerleyen zamanlarında Batı Teksas'taki ilk ticari enerji santrali üzerinde çalışmaya başladığını da söyledi. Tesis, % 99,3 çalışma süresi hedefiyle 30 megavat sürekli güç sağlamak için 300 megavat güneş panelini 660 megavat saat pille eşleştirecek.",
+    "Longmier, sürekli çalışma süresi sağlamak için güneş enerjisi ve bataryaları \"aşırı inşa etmesiyle\" bile, şirketin megawatt - saat başına 100 $ kârlı olabileceğini ve birçok hiper ölçekleyicinin veri merkezlerini güçlendirmek için kullanmayı planladığı doğal gaz türbinleriyle rekabet edebileceğini söyledi.",
+    "Longmier, Ambrosia'nın ilk pilot ölçekli enerji santralinin bölümlerinin 100 günden fazla bir süredir sürekli olarak çalıştığını söyledi. Pilot, 7/24 200 kilovat elektrik üretme kapasitesine sahip.",
+    "Ambrosia, maliyet hedeflerine ulaşmak için güneş enerjisi bağlantıları ve batarya paketleri de dahil olmak üzere bileşenlerini basitleştirmenin yollarını buluyor. Startup, parça sayılarını azaltarak ve bir fabrikada birçok bileşen üreterek, dış tedarikçilerden satın alma ile ilgili maliyetleri azaltmayı başardı.",
+    "Longmier, \"Mevcut hücreleri satın alıyoruz ve kendi paketimizi kendi bünyemizde yapıyoruz ve gördüğümüz diğer rakiplere kıyasla yaklaşık 100 kat daha az parçaya sahip\" dedi. \"Çoğu sabit depolama sistemi için yaklaşık 5 veya 7 kata kıyasla çıplak hücrenin maliyetinin yaklaşık 1,3 katına ulaşabildik .\""
+  ],
+  "tags_tr": []
+}

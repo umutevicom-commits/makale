@@ -1,0 +1,27 @@
+# Ambani'den Jio, Hindistan'ın en büyük halka arzı olabilecek 3,2 milyar $ toplamayı hedefliyor
+
+Hintli milyarder Mukesh Ambani'nin Reliance Industries'in dijital kolu Jio Platforms, Hindistan'ın en büyük ilk halka arzı olabilecek 3,2 milyar $ 'a kadar para toplamaya çalışıyor. Liste, 2020' de Google ve Meta da dahil olmak üzere küresel yatırımcılardan 20 milyar $ 'dan fazla çeken bir şirketin kamu piyasası iştahını test edecek.
+
+Çarşamba günü, Reliance Industries bir borsa dosyasında (PDF) Jio'nun 270 milyona kadar yeni hisse teklifi için hisse başına 1.065 ₹ ila 1.119 ₹ (yaklaşık 11,19 $ ila 11,76 $) arasında bir fiyat bandı belirlediğini söyledi (PDF). Halka arz, 21 Ekim'de aboneliğe açılacak ve 23 Ekim'de kapanacak ve 19 Ekim'de çapa yatırımcıları için teklif verilecek.
+
+Teklif edilen fiyat bandının üst ucunda, halka arzın ardından ödenmemiş olması beklenen hisse sayısına bağlı olarak halka arzın değeri Jio'ya yaklaşık 10,3 trilyon INR (yaklaşık 108,3 milyar dolar) olacaktır.
+
+2020 'de Jio 4,91 trilyon ₹ (o sırada yaklaşık 65 milyar $) değerindeydi. O zamanlar Facebook olarak bilinen Meta, 5,7 milyar $ yatırım yaparken, Google 4,5 milyar $ yatırım yaptı.
+
+Jio'nun halka arzı, 2024 'te Hyundai Motor India'nın 278,7 milyar ₹' lık (o sırada 3,3 milyar $) teklifini, hisse senetleri aralığın alt ucunda fiyatlandırılsa bile, ülkenin bugüne kadarki en büyük teklifini geçmeye hazırlanıyor.
+
+2016 'daki lansmanından bu yana Jio, 31 Mart itibariyle 524 milyondan fazla abonesi ile Bharti Airtel, Vodafone Idea ve devlete ait BSNL'nin önünde Hindistan'ın en büyük telekom operatörü haline geldi. Başlangıçta ücretsiz veriler ve ucuz planlarla müşterileri çekti, ancak fiyatları artık rakiplerininkilerle karşılaştırılabilir durumda. Zamanla, Jio bir telekomünikasyon şirketinin ötesinde büyüdü ve geniş bant, bulut hizmetleri ve diğer dijital işletmelere doğru genişledi.
+
+Jio'nun halka arzı, Elon Musk'ın Ambani'yi Starlink'i Hindistan'dan uzak tutmaya çalışmakla suçlayarak eleştirisini artırmasıyla geldi. Suçlama, Jio ve rakibi Airtel'in Musk'ın SpaceX'iyle Starlink'in uydu internet hizmetini Hindistan'da dağıtmak için yasal onaylara tabi anlaşmalar imzalamasından bir yıldan fazla bir süre sonra geldi. Hintli yetkililer Musk'ın iddialarını reddetti.
+
+Haziran ayında sona eren çeyrekte, Jio'nun geliri bir yıl öncesine göre yaklaşık % 12 artarak 391,7 milyar INR'ye (yaklaşık 4,1 milyar $) yükselirken, halka arz izahnamesine göre net karı % 9 artarak 77,6 milyar INR'ye (yaklaşık 816 milyon $) yükseldi (PDF).
+
+Jio, uygun Reliance Industries hissedarları için 25 milyar ₹ (yaklaşık 263 milyon $) ve hisse başına 54 ₹ indirim alacak çalışanlar için 5 milyar ₹ (53 milyon $) değerinde hisse ayırdı.
+
+Halka arz gelirlerinden Jio, telekom iştiraki Reliance Jio Infocomm'daki borcunu geri ödemek için 275 milyar ₹' a (2,9 milyar $) kadar kullanmayı planlıyor ve geri kalan gelirler izahnameye göre genel kurumsal amaçlara gidiyor.
+
+---
+
+## Görseller
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/GettyImages-1227124564.jpg)
