@@ -1,53 +1,53 @@
 [
   {
-    "slug": "dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders",
-    "url": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
+    "content_hash": "130e7ccf4eda72e2d4f99f680fdbe9c097a96a1b09c3b972fb1e2df831f109d1",
     "date": "29 September 2026",
     "fetched_at": "2026-10-16T09:03:49.721893+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "130e7ccf4eda72e2d4f99f680fdbe9c097a96a1b09c3b972fb1e2df831f109d1"
+    "retries": 0,
+    "slug": "dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/"
   },
   {
-    "slug": "doordashs-drone-strategy-started-on-the-ground",
-    "url": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
+    "content_hash": "9d9e2195fb876cf949593fa598b2a596916a38c81adaad8ff6f1f014b7ebe491",
     "date": "30 September 2026",
     "fetched_at": "2026-10-16T09:03:05.858541+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "9d9e2195fb876cf949593fa598b2a596916a38c81adaad8ff6f1f014b7ebe491"
+    "retries": 0,
+    "slug": "doordashs-drone-strategy-started-on-the-ground",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/"
   },
   {
-    "slug": "doordash-launches-an-ai-agent-you-can-text-to-order-food",
-    "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+    "content_hash": "9f87ea4fe02ebcbecf25e35f157f7c0463c2a4dc32546636e6c01a7ab81cbdf1",
     "date": "30 September 2026",
     "fetched_at": "2026-10-16T09:02:44.554704+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "9f87ea4fe02ebcbecf25e35f157f7c0463c2a4dc32546636e6c01a7ab81cbdf1"
+    "retries": 0,
+    "slug": "doordash-launches-an-ai-agent-you-can-text-to-order-food",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/"
   },
   {
-    "slug": "doj-wants-more-answers-on-foxs-22b-roku-deal",
-    "url": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
+    "content_hash": "d5fe35e61ea4689e730129bf6b2da15e3db54ac19e4746a9f857d3e547ef003a",
     "date": "09 September 2026",
     "fetched_at": "2026-10-16T09:01:46.018389+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "d5fe35e61ea4689e730129bf6b2da15e3db54ac19e4746a9f857d3e547ef003a"
+    "retries": 0,
+    "slug": "doj-wants-more-answers-on-foxs-22b-roku-deal",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/"
   },
   {
-    "slug": "disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars",
-    "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "content_hash": "dbe601680d9166af8b49812b0f1c87a4e04952dee8a8e1a886f64339f87f888e",
     "date": "02 October 2026",
     "fetched_at": "2026-10-16T08:59:53.219554+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "dbe601680d9166af8b49812b0f1c87a4e04952dee8a8e1a886f64339f87f888e"
+    "retries": 0,
+    "slug": "disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/"
   },
   {
     "content_hash": "8c63f873fa9c42d2a66c5b7b2c74149cae80d6feda7f14184e9c36f79915cd83",
