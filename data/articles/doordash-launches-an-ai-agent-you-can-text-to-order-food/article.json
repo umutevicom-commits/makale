@@ -1,0 +1,33 @@
+{
+  "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+  "slug": "doordash-launches-an-ai-agent-you-can-text-to-order-food",
+  "title": "DoorDash launches an AI agent you can text to order food",
+  "news_id": "doordash-launches-an-ai-agent-you-can-text-to-order-food",
+  "date": "30 September 2026",
+  "author": "Aisha Malik",
+  "tags": [],
+  "body_paragraphs": [
+    "DoorDash announced on Wednesday that it’s launching a text-to-order AI agent that lets users place orders through Apple Messages. The new tool allows users to send prompts like “order my usual,” and the agent will understand that they mean their Friday night order.",
+    "DoorDash says users can also ask for a specific dish and request a local recommendation. The agent will then search local spots and suggest a cart based on the prompt, and even text photos of the food it recommends. When ordering for a group, DoorDash says the agent can handle mixed dietary preferences and different quantities in one order.",
+    "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub. The launch also comes amid a growing push to adopt personal AI agents that can handle tasks without requiring users to navigate apps or websites themselves.",
+    "DoorDash is opening up a waitlist for users in the U.S. to try out the new feature.",
+    "In addition to the new AI agent, DoorDash announced that it will begin testing its delivery drones with select restaurants in Northern California."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/doordash-launches-an-ai-agent-you-can-text-to-order-food/Screenshot-2026-09-30-at-11_47_10-AM.png",
+      "alt": ""
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-16T09:02:44.554704+00:00",
+  "title_tr": "DoorDash, yemek siparişi vermek için mesaj gönderebileceğiniz bir yapay zeka aracısını piyasaya sürdü",
+  "body_paragraphs_tr": [
+    "DoorDash çarşamba günü yaptığı açıklamada, kullanıcıların Apple Mesajları aracılığıyla sipariş vermelerini sağlayan bir metin siparişi yapay zeka aracısı başlattığını duyurdu. Yeni araç, kullanıcıların \"her zamankinden sipariş ver\" gibi istemler göndermesine olanak tanır ve temsilci cuma gecesi siparişini kastettiğini anlar.",
+    "DoorDash, kullanıcıların belirli bir yemeği isteyebileceğini ve yerel bir öneri talep edebileceğini söylüyor. Temsilci daha sonra yerel noktaları arayacak ve önerdiği yemeğin istemine ve hatta kısa mesaj fotoğraflarına göre bir alışveriş sepeti önerecektir. DoorDash, bir grup için sipariş verirken, ajanın karışık beslenme tercihlerini ve farklı miktarları tek bir siparişte ele alabileceğini söylüyor.",
+    "DoorDash, yemek siparişi için bir yapay zeka temsilcisi başlatarak rakipleri Uber Eats ve Grubhub'a karşı avantaj elde etmek istiyor. Lansman aynı zamanda, kullanıcıların uygulamalarda veya web sitelerinde gezinmelerini gerektirmeden görevleri yerine getirebilecek kişisel yapay zeka aracılarını benimsemeye yönelik artan bir çabanın ortasında geliyor.",
+    "DoorDash, ABD'deki kullanıcıların yeni özelliği denemeleri için bir bekleme listesi açıyor.",
+    "Yeni yapay zeka temsilcisine ek olarak DoorDash, teslimat drone'larını Kuzey Kaliforniya'daki seçkin restoranlarla test etmeye başlayacağını duyurdu."
+  ],
+  "tags_tr": []
+}
