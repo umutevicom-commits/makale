@@ -1,23 +1,53 @@
 [
   {
-    "slug": "amazons-bee-launches-two-new-personal-ai-devices-starting-at-75",
-    "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+    "slug": "anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access",
+    "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
     "date": "15 October 2026",
-    "fetched_at": "2026-10-15T19:40:16.881430+00:00",
+    "fetched_at": "2026-10-15T22:52:31.912799+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "3d1e2f799fdc157636c219c0e2ce35fc4abe0d650925cf7a9952c16979325b14"
+    "content_hash": "8c63f873fa9c42d2a66c5b7b2c74149cae80d6feda7f14184e9c36f79915cd83"
   },
   {
-    "slug": "ai-agents-are-coming-to-rivians-cars",
-    "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+    "slug": "amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps",
+    "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
     "date": "15 October 2026",
-    "fetched_at": "2026-10-15T19:39:54.899156+00:00",
+    "fetched_at": "2026-10-15T22:52:06.897347+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "e17ea18445b95d2feeb20357b0de13b43ae09c0a0b96203b8d737f36dc420df7"
+    "content_hash": "aa700994178116d612f1bcf75765d8d0ff2c7b42e044a8930f2cdd0489b66f88"
+  },
+  {
+    "slug": "amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it",
+    "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+    "date": "15 October 2026",
+    "fetched_at": "2026-10-15T22:51:46.259292+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "694260e931a797848d78296b923e0a3665c2c253882865ae6f396d066c510623"
+  },
+  {
+    "content_hash": "3d1e2f799fdc157636c219c0e2ce35fc4abe0d650925cf7a9952c16979325b14",
+    "date": "15 October 2026",
+    "fetched_at": "2026-10-15T19:40:16.881430+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "amazons-bee-launches-two-new-personal-ai-devices-starting-at-75",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
+  },
+  {
+    "content_hash": "e17ea18445b95d2feeb20357b0de13b43ae09c0a0b96203b8d737f36dc420df7",
+    "date": "15 October 2026",
+    "fetched_at": "2026-10-15T19:39:54.899156+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "ai-agents-are-coming-to-rivians-cars",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/"
   },
   {
     "content_hash": "baf04c23129bd8b1e8c8793792154a093550fd2073e995324526f3144fbc1308",
