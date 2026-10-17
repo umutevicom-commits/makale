@@ -1,33 +1,33 @@
 [
   {
-    "slug": "is-the-ai-industry-really-ready-to-slow-down",
-    "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "content_hash": "2f4f36e87001c2b9ffc0c251457d2981d3f82f21fbd61aa35159191fbcdf860b",
     "date": "20 September 2026",
     "fetched_at": "2026-10-17T09:01:01.782429+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "2f4f36e87001c2b9ffc0c251457d2981d3f82f21fbd61aa35159191fbcdf860b"
+    "retries": 0,
+    "slug": "is-the-ai-industry-really-ready-to-slow-down",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
   },
   {
-    "slug": "insuretech-outmarket-raises-34-5m-just-months-after-prior-round",
-    "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+    "content_hash": "c82a825891717956aaef573282f8ba27e64a0b603996517e6aecf614898ea0ca",
     "date": "28 September 2026",
     "fetched_at": "2026-10-17T09:00:23.862318+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c82a825891717956aaef573282f8ba27e64a0b603996517e6aecf614898ea0ca"
+    "retries": 0,
+    "slug": "insuretech-outmarket-raises-34-5m-just-months-after-prior-round",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/"
   },
   {
-    "slug": "insurers-claim-ai-is-already-increasing-healthcare-costs",
-    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "content_hash": "c1aee5a5b2f98efba5204617134e8b8b06fb2df5019875402dd394be43919d10",
     "date": "26 September 2026",
     "fetched_at": "2026-10-17T09:00:03.970995+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c1aee5a5b2f98efba5204617134e8b8b06fb2df5019875402dd394be43919d10"
+    "retries": 0,
+    "slug": "insurers-claim-ai-is-already-increasing-healthcare-costs",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
   },
   {
     "content_hash": "130e7ccf4eda72e2d4f99f680fdbe9c097a96a1b09c3b972fb1e2df831f109d1",
