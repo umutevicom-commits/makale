@@ -1,5 +1,15 @@
 [
   {
+    "slug": "anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
+    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "date": "17 October 2026",
+    "fetched_at": "2026-10-17T23:43:01.024526+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "7c525a153a34af6a357714832f1c2aa16eee68d7381f9e4f5e54be9adea885cf"
+  },
+  {
     "content_hash": "2f4f36e87001c2b9ffc0c251457d2981d3f82f21fbd61aa35159191fbcdf860b",
     "date": "20 September 2026",
     "fetched_at": "2026-10-17T09:01:01.782429+00:00",
