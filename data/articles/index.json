@@ -1,5 +1,25 @@
 [
   {
+    "slug": "get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed",
+    "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+    "date": "06 October 2026",
+    "fetched_at": "2026-10-18T09:01:28.469113+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "ec47df39d2c641eb9d388a3196c647f0bb14c1fdbf8b22afc4d007821e60ceaf"
+  },
+  {
+    "slug": "gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai",
+    "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+    "date": "09 September 2026",
+    "fetched_at": "2026-10-18T08:59:58.063401+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "7345e9b7f27286f41c0e8a08e1a6606d2ea4c2aae6fe992602587046821a2cb1"
+  },
+  {
     "content_hash": "7c525a153a34af6a357714832f1c2aa16eee68d7381f9e4f5e54be9adea885cf",
     "date": "17 October 2026",
     "fetched_at": "2026-10-17T23:43:01.024526+00:00",
