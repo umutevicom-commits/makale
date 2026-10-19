@@ -1,13 +1,13 @@
 [
   {
-    "slug": "anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund",
-    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "content_hash": "b4b1a9775331ac5be81ca46447c4be49e0bb746996c8b006c472b2bdb3c5e52c",
     "date": "18 October 2026",
     "fetched_at": "2026-10-18T22:22:37.620341+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "b4b1a9775331ac5be81ca46447c4be49e0bb746996c8b006c472b2bdb3c5e52c"
+    "retries": 0,
+    "slug": "anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
   },
   {
     "content_hash": "ec47df39d2c641eb9d388a3196c647f0bb14c1fdbf8b22afc4d007821e60ceaf",
