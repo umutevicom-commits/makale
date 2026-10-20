@@ -1,5 +1,45 @@
 [
   {
+    "slug": "uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending",
+    "url": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
+    "date": "09 September 2026",
+    "fetched_at": "2026-10-20T09:01:59.422983+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "f7001cf0d7f760b6406a37bf49b358085c8e459d7b426392ccd3b8cdfcba820a"
+  },
+  {
+    "slug": "uber-is-spending-2-3b-to-get-into-catering",
+    "url": "https://techcrunch.com/2026/10/06/uber-is-spending-2-3b-to-get-into-catering/",
+    "date": "06 October 2026",
+    "fetched_at": "2026-10-20T09:01:42.057287+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "e84706209a20eade702b52df00ffa0bb8850b458d52b3d0628b1b0b5397e62a4"
+  },
+  {
+    "slug": "uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london",
+    "url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/",
+    "date": "08 October 2026",
+    "fetched_at": "2026-10-20T09:01:02.619266+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "d8fba42f62d3976e79648ee2b98fed2891d79f388e802c5f821c8beb7abf773a"
+  },
+  {
+    "slug": "type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034",
+    "url": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
+    "date": "06 October 2026",
+    "fetched_at": "2026-10-20T09:00:00.438920+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "1c2cef88f2a7198265213b87166cf48ad84ab78a3151cac9440e4e3bf7982e42"
+  },
+  {
     "content_hash": "52d1921a0d06cf9836a170c9a5aea1a4753e33bb151dabb35592af15c27ea746",
     "date": "19 October 2026",
     "fetched_at": "2026-10-19T21:57:47.106665+00:00",
