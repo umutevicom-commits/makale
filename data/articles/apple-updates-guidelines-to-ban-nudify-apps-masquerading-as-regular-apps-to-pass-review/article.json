@@ -1,0 +1,37 @@
+{
+  "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+  "slug": "apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review",
+  "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+  "news_id": "apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review",
+  "date": "19 October 2026",
+  "author": "Ivan Mehta",
+  "tags": [],
+  "body_paragraphs": [
+    "Apple tightened its developer guidelines over the weekend to ban apps that use AI to create offensive content, as well as those that masquerade as regular apps to pass the App Store review process and then turn into nudify apps, or surface those features prominently.",
+    "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.",
+    "“Apps that host user-generated content are required to filter objectionable material, give users a way to report offensive content, and let users block abusive accounts. Apps containing hidden or undocumented features are also prohibited on the App Store, including apps that misrepresent their purpose during review and only reveal harmful capabilities — such as ‘nudification’ — after approval, a tactic commonly known as bait-and-switch,” the company said in a blog post.",
+    "Apple said that it will remove apps that add features not present in the version submitted for App Store review.",
+    "The iPhone maker has also updated the language in its legal section to reinforce that it will bar apps promoting human trafficking and exploitation of children.",
+    "Apple said last year its review process blocked over 150,000 apps from reaching users and removed 193,000 developer accounts due to fraud and abuse.",
+    "In July, the city of San Francisco ordered both Apple and Google to clean up and delete nudification apps from their app stores. City Attorney David Chiu accused the companies of profiting from these apps through store fees. And in April, a Tech Transparency Project report indicated that both tech giants’ stores hosted multiple nudify apps, some of which were rated as suitable for minors."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/app-store-2024-v1.jpg",
+      "alt": "Apple app store icon"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-19T21:57:47.106665+00:00",
+  "title_tr": "Apple, incelemeyi geçmek için normal uygulamalar gibi görünen nudify uygulamalarını yasaklama kurallarını güncelledi",
+  "body_paragraphs_tr": [
+    "Apple, saldırgan içerik oluşturmak için yapay zeka kullanan uygulamaların yanı sıra App Store inceleme sürecini geçmek ve daha sonra nudify uygulamalarına dönüşmek veya bu özellikleri belirgin bir şekilde yüzeye çıkarmak için normal uygulamalar gibi görünen uygulamaları yasaklamak için hafta sonu geliştirici yönergelerini sıkılaştırdı.",
+    "Şirket, yönergelerini yapay zeka ve kullanıcı tarafından oluşturulan içerik etrafında güçlü bir dille güncelledi ve uygulama geliştiricilerinin sakıncalı veya saldırgan içeriği ılımlılaştırmak için yeterli önleyici tedbirleri nasıl içermesi gerektiğini açıkladı.",
+    "&quot;Kullanıcı tarafından oluşturulan içeriği barındıran uygulamaların, sakıncalı materyalleri filtrelemesi, kullanıcılara saldırgan içeriği bildirme olanağı sağlaması ve kullanıcıların kötüye kullanan hesapları engellemesine izin vermesi gerekmektedir.&quot; Gizli veya belgelenmemiş özellikler içeren uygulamalar da App Store'da yasaklandı. Bunlar arasında gözden geçirme sırasında amaçlarını yanlış tanıtan ve onaylandıktan sonra yalnızca \"nudifikasyon\" gibi zararlı yetenekleri ortaya çıkaran uygulamalar da var. Bu, yaygın olarak yem ve anahtar olarak bilinen bir taktik \"dedi.",
+    "Apple, App Store incelemesi için gönderilen sürümde bulunmayan özellikleri ekleyen uygulamaları kaldıracağını açıkladı.",
+    "iPhone üreticisi ayrıca, insan kaçakçılığını ve çocuk istismarını teşvik eden uygulamaları yasaklayacağını vurgulamak için yasal bölümündeki ifadeleri güncelledi.",
+    "Apple, geçen yıl inceleme sürecinin 150.000 'den fazla uygulamanın kullanıcılara ulaşmasını engellediğini ve dolandırıcılık ve kötüye kullanım nedeniyle 193.000 geliştirici hesabını kaldırdığını söyledi.",
+    "Temmuz ayında San Francisco şehri, hem Apple hem de Google&#39;a uygulama mağazalarından çıplaklık içeren uygulamaları temizlemeleri ve silmeleri emrini verdi. Şehir Avukatı David Chiu, şirketleri bu uygulamalardan mağaza ücretleri yoluyla kar elde etmekle suçladı. Nisan ayında ise Teknoloji Şeffaflık Projesi&#39;nin bir raporu, her iki teknoloji devinin mağazalarında, bazıları küçükler için uygun olarak derecelendirilen çok sayıda çıplaklık içeren uygulamanın bulunduğunu gösterdi."
+  ],
+  "tags_tr": []
+}

@@ -1,5 +1,35 @@
 [
   {
+    "slug": "apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review",
+    "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T21:57:47.106665+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "52d1921a0d06cf9836a170c9a5aea1a4753e33bb151dabb35592af15c27ea746"
+  },
+  {
+    "slug": "amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant",
+    "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T21:57:22.789049+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "1c44cb7c0daac3ed73b316199fddb70e0d1c616bcb6e9d2b30f92a4f5e8cae84"
+  },
+  {
+    "slug": "ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch",
+    "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T21:57:08.034806+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "17babfcfa5eadd15d30218b15c89a1c480df914fbf5bcb5c48066afd9d7996b3"
+  },
+  {
     "content_hash": "b4b1a9775331ac5be81ca46447c4be49e0bb746996c8b006c472b2bdb3c5e52c",
     "date": "18 October 2026",
     "fetched_at": "2026-10-18T22:22:37.620341+00:00",
