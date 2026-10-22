@@ -1,13 +1,13 @@
 [
   {
-    "slug": "ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey",
-    "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+    "content_hash": "33eba8fac98627f44e74e867ef1907c57256466e9d352eb103865521469782e0",
     "date": "21 October 2026",
     "fetched_at": "2026-10-21T19:53:54.765767+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "33eba8fac98627f44e74e867ef1907c57256466e9d352eb103865521469782e0"
+    "retries": 0,
+    "slug": "ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/"
   },
   {
     "content_hash": "f7001cf0d7f760b6406a37bf49b358085c8e459d7b426392ccd3b8cdfcba820a",
