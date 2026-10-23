@@ -1,5 +1,25 @@
 [
   {
+    "slug": "arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia",
+    "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+    "date": "22 October 2026",
+    "fetched_at": "2026-10-22T22:56:46.399552+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "a8cf4339474a6b30cb5be19ca833656a51f2dde3ffe51e91add21c71c73c63b2"
+  },
+  {
+    "slug": "1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password",
+    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "date": "22 October 2026",
+    "fetched_at": "2026-10-22T22:56:28.099567+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "ebcf129b53984f8fd97141abd7e5c7a34585974dc4196af69845ffe698018d3f"
+  },
+  {
     "content_hash": "33eba8fac98627f44e74e867ef1907c57256466e9d352eb103865521469782e0",
     "date": "21 October 2026",
     "fetched_at": "2026-10-21T19:53:54.765767+00:00",
