@@ -1,0 +1,29 @@
+{
+  "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+  "slug": "agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels",
+  "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+  "news_id": "agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels",
+  "date": "23 October 2026",
+  "author": "Julie Bort",
+  "tags": [],
+  "body_paragraphs": [
+    "Daytona Platforms announced on Friday that it had raised a $60 million Series B round at a $1 billion valuation led by FirstMark Growth. The company says it has now raised a total of $91 million.",
+    "The New York-based startup has attracted not just FirstMark (which also led its $24 million Series A in February), but also a host of well-known angels in this latest round. Daytona says they include Stripe’s Patrick Collison, Shopify’s Tobi Lütke, Perplexity’s Aravind Srinivas, Zoom’s Eric Yuan, Datadog’s Olivier Pomel, Quora’s Adam D’Angelo (who is also an OpenAI board member), and Mercor’s Brendan Foody. It also names Qualcomm Ventures, Samsung Next, and Okta Ventures as participants.",
+    "Three-year-old Daytona is building a cloud specifically for long-running agents, which have different infrastructure needs than yesteryear’s software, the startup contends. “Agents don’t work like the long-lived services today’s cloud was designed for. They spin up thousands of short, stateful jobs nobody planned in advance, and they need a cloud built for that,” founder Ivan Burazin wrote in a blog post announcing the new round. Daytona’s cloud, he said, is like giving every agent its own computer, where agents have access to sandboxed versions of Linux, Windows, macOS, and GPUs, among other services, on the one platform."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/Daytona_Founders-e1698845569762.jpg",
+      "alt": "Daytona founders"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-23T19:44:27.750320+00:00",
+  "title_tr": "Temsilci bulutu girişimi Daytona, FirstMark ve meleklerin kim olduğu tarafından desteklenen 1 milyar $ değerlemeye ulaştı",
+  "body_paragraphs_tr": [
+    "Daytona Platforms cuma günü yaptığı açıklamada, FirstMark Growth liderliğindeki 1 milyar $ değerleme ile 60 milyon $ B Serisi yatırım topladığını duyurdu. Şirket şu anda toplam 91 milyon $ topladığını söylüyor.",
+    "New York merkezli girişim, sadece FirstMark'ı (Şubat ayında 24 milyon $ A Serisi'ni de yönetti) değil, aynı zamanda bu son turda bir dizi tanınmış meleği de cezbetti. Daytona, Stripe'tan Patrick Collison, Shopify'dan Tobi Lütke, Perplexity'den Aravind Srinivas, Zoom'dan Eric Yuan, Datadog'dan Olivier Pomel, Quora'dan Adam D’Angelo (aynı zamanda OpenAI yönetim kurulu üyesi) ve Mercor'dan Brendan Foody'yi içerdiklerini söylüyor. Ayrıca Qualcomm Ventures, Samsung Next ve Okta Ventures'ı da katılımcı olarak adlandırıyor.",
+    "Startup, üç yaşındaki Daytona'nın özellikle geçen yılın yazılımından farklı altyapı ihtiyaçları olan uzun süredir çalışan acenteler için bir bulut oluşturduğunu iddia ediyor. “Temsilciler, bugünün bulutunun tasarlandığı uzun ömürlü hizmetler gibi çalışmıyor. Kimsenin önceden planlamadığı binlerce kısa, devlet işi yaratıyorlar ve bunun için inşa edilmiş bir buluta ihtiyaçları var\" diye yazdı. Daytona'nın bulutunun, ajanların diğer hizmetlerin yanı sıra Linux, Windows, macOS ve GPU'ların korumalı sürümlerine tek bir platformdan erişebildiği her ajana kendi bilgisayarını vermek gibi olduğunu söyledi."
+  ],
+  "tags_tr": []
+}
