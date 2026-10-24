@@ -1,0 +1,43 @@
+{
+  "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+  "slug": "facebook-is-giving-users-more-control-over-their-algorithm",
+  "title": "Facebook is giving users more control over their algorithm",
+  "news_id": "facebook-is-giving-users-more-control-over-their-algorithm",
+  "date": "13 October 2026",
+  "author": "Lauren Forristal",
+  "tags": [],
+  "body_paragraphs": [
+    "Facebook is the latest social media platform to give users greater control over the algorithm that determines what appears in their feeds.",
+    "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” on Tuesday, a feature it first launched on Instagram. The new tool allows Facebook users to influence the content they see in Feed and Reels by describing their preferences in their own words using natural language. Rather than relying entirely on automated recommendations, users can now communicate directly with the platform about the topics and content they want to see more or less frequently.",
+    "According to Meta, the feature is designed to make content recommendations more relevant. Users can adjust their preferences and interact with the algorithms responsible for ranking and recommending posts, with changes reflected in their recommendations in real time.",
+    "The company has also updated Facebook’s three-dot menu, making it easier for users to manage their content preferences directly from individual posts. By opening the menu, users can access “Your Algorithm” or select the “Interested” and “Not interested” options to indicate whether particular content aligns with their preferences.",
+    "Meta says the platform may ask follow-up questions to better understand what users liked or disliked, allowing them to provide more detailed feedback. Users can explain what they want to see more or less of, helping Facebook refine its recommendations based on their responses.",
+    "The introduction of “Your Algorithm” reflects Meta’s broader effort to give people more influence over their social media experiences as AI increasingly shapes content discovery. The move signals a shift away from the traditional recommendation systems that have shaped social media experiences for years, bringing the platform closer to streaming services that allow users to personalize recommendations based on their interests and preferences.",
+    "The launch also builds on Meta’s existing personalization efforts across its other platforms. Instagram introduced Your Algorithm in June, extending customization options across Feed and Explore after first launching the feature for Reels in December 2025.",
+    "Threads also introduced its own related feature, called “Dear Algo,” which allows users to influence the content recommended to them."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/facebook-is-giving-users-more-control-over-their-algorithm/YourAlgorithm-FB.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/facebook-is-giving-users-more-control-over-their-algorithm/Discovery-Facebook.png",
+      "alt": ""
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-24T09:04:56.256039+00:00",
+  "title_tr": "Facebook, kullanıcılara algoritmaları üzerinde daha fazla kontrol sağlıyor",
+  "body_paragraphs_tr": [
+    "Facebook, kullanıcılara yayınlarında nelerin göründüğünü belirleyen algoritma üzerinde daha fazla kontrol sağlayan en son sosyal medya platformudur.",
+    "Meta, salı günü Instagram'da ilk kez başlattığı yapay zeka destekli yeni özelliği \"Your Algorithm\" in lansmanını duyurdu. Yeni araç, Facebook kullanıcılarının Feed and Reels'te gördükleri içeriği, tercihlerini doğal dil kullanarak kendi kelimeleriyle tanımlayarak etkilemelerine olanak tanıyor. Kullanıcılar artık tamamen otomatik önerilere güvenmek yerine, az ya da çok görmek istedikleri konular ve içerikler hakkında platformla doğrudan iletişim kurabilirler.",
+    "Meta'ya göre, bu özellik içerik önerilerini daha alakalı hale getirmek için tasarlanmıştır. Kullanıcılar, tercihlerini ayarlayabilir ve gönderileri sıralamaktan ve önermekten sorumlu algoritmalarla etkileşime girebilir ve değişiklikler gerçek zamanlı olarak önerilerine yansıtılır.",
+    "Şirket ayrıca Facebook'un üç noktalı menüsünü de güncelledi ve kullanıcıların içerik tercihlerini doğrudan tek tek yayınlardan yönetmelerini kolaylaştırdı. Menüyü açarak, kullanıcılar \"Algoritmanız\" a erişebilir veya belirli içeriğin tercihleriyle uyumlu olup olmadığını belirtmek için \"İlgileniyorum\" ve \"İlgilenmiyorum\" seçeneklerini belirleyebilir.",
+    "Meta, platformun kullanıcıların neleri beğendiğini veya beğenmediğini daha iyi anlamak için takip soruları sorabileceğini ve daha ayrıntılı geri bildirim sağlamalarına olanak tanıyabileceğini söylüyor. Kullanıcılar, az ya da çok neyi görmek istediklerini açıklayabilir ve Facebook'un yanıtlarına göre önerilerini iyileştirmesine yardımcı olabilir.",
+    "“Sizin Algoritmanız” özelliğinin tanıtılması, yapay zekanın içerik keşfini giderek daha fazla şekillendirdiği bir dönemde, Meta&#39;nın insanlara sosyal medya deneyimleri üzerinde daha fazla söz hakkı verme çabasının bir yansımasıdır. Bu hamle, yıllardır sosyal medya deneyimlerini şekillendiren geleneksel öneri sistemlerinden uzaklaşmayı ve platformu, kullanıcıların ilgi alanlarına ve tercihlerine göre önerileri kişiselleştirmelerine olanak tanıyan yayın hizmetlerine yaklaştırmayı işaret ediyor.",
+    "Lansman aynı zamanda Meta'nın diğer platformlarındaki mevcut kişiselleştirme çabalarına da dayanıyor. Instagram, Haziran ayında Algoritmanızı tanıttı ve Aralık 2025 'te Reels'in özelliğini ilk kez başlattıktan sonra Feed ve Explore genelinde özelleştirme seçeneklerini genişletti.",
+    "Threads ayrıca, kullanıcıların kendilerine önerilen içeriği etkilemelerine olanak tanıyan \"Sevgili Algo\" adlı kendi ilgili özelliğini de tanıttı."
+  ],
+  "tags_tr": []
+}

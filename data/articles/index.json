@@ -1,5 +1,35 @@
 [
   {
+    "slug": "facebook-tests-going-reels-first-in-india",
+    "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
+    "date": "06 October 2026",
+    "fetched_at": "2026-10-24T09:05:32.634901+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "2c42a61d40d59aa04297c8edf4b04dbece973f9af3f0895cc72d8f902ab8252f"
+  },
+  {
+    "slug": "facebook-is-giving-users-more-control-over-their-algorithm",
+    "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+    "date": "13 October 2026",
+    "fetched_at": "2026-10-24T09:04:56.256039+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "999dfbd2d73cef8416adf5e56425dc1305d9c28074220814d476ec567b0e4df5"
+  },
+  {
+    "slug": "exhibitor-program-reopened-book-by-sept-30",
+    "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+    "date": "22 September 2026",
+    "fetched_at": "2026-10-24T09:04:02.964498+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "fa9c2046016ba7c996f76ba4d99b1cb1a05a7637f9a00b6331da915b080cdda4"
+  },
+  {
     "content_hash": "3e19ceca6ab76fceaf1f7abd0c7a115bc34a0a1a80d9a50ebf965b6d3ee9a3aa",
     "date": "23 October 2026",
     "fetched_at": "2026-10-23T19:44:27.750320+00:00",

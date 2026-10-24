@@ -6,7 +6,78 @@
     <atom:link href="https://techcrunch.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>TechCrunch haberlerinin eksiksiz Türkçe çevirisi</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 24 Oct 2026 05:21:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:02:22 +0000</lastBuildDate>
+    <item>
+      <title>Facebook, ilk olarak Hindistan'da Reels'i test ediyor</title>
+      <link>https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <author>Jagmeet Singh</author>
+      <description>Meta, Hindistan'da bazı kullanıcıları uygulamayı açtıklarında doğrudan tam ekran videoya gönderen ve Reels'i öne çıkaran yeni bir Facebook UX'i test etmeye başladı.</description>
+      <media:content url="https://umutevicom-commits.github.io/makale/data/images/facebook-tests-going-reels-first-in-india/facebook-logo-on-phone.jpg" medium="image" type="image/jpeg" />
+      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/facebook-tests-going-reels-first-in-india/facebook-logo-on-phone.jpg" />
+      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/facebook-tests-going-reels-first-in-india/facebook-logo-on-phone.jpg" type="image/jpeg" length="0" />
+      <content:encoded><![CDATA[<p>Meta, Hindistan'da bazı kullanıcıları uygulamayı açtıklarında doğrudan tam ekran videoya gönderen ve Reels'i öne çıkaran yeni bir Facebook UX'i test etmeye başladı.</p>
+<p>İlk olarak Temmuz ayında Facebook başkanı Tom Alison tarafından özetlenen test, daha sürükleyici, video ileri kullanıcı deneyimi sunmak için tasarlandı. Alison, Meta'nın yıl içinde daha sonra ABD dışındaki &quot;video ağırlıklı ülkelerde&quot; test etmeye başlamayı planladığını söyledi, ancak nerede olduğunu belirtmedi. Şirket, kullanıcı deneyimini gelecek yıl ABD'ye getirmeyi keşfedeceğini söyledi. Bir Meta sözcüsü, yayımlanmasının ardından testin Endonezya'da da devam ettiğini doğruladı.</p>
+<p>Meta, teste dahil olan kullanıcıların vazgeçebileceğini ve Feed - first deneyimine geri dönebileceğini söyledi. Klasik akış, Facebook uygulamasında ikinci bir sekme olarak kullanılmaya devam edecek.</p>
+<p>Test, Meta videoyu Facebook için daha merkezi hale getirmek için harekete geçtiğinde geliyor. Geçen yıl şirket, Facebook'ta yayınlanan tüm yeni videoların uzunluklarına veya biçimlerine bakılmaksızın Reels olarak paylaşılacağını söyledi ve hatta uygulamanın Video sekmesini &quot;Reels&quot; olarak yeniden adlandırdı. Meta daha önce genç yetişkinlerin zamanlarının yaklaşık % 60 'ını Facebook'ta video izleyerek geçirdiğini söylemişti.</p>
+<p>Hindistan uzun zamandır Meta'nın video çabaları, özellikle de kısa biçimli videoya geçişi için bir test alanı oldu. 2020 'de Instagram, Hindistan'ın TikTok'u yasaklamasından aylar sonra ülkede özel bir Reels sekmesini test etmeye başlamıştı. Şirket ayrıca geçen yıl Hindistan ve Güney Kore'deki bazı Instagram kullanıcıları için Reels - first deneyimini test etti ve benzer şekilde uygulamayı açtıklarında onları doğrudan video UX'e gönderdi.</p>
+<p>Yeni test, Meta'nın Hindistan'daki uygulamalarında video tüketiminin artmasıyla birlikte geldi. Meta - komisyonlu çalışmalarda ankete katılan kullanıcıların en az % 97 'si günlük olarak platformlarında video izlediklerini ve Z Kuşağı katılımcılarının % 89' u, şirketin Haziran ayında yayınladığı rakamlara göre her gün Reels kullandıklarını söyledi. Meta, Reels'in giderek Hindistan'ın &quot;kişisel ve birincil ekranı&quot; haline geldiğini açıkladı.</p>
+<p>Meta'nın reklam araçlarıyla ülkede 400 milyondan fazla kişinin izlediğini gösteren Hindistan, kullanıcılar açısından Facebook'un en büyük pazarı.</p>
+<p>Bu hikaye, Meta'nın testin Endonezya'da da devam ettiğini doğrulamasıyla güncellendi.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/facebook-tests-going-reels-first-in-india/facebook-logo-on-phone.jpg" alt="photo illustration of Facebook logo is seen displayed on a smartphone." loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Facebook, kullanıcılara algoritmaları üzerinde daha fazla kontrol sağlıyor</title>
+      <link>https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <author>Lauren Forristal</author>
+      <description>Facebook, kullanıcılara yayınlarında nelerin göründüğünü belirleyen algoritma üzerinde daha fazla kontrol sağlayan en son sosyal medya platformudur.</description>
+      <media:content url="https://umutevicom-commits.github.io/makale/data/images/facebook-is-giving-users-more-control-over-their-algorithm/YourAlgorithm-FB.png" medium="image" type="image/png" />
+      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/facebook-is-giving-users-more-control-over-their-algorithm/YourAlgorithm-FB.png" />
+      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/facebook-is-giving-users-more-control-over-their-algorithm/YourAlgorithm-FB.png" type="image/png" length="0" />
+      <content:encoded><![CDATA[<p>Facebook, kullanıcılara yayınlarında nelerin göründüğünü belirleyen algoritma üzerinde daha fazla kontrol sağlayan en son sosyal medya platformudur.</p>
+<p>Meta, salı günü Instagram'da ilk kez başlattığı yapay zeka destekli yeni özelliği &quot;Your Algorithm&quot; in lansmanını duyurdu. Yeni araç, Facebook kullanıcılarının Feed and Reels'te gördükleri içeriği, tercihlerini doğal dil kullanarak kendi kelimeleriyle tanımlayarak etkilemelerine olanak tanıyor. Kullanıcılar artık tamamen otomatik önerilere güvenmek yerine, az ya da çok görmek istedikleri konular ve içerikler hakkında platformla doğrudan iletişim kurabilirler.</p>
+<p>Meta'ya göre, bu özellik içerik önerilerini daha alakalı hale getirmek için tasarlanmıştır. Kullanıcılar, tercihlerini ayarlayabilir ve gönderileri sıralamaktan ve önermekten sorumlu algoritmalarla etkileşime girebilir ve değişiklikler gerçek zamanlı olarak önerilerine yansıtılır.</p>
+<p>Şirket ayrıca Facebook'un üç noktalı menüsünü de güncelledi ve kullanıcıların içerik tercihlerini doğrudan tek tek yayınlardan yönetmelerini kolaylaştırdı. Menüyü açarak, kullanıcılar &quot;Algoritmanız&quot; a erişebilir veya belirli içeriğin tercihleriyle uyumlu olup olmadığını belirtmek için &quot;İlgileniyorum&quot; ve &quot;İlgilenmiyorum&quot; seçeneklerini belirleyebilir.</p>
+<p>Meta, platformun kullanıcıların neleri beğendiğini veya beğenmediğini daha iyi anlamak için takip soruları sorabileceğini ve daha ayrıntılı geri bildirim sağlamalarına olanak tanıyabileceğini söylüyor. Kullanıcılar, az ya da çok neyi görmek istediklerini açıklayabilir ve Facebook'un yanıtlarına göre önerilerini iyileştirmesine yardımcı olabilir.</p>
+<p>“Sizin Algoritmanız” özelliğinin tanıtılması, yapay zekanın içerik keşfini giderek daha fazla şekillendirdiği bir dönemde, Meta&amp;#39;nın insanlara sosyal medya deneyimleri üzerinde daha fazla söz hakkı verme çabasının bir yansımasıdır. Bu hamle, yıllardır sosyal medya deneyimlerini şekillendiren geleneksel öneri sistemlerinden uzaklaşmayı ve platformu, kullanıcıların ilgi alanlarına ve tercihlerine göre önerileri kişiselleştirmelerine olanak tanıyan yayın hizmetlerine yaklaştırmayı işaret ediyor.</p>
+<p>Lansman aynı zamanda Meta'nın diğer platformlarındaki mevcut kişiselleştirme çabalarına da dayanıyor. Instagram, Haziran ayında Algoritmanızı tanıttı ve Aralık 2025 'te Reels'in özelliğini ilk kez başlattıktan sonra Feed ve Explore genelinde özelleştirme seçeneklerini genişletti.</p>
+<p>Threads ayrıca, kullanıcıların kendilerine önerilen içeriği etkilemelerine olanak tanıyan &quot;Sevgili Algo&quot; adlı kendi ilgili özelliğini de tanıttı.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/facebook-is-giving-users-more-control-over-their-algorithm/YourAlgorithm-FB.png" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/facebook-is-giving-users-more-control-over-their-algorithm/Discovery-Facebook.png" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Eklenen sergi tabloları: TechCrunch Disrupt 2026 'da girişiminizi sergilemek için son bir şans</title>
+      <link>https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <author>TechCrunch Events</author>
+      <description>Katılımcı rezervasyonları tekrar açıldı, ancak yalnızca 30 Eylül saat 23:59 'a (PT) kadar. İlk teslim tarihini kaçırdıysanız, bu, girişiminizi Expo Hall katına çıkarmak için son şansınız.</description>
+      <media:content url="https://umutevicom-commits.github.io/makale/data/images/exhibitor-program-reopened-book-by-sept-30/54885180072_e211a254ca_k.jpg" medium="image" type="image/jpeg" />
+      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/exhibitor-program-reopened-book-by-sept-30/54885180072_e211a254ca_k.jpg" />
+      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/exhibitor-program-reopened-book-by-sept-30/54885180072_e211a254ca_k.jpg" type="image/jpeg" length="0" />
+      <content:encoded><![CDATA[<p>Katılımcı rezervasyonları tekrar açıldı, ancak yalnızca 30 Eylül saat 23:59 'a (PT) kadar. İlk teslim tarihini kaçırdıysanız, bu, girişiminizi Expo Hall katına çıkarmak için son şansınız.</p>
+<p>TechCrunch Disrupt 2026, 13 -15 Ekim tarihlerinde San Francisco'daki Moscone West'te gerçekleşecek ve 10.000 'den fazla kurucuyu, yatırımcıyı, operatörü ve teknoloji liderini bir araya getirecek.</p>
+<p>Artık sergi rezervasyonları yeniden açıldığına göre, Expo Salonu dolmadan önce önlerine çıkmak için başka bir fırsatınız var.</p>
+<p>Fuar Salonu, girişiminize ürününüzü doğrudan işinizi ilerletmenize yardımcı olabilecek kişilerin önüne koyması için üç gün verir. Kurucu arkadaşlarınızla tanışın ve sektörde çığır açacak bir sonraki büyük atılımı bulun.</p>
+<p>Bir sergi masası şunları yapmanızı sağlar:</p>
+<p>Ürününüzü potansiyel müşterilere, yatırımcılara ve ortaklara tanıtın.</p>
+<p>Bir sonraki fırsatlarını aktif olarak arayan risk sermayedarlarıyla tanışın.</p>
+<p>Disrupt mobil uygulaması aracılığıyla potansiyel müşterileri yakalayın.</p>
+<p>Müşteri ve iş ortaklığı görüşmelerini yüz yüze başlatın.</p>
+<p>Yüzlerce diğer girişimle birlikte görünürlük oluşturun.</p>
+<p>12.500 $ değerindeki sergi paketiniz, üç gün boyunca 6 &quot;x 30&quot; markalı bir masa, 10 takım bileti, müşteri adayı oluşturma araçları, web sitesi ve uygulama markalama, basın listesine erişim, Silver Tier sponsor markalama ve daha fazlasını içerir. Kurucular ayrıca Deal Flow Café ve Yatırımcıdan Kurucuya Ağ Oluşturma gibi fırsatlara da erişebilirler.</p>
+<p>Ne kadar erken girerseniz, varlığınızı duyurmak için o kadar çok fırsatınız olur. Bir masa ayırtmış olmayı dilemek için Expo Salonu dolana kadar beklemeyin.</p>
+<p>Katılımcı rezervasyonları artık tekrar açıktır, ancak 30 Eylül 23:59 PT son teslim tarihidir. Masalar sınırlıdır ve önce gelir, önce servis edilir.</p>
+<p>Sergi masanızı şimdi rezerve edin ve Disrupt'ta bekleyen konuşmalarda, müşterilerde ve bağlantılarda startup'ınıza ilk şansı verin.</p>
+<p>13 -15 Ekim tarihleri arasında gerçekleşecek olan TechCrunch Disrupt 2026 'da hala odaya girebilirsiniz. Altı endüstri aşamasında 200' den fazla oturumda 250 'den fazla üst düzey teknoloji liderinden haber alın; bina, finansman ve ölçeklendirme için pratik bilgiler edinin; ve daha alakalı bağlantılar kurmak için yapay zeka destekli eşleştirme ve etkileşimli oturumları kullanın. Potansiyel ürünleri, iş ortaklarını ve yatırım fırsatlarını keşfetmek için 300' den fazla startup'ı ve Startup Battlefield 200 'ü keşfedin.</p>
+<p>Normal bilet fiyatlandırması 25 Eylül 23:59 PT'de sona erer. Fiyatlar artmadan önce 200 $ 'a kadar tasarruf edin ve bir iş arkadaşınız için ikinci bir bilet satın aldığınızda % 50 indirim kazanın.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/exhibitor-program-reopened-book-by-sept-30/54885180072_e211a254ca_k.jpg" alt="Expo Hall at TechCrunch Disrupt 2025 in San Francisco" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/exhibitor-program-reopened-book-by-sept-30/48843734913_c4bf4836ee_k.jpg" alt="Guests visit vendor booths during TechCrunch Disrupt San Francisco 2019 at Moscone Convention Center on October 04, 2019 in San Francisco, California." loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/exhibitor-program-reopened-book-by-sept-30/TC26_Disrupt_General_Article_Headers_1920x1080.png" alt="TechCrunch Disrupt 2026, October 13-15" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
     <item>
       <title>Temsilci bulutu girişimi Daytona, FirstMark ve meleklerin kim olduğu tarafından desteklenen 1 milyar $ değerlemeye ulaştı</title>
       <link>https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/</link>
@@ -1401,66 +1472,6 @@
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/Tablets_Hero_1920x1080.png" alt="Amazon Alexa Tablet" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/Tablets_1080x1080.png" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/Tablets_Hero_1920x1080-1.png" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>TechCrunch Disrupt 2026 'ya 6 gün kaldı: Kapılar açılmadan önce kartınızdan tasarruf edin</title>
-      <link>https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <author>TechCrunch Events</author>
-      <description>Altı gün içinde, küresel girişim ve teknoloji ekosisteminden 10.000 'den fazla kişi, TechCrunch Disrupt 2026 için San Francisco'daki Moscone West'te bir araya gelecek. Onlardan biri olmayı planlıyorsanız kapıda fiyatlar artmadan hemen biletinizi kaydettirin.</description>
-      <media:content url="https://umutevicom-commits.github.io/makale/data/images/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/49202518493_54cc9e39e1_k.jpg" medium="image" type="image/jpeg" />
-      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/49202518493_54cc9e39e1_k.jpg" />
-      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/49202518493_54cc9e39e1_k.jpg" type="image/jpeg" length="0" />
-      <content:encoded><![CDATA[<p>Altı gün içinde, küresel girişim ve teknoloji ekosisteminden 10.000 'den fazla kişi, TechCrunch Disrupt 2026 için San Francisco'daki Moscone West'te bir araya gelecek. Onlardan biri olmayı planlıyorsanız kapıda fiyatlar artmadan hemen biletinizi kaydettirin.</p>
-<p>İndirimli çevrimiçi fiyatlandırma, 13 Ekim'de kapılar açılmadan önce kullanılabilir ve 100 $ tutarına kadar indirimli kart tasarrufu sağlanır. Ayrıca, bir iş arkadaşınızı, kurucu ortağınızı veya arkadaşınızı getirin ve ikinci bir geçerli indirimli yolculuk kartında % 50 indirim kazanın. İşiniz bitti mi? Üzerinde adınız yazılı 75 $ 'lık bir Expo+ Pass var.</p>
-<p>13 -15 Ekim tarihleri arasında yüzlerce girişim ve teknoloji şirketinin en son fikirlerini hayata geçirdiği Fuar Salonu. Bir sonraki teknoloji dalgasını şekillendirebilecek yeni ürünleri, yeni iş modellerini ve şirketleri keşfetmek için zaman ayırın.</p>
-<p>Etkinliğin etkinleştirmeleri ve etkili bağlantıları sizi Disrupt'a getiren şeyse, yapay zeka ve bağış toplamadan fintech, robotik, altyapı, ürün, işe alma ve ölçeklendirmeye kadar her şeyi kapsayan 250 'den fazla teknoloji liderinin yer aldığı altı aşamada, yuvarlak masa toplantılarında ve toplantılarda 200' den fazla oturum da vardır.</p>
-<p>Dizilimde Municipal'ın kurucu ortağı Mark Wahlberg; Rivian kurucusu ve CEO'su RJ Scaringe OpenAI Alexander Embiricos'un Dots ürün lideri; Inspired Capital'in kurucusu ve yönetici ortağı Alexa von Tobel; Cerebras Systems CEO'su Andrew Feldman; Anthropic'in Cat de Jong'u; Nvidia'nın Les Karpas'ı ve daha fazlası yer alıyor.</p>
-<p>Ve 20 finalistin Disrupt Stage'de canlı olarak yarışacağı Startup Battlefield 200 'ü 100.000 $ ödül ve yatırımcıların, medyanın ve küresel startup ekosisteminin dikkati için kaçırmayın. Bu, ölçeklendirmeyi düşünüyorsanız veya şu anda ölçeklendiriyorsanız izlenecek saha yarışmasıdır. En iyi risk sermayedarlarından kazanan bir sunum yapmak için ne gerektiğini ve uygulanabilir bir startup'ı neyin yaptığını öğreneceksiniz.</p>
-<p>Moscone West'teki Disrupt kapılarının açılmasına 6 gün kaldı. İndirimli yolculuk kartınızda şimdi 100 $ 'a kadar tasarruf edin ve etkinlikten önce kaydolduğunuzda ikinci bir geçerli indirimli yolculuk kartında % 50 indirim kazanın. İyi vakit geçirdiniz mi? Sadece 75 $ karşılığında Expo+ Pass alın.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/49202518493_54cc9e39e1_k.jpg" alt="TechCrunch Disrupt Berlin 2019 - Day 1 BERLIN, GERMANY - DECEMBER 11: A general view at TechCrunch Disrupt Berlin 2019 at Arena Berlin on December 11, 2019 in Berlin, Germany." loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/TC26_Disrupt_General_Article_Headers_1920x1080.png" alt="TechCrunch Disrupt 2026, October 13-15" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/Startup-Battlefield-2023-1.jpg" alt="TechCrunch Startup Battlefield 200 2023" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/Disrupt-Audience.webp" alt="TechCrunch Disrupt 2026 Stage Audience" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Bir başka kişisel yapay zeka asistanı olan Meet Tab, 300 MİLYON $ değerleme ile gizlilikten çıktı</title>
-      <link>https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <author>Dominic-Madori Davis</author>
-      <description>Yeni bir kişisel yapay zeka asistanı geldi. Meet Tab, salı günü 300 milyon $ değerleme ile gizlilikten resmi olarak çıktığını duyurdu. (Şirket, kesin finansman ayrıntılarını paylaşmayı reddetti.) tab, insanların rezervasyon yapma ve seyahat rezervasyonu yapma gibi günlük görevleri yerine getirmelerine yardımcı olmayı vaat eden Instinct ve Meta's Muse gibi tüketici yapay zeka asistanlarının yükselen eğiliminin bir parçasıdır.</description>
-      <media:content url="https://umutevicom-commits.github.io/makale/data/images/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/Tab-website.png" medium="image" type="image/png" />
-      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/Tab-website.png" />
-      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/Tab-website.png" type="image/png" length="0" />
-      <content:encoded><![CDATA[<p>Yeni bir kişisel yapay zeka asistanı geldi. Meet Tab, salı günü 300 milyon $ değerleme ile gizlilikten resmi olarak çıktığını duyurdu. (Şirket, kesin finansman ayrıntılarını paylaşmayı reddetti.) tab, insanların rezervasyon yapma ve seyahat rezervasyonu yapma gibi günlük görevleri yerine getirmelerine yardımcı olmayı vaat eden Instinct ve Meta's Muse gibi tüketici yapay zeka asistanlarının yükselen eğiliminin bir parçasıdır.</p>
-<p>Brennan Erbz, Stafford Schlitt ve Ammar Amdani bu yılın başlarında tab üzerinde çalışmaya başladılar. TechCrunch'a konuşan Amdani, ürünün şu şekilde çalıştığını söyledi: Kullanıcılar, ister yiyecek sipariş etmek ister bir doğum günü partisi için hediye bulmak olsun, yardıma ihtiyaç duydukları her konuda iMessage veya WhatsApp'taki Sekme asistanına mesaj atıyor ve Sekme bunu gerçekleştiriyor.</p>
-<p>Amdani, &quot;Sanki güvendiğiniz birine mesaj atacakmışsınız gibi mesaj atıyorsunuz ve bu ağırlığınızı hafifletiyor&quot; diye devam etti. &quot;Faturalar, rezervasyonlar, ertelemeye devam ettiğiniz aramalar, sevdiğiniz insanları hatırlamak. Kendi telefon numarası, bilgisayarı ve cüzdanı vardır, bu yüzden size bunları nasıl yapacağınızı söylemez. Onlara yarıyor .&quot;</p>
-<p>Turdaki yatırımcılar arasında SV Angel, Valar Ventures ve American Spirit yer alıyor. Amdani, şirketin şu anda çoğunlukla ağızdan ağıza büyüdüğünü ve yakında yeni bir ürün piyasaya sürmeyi planladığını söyledi.</p>
-<p>Bunun artık bir tür tüketici yapay zeka yarışı olduğunu kabul etti. Amdani, &quot;Herkes yapay zekayı daha yetenekli hale getirmek için yarışıyor&quot; dedi.</p>
-<p>Amdani, &quot;Büyükanne ve büyükbabanızın bir aile doktoru, bir bankacı, onları tanıyan ve onlara göz kulak olan biri vardı&quot; dedi. &quot;Çoğumuz artık buna sahip değiliz.&quot; Kişiselleştirilmiş yapay zekanın devreye girebileceği yer burası, ancak bu tüketici yapay zeka yarışının kazananlarının mutlaka en iyi demolara sahip olanlar olmayacağını söyledi.</p>
-<p>&quot;Daha zor olan sorunun buna izin verip vermeyeceğiniz olduğunu düşünüyoruz.&quot; E - postaları okuyabilen, telefon görüşmeleri yapabilen veya bir şeyler satın alabilen herhangi bir yapay zeka asistanı, &quot;yalnızca ona olan güveniniz kadar iyidir .&quot;</p>
-<p>Tab'ın bu fikir etrafında inşa edilmesinin nedeni bu, dedi. “Verileriniz asla yapay zekayı eğitmek için kullanılmaz. Kartınız hiçbir zaman göremeyeceğiniz bir vault sekmesinde yer alır. ‘Evet'iniz olmadan geri alınabilecek hiçbir şey olmaz.&quot; Yetenek, masa başı risktir. Güven üründür .&quot;</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/Tab-website.png" alt="Tab website" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Apple'ın akıllı kilit, termostat ve kapı zili için LG ile ortaklık kurduğu bildirildi</title>
-      <link>https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <author>Lucas Ropek</author>
-      <description>Bloomberg'in haberine göre Apple, LG ortaklığıyla yeni bir akıllı ev cihazı ekosistemi üzerinde çalışıyor.</description>
-      <media:content url="https://umutevicom-commits.github.io/makale/data/images/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/Screenshot-2026-08-26-at-12_45_18-PM.png" medium="image" type="image/png" />
-      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/Screenshot-2026-08-26-at-12_45_18-PM.png" />
-      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/Screenshot-2026-08-26-at-12_45_18-PM.png" type="image/png" length="0" />
-      <content:encoded><![CDATA[<p>Bloomberg'in haberine göre Apple, LG ortaklığıyla yeni bir akıllı ev cihazı ekosistemi üzerinde çalışıyor.</p>
-<p>Akıllı kilit, termostat ve kapı zili içeren yeni cihazlar, 13 Ekim'de piyasaya sürüleceği bildirilen bir başka yeni ürün olan şirketin akıllı ev merkeziyle entegre olacak şekilde tasarlandı. Bu göbeğin, bir tezgaha yerleştirilebilen veya bir duvara monte edilebilen 15 cm'lik kare bir ekran içermesi bekleniyor.</p>
-<p>İki şirket ayrıca iç ve dış mekan modelleri de dahil olmak üzere bir dizi güvenlik kamerası ve projektör üzerinde çalışıyor. LG cihazlarının resmi olarak piyasaya sürülmediği takdirde önümüzdeki hafta da duyurulması bekleniyor. TechCrunch daha fazla bilgi için Apple'a ulaştı.</p>
-<p>İlginç bir şekilde, her iki şirket tarafından geliştirilmesine rağmen, cihazların LG markasını taşıyacağı bildiriliyor.</p>
-<p>Yeni ürünler, Amazon'un şu anda Ring ev güvenlik kameraları da dahil olmak üzere çeşitli benzer ürünleri içeren akıllı ev tekliflerinde bir kaydırma olarak okunabilir.</p>
-<p>Apple, son donanım sürümleriyle yeni bir alana girmeye çalıştı. Bu yeni bölgelerden biri de genişletilmiş bir akıllı ev varlığıdır.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/Screenshot-2026-08-26-at-12_45_18-PM.png" alt="silvery-blue Apple logo" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
