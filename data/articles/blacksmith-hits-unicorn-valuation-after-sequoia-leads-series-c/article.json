@@ -1,0 +1,33 @@
+{
+  "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+  "slug": "blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c",
+  "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+  "news_id": "blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c",
+  "date": "21 October 2026",
+  "author": "Dominic-Madori Davis",
+  "tags": [],
+  "body_paragraphs": [
+    "Blacksmith, a platform that helps companies more efficiently build and test software, including code written by AI, announced Wednesday a $66 million Series C funding round led by Sequoia that values the company at $1 billion.",
+    "In announcing the round, Blacksmith co-founder and CEO Aditya Jayaprakash said the company was founded to make continuous integration (CI) — the process of building, testing, merging, and validating code changes — “less painful.” In a blog post, he said that “most companies are struggling to keep up with the volume of CI they need to run,” especially in an era where so much code is written by AI.",
+    "“As agents write more of the world’s software, the question that matters is whether it can be trusted,” he added.",
+    "The company also announced that its annual recurring revenue has grown 17x and that it has run over 90 million CI jobs, or individual automated code checks. Customers include Mercury and Granola.",
+    "The Series C comes just two months after its $45 million Series B, which valued the company at $550 million. A year ago, Blacksmith was valued at $60 million after raising a $10 million Series A. It has raised $125 million to date."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/Blacksmith.jpg",
+      "alt": ""
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-25T09:02:39.174654+00:00",
+  "title_tr": "Blacksmith, Sequoia'nın C Serisini yönetmesinin ardından tek boynuzlu at değerlemesine ulaştı",
+  "body_paragraphs_tr": [
+    "Yapay zeka tarafından yazılan kod da dahil olmak üzere şirketlerin yazılımı daha verimli bir şekilde geliştirmesine ve test etmesine yardımcı olan bir platform olan Blacksmith, Çarşamba günü Sequoia liderliğindeki 66 milyon $ 'lık C Serisi finansman turunun şirkete 1 milyar $ değerinde olduğunu duyurdu.",
+    "Turu duyuran Blacksmith'in kurucu ortağı ve CEO'su Aditya Jayaprakash, şirketin kod değişikliklerini oluşturma, test etme, birleştirme ve doğrulama süreci olan sürekli entegrasyonu (CI) \"daha az acı verici\" hale getirmek için kurulduğunu söyledi. \"Bir blog yazısında, özellikle yapay zeka tarafından çok fazla kodun yazıldığı bir çağda,\" çoğu şirketin çalışması gereken CI hacmine ayak uydurmakta zorlandığını \"söyledi.",
+    "\"Ajanlar dünyanın yazılımını daha fazla yazdıkça, önemli olan onun güvenilir olup olmadığıdır\" diye ekledi.",
+    "Şirket ayrıca, yıllık yinelenen gelirinin 17 kat arttığını ve 90 milyondan fazla CI işi veya bireysel otomatik kod kontrolü gerçekleştirdiğini duyurdu. Müşteriler arasında Mercury ve Granola bulunmaktadır.",
+    "C Serisi, 45 milyon $ değerindeki B Serisi'nden sadece iki ay sonra geliyor ve şirkete 550 milyon $ değer biçti. Bir yıl önce, Blacksmith 10 milyon $ A Serisi topladıktan sonra 60 milyon $ değerindeydi. Bugüne kadar 125 milyon $ topladı."
+  ],
+  "tags_tr": []
+}

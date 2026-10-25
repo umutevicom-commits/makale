@@ -1,5 +1,45 @@
 [
   {
+    "slug": "blocks-new-voice-model-sounds-eerily-human",
+    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "date": "24 October 2026",
+    "fetched_at": "2026-10-25T09:03:51.096521+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "1511446a521b464062b3054048e28653e89a46e591656ff68a618cacbb937567"
+  },
+  {
+    "slug": "blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet",
+    "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-25T09:03:00.729923+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "138b737cb52cf3324346b3f69cfe03791371a467b930d51f5b6f459a8ddbef0f"
+  },
+  {
+    "slug": "blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c",
+    "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+    "date": "21 October 2026",
+    "fetched_at": "2026-10-25T09:02:39.174654+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "d4e64939c18937f4efef35bc6f8f73be8c79dc0b846e944416d1c86509d15e1a"
+  },
+  {
+    "slug": "bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future",
+    "url": "https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/",
+    "date": "22 September 2026",
+    "fetched_at": "2026-10-25T09:00:45.723087+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "3e4dd0c8df41d36c5693e2c624c9fb0abc9a92f19673c6e4cc0a6741e6b9a365"
+  },
+  {
     "content_hash": "2c42a61d40d59aa04297c8edf4b04dbece973f9af3f0895cc72d8f902ab8252f",
     "date": "06 October 2026",
     "fetched_at": "2026-10-24T09:05:32.634901+00:00",

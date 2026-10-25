@@ -1,0 +1,33 @@
+# Block'un yeni ses modeli kulağa ürkütücü bir şekilde insanca geliyor
+
+Jack Dorsey's Block, şirketin araştırma laboratuvarından yerel olarak çalışan ve gülme, duraklama ve ağlama gibi ifadeleriyle kulağa tuhaf gelen yeni bir ses modeli çıkardı. Şirket, Dessa adlı modelin tamamen insan konuşması ve tek bir NVIDIA GPU rafı üzerine eğitildiğini söyledi.
+
+Dessa tam çift yönlü bir model, yani tıpkı bu yılın başlarında piyasaya sürülen GPT - Live modeli OpenAI gibi aynı anda hem konuşabiliyor hem de dinleyebiliyor. Tipik olarak, konuşma modelleri, bilgiye erişim için büyük bir dil modeliyle eşleştirilir. Block, Dessa'nın bilgisinin sahip olduğu konuşma verilerinden kaynaklandığını söyledi.
+
+Sesin zeka ile etkileşime girmenin en doğal yolu olduğuna inanıyoruz, bu yüzden şimdiye kadar yapılmış en otantik tam çift yönlü konuşma modeli olan Dessa'yı yarattık. Onunla konuşmak, bir insanla konuşmak gibi hissettiriyor... duygu, nüans, duraklamalar ve doğal bir ahenkle dolu. https://t.co/r0qFLdvd6c
+
+Block, mevcut modellerin kulağa doğal olmayan ve sinir bozucu gelebileceğini çünkü konuşma üretimini yönlendiren metinlere sahip olduklarını söyledi. ElevenLabs v4 veya Fish Audio Drama 3 gibi birçok model, konuşma üretiminde duyguları harekete geçirmek için sesli etiketler kullanır. Dorsey'in şirketi, duygunun modelinde yerleşik olduğunu iddia ediyor. Bu duygunun bir tür etiket tarafından yönlendirilip yönlendirilmediği belli değil.
+
+"Mevcut ses yapay zekasıyla etkileşim kurmak berbat olabilir. Sesinizi metne dönüştürür ve tek başına taşıyamayacağı inanılmaz miktarda bilgiyi çöpe atar. Dünyanın en güçlü yapay zekaları nasıl hissettiğinizi duyamaz. Bunun gülünç olduğunu, daha kötü bir deneyime yol açtığını ve potansiyel olarak tehlikeli olduğunu düşünüyoruz" dedi.
+
+Şirketin araştırmacıları, temsilcinin farklı seslere, ritimlere ve duygulara sahip olduğu Dessa ile yapılan konuşmaların birden fazla örneğini yayınladı. Örneğin, konuşmada, bot işten yorulduğunu söyledi ve bu noktada yorgun görünüyordu.
+
+Tamamen konuşma üzerine eğitilmiş, gerçekçi bir konuşma yapabileceğiniz ilk yapay zeka modelini yaptık! Dessa, tüketici GPU'larında çalıştırabileceğiniz tam çift yönlü bir konuşma - konuşma modelidir. Bu konuşma için bir GPT3 anı. pic.twitter.com/XVD8sSyJn8
+
+Aşağıdaki örnekte, bot duygusal konuşurken ve neredeyse yıkılırken onu rahat ettiren kişiden bahsediyordu.
+
+Dessa=tam çift yönlü konuşma modeli vs İnsan=ben, https://t.co/1eI6QFHo1w pic.twitter.com/zlZfxH2BA5
+
+Bir diğeri, ses asistanıyla oyun oynayan bir Block ekip üyesini gösterir.
+
+Oyunun aşkına. Cara'nın Dessa ile bir tahmin oyunu oynamasını izle. Model ilkini hemen tahmin eder ve ikincisi de uzun sürmez. https://t.co/FDmoXNPpIh pic.twitter.com/I9f8saduEA
+
+Şirket, modelin MacBook M4 Max veya daha iyisi gibi tüketici sınıfı bir bilgisayarda yerel olarak çalışabileceğini söyledi. Bununla birlikte, şu anda Dessa'ya halka açık erişim yok ve Block, güvenlik araştırmacılarına modeli test etmeleri için bir çağrıda bulundu. Bunun, bir ses temsilcisinin diğer taraftaki insanları kandırabileceği durumları test etmesi muhtemeldir.
+
+Block finans işinde ve çözümlerini küçük işletmelere satıyor. Square, siparişi işlemek için zaten sesli AI kullanıyor. Ancak cihazda çalışabilen kendi ses modeliyle, daha düşük bir maliyetle çok daha fazla iş ve tüketici deneyimine güç sağlayabilir.
+
+---
+
+## Görseller
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/blocks-new-voice-model-sounds-eerily-human/jack-dorsey.jpg)
