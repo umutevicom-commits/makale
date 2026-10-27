@@ -1,5 +1,35 @@
 [
   {
+    "slug": "apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip",
+    "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
+    "date": "26 October 2026",
+    "fetched_at": "2026-10-26T22:14:34.456784+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "a4d277213ec7203841769699934f6d49f0dac0438641d6f724a76ce5c98887ed"
+  },
+  {
+    "slug": "anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked",
+    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "date": "26 October 2026",
+    "fetched_at": "2026-10-26T22:14:06.530994+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "36c03481c26116e298ff8788d2483680637f5fddbf4f9f07114d4b12c9feb00a"
+  },
+  {
+    "slug": "anthropic-officially-files-for-its-public-debut",
+    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "date": "26 October 2026",
+    "fetched_at": "2026-10-26T22:13:49.842705+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "9e106b4132f3bb8b949832d691c58d6b3f7283af24041a102165a9d66208a5ae"
+  },
+  {
     "content_hash": "ec74a97eea9972330408de8a5c1551a0a8f334e2ff70e4219222d2127a25c55d",
     "date": "25 October 2026",
     "fetched_at": "2026-10-25T22:15:09.075089+00:00",
