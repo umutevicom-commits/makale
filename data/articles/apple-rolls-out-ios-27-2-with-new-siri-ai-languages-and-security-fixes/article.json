@@ -1,0 +1,45 @@
+{
+  "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+  "slug": "apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes",
+  "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+  "news_id": "apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes",
+  "date": "27 October 2026",
+  "author": "Ivan Mehta",
+  "tags": [],
+  "body_paragraphs": [
+    "Apple has rolled out its latest iOS 27.2 update for iPhones and iPads, featuring expanded language support and improved memory functions for Siri AI, suggestions in messages, and Apple Pencil support for the foldable iPhone Duo.",
+    "With the new software update, Siri AI can now be used in French, Japanese, Korean, Portuguese, and Spanish, in beta. Apple says the AI assistant can now remember details from past conversations and answer accordingly. The ability for AI assistants to remember a person’s preferences have been a key area of focus for AI model makers, including OpenAI, Anthropic, and Google, whose assistants now do a better job at recalling facts and choices related to users.",
+    "Apart from its own suggestions and answers, Siri can also tap into sources like photos attached in Messages, calendar event attendees, voicemails, Safari history, and reading lists. Users can define what apps they might want to exclude from Siri AI’s memories.",
+    "While the iPhone Duo is facing some display-related problems for early buyers, Apple is adding more features with the update. iOS 27.2 brings Apple Pencil support for the foldable in apps like Notes and Preview. What’s more, users can use the Edge Light effect to highlight their face better during video calls.",
+    "The new software version also adds features for FaceTime, including streaming via front and rear camera simultaneously through Dual Capture for group call, and the ability to add a third-party sign language interpreter or live captioner to a call.",
+    "Users on iOS 27.2 will get suggestions to add a message as an item in a reminder or an event in a calendar. Plus, users can edit captions or add comments in Shared Albums along with reminders of the expiry date of the folder.",
+    "The update also refreshes the Podcast app, which will show new episodes from the shows you follow and also the episodes that you are currently listening to.",
+    "Apple has also added Multiview to iPhone so viewers can watch up to four live sport streams simultaneously on Apple TV such as Major League Soccer (MLS), Formula 1 (F1) in the U.S., and Friday Night Baseball doubleheaders during the Major League Baseball (MLB) season. Users can also view multiple feeds of F1 during the broadcast.",
+    "iOS 27.2 also packs in over 160 security fixes, according to the company’s release documentation. Many of the bug fixes were also backported so that users running the older iOS 26 software can benefit from the fixes.",
+    "Apple says that about 80% of iPhone owners are still running iOS 26.",
+    "Meanwhile, Apple backported a specific bug fix to users of iOS 18, first released in 2024, which Apple says may have been exploited “in an extremely sophisticated attack against specific targeted individuals on versions of iOS before iOS 27.” This is standard language that Apple uses when someone’s phone has been compromised by government spyware or a law enforcement forensic device, but did not provide specifics about who was exploiting it."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/Siri-feat-iOS-27.jpg",
+      "alt": ""
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-27T20:24:20.327121+00:00",
+  "title_tr": "Apple, yeni Siri AI dilleri ve güvenlik düzeltmeleri ile iOS 27.2 'yi kullanıma sunuyor",
+  "body_paragraphs_tr": [
+    "Apple, Siri AI için genişletilmiş dil desteği ve geliştirilmiş bellek işlevleri, mesajlarda öneriler ve katlanabilir iPhone Duo için Apple Pencil desteği içeren en son iOS 27.2 güncellemesini iPhone'lar ve iPad'ler için kullanıma sundu.",
+    "Yeni yazılım güncellemesiyle Siri AI artık beta sürümünde Fransızca, Japonca, Korece, Portekizce ve İspanyolca dillerinde kullanılabiliyor. Apple, yapay zeka asistanının artık geçmiş konuşmaların ayrıntılarını hatırlayabildiğini ve buna göre yanıt verebildiğini söylüyor. Yapay zeka asistanlarının bir kişinin tercihlerini hatırlama yeteneği, OpenAI, Anthropic ve Google da dahil olmak üzere yapay zeka model üreticileri için kilit bir odak alanı olmuştur ve asistanları artık kullanıcılarla ilgili gerçekleri ve seçimleri hatırlama konusunda daha iyi bir iş çıkarmaktadır.",
+    "Siri, kendi öneri ve cevaplarının yanı sıra Mesajlar'a eklenen fotoğraflar, takvim etkinliği katılımcıları, sesli mesajlar, Safari geçmişi ve okuma listeleri gibi kaynaklardan da yararlanabilir. Kullanıcılar, Siri AI'nın anılarından hangi uygulamaları hariç tutmak isteyebileceklerini tanımlayabilirler.",
+    "İPhone Duo, erken alıcılar için ekranla ilgili bazı sorunlarla karşı karşıya kalırken, Apple güncelleme ile daha fazla özellik ekliyor. iOS 27.2, Notlar ve Önizleme gibi uygulamalarda katlanabilir için Apple Pencil desteğini getiriyor. Dahası, kullanıcılar video görüşmeleri sırasında yüzlerini daha iyi vurgulamak için Edge Light efektini kullanabilirler.",
+    "Yeni yazılım sürümü ayrıca, grup görüşmesi için Dual Capture aracılığıyla eşzamanlı olarak ön ve arka kamera üzerinden akış ve bir çağrıya üçüncü taraf bir işaret dili tercümanı veya canlı altyazı ekleme yeteneği de dahil olmak üzere FaceTime için özellikler ekliyor.",
+    "IOS 27.2 'deki kullanıcılar, bir mesajı bir hatırlatıcıya öğe olarak veya bir takvime etkinlik olarak eklemek için öneriler alır. Ayrıca kullanıcılar, klasörün son kullanma tarihini hatırlatan altyazıları düzenleyebilir veya Paylaşılan Albümler'e yorum ekleyebilir.",
+    "Güncelleme ayrıca, takip ettiğiniz programlardan yeni bölümleri ve ayrıca şu anda dinlediğiniz bölümleri gösterecek olan Podcast uygulamasını da yeniler.",
+    "Apple ayrıca iPhone'a Multiview'i ekledi, böylece izleyiciler Major League Soccer (MLS), ABD'deki Formula 1 (F1) ve Major League Baseball (MLB) sezonunda Friday Night Baseball doubleheaders gibi Apple TV'de aynı anda dört canlı spor yayınını izleyebilirler. Kullanıcılar ayrıca yayın sırasında F1 'in birden fazla akışını görüntüleyebilir.",
+    "iOS 27.2 ayrıca şirketin yayın belgelerine göre 160 'tan fazla güvenlik düzeltmesi içeriyor. Eski iOS 26 yazılımını çalıştıran kullanıcıların düzeltmelerden yararlanabilmesi için hata düzeltmelerinin çoğu da geri aktarıldı.",
+    "Apple, iPhone sahiplerinin yaklaşık % 80 'inin hala iOS 26 kullandığını söylüyor.",
+    "Bu arada Apple, ilk olarak 2024 'te piyasaya sürülen iOS 18 kullanıcılarına belirli bir hata düzeltmesini geri bildirdi. Apple, \"iOS 27' den önce iOS sürümlerinde belirli hedeflenen kişilere karşı son derece sofistike bir saldırıda\" istismar edilmiş olabileceğini söylüyor. \"Bu, Apple'ın birinin telefonunun devlet casus yazılımı veya bir kolluk kuvveti adli tıp cihazı tarafından ele geçirildiğinde kullandığı standart dildir, ancak bunu kimin kullandığına dair ayrıntılar vermemiştir."
+  ],
+  "tags_tr": []
+}

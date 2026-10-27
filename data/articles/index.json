@@ -1,5 +1,35 @@
 [
   {
+    "slug": "apple-unveils-new-14-inch-macbook-pro-with-m6-chip",
+    "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+    "date": "27 October 2026",
+    "fetched_at": "2026-10-27T20:24:43.085633+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "aeccfa41a79a2bc5655eea8addcb13b92a6dee8719631dadbb6aace0e1ca13fd"
+  },
+  {
+    "slug": "apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes",
+    "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+    "date": "27 October 2026",
+    "fetched_at": "2026-10-27T20:24:20.327121+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "5ff05fd48eac058fb90baed32caf8b31b87048d5c9c795e81cb6828f0bb61674"
+  },
+  {
+    "slug": "anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop",
+    "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
+    "date": "27 October 2026",
+    "fetched_at": "2026-10-27T20:23:48.692162+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "c3abe4f61a44722344a898ef7b53d2656b4616ac07b06a1c54892ea97ee82bbc"
+  },
+  {
     "content_hash": "a4d277213ec7203841769699934f6d49f0dac0438641d6f724a76ce5c98887ed",
     "date": "26 October 2026",
     "fetched_at": "2026-10-26T22:14:34.456784+00:00",
