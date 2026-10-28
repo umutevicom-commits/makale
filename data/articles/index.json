@@ -1,5 +1,35 @@
 [
   {
+    "slug": "amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices",
+    "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+    "date": "28 October 2026",
+    "fetched_at": "2026-10-28T20:45:36.537248+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "b1841fd6c4a7f0dc1b0df50e6647f2203bcf8b91cc1075c4bc32f084530afa1a"
+  },
+  {
+    "slug": "ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public",
+    "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+    "date": "28 October 2026",
+    "fetched_at": "2026-10-28T20:45:04.049683+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "7cf344cd1a8e1c8ede7c293bc6b6c1e9c3907e1ab435e8573ad476820da457bb"
+  },
+  {
+    "slug": "7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open",
+    "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+    "date": "28 October 2026",
+    "fetched_at": "2026-10-28T20:44:28.407157+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "25d57d8e1df314068e378e6b0371d085ae36ee0fdc8ea65f714fcc1afbe038da"
+  },
+  {
     "content_hash": "aeccfa41a79a2bc5655eea8addcb13b92a6dee8719631dadbb6aace0e1ca13fd",
     "date": "27 October 2026",
     "fetched_at": "2026-10-27T20:24:43.085633+00:00",
