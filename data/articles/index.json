@@ -1,23 +1,33 @@
 [
   {
-    "slug": "apple-launches-its-new-touchscreen-macbook-pro",
-    "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
-    "date": "28 October 2026",
-    "fetched_at": "2026-10-29T01:29:59.164160+00:00",
+    "slug": "legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation",
+    "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+    "date": "21 October 2026",
+    "fetched_at": "2026-10-29T09:03:00.446237+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "0675831f5e2ce910aeba839ef39581ff4084bfd8763ec691bbacf1f6500e7bbc"
+    "content_hash": "129ed8b6c1f833db67880668fbb1ffaeaf8c7826a8701cb9abf90520c266af96"
   },
   {
-    "slug": "anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
-    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "content_hash": "0675831f5e2ce910aeba839ef39581ff4084bfd8763ec691bbacf1f6500e7bbc",
+    "date": "28 October 2026",
+    "fetched_at": "2026-10-29T01:29:59.164160+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple-launches-its-new-touchscreen-macbook-pro",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/"
+  },
+  {
+    "content_hash": "c888c22758d410b7d3d5c0901a33e5a965d7a5977af01a0b7b3954b0e45441a5",
     "date": "28 October 2026",
     "fetched_at": "2026-10-29T01:29:31.559219+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c888c22758d410b7d3d5c0901a33e5a965d7a5977af01a0b7b3954b0e45441a5"
+    "retries": 0,
+    "slug": "anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
   },
   {
     "content_hash": "b1841fd6c4a7f0dc1b0df50e6647f2203bcf8b91cc1075c4bc32f084530afa1a",
