@@ -1,0 +1,73 @@
+{
+  "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+  "slug": "anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
+  "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+  "news_id": "anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
+  "date": "28 October 2026",
+  "author": "Tim Fernholz",
+  "tags": [],
+  "body_paragraphs": [
+    "The financials Anthropic shared with investors this week suggest that its AI coding tool, Claude Code, is every bit the business success the frontier lab wanted. The company recorded an operating profit in the second quarter, and 900% net revenue retention — that is, spending from the same customers in Q3 2025 grew nine times in Q3 2026.",
+    "Anthropic has focused on getting enterprise users to stick around and Wednesday announced a new suite of reporting tools designed to give those customers a more granular understanding of the value they get from their token spend.",
+    "Using internal analytics and employee surveys, managers can view a team’s work over a given date range, what the team produced, how much it cost, and where its workflows broke down. Anthropic says it won’t use this data for model training by default. The reports will also offer recommendations on how to improve the results.",
+    "This is a clear attempt to demonstrate the return on investment of Anthropic’s tools and to show customers how to improve it — a major concern among large customers. Anthropic is also creating pooled group budgets to allow teams to better manage token spending.",
+    "Businesses have been hunting for that kind of information as they figure out how best to deploy AI tools. While usage among venture-backed firms is driving token spend, most of the Fortune 500 are not seeing major gains from deploying AI.",
+    "Jellyfish, a company that makes tools for software developers, released a new report yesterday based on the use of agentic coding tools by 276,000 of its customers. Claude Code and other tools built on Anthropic models remain the most widely used in the survey, responsible for nearly a third of all proposed code changes submitted for review. More importantly, spending on those tools has grown 10x since the beginning of the year, with their cost now equal to about 2% of total engineering cost.",
+    "“Even if you’re saying 2% is still small, that 10x growth is growth that most CFOs didn’t plan for,” Nicholas Arcolano, the chief scientist at Jellyfish, told TechCrunch. We’re certainly getting to the point where people are realizing, okay, it’s not enough to just spend a bunch. You now have to optimize it, make it work.”",
+    "Anthropic’s new reports speak to that challenge. Anthropic leads among enterprise customers, but what makes an agentic coding tool truly sticky is difficult to identify. The release of OpenAI’s Astra model this summer seemed like a potential threat to Anthropic, but so far it hasn’t slowed Anthropic’s adoption numbers.",
+    "“It took a long time for us to see Codex really pop in our data at all, and it has come up with Astra [OpenAI’s latest model],” Nikolas Albarran, the AI product lead at Jellyfish, told TechCrunch. Looking at X, he continued, you’d get the distinct impression that the competition is more heated. “Everyone in the Valley is like, ‘Oh, Codex is better.’” In reality, Albarran continued, “Anthropic was just there with great enterprise motions, and they had an incumbent weight of their own — this stuff just worked and worked well, and a lot of people just put a lot of effort into standardizing workflows around it. And there’s not a big enough reason to switch.”",
+    "It’s not just a question of models and workflows, either. The realities of business mean that once a frontier lab has gotten its hooks into a customer, switching is harder than it is compared to an individual programmer or small organization. Albarran points to the investment all the major AI labs are making in forward-deployed engineering (FDE) organizations, teams that embed AI consultants inside customer organizations to help them get off the ground. These new reporting tools can be seen as a kind of FDE-lite, a lighter version of that hands-on help, for Anthropic customers.",
+    "“We’re at a point now where it’s mature enough, where once you’re in, it’s going to be harder and harder to switch because you’ve spent the effort,” he said. “Even if they’re all mostly the same, they’re all going to be slightly different, have their own slight quirks of how they handle agent.md files, etc., and so that cost to switch is not zero.”"
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/claude-enterprise-social-smartreports-five-beats-gray200-animated-1080x608-v032.gif",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/01-workstreams-overview.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/02-workstream-details.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/03-most-common-frictions.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/04-complex-autonomous-work.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/05-task-outcomes.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/06-recommendations.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/07-skill-draft.png",
+      "alt": ""
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-29T01:29:31.559219+00:00",
+  "title_tr": "Anthropic, şirketlere yapay zeka harcamalarının ne satın aldığını gösteren araçları kullanıma sundu",
+  "body_paragraphs_tr": [
+    "Anthropic'in bu hafta yatırımcılarla paylaştığı finansal bilgiler, yapay zeka kodlama aracı Claude Code'un, sınır laboratuvarının istediği her türlü iş başarısı olduğunu gösteriyor. Şirket ikinci çeyrekte bir faaliyet karı ve % 900 net gelir elde tutma kaydetti — yani, 2025 'in üçüncü çeyreğinde aynı müşterilerden yapılan harcamalar 2026' nın üçüncü çeyreğinde dokuz kat arttı.",
+    "Anthropic, kurumsal kullanıcıların takılmasını sağlamaya odaklandı ve Çarşamba günü, bu müşterilere token harcamalarından elde ettikleri değer hakkında daha ayrıntılı bir anlayış sağlamak için tasarlanmış yeni bir raporlama araçları paketi duyurdu.",
+    "Yöneticiler, dahili analitik ve çalışan anketlerini kullanarak bir ekibin belirli bir tarih aralığındaki çalışmasını, ekibin ne ürettiğini, ne kadara mal olduğunu ve iş akışlarının nerede bozulduğunu görüntüleyebilir. Anthropic, bu verileri varsayılan olarak model eğitimi için kullanmayacağını söylüyor. Raporlar ayrıca sonuçların nasıl iyileştirileceğine dair öneriler de sunacak.",
+    "Bu, Anthropic'in araçlarının yatırım getirisini göstermek ve müşterilere bunu nasıl geliştireceklerini göstermek için açık bir girişimdir — büyük müşteriler arasında büyük bir endişe kaynağıdır. Anthropic ayrıca ekiplerin token harcamalarını daha iyi yönetmelerini sağlamak için bir araya getirilmiş grup bütçeleri oluşturuyor.",
+    "İşletmeler, yapay zeka araçlarını en iyi nasıl kullanacaklarını çözerken bu tür bilgilerin peşindeler. Girişim destekli firmalar arasındaki kullanım token harcamalarını artırırken, Fortune 500 'ün çoğu yapay zeka dağıtımından büyük kazançlar görmüyor.",
+    "Yazılım geliştiricileri için araçlar üreten bir şirket olan Jellyfish, dün 276.000 müşterisinin aracı kodlama araçlarını kullanmasına dayanan yeni bir rapor yayınladı. Claude Code ve Antropik modeller üzerine inşa edilen diğer araçlar, incelemeye sunulan tüm önerilen kod değişikliklerinin yaklaşık üçte birinden sorumlu olarak ankette en yaygın kullanılanı olmaya devam ediyor. Daha da önemlisi, bu araçlara yapılan harcamalar yılın başından bu yana 10 kat arttı ve maliyetleri artık toplam mühendislik maliyetinin yaklaşık % 2 'sine eşit.",
+    "Jellyfish'in baş bilim insanı Nicholas Arcolano, TechCrunch'a verdiği demeçte, \"% 2 'nin hala küçük olduğunu söyleseniz bile, bu 10 kat büyüme çoğu CFO'nun planlamadığı bir büyümedir \"dedi. Kesinlikle insanların farkına vardığı noktaya geliyoruz, tamam, sadece bir demet harcamak yeterli değil. Şimdi onu optimize etmeniz, çalışmasını sağlamanız gerekiyor .\"",
+    "Anthropic'in yeni raporları bu zorluğa işaret ediyor. Antropik, kurumsal müşteriler arasında liderdir, ancak bir aracı kodlama aracını gerçekten yapışkan yapan şeyin belirlenmesi zordur. OpenAI'ın Astra modelinin bu yaz piyasaya sürülmesi Anthropic için potansiyel bir tehdit gibi görünse de şimdiye kadar Anthropic'in benimseme sayılarını yavaşlatmadı.",
+    "Jellyfish'in yapay zeka ürün lideri Nikolas Albarran, TechCrunch'a verdiği demeçte, \"Codex'in verilerimizde gerçekten ortaya çıktığını görmemiz uzun zaman aldı ve Astra (OpenAI'nin en son modeli) ortaya çıktı\" dedi. X'e baktığında, rekabetin daha hararetli olduğu izlenimini edinirsin. “Vadideki herkes ‘Ah, Kodeks daha iyi.\" Gerçekte, Albarran devam etti, \"Antropik sadece büyük girişim hareketleriyle oradaydı ve kendi ağırlıkları vardı — bu şey sadece işe yaradı ve iyi çalıştı ve birçok insan etrafındaki iş akışlarını standartlaştırmak için çok çaba sarf etti. Ve değiştirmek için yeterince büyük bir neden yok .\"",
+    "Bu sadece bir model ve iş akışı meselesi de değil. İşin gerçekleri, bir sınır laboratuvarı kancalarını bir müşteriye soktuktan sonra, geçişin bireysel bir programcıya veya küçük bir kuruluşa kıyasla daha zor olduğu anlamına gelir. Albarran, tüm büyük AI laboratuvarlarının, AI danışmanlarını yerden kalkmalarına yardımcı olmak için müşteri organizasyonlarının içine yerleştiren ekipler olan ileri konuşlandırılmış mühendislik (FDE) organizasyonlarına yaptığı yatırıma işaret ediyor. Bu yeni raporlama araçları, Antropik müşteriler için bu uygulamalı yardımın daha hafif bir versiyonu olan bir tür FDE - lite olarak görülebilir.",
+    "“Artık yeterince olgunlaştığı bir noktadayız, bir kez girdiğinizde, çaba harcadığınız için geçiş yapmanın daha zor ve zor olacağı bir noktadayız” dedi. \"Çoğunlukla aynı olsalar bile, hepsi biraz farklı olacak, agent.md dosyalarını nasıl işledikleri konusunda kendi küçük tuhaflıkları olacak ve böylece geçiş maliyeti sıfır olmayacak .\""
+  ],
+  "tags_tr": []
+}
