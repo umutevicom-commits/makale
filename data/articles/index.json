@@ -1,13 +1,13 @@
 [
   {
-    "slug": "legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation",
-    "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+    "content_hash": "129ed8b6c1f833db67880668fbb1ffaeaf8c7826a8701cb9abf90520c266af96",
     "date": "21 October 2026",
     "fetched_at": "2026-10-29T09:03:00.446237+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "129ed8b6c1f833db67880668fbb1ffaeaf8c7826a8701cb9abf90520c266af96"
+    "retries": 0,
+    "slug": "legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/"
   },
   {
     "content_hash": "0675831f5e2ce910aeba839ef39581ff4084bfd8763ec691bbacf1f6500e7bbc",
