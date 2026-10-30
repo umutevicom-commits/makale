@@ -1,23 +1,33 @@
 [
   {
-    "slug": "amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions",
-    "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+    "slug": "amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations",
+    "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
     "date": "29 October 2026",
-    "fetched_at": "2026-10-29T20:49:31.988246+00:00",
+    "fetched_at": "2026-10-30T01:30:33.646430+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "8af348d0632e61ec5f052622da57d395c75f2e530df5bd93a25ea759cc467d75"
+    "content_hash": "b5a994e307da064a8f2b050d0971363a7c7c35d61e90d21a79f8f1d03bb38e0f"
   },
   {
-    "slug": "agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy",
-    "url": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+    "content_hash": "8af348d0632e61ec5f052622da57d395c75f2e530df5bd93a25ea759cc467d75",
+    "date": "29 October 2026",
+    "fetched_at": "2026-10-29T20:49:31.988246+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/"
+  },
+  {
+    "content_hash": "3d6f092ad8d708b854fecc03648ff7b2ca5e6b276fce4f589951882c4fdee43a",
     "date": "29 October 2026",
     "fetched_at": "2026-10-29T20:49:05.587725+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "3d6f092ad8d708b854fecc03648ff7b2ca5e6b276fce4f589951882c4fdee43a"
+    "retries": 0,
+    "slug": "agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/"
   },
   {
     "content_hash": "129ed8b6c1f833db67880668fbb1ffaeaf8c7826a8701cb9abf90520c266af96",
