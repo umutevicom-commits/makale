@@ -1,0 +1,41 @@
+# Applebee, uygulamada veritabanı şifresini bıraktıktan sonra müşterilerin kişisel verilerini ifşa etti
+
+TechCrunch, bir araştırmacının Applebee'nin mobil uygulamasında dahili bir veri tabanı için bir şifre bulmasının ardından, Applebee'nin kayıtlı müşterilerinin kişisel bilgilerine herkesin erişmesine izin veren bir güvenlik açığını düzelttiğini öğrendi.
+
+Popüler restoran zinciri perşembe günü, müşteri veritabanına yetkisiz erişimi önlemek için güvenlik sorununu ele almak için harekete geçtiğini doğruladı.
+
+TechCrunch, hatanın düzeltildiği onaylanana kadar bu hikayenin yayınlanmasını engelledi.
+
+What Security'de Birleşik Krallık merkezli bir siber güvenlik araştırmacısı olan Robert Wiggins, güvenlik açığını bu ay keşfetmişti. Wiggins, kamuya açık olmaması gereken açık veya hassas bilgiler de dahil olmak üzere güvenlik sorunlarını keşfetmeye yabancı değil.
+
+Bu son keşif için Wiggins, Google Play'de bir milyondan fazla indirmeye sahip Applebee'nin Android uygulamasında binlerce satırlık kaynak kodunun içine gömülü kimlik bilgilerini bulmaya yardımcı olmak için yapay zekayı kullandı. Kimlik bilgisi, şirketin müşteri veritabanına erişime izin verdi.
+
+Sabit kodlama kimlik bilgileri olarak bilinen yazılımda bir şifre veya özel anahtar saklamak, en ciddi güvenlik açığı türlerinden biridir, çünkü uygulamaya sahip olan herkes anahtarı çıkarabilir ve yetkili bir kullanıcıymış gibi uzak bir sisteme giriş yapmak için kullanabilir.
+
+Wiggins, sabit kodlanmış kimlik bilgilerinin kötü niyetli bir saldırganın veritabanındaki müşteri verilerini değiştirmesine de izin vermiş olabileceğini söyledi.
+
+TechCrunch, kaynak kodunu incelemek ve açığa çıkan kimlik bilgilerini içerdiğini doğrulamak için Applebee'nin Android uygulamasını indirip derleyerek Wiggins'in bulgularını doğruladı. Ayrıca, Wiggins'in bilgilerimizi şirketin veritabanından almasına izin veren sahte hesap verileriyle bir Applebee hesabı oluşturduk.
+
+Açıkta kalan veri tabanı müşteri adlarını, e - posta adreslerini (müşterinin e - postasını doğrulayıp doğrulamadığı dahil), doğum tarihlerini, telefon numaralarını ve POSTA kodlarını içeriyordu. Veriler ayrıca gazi durumunu, müşterilerin oturum açma sayısını, hesaplarının ne zaman oluşturulduğunu ve kişinin yaklaşık konumunu ortaya çıkarmak için kullanılabilecek en son oturum açmalarının IP adreslerini de içeriyordu.
+
+Wiggins, güvenlik sorunlarını bildirmenin yolları olmadığı için Applebee'nin veya ana şirketi Dine Brands'i uyaramadı. Wiggins, güvenlik sorununu şirkete açıklamak için TechCrunch'tan yardım istedi.
+
+Adını vermeyen Dine Brands'in sözcüsü cuma günü e - posta yoluyla yaptığı açıklamada şunları söyledi: "TechCrunch'a ve güvenlik araştırmacısına bu konuyu dikkatimize sundukları için minnettarız. Güvenlik ekibimiz derhal bir soruşturma başlattı ve şu anda yetkisiz erişime dair herhangi bir kanıt bulamadı ."
+
+TechCrunch tarafından sorulduğunda, sözcü, şirketin veritabanına herhangi birinin erişip erişmediğini veya herhangi bir günlüğü olup olmadığını belirlemek için gözden geçirebileceği sunucu günlükleri olup olmadığını söylemedi.
+
+Şirket, "Soruşturmamız devam ediyor ve bulgularımıza dayanarak uygun adımları atacağız" diye ekledi.
+
+Verilerin açığa çıkmasından kaç müşterinin etkilendiği belli değil. Wiggins, veritabanındaki müşteri sayısını bulmanın yapay zeka modelinin potansiyel olarak her müşteri kaydına gereksiz yere erişmesini gerektireceğini söyledi.
+
+Applebee'nin geçen yılki ödül programına en az 8,5 milyon müşterisi kaydoldu, ancak şirket bu güvenlik açığından kaç müşterinin kişisel bilgilerinin açığa çıktığını belirtmedi.
+
+TechCrunch, halka açık şirketlerin maddi siber güvenlik olayları için yapmaları gerektiği gibi, ABD Menkul Kıymetler ve Borsa Komisyonu'na bir açıklama yapıp yapmayacağı da dahil olmak üzere, olay hakkında müşterileri veya ABD düzenleyicilerini uyarıp uyarmayacağını şirkete sordu. Ayrıca şirkete, ifşa edilen kimlik bilgilerinin Applebee uygulamasında ne kadar süredir bulunduğunu sorduk, ancak bir yanıt alamadık.
+
+Şirket yanıt verirse bu makaleyi güncelleyeceğiz.
+
+---
+
+## Görseller
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/applebees-501705240.jpg)
