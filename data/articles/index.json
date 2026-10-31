@@ -1,43 +1,63 @@
 [
   {
-    "slug": "applebees-exposed-customers-personal-data-after-leaving-database-password-in-app",
-    "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+    "slug": "last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-5-to-attend",
+    "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-5-to-attend/",
+    "date": "25 September 2026",
+    "fetched_at": "2026-10-31T09:03:56.257130+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "68ea0eb4a08766ffc391f458a67c2bf331382cb048f5df1a63e068728ec6d09c"
+  },
+  {
+    "slug": "larry-ellison-cancels-7-5-billion-sale-of-oracle-stock",
+    "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+    "date": "13 September 2026",
+    "fetched_at": "2026-10-31T09:02:47.115441+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "76e50d13da9d4b11ab4238c317ad717d867ebd7f37d43d90fc230654babc2f05"
+  },
+  {
+    "content_hash": "7d12a0d757fe067858fadb1aa8dec4d8846208052d98b542a7410a9b6754066c",
     "date": "30 October 2026",
     "fetched_at": "2026-10-31T01:24:41.947365+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "7d12a0d757fe067858fadb1aa8dec4d8846208052d98b542a7410a9b6754066c"
+    "retries": 0,
+    "slug": "applebees-exposed-customers-personal-data-after-leaving-database-password-in-app",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/"
   },
   {
-    "slug": "anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "content_hash": "5323ec7e9cded7728a4c99c76328ef4decd54121ee567c8be1c60c7c699364fc",
     "date": "30 October 2026",
     "fetched_at": "2026-10-31T01:24:30.681443+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "5323ec7e9cded7728a4c99c76328ef4decd54121ee567c8be1c60c7c699364fc"
+    "retries": 0,
+    "slug": "anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
   },
   {
-    "slug": "ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal",
-    "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+    "content_hash": "edf854ded29bd265256e4043e20305b2a53b1ca8d412d2b7ff8d8ee4870d85d0",
     "date": "30 October 2026",
     "fetched_at": "2026-10-31T01:24:18.063468+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "edf854ded29bd265256e4043e20305b2a53b1ca8d412d2b7ff8d8ee4870d85d0"
+    "retries": 0,
+    "slug": "ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/"
   },
   {
-    "slug": "5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026",
-    "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+    "content_hash": "ed9ed97e7f5e60cbc1ea33425313bd1f2c3043efd338746d883856c3e11f08cf",
     "date": "30 October 2026",
     "fetched_at": "2026-10-31T01:23:41.380673+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "ed9ed97e7f5e60cbc1ea33425313bd1f2c3043efd338746d883856c3e11f08cf"
+    "retries": 0,
+    "slug": "5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/"
   },
   {
     "content_hash": "b5a994e307da064a8f2b050d0971363a7c7c35d61e90d21a79f8f1d03bb38e0f",
