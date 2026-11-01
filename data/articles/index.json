@@ -1,5 +1,25 @@
 [
   {
+    "slug": "apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
+    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "date": "31 October 2026",
+    "fetched_at": "2026-10-31T23:00:32.728840+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "44155b5da9ee75a11f52bbb5618b3100ddf1a545fb3f88fb31dbdc94bc97f456"
+  },
+  {
+    "slug": "4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale",
+    "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "date": "31 October 2026",
+    "fetched_at": "2026-10-31T22:59:56.949304+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "bf5eeb5558d8bd9a7004bbf0674f6f97bf9fe934f4f693a7ca64da58786a93f7"
+  },
+  {
     "content_hash": "68ea0eb4a08766ffc391f458a67c2bf331382cb048f5df1a63e068728ec6d09c",
     "date": "25 September 2026",
     "fetched_at": "2026-10-31T09:03:56.257130+00:00",
