@@ -1,5 +1,15 @@
 [
   {
+    "slug": "ai-can-make-tech-ceos-lives-easier-what-about-everyone-else",
+    "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "date": "01 November 2026",
+    "fetched_at": "2026-11-01T23:19:28.659076+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "8112ef8fa6cf96e3e5009c819468859359b57222b09d4719b98ab11bc9d5583f"
+  },
+  {
     "content_hash": "44155b5da9ee75a11f52bbb5618b3100ddf1a545fb3f88fb31dbdc94bc97f456",
     "date": "31 October 2026",
     "fetched_at": "2026-10-31T23:00:32.728840+00:00",
