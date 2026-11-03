@@ -6,7 +6,26 @@
     <atom:link href="https://techcrunch.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>TechCrunch haberlerinin eksiksiz Türkçe çevirisi</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 03 Nov 2026 16:26:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 23:16:57 +0000</lastBuildDate>
+    <item>
+      <title>Apple, flört uygulamalarını ve yapay zeka arkadaşlarını 18 yaş ve üstü kullanıcılarla sınırlandırıyor</title>
+      <link>https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <author>Sarah Perez</author>
+      <description>Teknoloji devi Apple, pazartesi günü geliştiricilere yaptığı duyuruda, reşit olmayanların &quot;cinsel veya romantik içerikli&quot; çevrimiçi arkadaşlık uygulamalarını veya yapay zeka arkadaşlarını kullanmasını zorlaştırmak için App Store politikalarını düzenliyor.</description>
+      <media:content url="https://umutevicom-commits.github.io/makale/data/images/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/Screenshot-2025-04-22-at-1_24_23PM.png" medium="image" type="image/png" />
+      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/Screenshot-2025-04-22-at-1_24_23PM.png" />
+      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/Screenshot-2025-04-22-at-1_24_23PM.png" type="image/png" length="0" />
+      <content:encoded><![CDATA[<p>Teknoloji devi Apple, pazartesi günü geliştiricilere yaptığı duyuruda, reşit olmayanların &quot;cinsel veya romantik içerikli&quot; çevrimiçi arkadaşlık uygulamalarını veya yapay zeka arkadaşlarını kullanmasını zorlaştırmak için App Store politikalarını düzenliyor.</p>
+<p>Yeni kurallar, şirketin yaş güvencesi teknolojisinin küresel olarak kullanıma sunulması ve daha fazla ebeveyn kontrolü ve çocuk güvenliği özellikleri de dahil olmak üzere reşit olmayanları daha iyi korumak için yaptığı diğer değişiklikleri takip ediyor.</p>
+<p>Çoğu büyük flört servisi genellikle platformlarını yetişkinlerle sınırlandırırken, Apple'ın yeni politikası, flört veya romantik ilişki özellikleri sunan tüm uygulamaların 18 'den fazla puan almasını gerektirecek. Şirket, 16 Kasım'dan itibaren geliştiricilerin, uygulamalarının yaş derecelendirmelerinin özelliklerini yansıtmasını sağlamak için yeni içerik tanımlayıcıları eklemeleri gerekeceğini söyledi.</p>
+<p>Bu kuralın yapay zeka tamamlayıcı uygulamalarını veya bu tür işlevlerin birçok özellikten biri olduğu uygulamaları nasıl etkileyebileceği belki de daha ilginçtir. Genellikle gençleri hedef alan Character.AI, Replika ve diğer yapay zeka uygulamaları, insanların arkadaşlar, sevgililer, erkek arkadaşlar ve kız arkadaşlar ve diğer fantezi karakterleri de dahil olmak üzere yapay zeka arkadaşları oluşturmasına olanak tanır.</p>
+<p>geçen yıl xAI, kullanıcıların NSFW yeteneklerinin kilidini açmasına izin veren 3D animasyonlu yapay zeka arkadaşlarını da piyasaya sürdü. Geçen yaz itibariyle, Apple App Store ve Google Play'deki en iyi yapay zeka tamamlayıcı uygulamaları dünya çapında 220 milyon kez indirilmişti.</p>
+<p>Uygulamaların &quot;flört ve ilişkilere&quot; ek olarak, bir kullanıcının gerçek dünyadaki konumlarını işlevselliklerinin bir parçası olarak başka bir kişi veya grupla paylaşıp paylaşmadıklarını da belirtmesi gerekecek. Bunu yapan herhangi bir uygulama, özellikle kullanıcı konumunun paylaşıldığının farkında değilse, bariz gizlilik endişelerini gündeme getirir.</p>
+<p>Şirket, Brezilya'da, aileler için konum paylaşımı özellikleri sağlayan uygulamaların, yerel yasaların gerektirdiği gibi, onları A16 derecesiyle listelemek yerine, hükümetin Adalet ve Kamu Güvenliği Bakanlığı'ndan (MJSP/Ministério da Justiça e Segurança Pública) resmi bir derecelendirme talep edebileceğini belirtti.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/Screenshot-2025-04-22-at-1_24_23PM.png" alt="Character.AI screenshot" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
     <item>
       <title>Avrupa'nın süpermarket buzdolaplarını yeni bir siber saldırı dalgası vurdu ve ülkeler arasında yiyecekleri yok etti</title>
       <link>https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/</link>
@@ -1444,31 +1463,6 @@
 <p>Perşembe günkü duyuru, Anthropic CEO'su Dario Amodei'nin teknolojinin gelişimini yavaşlatmaya yönelik ilk adım olarak dış değerlendiricileri yapay zeka laboratuvarlarına yerleştirmeyi önerdiği bir eylül makalesinde verdiği sözü yerine getiriyor. OpenAI de çabucak aynısını taahhüt etti ve her iki şirket de Google, Meta, Nvidia ve xAI ile birlikte o zamandan beri bağımsız inceleme taahhüdünde bulunan bir Beyaz Saray anlaşması imzaladı.</p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/GettyImages-2278736523.jpeg" alt="The Anthropic logo is displayed on the screen of a smartphone with the company's branding in the background." loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
 <div style="clear:both;margin:16px 0;position:relative;width:100%;padding-top:56.25%;overflow:hidden;background:#000;"><iframe src="https://www.youtube.com/embed/xMDZus5hxYI?si=Z7LUr39_aXW4uwTd&amp;autoplay=1&amp;mute=1" title="YouTube video player" loading="lazy" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;display:block;border:0;float:none;"></iframe></div>]]></content:encoded>
-    </item>
-    <item>
-      <title>Amazon cihazları şefi Panos Panay, yapay zeka cihazlarının uygulamaları kullanma ihtiyacının yerini aldığı bir gelecek öngörüyor</title>
-      <link>https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <author>Sarah Perez</author>
-      <description>Amazon, bahislerini kişisel yapay zekanın geleceği olarak uygulamalar yerine ortam bilişimine yatırıyor.</description>
-      <media:content url="https://umutevicom-commits.github.io/makale/data/images/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/GettyImages-2300374993.jpg" medium="image" type="image/jpeg" />
-      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/GettyImages-2300374993.jpg" />
-      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/GettyImages-2300374993.jpg" type="image/jpeg" length="0" />
-      <content:encoded><![CDATA[<p>Amazon, bahislerini kişisel yapay zekanın geleceği olarak uygulamalar yerine ortam bilişimine yatırıyor.</p>
-<p>Amazon'un Cihazlar SVP'si Alexa ve Leo olarak görev yapan Panos Panay, şirketin Bee'den yeni yapay zeka giyilebilir cihazlarının piyasaya sürülmesinin yanı sıra, kişisel bilgi işlemin nereye gittiğini daha derinlemesine konuşmak için perşembe günü TechCrunch Disrupt'ta sahne aldı.</p>
-<p>Panay, modern akıllı telefonlarımızla bu şekilde etkileşime girdiğimizi açıklayarak, &quot;Çoğu zaman, şu anda yaptığınız şey — şu anda hepimizin yaptığı şey - aracımızdan bizim için ne yapmasını istediğimizi hatırlamamız gerekiyor&quot; diye başladı. Panay, &quot;Nişan al, vur, dön gibi&quot; diye devam etti. &quot;Gittiğimiz yerin ortam cihazlarıyla başlayan bir dünya olduğunu düşünüyorum .&quot;</p>
-<p>&quot;Ortam cihazları&quot; derken, cihaza ne yapmanız gerektiğini söylemenin tam tersi yerine, ne yapılması gerektiğini anlamanıza yardımcı olmak için sensörler ve yapay zeka kullanarak arka planda sessizce çalışan cihazları kastediyor.</p>
-<p>&quot;Arka planda çalıştığından, daha güncel kalabiliyorsunuz. Daha fazlasını başarabilirsiniz. İnsanlarla daha fazla zaman geçirmek üzeresiniz… bir şeyi kaçırırsanız korkmazsınız. İnanılmaz derecede güçlü&quot; dedi.</p>
-<p>Amazon'un bu alana en büyük girişi, perşembe günü tanıttığı ve bileğinize takabileceğiniz veya kolye olarak takmak için çıkarabileceğiniz bir bandın yanı sıra akıllı telefonunuzun arkasına manyetik olarak takılan yeni bir kredi kartı boyutunda cihaz içeren yeni Bee cihazları setidir.</p>
-<p>Bu araçlar pasif olarak ses kaydeder ve gününüzle ilgili notlar alır, daha sonra tekrar başvurmanız gerekebilecek yapılacak işleri, hatırlatıcıları ve içgörüleri bulur. Kullanışlı olma ihtiyacını kullanıcı gizliliği ile dengelemek için, Bee'nin cihazları aslında konuşmalarınızdaki ham sesi saklamaz; sesi gerçek zamanlı olarak işlerler ve bittiğinde silerler. Konuşmaların transkriptleri, cihazınızın oluşturduğu ve kontrol ettiği anahtarlar kullanılarak şifrelenir. Bu, Amazon çalışanları da dahil olmak üzere başka hiç kimsenin kasıtlı olarak paylaşmadığınız sürece bu dosyalara erişemeyeceği anlamına gelir.</p>
-<p>Panay, gizliliğin bu yeni ortam cihazlarının nasıl çalışması gerektiği konusunda önemli bir husus olduğunu söyledi.</p>
-<p>“Müşterilere bu kontrolü vermelisiniz” dedi. “Her ürün farklıdır, ancak özellikle Bee için, böyle bir ortam alanında bir örnek olarak, mahremiyeti göz önünde bulundurarak tasarlamanız gerekir. Ve bizim işimiz de bu. Bu çok önemli .&quot;</p>
-<p>Surface cihazlarının geliştirilmesini denetlediği Microsoft'ta geçirdiği 19 yılın ardından Amazon'a gelen yönetici, hayatının büyük bir bölümünü kişisel bilgisayar kullanımının nasıl gelişeceğini düşünerek geçirdi. Bee ile — ve daha genel olarak ortam bilgi işlemiyle — Panay, yapay zeka aracılığıyla daha fazla görev ele alındığından, uygulamalarla etkileşim kurma fikrinin daha az önemli hale geldiği bir gelecek de öngördü.</p>
-<p>&quot;Bunun için 'bana uygulamayı ver‘ demeyen, sadece neye ihtiyacım olduğunu anlaması gerektiğini söyleyen bir neslin, biraz dengenin olduğu bir geleceğimiz olduğunu düşünüyor muyum? Evet, biliyorum. Sanırım bu dönüşüm yaklaşıyor. Bence bu gelecek nesil&quot; dedi.</p>
-<p>Panay, bunun akıllı telefonun kendisinin (Amazon'un bir Alexa tableti veya Echo akıllı hoparlörü olmasını istediği kadar) önemli bir kişisel bilgi işlem cihazı olmaya devam etmeyeceği anlamına gelmediğini belirtti. Aksine, kullanıcıları daha iyi anlamak ve çevrenizdeki dünyaya istihbarat getirmek için sensörleri kullanan yeni bir cihaz ürününün ortaya çıkacağına inanıyor.</p>
-<p>&quot;Bir form faktörünün diğerinin yerini alacağını söyleyen bir taraftar değilim. Durumun böyle olduğunu sanmıyorum&quot; diye açıklığa kavuşturdu. &quot;Bence her şeyi birbirine bağlayan bir istihbarat katmanı var... ve faydalı olmalı .&quot;</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/GettyImages-2300374993.jpg" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
     </item>
   </channel>
 </rss>

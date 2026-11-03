@@ -1,0 +1,37 @@
+{
+  "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+  "slug": "apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up",
+  "title": "Apple restricts dating apps and AI companions to users 18 and up",
+  "news_id": "apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up",
+  "date": "03 November 2026",
+  "author": "Sarah Perez",
+  "tags": [],
+  "body_paragraphs": [
+    "Apple is adjusting its App Store policies to make it more difficult for minors to use online dating apps or AI companions that engage in “sexual or romantic content,” the tech giant shared in an announcement to developers on Monday.",
+    "The new rules follow other changes the company has made to better protect minors, which include the rollout of its age assurance technology globally and more parental controls and child safety features.",
+    "While most major dating services typically restrict their platform to adults, Apple’s new policy will require all apps offering dating or romantic relationship features to carry an 18+ rating. Starting November 16, developers will be required to include new content descriptors to ensure their app’s age ratings reflect its features, the company said.",
+    "It’s perhaps more interesting how this rule could impact AI companion apps, or those where such functionality is one of many features. Often targeted at younger people, Character.AI, Replika, and other AI apps let people create AI companions, including friends, lovers, boyfriends and girlfriends, and other fantasy characters.",
+    "xAI last year also launched 3D animated AI companions that allowed users to unlock NSFW capabilities. As of last summer, top AI companion apps across the Apple App Store and Google Play had been downloaded 220 million times globally.",
+    "In addition to “dating and relationships,” apps will also need to indicate if they are sharing the real-world locations of a user with another person or group as part of their functionality. Any app doing so raises obvious privacy concerns, especially if the user wasn’t aware that their location was being shared.",
+    "The company noted that in Brazil, apps that provide location-sharing features for families can request an official rating from the government’s Ministry of Justice and Public Security (MJSP/Ministério da Justiça e Segurança Pública), instead of being required to list them with the A16 rating, as the local law requires."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/Screenshot-2025-04-22-at-1_24_23PM.png",
+      "alt": "Character.AI screenshot"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-03T20:24:21.551709+00:00",
+  "title_tr": "Apple, flört uygulamalarını ve yapay zeka arkadaşlarını 18 yaş ve üstü kullanıcılarla sınırlandırıyor",
+  "body_paragraphs_tr": [
+    "Teknoloji devi Apple, pazartesi günü geliştiricilere yaptığı duyuruda, reşit olmayanların \"cinsel veya romantik içerikli\" çevrimiçi arkadaşlık uygulamalarını veya yapay zeka arkadaşlarını kullanmasını zorlaştırmak için App Store politikalarını düzenliyor.",
+    "Yeni kurallar, şirketin yaş güvencesi teknolojisinin küresel olarak kullanıma sunulması ve daha fazla ebeveyn kontrolü ve çocuk güvenliği özellikleri de dahil olmak üzere reşit olmayanları daha iyi korumak için yaptığı diğer değişiklikleri takip ediyor.",
+    "Çoğu büyük flört servisi genellikle platformlarını yetişkinlerle sınırlandırırken, Apple'ın yeni politikası, flört veya romantik ilişki özellikleri sunan tüm uygulamaların 18 'den fazla puan almasını gerektirecek. Şirket, 16 Kasım'dan itibaren geliştiricilerin, uygulamalarının yaş derecelendirmelerinin özelliklerini yansıtmasını sağlamak için yeni içerik tanımlayıcıları eklemeleri gerekeceğini söyledi.",
+    "Bu kuralın yapay zeka tamamlayıcı uygulamalarını veya bu tür işlevlerin birçok özellikten biri olduğu uygulamaları nasıl etkileyebileceği belki de daha ilginçtir. Genellikle gençleri hedef alan Character.AI, Replika ve diğer yapay zeka uygulamaları, insanların arkadaşlar, sevgililer, erkek arkadaşlar ve kız arkadaşlar ve diğer fantezi karakterleri de dahil olmak üzere yapay zeka arkadaşları oluşturmasına olanak tanır.",
+    "geçen yıl xAI, kullanıcıların NSFW yeteneklerinin kilidini açmasına izin veren 3D animasyonlu yapay zeka arkadaşlarını da piyasaya sürdü. Geçen yaz itibariyle, Apple App Store ve Google Play'deki en iyi yapay zeka tamamlayıcı uygulamaları dünya çapında 220 milyon kez indirilmişti.",
+    "Uygulamaların \"flört ve ilişkilere\" ek olarak, bir kullanıcının gerçek dünyadaki konumlarını işlevselliklerinin bir parçası olarak başka bir kişi veya grupla paylaşıp paylaşmadıklarını da belirtmesi gerekecek. Bunu yapan herhangi bir uygulama, özellikle kullanıcı konumunun paylaşıldığının farkında değilse, bariz gizlilik endişelerini gündeme getirir.",
+    "Şirket, Brezilya'da, aileler için konum paylaşımı özellikleri sağlayan uygulamaların, yerel yasaların gerektirdiği gibi, onları A16 derecesiyle listelemek yerine, hükümetin Adalet ve Kamu Güvenliği Bakanlığı'ndan (MJSP/Ministério da Justiça e Segurança Pública) resmi bir derecelendirme talep edebileceğini belirtti."
+  ],
+  "tags_tr": []
+}
