@@ -1,33 +1,33 @@
 [
   {
-    "slug": "a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries",
-    "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
+    "content_hash": "b81eea8d48d85991914fab3776f17e08073e1d51c0ad719bf21d6db7493eee5c",
     "date": "02 November 2026",
     "fetched_at": "2026-11-02T23:17:57.896404+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "b81eea8d48d85991914fab3776f17e08073e1d51c0ad719bf21d6db7493eee5c"
+    "retries": 0,
+    "slug": "a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/"
   },
   {
-    "slug": "42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior",
-    "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "content_hash": "01af8a5320478384da940dff68d20e3e88f52d9338633d654bf55c8a8f8f74db",
     "date": "02 November 2026",
     "fetched_at": "2026-11-02T23:17:22.543388+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "01af8a5320478384da940dff68d20e3e88f52d9338633d654bf55c8a8f8f74db"
+    "retries": 0,
+    "slug": "42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
   },
   {
-    "slug": "2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big",
-    "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+    "content_hash": "6b582e08ff713ede53172829cfd647aefb467b3918c92ce407571cf5f700e795",
     "date": "02 November 2026",
     "fetched_at": "2026-11-02T23:17:00.023953+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "6b582e08ff713ede53172829cfd647aefb467b3918c92ce407571cf5f700e795"
+    "retries": 0,
+    "slug": "2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/"
   },
   {
     "content_hash": "8112ef8fa6cf96e3e5009c819468859359b57222b09d4719b98ab11bc9d5583f",
