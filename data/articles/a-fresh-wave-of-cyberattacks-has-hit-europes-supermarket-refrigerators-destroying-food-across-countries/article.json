@@ -1,0 +1,33 @@
+{
+  "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
+  "slug": "a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries",
+  "title": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
+  "news_id": "a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries",
+  "date": "02 November 2026",
+  "author": "Zack Whittaker",
+  "tags": [],
+  "body_paragraphs": [
+    "A second wave of cyberattacks is suspected to have hit supermarket refrigerators across Europe, causing fridges to increase temperatures and spoil food at dozens of stores across Belgium, Ireland, Luxembourg, and Sweden.",
+    "Supermarket giants Ahold Delhaize and Colruyt confirmed the hacks overnight, with one Belgian company that operates Delhaize’s systems saying that the hackers had changed the settings to defrost, per Reuters. Stores have experienced heavy food losses from the cyberattacks, forcing supermarkets to throw out goods that had defrosted or were otherwise no longer consumable.",
+    "The cyberattacks follow earlier refrigerator hacks in France last month that caused food spoilage at hundreds of supermarkets by deliberately raising the temperature on the units. Security researchers said that the cause of the hacks was internet-connected refrigerators made by Danish company Danfoss, which was no longer providing security updates. Security company Claroty warned back in August that those refrigerator units were at risk of remote hacks and outages.",
+    "The freezer hacks underscore how cyberattacks can have real-world effects, including on the food supply chain, often as a result of weak or overlooked cybersecurity practices. In 2025, a cyberattack on food distributor giant UNFI resulted in food shortages and empty shelves at grocery stores and supermarkets across the United States.",
+    "U.S. Department of Defense officials are reportedly investigating whether freezer units on military bases were hacked by Iran-backed hackers. Iranian hackers were also blamed for cyberattacks targeting U.S. water providers earlier this year."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/supermarket-freezer-hack-2299514106.jpg",
+      "alt": "warning sign on supermarket freezer"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-02T23:17:57.896404+00:00",
+  "title_tr": "Avrupa'nın süpermarket buzdolaplarını yeni bir siber saldırı dalgası vurdu ve ülkeler arasında yiyecekleri yok etti",
+  "body_paragraphs_tr": [
+    "İkinci bir siber saldırı dalgasının Avrupa genelindeki süpermarket buzdolaplarını vurarak buzdolaplarının Belçika, İrlanda, Lüksemburg ve İsveç'teki düzinelerce mağazada sıcaklıkları artırmasına ve yiyecekleri bozmasına neden olduğundan şüpheleniliyor.",
+    "Reuters'a göre, süpermarket devleri Ahold Delhaize ve Colruyt hackleri bir gecede doğruladı. Delhaize'in sistemlerini işleten Belçikalı bir şirket, bilgisayar korsanlarının ayarları buz çözme için değiştirdiğini söyledi. Mağazalar, siber saldırılardan ağır gıda kayıpları yaşadı ve süpermarketleri buzu çözülmüş veya başka bir şekilde artık tüketilemeyen ürünleri atmaya zorladı.",
+    "Siber saldırılar, geçen ay Fransa'da meydana gelen ve birimlerdeki sıcaklığı kasıtlı olarak yükselterek yüzlerce süpermarkette gıda bozulmasına neden olan daha önceki buzdolabı saldırılarını takip ediyor. Güvenlik araştırmacıları, saldırıların nedeninin artık güvenlik güncellemeleri sağlamayan Danimarkalı Danfoss şirketinin ürettiği internet bağlantılı buzdolapları olduğunu söyledi. Güvenlik şirketi Claroty, ağustosta bu buzdolabı ünitelerinin uzaktan hack ve kesinti riski altında olduğu konusunda uyarıda bulunmuştu.",
+    "Dondurucu saldırıları, siber saldırıların genellikle zayıf veya göz ardı edilen siber güvenlik uygulamalarının bir sonucu olarak gıda tedarik zinciri de dahil olmak üzere gerçek dünyada nasıl etkilere sahip olabileceğinin altını çiziyor. 2025 'te, gıda dağıtıcısı dev UNFI'ye yönelik bir siber saldırı, gıda kıtlığına ve Amerika Birleşik Devletleri'ndeki marketlerde ve süpermarketlerde boş raflara neden oldu.",
+    "ABD Savunma Bakanlığı yetkililerinin, askeri üslerdeki dondurucu birimlerin İran destekli bilgisayar korsanları tarafından hacklenip hacklenmediğini araştırdığı bildiriliyor. İranlı bilgisayar korsanları, bu yılın başlarında ABD su sağlayıcılarını hedef alan siber saldırılardan da sorumlu tutulmuştu."
+  ],
+  "tags_tr": []
+}
