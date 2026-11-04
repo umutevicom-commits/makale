@@ -1,13 +1,43 @@
 [
   {
-    "slug": "apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up",
-    "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+    "slug": "anthropic-is-working-on-a-system-to-prove-ai-models-identity",
+    "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
     "date": "03 November 2026",
-    "fetched_at": "2026-11-03T20:24:21.551709+00:00",
+    "fetched_at": "2026-11-04T01:51:54.044259+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "338b53603efdf30c219f2ccc078b96b9fd448d9d01b593f906b633dbd585ff30"
+    "content_hash": "5979f12f20d1a118b040c1252e8638a5ee1ea9e0b252e720403a914e6d260faa"
+  },
+  {
+    "slug": "anthropic-is-still-grappling-with-the-economics-of-compute",
+    "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+    "date": "03 November 2026",
+    "fetched_at": "2026-11-04T01:51:30.943734+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "3dfca6ccc17586d69affc7a176740ed58697e2d266cbe89b20c7e01398e37363"
+  },
+  {
+    "slug": "ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
+    "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "date": "03 November 2026",
+    "fetched_at": "2026-11-04T01:51:21.096613+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "8d34eac6bb93b2ad0065e62ebd4e5501aef2479a3a89fafc756ea47e2954228d"
+  },
+  {
+    "content_hash": "338b53603efdf30c219f2ccc078b96b9fd448d9d01b593f906b633dbd585ff30",
+    "date": "03 November 2026",
+    "fetched_at": "2026-11-03T20:24:21.551709+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/"
   },
   {
     "content_hash": "b81eea8d48d85991914fab3776f17e08073e1d51c0ad719bf21d6db7493eee5c",
