@@ -1,33 +1,33 @@
 [
   {
-    "slug": "anthropic-is-working-on-a-system-to-prove-ai-models-identity",
-    "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "content_hash": "5979f12f20d1a118b040c1252e8638a5ee1ea9e0b252e720403a914e6d260faa",
     "date": "03 November 2026",
     "fetched_at": "2026-11-04T01:51:54.044259+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "5979f12f20d1a118b040c1252e8638a5ee1ea9e0b252e720403a914e6d260faa"
+    "retries": 0,
+    "slug": "anthropic-is-working-on-a-system-to-prove-ai-models-identity",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
   },
   {
-    "slug": "anthropic-is-still-grappling-with-the-economics-of-compute",
-    "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+    "content_hash": "3dfca6ccc17586d69affc7a176740ed58697e2d266cbe89b20c7e01398e37363",
     "date": "03 November 2026",
     "fetched_at": "2026-11-04T01:51:30.943734+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "3dfca6ccc17586d69affc7a176740ed58697e2d266cbe89b20c7e01398e37363"
+    "retries": 0,
+    "slug": "anthropic-is-still-grappling-with-the-economics-of-compute",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/"
   },
   {
-    "slug": "ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
-    "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "content_hash": "8d34eac6bb93b2ad0065e62ebd4e5501aef2479a3a89fafc756ea47e2954228d",
     "date": "03 November 2026",
     "fetched_at": "2026-11-04T01:51:21.096613+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "8d34eac6bb93b2ad0065e62ebd4e5501aef2479a3a89fafc756ea47e2954228d"
+    "retries": 0,
+    "slug": "ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
   },
   {
     "content_hash": "338b53603efdf30c219f2ccc078b96b9fd448d9d01b593f906b633dbd585ff30",
