@@ -1,0 +1,57 @@
+{
+  "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+  "slug": "a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai",
+  "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+  "news_id": "a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai",
+  "date": "05 November 2026",
+  "author": "Tim Fernholz",
+  "tags": [],
+  "body_paragraphs": [
+    "Discovered Materials, a months-old San Francisco startup using AI models to find new substances for building advanced chips, announced a million-dollar challenge for AI models to solve five critical problems in materials science.",
+    "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
+    "“It’s more difficult to specify problems clearly in materials science because it’s not like math, where you have a very specific definition and can get to a yes or no,” said Advaith Sridhar, a co-founder of Discovered Materials, which was part of Y Combinator’s spring 2026 batch. “We came to this discussion [wondering], what are the grand challenges in this field? How do we know AI is making progress?”",
+    "Though materials science doesn’t have an equivalent of the Millennium Prize Problems, Discovered Materials recruited an advisory group of academics at leading global universities to spell out five open problems. The company is offering a pool of prizes, worth $1 million in total, for solutions to the problems.",
+    "A theory to explain cuprate superconductivity, or the ability of certain materials to have zero electrical resistance at ultra-low temperatures.",
+    "A numerical method to predict the structures of interfaces between silicon and silicon dioxide, a material combination found in almost all semiconductors.",
+    "A numerical method to map grain structure to thermal properties, enabling the design of better heat dissipation materials.",
+    "A theory to predict why shining light on materials can change their behavior, particularly around superconductivity.",
+    "A numerical method to improve density functional theory, a key technique used in materials science to model the structures of atoms and molecules.",
+    "“Across materials science, there are phenomena we observe but cannot explain,” Felipe Jornada, a Stanford professor who helped develop the challenges, said in a statement. “Explaining these phenomena would improve our understanding of physics, and the answers would directly shape how we build electronics, store energy, and manufacture the materials of the future.”",
+    "Before announcing the challenges, Discovered Materials turned frontier lab models loose on them, giving AI agents internet access and other resources to work autonomously for days. The models spent several days on each problem without making much headway. Still, it’s easy to imagine OpenAI or Anthropic attempting to one-shot them with significantly more compute or a newer model.",
+    "“It’s not particularly a concern to us whether we find it, or someone else finds it, or a professor finds it, or the frontier labs find it,” Sridhar said. “The reason we’re putting out these challenges is because we want them to serve as the goalposts. If you go and solve these challenges, we are deepening our understanding of materials and how things around us behave.”",
+    "Tracking efforts to solve the problems will show “whether the models are climbing in this domain,” he added.",
+    "The challenge also reflects the changing nature of scientific inquiry as AI proves capable of uncovering insights and techniques human researchers didn’t anticipate. With solutions apparently easier to find than ever, the questions become more important.",
+    "“This is a new way of thinking about science, where we come up with the verification and the challenges first, and then we let somebody come up with the ideas that explain the problem,” Sridhar said. “Knowing what are the right questions to ask is not trivial and very difficult in this domain, so this is where the professors have really helped us shape what are the right questions we should be asking.”",
+    "Discovered Materials’ main focus is developing new materials for use in semiconductors; the startup partners with chip giants on research projects while also funding its own scientific efforts. When the company announced its seed round in August, Sridhar told TechCrunch that he hoped the company would generate a useful material within a year.",
+    "“Those timelines have accelerated a little bit,” he says today. “I’m more confident now that we will be able to find these industrially useful materials in a timeline shorter than a year.”"
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/discoverd-materials.jpg",
+      "alt": "Discovered Materials founders Advaith Sridhar and Akash Ramdas"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-05T20:54:58.663053+00:00",
+  "title_tr": "Bir YC girişimi, yapay zeka için çözülmemiş 5 malzeme bilimi sorununun arkasına 1 milyon $ koyuyor",
+  "body_paragraphs_tr": [
+    "Gelişmiş çipler oluşturmak için yeni maddeler bulmak amacıyla yapay zeka modellerini kullanan bir aylık San Francisco girişimi olan Discovered Materials, yapay zeka modellerinin malzeme bilimindeki beş kritik sorunu çözmesi için milyon dolarlık bir meydan okumayı duyurdu.",
+    "Sınırdaki yapay zeka modelleri dikkat çekici bir dizi olağanüstü matematik problemini çözmüş ve yaşam bilimlerinde ilerleme kaydetmiş olsa da, karmaşık fiziği henüz gelişmiş malzemelere tam olarak oturtabilmiş değiller.",
+    "Y Combinator'ın ilkbahar 2026 serisinin bir parçası olan Discovered Materials'ın kurucu ortağı Advaith Sridhar, \"Malzeme biliminde problemleri net bir şekilde belirlemek daha zor çünkü çok özel bir tanımınız olduğu ve evet veya hayır diyebileceğiniz matematik gibi değil\" dedi. \"Bu tartışmaya [merak ederek] geldik, bu alandaki büyük zorluklar nelerdir? Yapay zekanın ilerleme kaydettiğini nasıl bilebiliriz ?\"",
+    "Malzeme bilimi, Milenyum Ödülü Problemlerine eşdeğer olmasa da, Discovered Materials, önde gelen küresel üniversitelerde beş açık problemi dile getirmek için bir danışman akademisyen grubunu işe aldı. Şirket, sorunların çözümü için toplam 1 milyon $ değerinde bir ödül havuzu sunuyor.",
+    "Bakır süper iletkenliğini veya belirli malzemelerin ultra düşük sıcaklıklarda sıfır elektrik direncine sahip olma yeteneğini açıklayan bir teori.",
+    "Hemen hemen tüm yarı iletkenlerde bulunan bir malzeme kombinasyonu olan silikon ve silikon dioksit arasındaki arayüzlerin yapılarını tahmin etmek için sayısal bir yöntem.",
+    "Tane yapısını termal özelliklerle eşlemek için sayısal bir yöntem olup, daha iyi ısı dağılımı malzemelerinin tasarımını sağlar.",
+    "Malzemelere ışık tutmanın, özellikle süperiletkenlik etrafındaki davranışlarını neden değiştirebileceğini öngören bir teori.",
+    "Yoğunluk fonksiyonel teorisini geliştirmek için sayısal bir yöntem, atomların ve moleküllerin yapılarını modellemek için malzeme biliminde kullanılan önemli bir teknik.",
+    "Zorlukların gelişmesine yardımcı olan Stanford profesörü Felipe Jornada yaptığı açıklamada, \"Malzeme biliminde gözlemlediğimiz ancak açıklayamadığımız fenomenler var\" dedi. \"Bu fenomenleri açıklamak fizik anlayışımızı geliştirecek ve cevaplar doğrudan elektroniği nasıl ürettiğimizi, enerjiyi nasıl depoladığımızı ve geleceğin malzemelerini nasıl ürettiğimizi şekillendirecek .\"",
+    "Zorlukları açıklamadan önce, Discovered Materials, sınır laboratuvar modellerini üzerlerinde gevşeterek yapay zeka ajanlarına günlerce otonom olarak çalışmaları için internet erişimi ve diğer kaynaklar sağladı. Modeller, fazla ilerleme kaydetmeden her bir problem üzerinde birkaç gün geçirdi. Yine de, OpenAI veya Anthropic'in bunları önemli ölçüde daha fazla hesaplama veya daha yeni bir modelle tek atış yapmaya çalıştığını hayal etmek kolaydır.",
+    "Sridhar, \"Bizim bulmamız ya da bir başkasının bulması, bir profesörün bulması ya da sınır laboratuvarlarının bulması bizi özellikle ilgilendirmiyor\" dedi. \"Bu zorlukları ortaya koymamızın nedeni, onların kale direği olarak hizmet etmelerini istememiz. Eğer gidip bu zorlukları çözerseniz, malzemelere ve etrafımızdaki şeylerin nasıl davrandığına dair anlayışımızı derinleştiriyoruz .\"",
+    "Sorunları çözme çabalarının izlenmesi, \"modellerin bu alanda tırmanıp tırmanmadığını\" gösterecektir.",
+    "Yapay zeka, insan araştırmacıların öngörmediği içgörüleri ve teknikleri ortaya çıkarabildiğini kanıtladığından, bu zorluk aynı zamanda bilimsel araştırmanın değişen doğasını da yansıtıyor. Görünüşe göre çözümleri bulmak her zamankinden daha kolay olduğu için, sorular daha da önemli hale geliyor.",
+    "Sridhar, \"Bu, önce doğrulamayı ve zorlukları bulduğumuz ve sonra birinin sorunu açıklayan fikirleri bulmasına izin verdiğimiz bilim hakkında yeni bir düşünme şekli\" dedi. \"Sorulacak doğru soruların ne olduğunu bilmek bu alanda önemsiz ve çok zor değil, bu nedenle profesörler sormamız gereken doğru soruları şekillendirmemize gerçekten yardımcı oldular .\"",
+    "Discovered Materials'ın ana odağı, yarı iletkenlerde kullanılmak üzere yeni malzemeler geliştirmektir; startup, araştırma projelerinde çip devleriyle ortaklık kurarken aynı zamanda kendi bilimsel çabalarını da finanse ediyor. Şirket ağustosta tohum turunu açıkladığında Sridhar, TechCrunch'a şirketin bir yıl içinde faydalı bir malzeme üretmesini umduğunu söyledi.",
+    "Bugün \"Bu zaman çizgileri biraz hızlandı\" diyor. \"Artık bu endüstriyel açıdan faydalı malzemeleri bir yıldan kısa bir zaman çizelgesinde bulabileceğimize daha eminim .\""
+  ],
+  "tags_tr": []
+}
