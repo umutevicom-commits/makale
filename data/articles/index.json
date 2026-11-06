@@ -1,23 +1,23 @@
 [
   {
-    "slug": "amazon-ditches-grubhub-taps-uber-eats-for-prime",
-    "url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
+    "content_hash": "8b3401d05d4cbd1eed0770cf0f107c27cdf61ef336486eea1b207021ac691f5b",
     "date": "05 November 2026",
     "fetched_at": "2026-11-06T01:58:27.842475+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "8b3401d05d4cbd1eed0770cf0f107c27cdf61ef336486eea1b207021ac691f5b"
+    "retries": 0,
+    "slug": "amazon-ditches-grubhub-taps-uber-eats-for-prime",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/"
   },
   {
-    "slug": "airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027",
-    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "content_hash": "75c6eb20d8ceec017f97c8e372496fd17168090d3f2759e6ae259c89b61a7b15",
     "date": "05 November 2026",
     "fetched_at": "2026-11-06T01:58:00.200407+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "75c6eb20d8ceec017f97c8e372496fd17168090d3f2759e6ae259c89b61a7b15"
+    "retries": 0,
+    "slug": "airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
   },
   {
     "content_hash": "f19ca9c371277729d8a9c0ce745b168e4d4a0445ae79f3f93dc507555f9ca819",
