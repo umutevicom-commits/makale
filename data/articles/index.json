@@ -1,33 +1,53 @@
 [
   {
-    "slug": "ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents",
-    "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+    "slug": "amazon-ditches-grubhub-taps-uber-eats-for-prime",
+    "url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
+    "date": "05 November 2026",
+    "fetched_at": "2026-11-06T01:58:27.842475+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "8b3401d05d4cbd1eed0770cf0f107c27cdf61ef336486eea1b207021ac691f5b"
+  },
+  {
+    "slug": "airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027",
+    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "date": "05 November 2026",
+    "fetched_at": "2026-11-06T01:58:00.200407+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "75c6eb20d8ceec017f97c8e372496fd17168090d3f2759e6ae259c89b61a7b15"
+  },
+  {
+    "content_hash": "f19ca9c371277729d8a9c0ce745b168e4d4a0445ae79f3f93dc507555f9ca819",
     "date": "05 November 2026",
     "fetched_at": "2026-11-05T20:56:19.681167+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "f19ca9c371277729d8a9c0ce745b168e4d4a0445ae79f3f93dc507555f9ca819"
+    "retries": 0,
+    "slug": "ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/"
   },
   {
-    "slug": "agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying",
-    "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+    "content_hash": "bcc85d606cef03b8d10c5ffe884463179dd4b39d792d0533b729c6027aa9bb8f",
     "date": "05 November 2026",
     "fetched_at": "2026-11-05T20:55:31.307370+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "bcc85d606cef03b8d10c5ffe884463179dd4b39d792d0533b729c6027aa9bb8f"
+    "retries": 0,
+    "slug": "agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
   },
   {
-    "slug": "a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai",
-    "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+    "content_hash": "ce8007f63e1e3f8db75bad62e1f25a16a52172f9061e2e3bac9ba8b058ef1374",
     "date": "05 November 2026",
     "fetched_at": "2026-11-05T20:54:58.663053+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "ce8007f63e1e3f8db75bad62e1f25a16a52172f9061e2e3bac9ba8b058ef1374"
+    "retries": 0,
+    "slug": "a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
   },
   {
     "content_hash": "5979f12f20d1a118b040c1252e8638a5ee1ea9e0b252e720403a914e6d260faa",
