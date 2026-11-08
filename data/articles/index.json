@@ -1,5 +1,15 @@
 [
   {
+    "slug": "amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles",
+    "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+    "date": "07 November 2026",
+    "fetched_at": "2026-11-07T23:22:47.228883+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "857f0b3c7616d2bb3bbec21e22cda79ef3bade2a69e5adf23a36f8acb338b40e"
+  },
+  {
     "content_hash": "c5a7e23427818eb61aff69e74a2c8b62d06471a42545aabeb049659ed9051376",
     "date": "06 November 2026",
     "fetched_at": "2026-11-06T22:39:44.892403+00:00",
