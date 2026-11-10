@@ -1,13 +1,53 @@
 [
   {
-    "slug": "anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-    "date": "09 November 2026",
-    "fetched_at": "2026-11-09T23:56:35.438895+00:00",
+    "slug": "x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts",
+    "url": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
+    "date": "21 September 2026",
+    "fetched_at": "2026-11-10T09:02:38.229270+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "dbcb7b94e51f416218707541b6cfab3a3d65cda5d564715b77dba00a49434acf"
+    "content_hash": "62e8c8372861765999709474b032c7294e84efb095d65781abd41b7b8d107e6b"
+  },
+  {
+    "slug": "x-will-now-let-u-s-users-trade-via-cashtags",
+    "url": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
+    "date": "16 September 2026",
+    "fetched_at": "2026-11-10T09:01:46.210877+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "69bfe9eac74d344f2b5db78e13645ed5a3f822a3cdb9a31a7a73cb82588974e1"
+  },
+  {
+    "slug": "x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb",
+    "url": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/",
+    "date": "07 October 2026",
+    "fetched_at": "2026-11-10T09:00:52.138118+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "5058b55a9dff71281056391fa5a60958056da70a8a78b3e904eb8c6746497229"
+  },
+  {
+    "slug": "worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months",
+    "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+    "date": "01 October 2026",
+    "fetched_at": "2026-11-10T08:59:59.106092+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "4c5fb2504b51efeecf42b687a0d86878db6bdecd64e4050cf5ea2735d3f1180b"
+  },
+  {
+    "content_hash": "dbcb7b94e51f416218707541b6cfab3a3d65cda5d564715b77dba00a49434acf",
+    "date": "09 November 2026",
+    "fetched_at": "2026-11-09T23:56:35.438895+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
   },
   {
     "content_hash": "857f0b3c7616d2bb3bbec21e22cda79ef3bade2a69e5adf23a36f8acb338b40e",

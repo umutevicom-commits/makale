@@ -1,0 +1,43 @@
+{
+  "url": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
+  "slug": "x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts",
+  "title": "X will now tell users when governments have forced it to limit their posts",
+  "news_id": "x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts",
+  "date": "21 September 2026",
+  "author": "Sarah Perez",
+  "tags": [],
+  "body_paragraphs": [
+    "X on Monday announced it will now tell users when their posts have been “shadowbanned,” meaning shown to fewer people, due to the company’s compliance with local laws. The feature is an expansion of the social network’s earlier transparency tool called “Under the Hood,” which allows users to see if any labels have been applied to their account or their posts that could have affected their visibility on the platform.",
+    "It will also highlight any downranking of users’ posts due to government-required content filtering.",
+    "We’ve expanded Under The Hood after seeing people’s appreciation of more transparency into government-required content filtering. In addition to showing labels applied to your account and posts in the prior month, Under The Hood now shows if your account or posts had their… https://t.co/Op5rBnE1jg pic.twitter.com/ZUrbkO28ay",
+    "Previously, information about how an X user’s account or posts were being labeled and downranked was not available to end users. As a result, many often accused the company, formerly known as Twitter, of having shadowbanned them.",
+    "In addition, most companies that share data about government requests do so on an aggregate basis through “transparency reports,” not at the account or post level.",
+    "That began to change when, in August, X rolled out its transparency tool to offer more visibility into its moderation decisions. The “Under the Hood” option in the X app settings allows anyone who has posted at least 10 times during the month to download their aggregate stats as a JSON file, a standard data format. (Non-technical users can drop the file into any AI chatbot to have it explained.)",
+    "This same process will now show if an account or posts have had their visibility limited because X is complying with local laws. The file will also include which posts were withheld in a country following a legal demand, and which country made the request.",
+    "Governments cite a range of reasons for such demands, from laws against hate speech to terrorism-related content to election rules. Of course, critics, including free-expression groups, say some countries also use these laws to squash political dissent.",
+    "The update follows a number of other transparency-related efforts at X, including the open-sourcing of its “For You” algorithm, which selects the posts in users’ main feed, and an expansion of its efforts to open source parts of its codebase. The latter involved adding more detail, including on the model configuration, filtering, and core ranking system details. That means the code now includes the parameters used to weight different signals — information that is key to understanding which posts are actually displayed.",
+    "At the time of that open-sourcing effort, X’s vice president of product, Keith Coleman, said it was “the kind of thing that I think people will be fairly shocked that we are releasing.”"
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/twitter-x-musk-graffiti.jpg",
+      "alt": "X (formerly Twitter) logo on a cracked wall"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-10T09:02:38.229270+00:00",
+  "title_tr": "X şimdi hükümetlerin gönderilerini sınırlamaya zorladıklarını kullanıcılara bildirecek",
+  "body_paragraphs_tr": [
+    "X, pazartesi günü yaptığı açıklamada, şirketin yerel yasalara uyması nedeniyle artık kullanıcılara gönderilerinin \"gölge yasaklı\" olduğunu, yani daha az kişiye gösterildiğini söyleyeceğini duyurdu. Bu özellik, kullanıcıların hesaplarına veya gönderilerine platformdaki görünürlüklerini etkileyebilecek herhangi bir etiket uygulanıp uygulanmadığını görmelerini sağlayan \"Under the Hood\" adlı sosyal ağın daha önceki şeffaflık aracının bir uzantısı.",
+    "Ayrıca, hükümet tarafından gerekli görülen içerik filtrelemesi nedeniyle kullanıcıların gönderilerinde herhangi bir düşüş olduğunu da vurgulayacaktır.",
+    "İnsanların devlet tarafından zorunlu tutulan içerik filtrelemede daha fazla şeffaflık konusundaki takdirini gördükten sonra Under The Hood'u genişlettik. Under The Hood, önceki ay hesabınıza ve gönderilerinize uygulanan etiketleri göstermenin yanı sıra, hesabınızın veya gönderilerinizin… https://t.co/Op5rBnE1jg pic.twitter.com/ZUrbkO28ay adresine sahip olup olmadığını da gösterir.",
+    "Daha önce, bir X kullanıcısının hesabının veya gönderilerinin nasıl etiketlendiğine ve sıralamasının düşürüldüğüne dair bilgiler son kullanıcılar tarafından kullanılamıyordu. Sonuç olarak, birçok kişi eskiden Twitter olarak bilinen şirketi sık sık onları gölgede bırakmakla suçladı.",
+    "Buna ek olarak, devlet talepleri hakkında veri paylaşan çoğu şirket, bunu hesap veya posta düzeyinde değil, \"şeffaflık raporları\" aracılığıyla toplu olarak yapar.",
+    "Bu durum, Ağustos ayında X'in ılımlılık kararlarına daha fazla görünürlük sağlamak için şeffaflık aracını kullanıma sunmasıyla değişmeye başladı. X uygulaması ayarlarındaki \"Under the Hood\" seçeneği, ay boyunca en az 10 kez gönderi paylaşan herkesin toplu istatistiklerini standart bir veri formatı olan JSON dosyası olarak indirmesine olanak tanır. (Teknik olmayan kullanıcılar, açıklanması için dosyayı herhangi bir yapay zeka sohbet robotuna bırakabilir.)",
+    "Aynı işlem, X yerel yasalara uyduğu için bir hesabın veya gönderinin görünürlüğünün sınırlı olup olmadığını da gösterecek. Dosya ayrıca, yasal bir talebin ardından bir ülkede hangi gönderilerin alıkonulduğunu ve hangi ülkenin talepte bulunduğunu da içerecektir.",
+    "Hükümetler, nefret söylemine karşı yasalardan terörle ilgili içeriğe ve seçim kurallarına kadar bu tür taleplerin bir dizi nedenini belirtmektedir. Elbette ifade özgürlüğü grupları da dahil olmak üzere eleştirmenler, bazı ülkelerin bu yasaları siyasi muhalefeti bastırmak için de kullandığını söylüyor.",
+    "Güncelleme, kullanıcıların ana akışındaki gönderileri seçen \"Sizin İçin\" algoritmasının açık kaynak kullanımı ve kod tabanının kaynak kısımlarını açma çabalarının genişletilmesi de dahil olmak üzere X'teki şeffaflıkla ilgili bir dizi diğer çabayı takip ediyor. İkincisi, model yapılandırması, filtreleme ve çekirdek sıralama sistemi ayrıntıları da dahil olmak üzere daha fazla ayrıntı eklemeyi içeriyordu. Bu, kodun artık farklı sinyalleri ağırlıklandırmak için kullanılan parametreleri, yani hangi gönderilerin gerçekten görüntülendiğini anlamanın anahtarı olan bilgileri içerdiği anlamına geliyor.",
+    "Bu açık kaynak çabası sırasında, X'in ürün başkan yardımcısı Keith Coleman, \"insanların piyasaya sürdüğümüz için oldukça şok olacağını düşündüğüm türden bir şey\" olduğunu söyledi."
+  ],
+  "tags_tr": []
+}
