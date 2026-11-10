@@ -1,43 +1,43 @@
 [
   {
-    "slug": "x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts",
-    "url": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
+    "content_hash": "62e8c8372861765999709474b032c7294e84efb095d65781abd41b7b8d107e6b",
     "date": "21 September 2026",
     "fetched_at": "2026-11-10T09:02:38.229270+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "62e8c8372861765999709474b032c7294e84efb095d65781abd41b7b8d107e6b"
+    "retries": 0,
+    "slug": "x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/"
   },
   {
-    "slug": "x-will-now-let-u-s-users-trade-via-cashtags",
-    "url": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
+    "content_hash": "69bfe9eac74d344f2b5db78e13645ed5a3f822a3cdb9a31a7a73cb82588974e1",
     "date": "16 September 2026",
     "fetched_at": "2026-11-10T09:01:46.210877+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "69bfe9eac74d344f2b5db78e13645ed5a3f822a3cdb9a31a7a73cb82588974e1"
+    "retries": 0,
+    "slug": "x-will-now-let-u-s-users-trade-via-cashtags",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/"
   },
   {
-    "slug": "x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb",
-    "url": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/",
+    "content_hash": "5058b55a9dff71281056391fa5a60958056da70a8a78b3e904eb8c6746497229",
     "date": "07 October 2026",
     "fetched_at": "2026-11-10T09:00:52.138118+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "5058b55a9dff71281056391fa5a60958056da70a8a78b3e904eb8c6746497229"
+    "retries": 0,
+    "slug": "x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/"
   },
   {
-    "slug": "worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months",
-    "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+    "content_hash": "4c5fb2504b51efeecf42b687a0d86878db6bdecd64e4050cf5ea2735d3f1180b",
     "date": "01 October 2026",
     "fetched_at": "2026-11-10T08:59:59.106092+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "4c5fb2504b51efeecf42b687a0d86878db6bdecd64e4050cf5ea2735d3f1180b"
+    "retries": 0,
+    "slug": "worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/"
   },
   {
     "content_hash": "dbcb7b94e51f416218707541b6cfab3a3d65cda5d564715b77dba00a49434acf",
