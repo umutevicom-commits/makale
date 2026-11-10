@@ -1,5 +1,15 @@
 [
   {
+    "slug": "anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+    "date": "09 November 2026",
+    "fetched_at": "2026-11-09T23:56:35.438895+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "dbcb7b94e51f416218707541b6cfab3a3d65cda5d564715b77dba00a49434acf"
+  },
+  {
     "content_hash": "857f0b3c7616d2bb3bbec21e22cda79ef3bade2a69e5adf23a36f8acb338b40e",
     "date": "07 November 2026",
     "fetched_at": "2026-11-07T23:22:47.228883+00:00",
