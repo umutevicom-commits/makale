@@ -1,5 +1,35 @@
 [
   {
+    "slug": "anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "date": "10 November 2026",
+    "fetched_at": "2026-11-10T22:47:00.656373+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "9e2acd6b2a2194b22309787fc927839ee75e682ff5f3e773a997eb87439df0cb"
+  },
+  {
+    "slug": "after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era",
+    "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+    "date": "10 November 2026",
+    "fetched_at": "2026-11-10T22:46:19.326087+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "c3f44969a83f24236361d28f9d876bf69652513fd658a5f5774b8956dea008a4"
+  },
+  {
+    "slug": "adobe-adds-more-ai-to-its-products-and-launches-an-mcp",
+    "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+    "date": "10 November 2026",
+    "fetched_at": "2026-11-10T22:45:57.592375+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "197b7959ed9dedd8be74860d5e1fdc60ac105050c59bf51186334e777d36bf37"
+  },
+  {
     "content_hash": "62e8c8372861765999709474b032c7294e84efb095d65781abd41b7b8d107e6b",
     "date": "21 September 2026",
     "fetched_at": "2026-11-10T09:02:38.229270+00:00",

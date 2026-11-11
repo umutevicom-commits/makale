@@ -1,0 +1,51 @@
+# Google'ın Android'ine Cyanogen ile meydan okuduktan sonra, kurucu ortağı yapay zeka dönemi için Windows'u hedef alıyor
+
+Siyanojen, Google'ın hakimiyetini gevşetmek için yıllarca süren başarısız bir çabanın ardından Android işletim sistemi işini kapattıktan neredeyse on yıl sonra, kurucu ortağı Kirt McMaster, şimdi Microsoft'un Windows'unu günlük işlerinde yapay zekaya büyük ölçüde güvenen insanlar için tasarlanmış yeni bir işletim sistemi ile hedefliyor.
+
+McMaster'ın şirketi Kora Systems, Salı günü yapay zeka modellerini ve otonom aracıları doğrudan bilgi işlem deneyimine entegre eden, uygulamalar arasında çalışmalarına, dosyalara erişmelerine ve görevler arasındaki bağlamı korumalarına olanak tanıyan Linux tabanlı bir masaüstü işletim sistemini tanıttı. Yazılımın, mevcut Intel ve AMD destekli PC'lerin yanı sıra Qualcomm'un Snapdragon yongalarını çalıştıran makineleri destekleyen, kullanımı ücretsiz bir masaüstü işletim sistemi olarak 2027 'de piyasaya sürülmesi bekleniyor.
+
+Kora, OpenAI's Codex ve Anthropic's Claude dahil olmak üzere yapay zeka kodlama araçlarına dayanan yaklaşık 50 mühendisden oluşan bir ekiple kendi adını taşıyan işletim sistemini geliştiriyor. McMaster, TechCrunch'a bu araçların gelişimi en az 5 kat hızlandırdığını ve kazanımların çoğunun son 6 ayda geldiğini söyledi.
+
+Microsoft, uzun süredir PC işletim sistemi pazarına hükmediyor ve bu da yeni oyuncuların bir dayanak oluşturmasını zorlaştırıyor. Statcounter'ın web trafiği verilerine göre Windows, Ekim ayında dünya masaüstü işletim sistemi pazarının yaklaşık % 77 'sine sahipken, Apple'ın OS X'inde bu oran yaklaşık % 10' du.
+
+Ancak McMaster, Kora'nın Windows'un tüm kullanıcı tabanı için rekabet etmesine gerek olmadığına inanıyor. Aksine, yapay zekayı yoğun bir şekilde kullanan ve güçlü modellere ve hizmetlere erişim için ödeme yapmaya istekli insanları hedefliyor.
+
+"Microsoft milyarlarca kullanıcısını elinde tutabilir" diyen McMaster, şu anda yapay zeka kullanımının ve gelirinin çoğunu 45 ila 50 milyon kişinin oluşturduğunu tahmin ediyor. Pazarın 2033 yılına kadar 200 milyon kullanıcıyı aşmasını bekliyor.
+
+McMaster, TechCrunch'a yaptığı açıklamada, 5 yıldan fazla bir süre geçirdiği Cyanogen'deki deneyiminin kendisine meydan okumaya çalıştığı şirkete güvenmenin tehlikelerini öğrettiğini söyledi. Cyanogen, Google'ın Android sürümünün ötesinde özellikler sunmasına rağmen Google Mobil Hizmetlerine büyük ölçüde bağımlı kaldı. Bu, nihayetinde bağımsız bir ekosistem inşa etme yeteneğini kısıtladı.
+
+"Görevdeki biriyle rekabet etmeye çalışıyorsanız ama yine de onlara güveniyorsanız, hiç şansınız yok" dedi.
+
+McMaster, Kora'nın üçüncü taraf hizmetlerini doğrudan işletim sistemine entegre etmenin yollarını araştırmaya başladığı Cyanogen'deki zamanının sonuna doğru sürdürdüğü bir fikre dayandığını söyledi. Kora ile birlikte, yapay zeka modellerinin ve temsilcilerinin uygulamalar arasında çalışmasını ve bireysel uygulamalarla sınırlı kalmadan dosyalara erişmesini istiyor.
+
+Daha önce McMaster liderliğindeki bir oyun işletim sistemi şirketi olan Playtron olarak bilinen Palo Alto merkezli şirket, Temmuz 2025 'te odağını yapay zekaya kaydırarak Kora olarak yeniden markalaştırdı. McMaster, kararın, Perplexity ve OpenAI gibi ilk şirketlerin yapay zeka destekli web tarayıcılarına geçmesiyle geldiğini söyledi. Tarayıcıların yapay zeka ajanlarına daha karmaşık görevleri yerine getirmek için bir bilgisayara yeterli erişim sağlamayacağına ve bir işletim sistemini daha iyi bir başlangıç noktası haline getireceğine inanıyordu.
+
+Değişim, Kora'nın sıfırdan başlamak yerine Playtron'un GameOS adlı Linux tabanlı oyun işletim sistemini geliştirmek için yaklaşık üç yıllık bir çalışma üzerine inşa etmesine de izin verdi.
+
+Kora, kullanıcıların konuşmaları, belgeleri ve diğer bilgileri takip ederken uygulamalar arasında farklı yapay zeka modelleri ve aracılarıyla çalışmasına izin vermek için tasarlanmıştır. Ayrıca, yapay zeka temsilcilerinin dosyalara ve diğer kaynaklara kısıtlı erişime sahip ayrı çalışma alanlarında çalışmasına izin verir.
+
+McMaster, Cyanogen'deki deneyiminden yararlanırken, Kora'nın mühendislerinden hiçbiri orada çalışmadı. TechCrunch'a verdiği demeçte, bunun yerine şirketin Linux oyun topluluğundan yoğun bir şekilde işe alındığını söyledi.
+
+Kora'nın yazılımı Linux üzerine kuruludur ve Nix kullanır. Playtron'un önceki GameOS'unun Fedora Silverblue temelinin yerini alıyor.
+
+Linux ve Nix açık kaynak olsa da McMaster, Cortex AI motoru ve masaüstü arayüzü de dahil olmak üzere Kora'nın kendi teknolojisinin tescilli olmaya devam ettiğini söyledi. Şirket, kendi yazılımını açık kaynak yapmayı taahhüt etmese de, farklı sağlayıcılardan yapay zeka modellerini ve hizmetlerini desteklemeyi planladığını söyledi.
+
+Oyun da Kora'nın planlarının bir parçası olmaya devam ediyor. McMaster, şirketin geliştiricilerin doğrudan işletim sistemi içinde oyunlar oluşturmasına, yayınlamasına ve oynamasına izin verecek yapay zeka destekli araçlar sunmayı planladığını söyledi. Android uygulamaları için desteğin de yol haritasında olduğunu ekledi.
+
+McMaster, TechCrunch'a yaptığı açıklamada, Kora'nın ekibinin işletim sistemini özellikle Snapdragon destekli PC'ler için optimize etmek amacıyla yaklaşık bir yıldır Qualcomm mühendisleriyle yakın bir şekilde çalıştığını söyledi. İşbirliği, Qualcomm'un Snapdragon X2 Elite yongaları için destek içeriyor.
+
+Kora, Qualcomm'un yanı sıra Suudi Arabistan'ın yapay zeka şirketi Humain ile birlikte, 2027 'de Snapdragon destekli dizüstü bilgisayarlarda çalışması beklenen Humain OS adlı işletim sisteminin kurumsal bir sürümü üzerinde çalışıyor. Kora ayrıca daha sonraki bir tarihte PC üreticileriyle ortaklıklar kurmayı planlıyor, ancak McMaster herhangi bir şirket tanımlamadı veya belirli bir zaman çizelgesi sağlamadı.
+
+Kora, yapay zeka modellerine ve aracı hizmetlere erişimi bir araya getiren abonelikler aracılığıyla gelir elde etmeyi planlıyor. Ayrıca Cortex motoru, mümkün olduğunda yapay zeka görevlerini yerel olarak yürütmek ve daha fazla bilgi işlem gücü gerektiren işler için bulut tabanlı modeller kullanmak üzere tasarlanmıştır.
+
+Kora'nın yatırımcıları arasında daha önce Playtron'u destekleyen Samsung Next, Square Enix, Alumni Ventures, Polychain, VanEck ve Circle yer alıyor. McMaster, şirketin odağını yapay zekaya kaydırmasından bu yana ek fon topladığını söyledi. Ancak, toplanan toplam tutarı veya değerlemesini açıklamayı reddetti. Kora'nın birkaç yıl boyunca faaliyet göstermek için yeterli finansmanı olduğunu söyledi.
+
+---
+
+## Görseller
+
+![Kora OS](https://umutevicom-commits.github.io/makale/data/images/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/kora-os.jpg)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/kora-os-chord-chat-client.jpg)
+
+![Görsel](https://umutevicom-commits.github.io/makale/data/images/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/kora-os-game-frame.jpg)

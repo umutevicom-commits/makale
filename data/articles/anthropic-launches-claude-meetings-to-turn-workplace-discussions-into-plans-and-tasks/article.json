@@ -1,0 +1,61 @@
+{
+  "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+  "slug": "anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks",
+  "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+  "news_id": "anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks",
+  "date": "10 November 2026",
+  "author": "Aisha Malik",
+  "tags": [],
+  "body_paragraphs": [
+    "Anthropic announced new workplace features on Tuesday, including Claude Meetings, which brings Claude into video calls to begin working on tasks while participants are still talking. The company also unveiled Claude Whiteboards and Claude Sheets.",
+    "The launch of Anthropic’s new productivity-focused features comes just a few weeks after OpenAI unveiled a series of workplace tools that allow users to collaborate with ChatGPT to do things like visualize company information and create presentations, as both companies compete to turn their products into office suites of sorts to take on Microsoft and Google. Meta is also joining the competition with its Muse AI agent, which can build mini-apps on the fly to help users complete specific tasks.",
+    "With Claude Meetings, teams can add Claude to a video call as a visible participant. Claude then follows the conversation and gets to work on tasks in real time. As participants talk, it can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year’s figures. After the call, the meeting notes, action items, and other materials Claude created are available in claude.ai.",
+    "The work that comes out of a meeting usually starts after everyone hangs up, but with this new feature, teams can turn discussions into actions in real time, Anthropic says.",
+    "Claude identifies itself as a meeting participant and posts a notice in the meeting chat. It won’t join calls with external guests unless authorized by an admin, and will automatically leave if an external guest joins.",
+    "Claude Meetings is launching in beta on Team and Enterprise plans. At launch, it works with Google Meet, with support for additional plans expected to follow.",
+    "As for Claude Whiteboards, Anthropic describes the feature as a collaborative board where teams can talk through a plan and have Claude turn it into an organized visual workspace with timelines and deadlines.",
+    "The company notes that many people already brainstorm with Claude, but that in order to share their results with others, they would have to copy-paste them somewhere else. Now, a team can work directly with Claude on the same board in real time.",
+    "When the brainstorm is done, Claude can turn the board into a doc or a slide deck. Additionally, Whiteboards also work inside Claude Meetings, so the board builds while people talk, Anthropic says.",
+    "Claude Whiteboards is available in beta on paid plans, on web, desktop, and mobile.",
+    "The company also launched Claude Sheets, which lets teams create and collaboratively edit spreadsheets with Claude. A team can ask it to build a campaign tracker or hiring budget, and Claude will then generate a working spreadsheet.",
+    "Anthropic says Claude handles the initial setup of trackers and budgets, while allowing teams to continue refining and updating the same spreadsheet. Each spreadsheet can include multiple tabs, formulas, formatting, and dropdown menus. Claude also makes edits directly in cells alongside the team, and outlines each change so users can see what it did.",
+    "Claude Sheets is available in beta on paid plans, on web, desktop and mobile.",
+    "Anthropic also announced that Claude Data, formerly known as Claude Dashboards, is now generally available. The feature connects Claude to systems that companies use to keep their numbers, like a data warehouse or CRM. Users can ask questions, and Claude responds with dashboards, written data stories, or narrated videos.",
+    "Additionally, the company announced interactive connectors that open the full version of apps like Adobe, Atlassian, and HubSpot inside Claude. Anthropic notes that teams can now open these apps directly alongside their Claude conversations and ask the assistant to work within them, essentially bringing existing workflows into the same workspace."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/Claude-Meetings.png",
+      "alt": "Anthropic Claude Meetings"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/Claude-Whiteboards-1.png",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/Claude-Sheets-2.png",
+      "alt": ""
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-10T22:47:00.656373+00:00",
+  "title_tr": "Anthropic, işyeri tartışmalarını planlara ve görevlere dönüştürmek için Claude Toplantıları'nı başlattı",
+  "body_paragraphs_tr": [
+    "Anthropic salı günü, katılımcılar hala konuşurken Claude'u görevler üzerinde çalışmaya başlamak için görüntülü görüşmelere getiren Claude Toplantıları da dahil olmak üzere yeni işyeri özelliklerini duyurdu. Şirket ayrıca Claude Whiteboards ve Claude Sheets'i de tanıttı.",
+    "Anthropic'in yeni üretkenlik odaklı özelliklerinin lansmanı, OpenAI'nin, kullanıcıların şirket bilgilerini görselleştirmek ve sunumlar oluşturmak gibi şeyler yapmak için ChatGPT ile işbirliği yapmalarına olanak tanıyan bir dizi işyeri aracını tanıtmasından sadece birkaç hafta sonra geldi. Her iki şirket de ürünlerini Microsoft ve Google ile başa çıkmak için bir tür ofis takımına dönüştürmek için rekabet ediyor. Meta, kullanıcıların belirli görevleri tamamlamasına yardımcı olmak için anında mini uygulamalar oluşturabilen Muse AI temsilcisiyle de yarışmaya katılıyor.",
+    "Claude Meetings ile ekipler, Claude'u görünür bir katılımcı olarak görüntülü görüşmeye ekleyebilir. Claude daha sonra konuşmayı takip eder ve gerçek zamanlı olarak görevler üzerinde çalışmaya başlar. Katılımcılar konuştukça, tartışılan planı hazırlayabilir, bir beyaz tahtada bir zaman çizelgesi belirleyebilir, toplantı sohbetindeki soruları yanıtlayabilir ve geçen yılın rakamları gibi bilgileri almak için bağlı iş uygulamalarına erişebilir. Çağrıdan sonra, Claude'un oluşturduğu toplantı notları, eylem öğeleri ve diğer materyaller claude.ai'de mevcuttur.",
+    "Anthropic, bir toplantıdan çıkan çalışmanın genellikle herkes telefonu kapattıktan sonra başladığını, ancak bu yeni özellik sayesinde ekiplerin tartışmaları gerçek zamanlı olarak eyleme dönüştürebildiğini söylüyor.",
+    "Claude kendisini toplantı katılımcısı olarak tanımlar ve toplantı sohbetine bir bildirim gönderir. Bir yönetici tarafından yetkilendirilmedikçe harici misafirlerle yapılan aramalara katılmaz ve harici bir misafir katılırsa otomatik olarak ayrılır.",
+    "Claude Meetings, Team ve Enterprise planlarında beta olarak piyasaya sürülüyor. Lansmanda, takip etmesi beklenen ek planlar için Google Meet ile birlikte çalışır.",
+    "Claude Whiteboards'a gelince, Anthropic bu özelliği ekiplerin bir plan üzerinde konuşabileceği ve Claude'un bunu zaman çizelgeleri ve son teslim tarihleri olan organize bir görsel çalışma alanına dönüştürebileceği işbirlikçi bir pano olarak tanımlıyor.",
+    "Şirket, birçok insanın zaten Claude ile beyin fırtınası yaptığını, ancak sonuçlarını başkalarıyla paylaşmak için onları başka bir yere kopyalayıp yapıştırmaları gerektiğini belirtiyor. Artık bir ekip, Claude ile aynı panoda gerçek zamanlı olarak doğrudan çalışabilir.",
+    "Beyin fırtınası bittiğinde Claude tahtayı bir belgeye veya slayt destesine dönüştürebilir. Ek olarak, Beyaz Tahtalar Claude Toplantıları içinde de çalışır, bu nedenle Antropik, insanlar konuşurken tahtayı oluşturur.",
+    "Claude Whiteboards ücretli planlarda, web'de, masaüstünde ve mobil cihazlarda beta olarak mevcuttur.",
+    "Şirket ayrıca ekiplerin Claude ile e - tablolar oluşturmasına ve işbirliği içinde düzenlemesine olanak tanıyan Claude Sheets'i de piyasaya sürdü. Bir ekip ondan bir kampanya izleyici veya işe alım bütçesi oluşturmasını isteyebilir ve Claude daha sonra bir çalışma e - tablosu oluşturur.",
+    "Anthropic, Claude'un izleyicilerin ve bütçelerin ilk kurulumunu ele alırken, ekiplerin aynı elektronik tabloyu iyileştirmeye ve güncellemeye devam etmesine izin verdiğini söylüyor. Her e - tablo birden fazla sekme, formül, biçimlendirme ve açılır menü içerebilir. Claude ayrıca ekibin yanı sıra doğrudan hücrelerde düzenlemeler yapar ve kullanıcıların ne yaptığını görebilmeleri için her değişikliği ana hatlarıyla belirtir.",
+    "Claude Sheets ücretli planlarda, web'de, masaüstünde ve mobilde beta olarak mevcuttur.",
+    "Anthropic ayrıca, eski adıyla Claude Dashboards olarak bilinen Claude Data'nın artık genel kullanıma sunulduğunu da duyurdu. Bu özellik, Claude'u şirketlerin veri ambarı veya CRM gibi numaralarını saklamak için kullandıkları sistemlere bağlar. Kullanıcılar soru sorabilir ve Claude gösterge tabloları, yazılı veri hikayeleri veya anlatılan videolarla yanıt verir.",
+    "Ek olarak, şirket Claude içindeki Adobe, Atlassian ve HubSpot gibi uygulamaların tam sürümünü açan etkileşimli bağlayıcıları duyurdu. Anthropic, ekiplerin artık bu uygulamaları doğrudan Claude konuşmalarının yanında açabileceğini ve asistandan kendi içlerinde çalışmasını isteyerek mevcut iş akışlarını aynı çalışma alanına getirebileceğini belirtiyor."
+  ],
+  "tags_tr": []
+}
