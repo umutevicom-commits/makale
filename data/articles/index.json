@@ -1,23 +1,23 @@
 [
   {
-    "slug": "apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature",
-    "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+    "content_hash": "b722ed01772a38f3acd627629cf61794149c7a8c6f5f2947c5c6ffe1cacf6420",
     "date": "10 November 2026",
     "fetched_at": "2026-11-11T04:27:22.480028+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "b722ed01772a38f3acd627629cf61794149c7a8c6f5f2947c5c6ffe1cacf6420"
+    "retries": 0,
+    "slug": "apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/"
   },
   {
-    "slug": "anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion",
-    "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+    "content_hash": "5d90d98cd9869d1c5a61b8c7a5a1478011a64321b4d2ac2ac621446640f24209",
     "date": "10 November 2026",
     "fetched_at": "2026-11-11T04:26:53.993487+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "5d90d98cd9869d1c5a61b8c7a5a1478011a64321b4d2ac2ac621446640f24209"
+    "retries": 0,
+    "slug": "anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
   },
   {
     "content_hash": "9e2acd6b2a2194b22309787fc927839ee75e682ff5f3e773a997eb87439df0cb",
