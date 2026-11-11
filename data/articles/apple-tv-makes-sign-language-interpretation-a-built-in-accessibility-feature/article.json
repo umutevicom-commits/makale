@@ -1,0 +1,41 @@
+{
+  "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+  "slug": "apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature",
+  "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
+  "news_id": "apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature",
+  "date": "10 November 2026",
+  "author": "Sarah Perez",
+  "tags": [],
+  "body_paragraphs": [
+    "Apple TV is making its content more accessible to Deaf audiences with the launch of a new Sign Language Interpretation feature, the company announced on Tuesday. The feature will initially be available across a limited set of titles, starting this Friday with the release of “ Being Heumann,” a biopic about disability rights activist Judy Heumann.",
+    "American Sign Language (ASL) and British Sign Language (BSL) will also be made available for Apple’s hit movie “F1.” Later this year, other titles will follow, including “Way of the Warrior Kid” and “Greyhound.”",
+    "What makes Apple’s offering different from other platforms is that the sign language version of the film is not a separate product — that is, it’s not a separate film designed just for Deaf viewers. Instead, Apple’s support for sign language is just a setting you enable that’s integrated with the main title, similar to how you could turn on or off closed captions.",
+    "When a title with the sign language option is playing, an interpreter appears in the bottom right of the screen, translating the spoken words into signs. Apple says it has partnered with a group of DASLs (Directors of Artistic Sign Language) to ensure that the interpreter for each film fits the tone of the film. Notably, the company is not using any AI-generated interpreters, as Apple says that’s not what the Deaf community has said it needs.",
+    "The feature is shipping in the latest release of iOS 27.2, and can be turned on through a new sign language option in Settings. After being enabled, a new button will appear in the supported Apple Original titles on Apple TV indicating that sign language is available.",
+    "These titles are labeled with a sign language icon that appears on the title page alongside other features like closed captions or audio descriptions. There’s also a new section under languages that will list the specific sign languages that are available with the given title.",
+    "To make the titles more discoverable, Apple TV will highlight which titles include the sign language option in a “Movies & Shows with American Sign Language” editorial collection. Meanwhile, users can easily surface supported titles via search by typing in keywords like “with ASL,” for example.",
+    "The new feature builds on Apple’s other investments in accessibility features, which it builds itself.",
+    "“At Apple, we believe everyone should be able to enjoy great stories and entertainment,” said Sarah Herrlinger, Apple’s senior director of Global Accessibility Policy and Initiatives, in a statement about the launch. “Bringing sign language interpretation to Apple TV is an exciting step forward in making the viewing experience more accessible and inclusive for Deaf audiences. Accessibility is a core value at Apple, and we’re proud to continue creating experiences that allow more people to enjoy the content they love,” she added."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/Apple-TV-ASL-Sign-Language-interpretation.jpg",
+      "alt": "disability rights activist Judy Heumann"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-11T04:27:22.480028+00:00",
+  "title_tr": "Apple TV, işaret dili yorumunu yerleşik bir erişilebilirlik özelliği haline getiriyor",
+  "body_paragraphs_tr": [
+    "Şirket salı günü yaptığı duyuruda, Apple TV'nin yeni bir İşaret Dili Yorumlama özelliğinin lansmanıyla içeriğini Sağır kitleler için daha erişilebilir hale getirdiğini duyurdu. Özellik başlangıçta, bu cuma sakatlık hakları aktivisti Judy Heumann'ın biyografisi \" Being Heumann\" ın yayımlanmasıyla başlayan sınırlı bir dizi başlıkta sunulacak.",
+    "Amerikan İşaret Dili (ASL) ve İngiliz İşaret Dili (BSL), Apple'ın hit filmi “F1” için de sunulacak. \"Bu yılın ilerleyen zamanlarında,\" Way of the Warrior Kid \"ve\" Greyhound \"da dahil olmak üzere başka oyunlar da çıkacak.",
+    "Apple'ın teklifini diğer platformlardan farklı kılan şey, filmin işaret dili versiyonunun ayrı bir ürün olmamasıdır — yani, sadece Sağır izleyiciler için tasarlanmış ayrı bir film değildir. Bunun yerine, Apple'ın işaret dili desteği, altyazıları nasıl açıp kapatabileceğinize benzer şekilde, ana başlıkla entegre olarak etkinleştirdiğiniz bir ayardır.",
+    "İşaret dili seçeneği olan bir başlık oynatılırken, ekranın sağ alt kısmında konuşulan kelimeleri işaretlere çeviren bir tercüman belirir. Apple, her filmin tercümanının filmin tonuna uymasını sağlamak için bir grup DASL (Sanatsal İşaret Dili Direktörü) ile ortaklık kurduğunu açıkladı. Özellikle, Apple, İşitme Engelliler topluluğunun ihtiyaç duyduğunu söylediği şeyin bu olmadığını söylediği gibi, şirket yapay zeka tarafından oluşturulan herhangi bir tercüman kullanmıyor.",
+    "Bu özellik, iOS 27.2 'nin en son sürümünde gönderiliyor ve Ayarlar'daki yeni bir işaret dili seçeneğiyle açılabilir. Etkinleştirildikten sonra, Apple TV'de desteklenen Apple Original başlıklarında işaret dilinin mevcut olduğunu gösteren yeni bir düğme görünecektir.",
+    "Bu başlıklar, altyazılar veya sesli açıklamalar gibi diğer özelliklerin yanı sıra başlık sayfasında görünen bir işaret dili simgesiyle etiketlenir. Dillerin altında, verilen başlıkla kullanılabilen belirli işaret dillerini listeleyen yeni bir bölüm de var.",
+    "Başlıkları daha keşfedilebilir hale getirmek için Apple TV, \"Amerikan İşaret Dili ile Filmler ve Şovlar\" editoryal koleksiyonunda hangi başlıkların işaret dili seçeneğini içerdiğini vurgulayacaktır. Bu arada, kullanıcılar örneğin “ASL ile” gibi anahtar kelimeler yazarak arama yoluyla desteklenen başlıkları kolayca ortaya çıkarabilirler.",
+    "Yeni özellik, Apple'ın kendi geliştirdiği erişilebilirlik özelliklerine yaptığı diğer yatırımlara dayanıyor.",
+    "Apple'ın Küresel Erişilebilirlik Politikası ve Girişimleri kıdemli direktörü Sarah Herrlinger, lansmanla ilgili yaptığı açıklamada, \"Apple'da herkesin harika hikayelerin ve eğlencenin tadını çıkarabilmesi gerektiğine inanıyoruz\" dedi. \"İşaret dili tercümesini Apple TV'ye getirmek, izleme deneyimini İşitme Engelli kitleler için daha erişilebilir ve kapsayıcı hale getirmede heyecan verici bir adımdır. Erişilebilirlik Apple'da temel bir değerdir ve daha fazla insanın sevdikleri içeriğin tadını çıkarmasını sağlayan deneyimler yaratmaya devam etmekten gurur duyuyoruz \" diye ekledi."
+  ],
+  "tags_tr": []
+}

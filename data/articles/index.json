@@ -1,33 +1,53 @@
 [
   {
-    "slug": "anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks",
-    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "slug": "apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature",
+    "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+    "date": "10 November 2026",
+    "fetched_at": "2026-11-11T04:27:22.480028+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "b722ed01772a38f3acd627629cf61794149c7a8c6f5f2947c5c6ffe1cacf6420"
+  },
+  {
+    "slug": "anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+    "date": "10 November 2026",
+    "fetched_at": "2026-11-11T04:26:53.993487+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "5d90d98cd9869d1c5a61b8c7a5a1478011a64321b4d2ac2ac621446640f24209"
+  },
+  {
+    "content_hash": "9e2acd6b2a2194b22309787fc927839ee75e682ff5f3e773a997eb87439df0cb",
     "date": "10 November 2026",
     "fetched_at": "2026-11-10T22:47:00.656373+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "9e2acd6b2a2194b22309787fc927839ee75e682ff5f3e773a997eb87439df0cb"
+    "retries": 0,
+    "slug": "anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
   },
   {
-    "slug": "after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era",
-    "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+    "content_hash": "c3f44969a83f24236361d28f9d876bf69652513fd658a5f5774b8956dea008a4",
     "date": "10 November 2026",
     "fetched_at": "2026-11-10T22:46:19.326087+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c3f44969a83f24236361d28f9d876bf69652513fd658a5f5774b8956dea008a4"
+    "retries": 0,
+    "slug": "after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/"
   },
   {
-    "slug": "adobe-adds-more-ai-to-its-products-and-launches-an-mcp",
-    "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+    "content_hash": "197b7959ed9dedd8be74860d5e1fdc60ac105050c59bf51186334e777d36bf37",
     "date": "10 November 2026",
     "fetched_at": "2026-11-10T22:45:57.592375+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "197b7959ed9dedd8be74860d5e1fdc60ac105050c59bf51186334e777d36bf37"
+    "retries": 0,
+    "slug": "adobe-adds-more-ai-to-its-products-and-launches-an-mcp",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
   },
   {
     "content_hash": "62e8c8372861765999709474b032c7294e84efb095d65781abd41b7b8d107e6b",
