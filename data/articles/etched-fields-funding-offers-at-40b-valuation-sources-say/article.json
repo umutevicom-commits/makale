@@ -1,0 +1,43 @@
+{
+  "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+  "slug": "etched-fields-funding-offers-at-40b-valuation-sources-say",
+  "title": "Etched fields funding offers at $40B+ valuation, sources say",
+  "news_id": "etched-fields-funding-offers-at-40b-valuation-sources-say",
+  "date": "05 October 2026",
+  "author": "Marina Temkin",
+  "tags": [],
+  "body_paragraphs": [
+    "Although it’s only been a couple of months since Etched raised $700 million at a $21 billion valuation, the AI chip startup is already being plied with investment offers at double or more its value, according to people familiar with the company.",
+    "Etched is reviewing incoming bids that range from $40 billion from top-tier investors to $50 billion from lesser-known backers, one person said. These fundraising talks are early, so terms of any deal, should one happen, may change. Etched declined to comment.",
+    "While this may seem like a fast timetable to raise another mega round, Etched is pursuing a particularly expensive segment of the AI industry: building full AI hardware systems powered by its own proprietary chips. The person familiar with these offers said that if it raises as much as its last round, this could give Etched a cushion of as much as 3.5 years of runway.",
+    "There are reasons why VCs are hot to own a piece of Etched. The four-year-old startup shows promise of challenging Nvidia. Not only did quant trading firm Jane Street lead the last $700 million round, it is also a customer that took delivery of an early system. Etched said in July that it had already secured $1 billion in customer orders, including the one from Jane Street, after manufacturing its test chip at a TSMC factory this summer.",
+    "Co-founder and COO Robert Wachen previously told TechCrunch that investors are so enthusiastic because Etched has designed two new components from scratch to speed up inference — the computing process that happens after a user submits a prompt.",
+    "The company claims its chips can process more tokens faster and at a lower cost than Nvidia’s. That’s the reason its processors have been so attractive to Jane Street, for whom a microscopic advantage in speed can yield massive profits.",
+    "The startup has also impressed investors with its ability to attract engineers from Nvidia, with roughly 15% of Etched’s 400-person workforce having previously worked at the chip giant, according to The Wall Street Journal.",
+    "Etched also operates a new 10-megawatt data center in Silicon Valley and established a facility in Taiwan to coordinate production near TSMC.",
+    "Co-founders Gavin Uberti and Chris Zhu famously met in an advanced math course at Harvard, while Wachen was Uberti’s roommate and they dropped out to pursue the company.",
+    "In terms of fast rounds at big leaps in valuations, Etched already has a history of them. The startup announced a $300 million round at a $10.3 billion valuation led by Sequoia in July. It announced the $700 million round at a $21 billion valuation in September. Back-to-back funding rounds, which essentially act as a single financing split into two tranches with separate valuations, are increasingly common among the buzziest startups."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/etched-fields-funding-offers-at-40b-valuation-sources-say/Sequoia_Etched-Abhishek-Malani-Robert-Wachen-Sonya-Huang-Gavin-Uberti-copy.jpeg",
+      "alt": "Etched founders with Sequoia partners"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-14T09:01:24.948944+00:00",
+  "title_tr": "Kaynaklar, Etched'in 40 milyar doların üzerinde bir değerlemeyle finansman teklifleri aldığını söylüyor",
+  "body_paragraphs_tr": [
+    "Etched'in 21 milyar dolarlık değerleme üzerinden 700 milyon dolar toplamasının üzerinden henüz birkaç ay geçmiş olmasına rağmen, şirketle ilgili bilgi sahibi olan kişilere göre yapay zekâ çipi girişimi hâlihazırda değerinin iki katı veya daha fazlası tutarında yatırım teklifleriyle karşı karşıya.",
+    "Bir kaynağın ifadesine göre Etched, üst düzey yatırımcılardan gelen 40 milyar dolarlık tekliflerden, daha az bilinen destekçilerden gelen 50 milyar dolarlık tekliflere kadar uzanan teklifleri değerlendiriyor. Bu fon toplama görüşmeleri henüz başlangıç aşamasında olduğundan, bir anlaşma yapılması hâlinde şartlar değişebilir. Etched yorum yapmayı reddetti.",
+    "Başka bir mega turda yatırım toplamak için bu zamanlama hızlı görünse de Etched, yapay zekâ sektörünün özellikle maliyetli bir segmentini hedefliyor: Kendi tescilli çipleriyle çalışan eksiksiz yapay zekâ donanım sistemleri oluşturmak. Bu tekliflere aşina olan kişi, Etched'in son turda topladığı kadar para toplarsa bunun şirkete 3,5 yıla kadar bir finansal tampon sağlayabileceğini söyledi.",
+    "Risk sermayedarlarının Etched'den bir pay sahibi olmak istemelerinin nedenleri var. Dört yıllık bu girişim, Nvidia'ya meydan okuma potansiyeli taşıyor. Kantitatif ticaret şirketi Jane Street, son 700 milyon dolarlık yatırım turuna öncülük etmekle kalmadı, aynı zamanda ilk sistemlerden birini teslim alan bir müşteri oldu. Etched, bu yaz TSMC fabrikasında test çipini ürettikten sonra Jane Street'ten gelen sipariş de dâhil olmak üzere 1 milyar dolar tutarında müşteri siparişi aldığını Temmuz ayında açıklamıştı.",
+    "Kurucu ortak ve COO Robert Wachen daha önce TechCrunch'a verdiği demeçte, yatırımcıların bu kadar hevesli olmasının nedeninin Etched'in çıkarımı hızlandırmak için sıfırdan iki yeni bileşen tasarlaması olduğunu söylemişti. Çıkarım, bir kullanıcının bir istem göndermesinden sonra gerçekleşen bilgi işlem sürecidir.",
+    "Şirket, çiplerinin Nvidia'nınkine göre daha fazla tokeni daha hızlı ve daha düşük maliyetle işleyebildiğini iddia ediyor. İşlemcilerinin Jane Street için bu kadar cazip olmasının nedeni de budur. Jane Street için hızda mikroskobik bir avantaj bile muazzam kârlar sağlayabilir.",
+    "The Wall Street Journal'a göre girişim, Nvidia'dan mühendis çekme kabiliyetiyle de yatırımcıları etkiledi. Etched'in 400 kişilik iş gücünün yaklaşık %15'i daha önce bu çip devi şirkette çalışmış.",
+    "Etched ayrıca Silikon Vadisi'nde yeni bir 10 megavatlık veri merkezini işletmekte ve TSMC yakınında üretimi koordine etmek üzere Tayvan'da bir tesis kurmuştur.",
+    "Kurucu ortaklar Gavin Uberti ve Chris Zhu'nun Harvard'da ileri matematik dersinde tanıştıkları ve Wachen'in Uberti'nin oda arkadaşı olduğu, ardından şirketi kurmak için okulu bıraktıkları iyi bilinir.",
+    "Etched, değerlemelerde büyük sıçramalarla gerçekleşen hızlı yatırım turları konusunda zaten bir geçmişe sahip. Startup, Temmuz ayında Sequoia liderliğinde 10,3 milyar dolarlık değerleme üzerinden 300 milyon dolarlık bir yatırım turu gerçekleştirdiğini duyurmuştu. Eylül ayında ise 21 milyar dolarlık değerleme üzerinden 700 milyon dolarlık turu duyurdu. Esasen tek bir finansmanın ayrı ayrı değerlemelere sahip iki dilime bölünmesi şeklinde işleyen art arda finansman turları, en çok konuşulan girişimler arasında giderek daha yaygın hâle gelmektedir."
+  ],
+  "tags_tr": []
+}

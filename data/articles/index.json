@@ -1,13 +1,73 @@
 [
   {
-    "slug": "ai-agent-startup-langchain-hits-3b-valuation",
-    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-    "date": "13 November 2026",
-    "fetched_at": "2026-11-14T00:37:41.651779+00:00",
+    "slug": "european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right",
+    "url": "https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/",
+    "date": "10 September 2026",
+    "fetched_at": "2026-11-14T09:02:02.140665+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "e27c13a7de4f8326c38070f2924158a2473facf11bed4f68b33060da4f959d0c"
+    "content_hash": "b5fe444fa4bd96adef9f3328420ac33a7c7e305d0f8eeba0e310b09b6b58ce9b"
+  },
+  {
+    "slug": "etched-fields-funding-offers-at-40b-valuation-sources-say",
+    "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+    "date": "05 October 2026",
+    "fetched_at": "2026-11-14T09:01:24.948944+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "5577c10508368492390d2e182a5d66b9d2a0459f4c255bd31df4318323e534cf"
+  },
+  {
+    "slug": "eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei",
+    "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+    "date": "20 October 2026",
+    "fetched_at": "2026-11-14T09:01:03.896938+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "8bfa2484a38f4e2a556aa7b0b713298f6a49059085cb35afb0c4f812ace4b162"
+  },
+  {
+    "slug": "enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials",
+    "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+    "date": "23 September 2026",
+    "fetched_at": "2026-11-14T09:00:48.234389+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "a25979887ac281b2aae5e96d809f10ae64ded05d3be5d32aeff6c922cab5912f"
+  },
+  {
+    "slug": "emmys-will-move-from-broadcast-tv-to-prime-video-in-2027",
+    "url": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/",
+    "date": "06 October 2026",
+    "fetched_at": "2026-11-14T09:00:32.854710+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "84b45cf323a6e9f9d802978f315d7000a572bd52b8ecc7a220f08f35579872e2"
+  },
+  {
+    "slug": "embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better",
+    "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+    "date": "17 October 2026",
+    "fetched_at": "2026-11-14T08:59:57.559404+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "3fe962df7ae7a368c275b83e867a62a761c307a8c56c59cbb86e3cd18b9e7e3f"
+  },
+  {
+    "content_hash": "e27c13a7de4f8326c38070f2924158a2473facf11bed4f68b33060da4f959d0c",
+    "date": "13 November 2026",
+    "fetched_at": "2026-11-14T00:37:41.651779+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "ai-agent-startup-langchain-hits-3b-valuation",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
   },
   {
     "content_hash": "b722ed01772a38f3acd627629cf61794149c7a8c6f5f2947c5c6ffe1cacf6420",
