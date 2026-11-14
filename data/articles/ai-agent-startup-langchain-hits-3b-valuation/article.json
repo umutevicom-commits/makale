@@ -1,0 +1,33 @@
+{
+  "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+  "slug": "ai-agent-startup-langchain-hits-3b-valuation",
+  "title": "AI agent startup LangChain hits $3B valuation",
+  "news_id": "ai-agent-startup-langchain-hits-3b-valuation",
+  "date": "13 November 2026",
+  "author": "Julie Bort",
+  "tags": [],
+  "body_paragraphs": [
+    "Agent management startup LangChain has raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from investors, including Singapore’s GIC, DFJ Growth, IVP, and Sapphire Ventures, the company announced on Friday.",
+    "That’s more than double its $1.25 billion valuation when it raised $125 million about a year ago, led by IVP.",
+    "LangChain began in 2022 as a popular open source project that handled the kinds of tasks that early-stage LLMs found difficult, like searching the web, calling APIs, and interacting with databases. As the frontier AI labs delivered harnesses that now competently do those tasks, LangChain turned its focus toward managing AI agents. It has apparently found its stride in this highly competitive area with a simple message: letting businesses own their own intelligence.",
+    "With its open source roots, the startup says its agent creation and management software, LangSmith, is not trying to lock users into any particular model, cloud, or ecosystem, unlike the major clouds or frontier AI labs. It also promises that LangSmith will contain agent behavior and is easy to use.",
+    "True, there are plenty of other startups pitching similar advantages these days and also doing well ( case in point is newcomer Mintive ). However, LangChain has had a head start and now claims 7,000 LangSmith customers, including big-name startups like Harvey, Rippling, and Clay, and enterprises like Nvidia, Toyota, and Salesforce."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/ai-agent-startup-langchain-hits-3b-valuation/Raising-money.jpg",
+      "alt": ""
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-14T00:37:41.651779+00:00",
+  "title_tr": "Yapay zekâ aracı girişimi LangChain 3 milyar $ değerlemeye ulaştı",
+  "body_paragraphs_tr": [
+    "Ajan yönetimi alanında faaliyet gösteren girişim LangChain, Cuma günü yaptığı açıklamada, CapitalG liderliğindeki ve Singapur merkezli GIC, DFJ Growth, IVP ve Sapphire Ventures gibi yatırımcıların katılımıyla gerçekleşen 300 milyon dolarlık C Serisi yatırım turunda 3 milyar dolarlık değerlemeye ulaştığını duyurdu.",
+    "Bu rakam, yaklaşık bir yıl önce IVP liderliğinde 125 milyon dolar topladığında elde ettiği 1,25 milyar dolarlık değerlemenin iki katından fazla.",
+    "LangChain, 2022 yılında, web'de arama yapma, API'leri çağırma ve veritabanlarıyla etkileşime girme gibi erken aşama LLM'lerin zorlandığı türden görevleri yerine getiren popüler bir açık kaynak projesi olarak başladı. Öncü yapay zekâ laboratuvarları bu görevleri artık ustalıkla yerine getiren araçlar sundukça LangChain de odağını yapay zekâ ajanlarını yönetmeye çevirdi. Görünüşe göre bu son derece rekabetçi alanda basit bir mesajla kendi yolunu bulmuş: İşletmelerin kendi bilgilerine sahip olmalarına izin vermek.",
+    "Açık kaynaklı köklerine sahip olan girişim, aracı oluşturma ve yönetme yazılımı LangSmith'in, büyük bulut hizmetlerinin veya öncü yapay zekâ laboratuvarlarının aksine, kullanıcıları belirli bir modele, buluta veya ekosisteme hapsetmeye çalışmadığını söylüyor. Ayrıca LangSmith'in ajan davranışlarını içereceğini ve kullanımı kolay olacağını da vaat ediyor.",
+    "Doğru, günümüzde benzer avantajları sunan ve aynı zamanda başarılı olan birçok başka girişim de var (bunun en iyi örneği yeni girişim Mintive'dir). Bununla birlikte LangChain, rakiplerine göre bir adım önde başladı ve şu anda Harvey, Rippling ve Clay gibi tanınmış girişimlerin yanı sıra Nvidia, Toyota ve Salesforce gibi şirketler de dâhil olmak üzere 7.000 LangSmith müşterisine sahip olduğunu iddia ediyor."
+  ],
+  "tags_tr": []
+}
