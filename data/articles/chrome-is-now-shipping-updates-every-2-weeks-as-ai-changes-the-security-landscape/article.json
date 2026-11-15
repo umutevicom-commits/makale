@@ -1,0 +1,41 @@
+{
+  "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+  "slug": "chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
+  "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+  "news_id": "chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
+  "date": "08 September 2026",
+  "author": "Sarah Perez",
+  "tags": [],
+  "body_paragraphs": [
+    "Chrome has officially switched from a four- to a two-week release schedule, as Google promised earlier this year, with Tuesday’s launch of Chrome 153 on desktop, iOS, and Android.",
+    "The shift to faster releases is tied to Chrome’s evolving security strategy in the AI era, the company explained. As automated AI tools and community bug reports have pushed up the volume of patches and updates, Google says that a shorter release cycle makes it easier to manage security fixes.",
+    "This is also critical because faster-moving threats, some of which can also be attributed to AI, can be better addressed by shrinking the window between landing a fix in the public codebase and getting that fix to end users, the company notes.",
+    "A shorter release schedule would help keep the “N-day” patch gap — the gap between when a security vulnerability is known and when it gets patched — as small as possible.",
+    "Faster releases have another benefit, too: They can help Chrome ship features faster. This is also key in the AI era, as AI-assisted software development has enabled a host of new browser competitors to emerge.",
+    "While OpenAI’s web browser, ChatGPT Atlas, has been shut down, there are still plenty of other alternative browsers looking to carve out a piece of Chrome’s market for themselves, including Brave, Dia, Opera Neon, Perplexity’s Comet, DuckDuckGo’s browser, and more.",
+    "Plus, Google is experimenting with adding more AI features to Chrome and then rapidly iterating on those additions, which also demands faster updates.",
+    "The move to a two-week release schedule benefits the broader web as well. Because of Chrome’s position as the most-used browser globally, such changes can help set the standard for the industry. Mozilla, Microsoft, and Brave have already begun adopting a faster two-week schedule, following Chrome’s lead.",
+    "This is not the first time Chrome has adjusted its release schedule to enable faster patch management. The company first moved to a four-week release cycle in 2021, down from six weeks, after establishing its principles of “ release early, release often ” over a decade prior."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/google-chrome-GettyImages-2151457378.jpg",
+      "alt": "The Google Chrome application app can be seen on the display of a smartphone."
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-15T09:01:37.751700+00:00",
+  "title_tr": "Yapay zekâ güvenlik ortamını değiştirdikçe Chrome artık her 2 haftada bir güncelleme yayınlıyor",
+  "body_paragraphs_tr": [
+    "Google'ın bu yılın başlarında vaat ettiği gibi, Chrome resmî olarak dört haftalık sürüm programından iki haftalık sürüm programına geçti ve Salı günü Chrome 153'ün masaüstü, iOS ve Android sürümleri piyasaya sürüldü.",
+    "Şirket, daha hızlı sürümlere geçişin Chrome'un yapay zekâ çağındaki gelişen güvenlik stratejisiyle bağlantılı olduğunu açıkladı. Otomatik yapay zekâ araçları ve topluluktan gelen hata raporları yama ve güncelleme sayısını artırdığından Google, daha kısa bir sürüm döngüsünün güvenlik düzeltmelerini yönetmeyi kolaylaştırdığını söylüyor.",
+    "Şirket, bunlardan bazılarının da yapay zekâya atfedilebileceği daha hızlı hareket eden tehditlerin, genel kod tabanına bir düzeltme uygulanması ile bu düzeltmenin son kullanıcılara ulaştırılması arasındaki sürenin kısaltılması yoluyla daha iyi ele alınabileceğini de belirtiyor.",
+    "Daha kısa bir sürüm planı, bir güvenlik açığının bilindiği tarih ile bu açığın kapatıldığı tarih arasındaki \"N. gün\" yama boşluğunu mümkün olduğunca küçük tutmaya yardımcı olacaktır.",
+    "Daha hızlı sürümlerin başka bir avantajı daha vardır: Chrome'un özellikleri daha hızlı sunmasına yardımcı olabilirler. Bu, yapay zekâ çağında da kilit öneme sahiptir çünkü yapay zekâ destekli yazılım geliştirme, çok sayıda yeni tarayıcı rakibinin ortaya çıkmasını sağlamıştır.",
+    "OpenAI'nin web tarayıcısı ChatGPT Atlas kapatılmış olsa da Chrome'un pazarından kendilerine pay kapmak isteyen Brave, Dia, Opera Neon, Perplexity'nin Comet'i, DuckDuckGo'nun tarayıcısı ve daha fazlası dâhil olmak üzere hâlâ birçok alternatif tarayıcı bulunmaktadır.",
+    "Ayrıca Google, Chrome'a daha fazla yapay zekâ özelliği eklemeyi deniyor ve ardından bu eklemeleri hızla tekrarlıyor; bu da daha hızlı güncellemeler gerektiriyor.",
+    "İki haftalık sürüm planına geçilmesi, daha geniş çapta internetin tamamına da fayda sağlamaktadır. Chrome'un dünya çapında en çok kullanılan tarayıcı konumunda olması nedeniyle bu tür değişiklikler, sektörde standartların belirlenmesine yardımcı olabilir. Mozilla, Microsoft ve Brave, Chrome'un öncülüğünde daha hızlı bir iki haftalık programı uygulamaya başlamışlardır.",
+    "Chrome, yama yönetimini hızlandırmak için sürüm planını ilk kez değiştirmiyor. Şirket, on yıldan uzun bir süre önce \"erken yayınla, sık yayınla\" ilkelerini belirledikten sonra, 2021 yılında altı haftadan dört haftalık bir yayın döngüsüne geçmiştir."
+  ],
+  "tags_tr": []
+}

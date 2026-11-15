@@ -1,0 +1,43 @@
+{
+  "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+  "slug": "chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+  "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+  "news_id": "chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+  "date": "13 November 2026",
+  "author": "Sarah Perez",
+  "tags": [],
+  "body_paragraphs": [
+    "ChatGPT can now shop for you. On Friday, OpenAI launched a new wallet feature that lets its agents, called dots, help you decide what to buy and then complete the purchase on your behalf. The option will initially be available to a limited number of U.S. ChatGPT Pro subscribers, ages 18 and up, with a U.S.-issued Visa, Mastercard, or American Express.",
+    "OpenAI says that users are fully in control of the purchases, as they’re able to review the items, the total, and the payment card that will be used to complete the transaction before the checkout occurs. In addition, users will approve the purchases directly with a security check like Face ID or a fingerprint, which creates a record of their transaction.",
+    "The addition comes as consumer-facing AI tools are working to find the right product-market fit, in terms of how they can help people be more efficient as they complete various tasks. While companies like DoorDash and Uber have so far reported low numbers of orders placed by AI agents, Meta’s Muse, which now has over 10 million users, has seen AI-assisted shopping become a top activity on its app.",
+    "Other personal AI agents, like Instinct, also support making purchases on users’ behalf.",
+    "It’s no surprise, then, that OpenAI would want to enter this space more with an agentic shopping feature of its own.",
+    "To get started, ChatGPT subscribers add their eligible payment cards to the new ChatGPT Wallet, then ask their dot to help with a purchase. (This setup is a one-time thing; users don’t have to re-enter their payment information every time they buy.) When it’s time to transact, ChatGPT’s Wallet charges the selected card using a payment token, which is a substitute for the user’s actual card details, so that information isn’t shared with either the dot or the merchant.",
+    "The merchant will automatically receive what it needs to fulfill the order from the dot, like the shipping address and contact information, OpenAI says. The company notes that customers who shop via their dots will still be able to earn their credit card rewards and be able to take advantage of protections that typically come with cards, like being able to dispute transactions.",
+    "The limited availability at launch will allow OpenAI to test and improve the feature and its capabilities before rolling it out more broadly. In the future, the company plans to offer users more control over the feature by allowing them to set spending limits or configure other parameters around purchase categories or time periods, so they can pre-approve purchases that their agent can then handle more autonomously.",
+    "It also aims to make the agentic shopping feature an option at a broader number of supported retailers. This could be a challenge in some areas, where retailers are blocking AI agents from using their site; on the shopping front, the largest retailer to ban AI agents is Amazon, as it aims to steer users to its own AI agent, Alexa, instead.",
+    "To help retailers adapt to agentic commerce, OpenAI also published a Commerce Partner Playbook that offers tools and guidance to sites that want to support customers using agents."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/chatgpt-wallet.jpg",
+      "alt": "ChatGPT Wallet"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-15T09:00:06.327114+00:00",
+  "title_tr": "ChatGPT'nin yeni Cüzdanı, yapay zekâ temsilcilerinin sizin adınıza alışveriş yapmasını ve ödeme yapmasını sağlıyor",
+  "body_paragraphs_tr": [
+    "ChatGPT artık sizin için alışveriş yapabilir. OpenAI, Cuma günü \"dots\" adı verilen temsilcilerinin ne satın alacağınıza karar vermenize yardımcı olmasına ve ardından sizin adınıza satın alma işlemini tamamlamasına olanak tanıyan yeni bir cüzdan özelliğini kullanıma sundu. Bu seçenek başlangıçta, ABD'de ikamet eden, 18 yaş ve üzerindeki, ABD'de verilmiş bir Visa, Mastercard veya American Express kartı bulunan sınırlı sayıda ChatGPT Pro abonesi için sunulacak.",
+    "OpenAI, kullanıcıların satın alma işlemleri üzerinde tam kontrole sahip olduğunu, çünkü ödeme yapmadan önce ürünleri, toplam tutarı ve işlemi tamamlamak için kullanılacak ödeme kartını gözden geçirebildiklerini söylüyor. Ayrıca kullanıcılar, satın alma işlemlerini Face ID veya parmak izi gibi bir güvenlik kontrolü ile doğrudan onaylayacak ve bu da işlemlerinin kaydını oluşturacaktır.",
+    "Bu ekleme, tüketicilere yönelik yapay zekâ araçlarının, insanların çeşitli görevleri tamamlarken daha verimli olmalarına nasıl yardımcı olabilecekleri açısından doğru ürün-pazar uyumunu bulmaya çalıştığı bir dönemde geliyor. DoorDash ve Uber gibi şirketler şimdiye kadar yapay zekâ ajanları tarafından verilen siparişlerin sayısının düşük olduğunu bildirirken, şu anda 10 milyondan fazla kullanıcısı bulunan Meta'nın Muse uygulaması, yapay zekâ destekli alışverişin uygulamasındaki en önemli faaliyetlerden biri hâline geldiğini görmüştür.",
+    "Instinct gibi diğer kişisel yapay zekâ aracıları da kullanıcılar adına alışveriş yapmayı desteklemektedir.",
+    "Bu nedenle OpenAI'ın kendi etken alışveriş özelliğiyle bu alana daha fazla girmek istemesi şaşırtıcı değil.",
+    "Başlamak için ChatGPT aboneleri, uygun ödeme kartlarını yeni ChatGPT Cüzdanına ekler ve ardından bir satın alma işleminde yardımcı olması için dot'a başvurur. (Bu işlem yalnızca bir kez yapılır; kullanıcıların her alışverişte ödeme bilgilerini yeniden girmeleri gerekmez.) İşlem yapma zamanı geldiğinde ChatGPT Cüzdanı, kullanıcının gerçek kart bilgilerinin yerine geçen bir ödeme token'ı kullanarak seçilen karttan tahsilat yapar, böylece bu bilgiler ne dot ne de satıcı ile paylaşılmaz.",
+    "OpenAI, satıcının siparişi yerine getirmek için gereken bilgileri, örneğin teslimat adresini ve iletişim bilgilerini, dot'tan otomatik olarak alacağını söylüyor. Şirket, dot'ları aracılığıyla alışveriş yapan müşterilerin yine de kredi kartı ödüllerini kazanabileceklerini ve genellikle kartlarla birlikte gelen, işlemlere itiraz edebilmek gibi korumalardan yararlanabileceklerini belirtiyor.",
+    "Lansman sırasında sınırlı erişim sunulması, OpenAI'ın özelliği ve yeteneklerini daha geniş çapta kullanıma sunmadan önce test etmesine ve iyileştirmesine olanak tanıyacaktır. Şirket, gelecekte kullanıcılara harcama limitleri belirleme veya satın alma kategorileri ya da zaman dilimleriyle ilgili diğer parametreleri yapılandırma imkânı sunarak bu özellik üzerinde daha fazla kontrol sahibi olmalarını sağlamayı planlıyor. Böylece kullanıcılar, temsilcilerinin daha özerk bir şekilde halledebileceği satın alma işlemlerini önceden onaylayabilecekler.",
+    "Ayrıca, aracı alışveriş özelliğini daha fazla sayıda desteklenen perakendecide bir seçenek hâline getirmeyi de amaçlamaktadır. Bu, perakendecilerin yapay zekâ ajanlarının sitelerini kullanmasını engellediği bazı bölgelerde zorluk teşkil edebilir. Alışveriş alanında yapay zekâ ajanlarını yasaklayan en büyük perakendeci Amazon'dur çünkü Amazon, kullanıcıları bunun yerine kendi yapay zekâ ajanı Alexa'ya yönlendirmeyi amaçlamaktadır.",
+    "Perakendecilerin agentic commerce'a uyum sağlamasına yardımcı olmak için OpenAI, müşterileri temsilciler aracılığıyla desteklemek isteyen sitelere araçlar ve rehberlik sunan bir Ticari Ortak Kılavuzu da yayımladı."
+  ],
+  "tags_tr": []
+}

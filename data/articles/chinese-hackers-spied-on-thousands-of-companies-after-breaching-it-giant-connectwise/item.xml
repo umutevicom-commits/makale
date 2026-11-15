@@ -1,0 +1,18 @@
+    <item>
+      <title>Çinli hacker'lar, BT devi ConnectWise'ın sistemine izinsiz girerek binlerce şirketi gözetledi</title>
+      <link>https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <author>Zack Whittaker</author>
+      <description>Siber güvenlik açısından kötü geçen hafta, BT yönetimi ve uzaktan erişim devi ConnectWise'ın siber saldırıya uğramasının ardından Çinli bilgisayar korsanları tarafından casusluk yapılan binlerce şirket için daha da kötüleşti.</description>
+      <media:content url="https://umutevicom-commits.github.io/makale/data/images/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/GettyImages-591881449.jpg" medium="image" type="image/jpeg" />
+      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/GettyImages-591881449.jpg" />
+      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/GettyImages-591881449.jpg" type="image/jpeg" length="0" />
+      <content:encoded><![CDATA[<p>Siber güvenlik açısından kötü geçen hafta, BT yönetimi ve uzaktan erişim devi ConnectWise'ın siber saldırıya uğramasının ardından Çinli bilgisayar korsanları tarafından casusluk yapılan binlerce şirket için daha da kötüleşti.</p>
+<p>Microsoft'taki güvenlik araştırmacıları, Çin devletiyle bağlantılı hacker'ların ConnectWise'ın bulut yedekleme hizmetine sızdığını ve ConnectWise ile şirket verilerini yedeklemek için bulut hizmetine güvenen kurumsal müşterileri arasında veri bağlantıları kurmak amacıyla kullanılan uygulama kimlik bilgilerini çaldığını söylüyor.</p>
+<p>Bilgisayar korsanları, kimlik bilgilerini çalarak yetkili bir kullanıcıymış gibi müşterinin Microsoft tarafından barındırılan ortamında oturum açabilir ve e-postalarına ve diğer dosyalarına erişebilirler.</p>
+<p>Microsoft'a göre hacker'lar, dakikada yaklaşık 3.000 oturum açma girişimiyle yaklaşık 2.250 kuruluşa hızla sızmak için yapay zekâ ajanlarını kullandı. Microsoft, bu hızın savunuculara &quot;tespit etmek ve müdahale etmek için çok az zaman tanıdığını&quot; söyledi.</p>
+<p>Toplu saldırıların hızının, yapay zekâ ajanlarının, özellikle de siber savunmaları stres testine tabi tutmak için yapay zekâ modelleriyle çalışan açık kaynaklı bir yapay zekâ çerçevesi olan ARTEX'in kullanılmasından kaynaklandığı belirtildi. Aynı yapay zekâ yazılımı, birçoğunun güvenliği zayıf olan ve çok faktörlü kimlik doğrulamadan yoksun olduğu Güney Kore'nin finans sistemlerine yönelik yakın tarihli bir saldırıda da kullanılmıştır.</p>
+<p>ConnectWise, bulut yedekleme sistemine erişimi duraklattığını ve ihlali araştırdığını açıkladı. Şirket Perşembe günü itibarıyla hizmeti eski haline getirmek için çalıştığını açıkladı.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/GettyImages-591881449.jpg" alt="Cybercriminal, hacker China flag background." loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>

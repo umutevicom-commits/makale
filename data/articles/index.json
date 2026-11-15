@@ -1,5 +1,65 @@
 [
   {
+    "slug": "cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars",
+    "url": "https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/",
+    "date": "07 October 2026",
+    "fetched_at": "2026-11-15T09:02:21.911671+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "00064b6dafca65730a15b531c449a0dfe6ef8ac9bb2e427adfafd2785b725bfa"
+  },
+  {
+    "slug": "chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms",
+    "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+    "date": "28 October 2026",
+    "fetched_at": "2026-11-15T09:02:04.160688+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "7e4aff2e76787cb98784d2fd2afb69bf9ab4498113dd77d4733153b789f40904"
+  },
+  {
+    "slug": "chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
+    "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+    "date": "08 September 2026",
+    "fetched_at": "2026-11-15T09:01:37.751700+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "b0b054a961844a40f93dc1632dc30af07b981a0a8815a3ddff23087a28d97d4c"
+  },
+  {
+    "slug": "chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise",
+    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+    "date": "22 October 2026",
+    "fetched_at": "2026-11-15T09:01:16.034228+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "908b5883baf9e5fd0046f917802a5ecb2606f7dadcde5034bd01c641fd9eef8d"
+  },
+  {
+    "slug": "chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta",
+    "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+    "date": "08 October 2026",
+    "fetched_at": "2026-11-15T09:00:43.590751+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "ca060799864820166f47ef8aa4367d594a0c7ed5ffbdb6a32fc0bbb07913a1d2"
+  },
+  {
+    "slug": "chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+    "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "date": "13 November 2026",
+    "fetched_at": "2026-11-15T09:00:06.327114+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "facc1363301d6b57266c0a70a33a854f273f5cb2d3f535151338cce2b6a31e4a"
+  },
+  {
     "content_hash": "b5fe444fa4bd96adef9f3328420ac33a7c7e305d0f8eeba0e310b09b6b58ce9b",
     "date": "10 September 2026",
     "fetched_at": "2026-11-14T09:02:02.140665+00:00",

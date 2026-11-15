@@ -1,0 +1,35 @@
+{
+  "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+  "slug": "chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise",
+  "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+  "news_id": "chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise",
+  "date": "22 October 2026",
+  "author": "Zack Whittaker",
+  "tags": [],
+  "body_paragraphs": [
+    "The bad week for cybersecurity just got worse for thousands more companies, who were spied on by Chinese hackers following the breach of IT management and remote access giant ConnectWise.",
+    "Security researchers at Microsoft say the China state-aligned hackers broke into ConnectWise’s cloud backup service and stole application credentials that are used to establish data links between ConnectWise and its corporate customers, who rely on the cloud service to back up their company’s data.",
+    "By stealing the credentials, the hackers could log in to the customer’s Microsoft-hosted environment as if they were an authorized user and access their emails and other files.",
+    "According to Microsoft, the hackers used AI agents to rapidly hack into around 2,250 organizations at a rate of almost 3,000 attempted sign-ins per minute. Microsoft said this speed gives defenders “little time to detect and respond.”",
+    "The speed of the mass-hacks was attributed to the use of AI agents, specifically ARTEX, an open source AI framework that works with AI models to stress-test cyber defenses. The same AI software was used in a recent compromise of South Korea’s financial systems, many of which had weak security and lacked multi-factor authentication.",
+    "ConnectWise said it’s paused access to its cloud backup system and is investigating the breach. As of Thursday, the company said it was working on restoring the service."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/GettyImages-591881449.jpg",
+      "alt": "Cybercriminal, hacker China flag background."
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-15T09:01:16.034228+00:00",
+  "title_tr": "Çinli hacker'lar, BT devi ConnectWise'ın sistemine izinsiz girerek binlerce şirketi gözetledi",
+  "body_paragraphs_tr": [
+    "Siber güvenlik açısından kötü geçen hafta, BT yönetimi ve uzaktan erişim devi ConnectWise'ın siber saldırıya uğramasının ardından Çinli bilgisayar korsanları tarafından casusluk yapılan binlerce şirket için daha da kötüleşti.",
+    "Microsoft'taki güvenlik araştırmacıları, Çin devletiyle bağlantılı hacker'ların ConnectWise'ın bulut yedekleme hizmetine sızdığını ve ConnectWise ile şirket verilerini yedeklemek için bulut hizmetine güvenen kurumsal müşterileri arasında veri bağlantıları kurmak amacıyla kullanılan uygulama kimlik bilgilerini çaldığını söylüyor.",
+    "Bilgisayar korsanları, kimlik bilgilerini çalarak yetkili bir kullanıcıymış gibi müşterinin Microsoft tarafından barındırılan ortamında oturum açabilir ve e-postalarına ve diğer dosyalarına erişebilirler.",
+    "Microsoft'a göre hacker'lar, dakikada yaklaşık 3.000 oturum açma girişimiyle yaklaşık 2.250 kuruluşa hızla sızmak için yapay zekâ ajanlarını kullandı. Microsoft, bu hızın savunuculara \"tespit etmek ve müdahale etmek için çok az zaman tanıdığını\" söyledi.",
+    "Toplu saldırıların hızının, yapay zekâ ajanlarının, özellikle de siber savunmaları stres testine tabi tutmak için yapay zekâ modelleriyle çalışan açık kaynaklı bir yapay zekâ çerçevesi olan ARTEX'in kullanılmasından kaynaklandığı belirtildi. Aynı yapay zekâ yazılımı, birçoğunun güvenliği zayıf olan ve çok faktörlü kimlik doğrulamadan yoksun olduğu Güney Kore'nin finans sistemlerine yönelik yakın tarihli bir saldırıda da kullanılmıştır.",
+    "ConnectWise, bulut yedekleme sistemine erişimi duraklattığını ve ihlali araştırdığını açıkladı. Şirket Perşembe günü itibarıyla hizmeti eski haline getirmek için çalıştığını açıkladı."
+  ],
+  "tags_tr": []
+}
