@@ -1,43 +1,43 @@
 [
   {
-    "slug": "revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank",
-    "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+    "content_hash": "759cd1e0fc581e0159f5c77cfd207a573a3af261045c40b550daf4dc9df6de06",
     "date": "04 November 2026",
     "fetched_at": "2026-11-17T09:03:23.099161+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "759cd1e0fc581e0159f5c77cfd207a573a3af261045c40b550daf4dc9df6de06"
+    "retries": 0,
+    "slug": "revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/"
   },
   {
-    "slug": "revolut-confirms-customer-data-breach-through-fake-government-requests",
-    "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+    "content_hash": "6b5ff720aa89d13a953a5aa45f048637b6f25c521aa2279c1a89ad9c58609153",
     "date": "12 September 2026",
     "fetched_at": "2026-11-17T09:02:45.810481+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "6b5ff720aa89d13a953a5aa45f048637b6f25c521aa2279c1a89ad9c58609153"
+    "retries": 0,
+    "slug": "revolut-confirms-customer-data-breach-through-fake-government-requests",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/"
   },
   {
-    "slug": "restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents",
-    "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+    "content_hash": "4c2c4d45700dd992ca4da744d579617a2be3f53de8d0173905bec7dddfc3e554",
     "date": "30 September 2026",
     "fetched_at": "2026-11-17T09:01:34.108891+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "4c2c4d45700dd992ca4da744d579617a2be3f53de8d0173905bec7dddfc3e554"
+    "retries": 0,
+    "slug": "restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/"
   },
   {
-    "slug": "researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist",
-    "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
+    "content_hash": "dc9db748fb48e45506333c2fd2f14735af128eb82366ea884f0fbcad882e59e5",
     "date": "03 November 2026",
     "fetched_at": "2026-11-17T09:00:06.578820+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "dc9db748fb48e45506333c2fd2f14735af128eb82366ea884f0fbcad882e59e5"
+    "retries": 0,
+    "slug": "researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/"
   },
   {
     "content_hash": "ff48c368d1b3daa64d779f145eeaf17f283c4c7ca4aa4363529a893a834f4b27",
