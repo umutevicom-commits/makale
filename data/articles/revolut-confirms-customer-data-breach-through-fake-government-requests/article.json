@@ -1,0 +1,39 @@
+{
+  "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+  "slug": "revolut-confirms-customer-data-breach-through-fake-government-requests",
+  "title": "Revolut confirms customer data breach through fake government requests",
+  "news_id": "revolut-confirms-customer-data-breach-through-fake-government-requests",
+  "date": "12 September 2026",
+  "author": "Jagmeet Singh",
+  "tags": [],
+  "body_paragraphs": [
+    "British fintech Revolut confirmed that it disclosed sensitive customer information to an unauthorized third party after receiving fraudulent requests sent from a legitimate government agency email domain.",
+    "The exposed data included customers’ identity and contact details, including their birth date, postal and email addresses, and phone numbers, as well as copies of their identity documents including passports and driver’s licenses, according to a notification emailed to affected customers and reviewed by TechCrunch. The data may have also included verification selfies, account statements, and transaction histories, the firm said in its notification.",
+    "A Revolut spokesperson confirmed to TechCrunch that a “limited” number of customers were impacted and said the company had contacted those customers directly. Revolut, however, did not disclose the exact number of impacted individuals. It also did not answer whether the incident was limited to a specific market and declined to disclose the government agency involved.",
+    "“Revolut recently identified a sophisticated external impersonation scam where an unauthorised third party utilised a legitimate government agency domain email to submit fraudulent requests for information,” the spokesperson said.",
+    "Revolut told TechCrunch that it blocked the email address after discovering the scam from the unauthorized third party and alerted the relevant government agency, law enforcement, and relevant regulators, adding, “Revolut systems and customer funds are unaffected.”",
+    "London-based Revolut has more than 80 million customers globally and operates as a bank in more than 30 countries, per its website. The fintech recently expanded its presence in markets including India, Mexico, France, and the UAE. Moreover, earlier this month, the U.S. Office of the Comptroller of the Currency granted a conditional approval to Revolut to set up a national bank in the country, which the firm expects to launch in the first half of 2027.",
+    "Well-known crypto security researcher ZachXBT posted about Revolut’s email to its affected customers late on Friday. The researcher said the incident appeared to have been targeted at high-net-worth users.",
+    "The incident comes as Revolut reportedly weighs a potential public listing that could value it at as much as $200 billion, up from its $75 billion private valuation in November. The fintech has also been expanding its banking footprint in Europe and globally, securing banking licenses in France and the U.K. in recent months."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/revolut-confirms-customer-data-breach-through-fake-government-requests/revolut.png",
+      "alt": "Revolut building"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-17T09:02:45.810481+00:00",
+  "title_tr": "Revolut, sahte resmî talepler yoluyla müşteri verilerinin ihlal edildiğini doğruladı",
+  "body_paragraphs_tr": [
+    "İngiliz fintech şirketi Revolut, meşru bir devlet kurumunun e-posta alan adından gönderilen sahte talepleri aldıktan sonra hassas müşteri bilgilerini yetkisiz bir üçüncü tarafa ifşa ettiğini doğruladı.",
+    "Etkilenen müşterilere e-posta yoluyla gönderilen ve TechCrunch tarafından incelenen bir bildirime göre, ifşa edilen veriler arasında müşterilerin doğum tarihleri, posta ve e-posta adresleri ve telefon numaraları dâhil olmak üzere kimlik ve iletişim bilgileri ile pasaportlar ve sürücü belgeleri dâhil olmak üzere kimlik belgelerinin kopyaları yer alıyordu. Firma bildiriminde, verilerin doğrulama amaçlı selfie'leri, hesap özetlerini ve işlem geçmişlerini de içerebileceğini belirtti.",
+    "Bir Revolut sözcüsü TechCrunch'a yaptığı açıklamada \"sınırlı\" sayıda müşterinin etkilendiğini doğruladı ve şirketin bu müşterilerle doğrudan iletişime geçtiğini söyledi. Ancak Revolut, etkilenen kişilerin tam sayısını açıklamadı. Ayrıca olayın belirli bir pazarla sınırlı olup olmadığına dair bir yanıt vermedi ve ilgili devlet kurumunun adını açıklamadı.",
+    "Sözcü, \"Revolut kısa süre önce yetkisiz bir üçüncü tarafın, dolandırıcılık amaçlı bilgi taleplerinde bulunmak için meşru bir devlet kurumu alan adına ait e-postayı kullandığı karmaşık bir haricî kimlik hırsızlığı dolandırıcılığını tespit etti\" dedi.",
+    "Revolut, TechCrunch'a yaptığı açıklamada yetkisiz üçüncü tarafın dolandırıcılığını tespit ettikten sonra e-posta adresini engellediğini ve ilgili devlet kurumunu, kolluk kuvvetlerini ve ilgili düzenleyici kurumları uyardığını belirterek \"Revolut sistemlerinin ve müşteri fonlarının etkilenmediğini\" ekledi.",
+    "Londra merkezli Revolut, web sitesine göre dünya çapında 80 milyondan fazla müşteriye sahiptir ve 30'dan fazla ülkede banka olarak faaliyet göstermektedir. Fintech şirketi kısa süre önce Hindistan, Meksika, Fransa ve BAE gibi pazarlardaki varlığını genişletti. Dahası, bu ayın başlarında ABD Para Denetleme Kurumu (OCC), Revolut'a ülkede bir ulusal banka kurması için koşullu onay verdi. Firma, bu bankayı 2027'nin ilk yarısında faaliyete geçirmeyi planlıyor.",
+    "Tanınmış kripto güvenliği araştırmacısı ZachXBT, Cuma günü geç saatlerde Revolut'un mağdur müşterilerine gönderdiği e-postayı yayımladı. Araştırmacı, olayın yüksek net değere sahip kullanıcıları hedef almış gibi göründüğünü söyledi.",
+    "Bu olay, Revolut'un Kasım ayında 75 milyar dolar olan özel değerlemesinin ardından, şirketi 200 milyar dolara kadar ulaşabilecek bir değere sahip olabileceği potansiyel bir halka arzı değerlendirdiği sırada yaşanıyor. Fintech şirketi ayrıca Avrupa'da ve dünya genelinde bankacılık faaliyetlerini genişleterek son aylarda Fransa ve İngiltere'de bankacılık lisansları almıştır."
+  ],
+  "tags_tr": []
+}

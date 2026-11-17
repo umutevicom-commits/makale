@@ -1,0 +1,55 @@
+{
+  "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
+  "slug": "researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist",
+  "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
+  "news_id": "researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist",
+  "date": "03 November 2026",
+  "author": "Zack Whittaker",
+  "tags": [],
+  "body_paragraphs": [
+    "Crypto giant Binance says North Korean hackers used fake social media profiles and the lure of a potential job offer as part of a months-long scheme aimed at tricking an employee into downloading malicious software onto their laptop.",
+    "Researchers have repeatedly warned about long-running social engineering attacks that can go on for months.",
+    "This latest attack allowed the hackers to patiently worm their way into Binance’s systems to steal a record $6.3 billion in crypto last week, the company has now confirmed. The hack, disclosed in an updated statement posted on X on Tuesday, prompted the world’s largest crypto exchange to suspend customer withdrawals across its network.",
+    "The FBI and blockchain investigators have blamed North Korea for the heist. The country has been long accused of carrying out massive cryptocurrency thefts in recent years to fund its internationally sanctioned nuclear weapons program.",
+    "In its latest statement, Binance said that North Korean hackers, posing as recruiters hiring for a job, contacted a software engineer who works on wallets at the company. Following two interviews with the purported company, the engineer was instructed to download an apparent coding assignment as part of the interview process. When opened, the assignment contained malicious code that compromised the engineer’s work-issued laptop. Binance said its security tools did not detect the malware.",
+    "That foothold in Binance’s network allowed the hackers to access an internal tool capable of taking over the work computers of two other engineers on the wallet team. One of those engineers had unwittingly downloaded a tampered app containing password-stealing malware months earlier after searching for the software in search engine results. While Binance replaced that compromised engineer’s laptop, the hackers used the engineer’s stolen credentials to break into the computer of a third engineer, whose job allowed them access to systems capable of controlling billions of dollars in crypto.",
+    "Binance said the attack “should not have happened,” and that it had improved its network security following the theft.",
+    "The hack underscores an ongoing tactic in the North Korean regime’s repertoire of attacks targeting the crypto industry and high-net worth individuals. Researchers have warned for years that North Korean hackers pose as venture capitalists, investors, and recruiters using dossiers of stolen American identities to trick employees into granting access to their systems.",
+    "These attacks are widely known across the crypto industry and have been the subject of repeated warnings from the U.S. government and cybersecurity giants in recent years. Some half of all intrusions at U.S. tech companies last year were attributed to North Koreans posing as remote IT workers and fake recruiters.",
+    "By Binance’s own account, the company faced at least 57 suspected attacks from North Korea, which it said reflect the “persistent threat posed by state-sponsored actors targeting the cryptocurrency industry.”",
+    "But how the hackers were able to convince the engineer into downloading malware given the highly publicized threat, and bypass security weaknesses in Binance’s own network, will likely be the focus of investigators’ attention.",
+    "While the case exposes how North Korean hackers use social engineering, such as offers of employment, to trick employees into granting access to their systems, it’s ultimately the responsibility of the company to ensure its systems cannot run unauthorized or untrusted software that could cause a compromise.",
+    "A Binance spokesperson referred to the company’s public statement but declined to answer TechCrunch’s questions on the record about the incident. Those questions included how Binance prevents unauthorized or malicious code from running on its employees’ laptops, if at all, and whether any third parties had performed cybersecurity audits of Binance’s network prior to the hack.",
+    "The company said it would bring in cybersecurity experts to review the incident and has put new security measures in place to prevent a repeat incident.",
+    "The heist remains the largest theft of crypto in history.",
+    "Updated to remove name of Binance spokesperson in thirteenth paragraph."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/dprk-kim-2252780532.jpg",
+      "alt": "People seen looking at a 24-hour Yonhap news TV broadcast at Seoul Railway Station."
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-17T09:00:06.578820+00:00",
+  "title_tr": "Araştırmacılar, Binance'in 6,3 milyar dolarlık rekor hırsızlığından yıllar önce Kuzey Kore'nin hackerlık taktikleri konusunda uyarıda bulunmuştu",
+  "body_paragraphs_tr": [
+    "Kripto devi Binance, Kuzey Koreli hacker'ların bir çalışanı dizüstü bilgisayarına kötü amaçlı yazılım indirmeye ikna etmek amacıyla aylarca süren bir planın parçası olarak sahte sosyal medya profilleri kullandığını ve potansiyel bir iş teklifiyle kandırdığını söylüyor.",
+    "Araştırmacılar, aylarca sürebilen uzun soluklu sosyal mühendislik saldırıları konusunda defalarca uyarıda bulunmuştur.",
+    "Şirketin şimdi doğruladığı üzere, bu son saldırı hacker'ların geçen hafta Binance'in sistemlerine sabırla sızarak rekor düzeyde 6,3 milyar dolar değerinde kripto para çalmasına olanak sağladı. Salı günü X'te yayımlanan güncellenmiş bir açıklamada duyurulan bu saldırı, dünyanın en büyük kripto borsasının ağı genelinde müşterilerin para çekme işlemlerini askıya almasına neden oldu.",
+    "FBI ve blokzincir araştırmacıları soygun için Kuzey Kore'yi suçladı. Ülke, uluslararası yaptırımlara tabi nükleer silah programını finanse etmek amacıyla son yıllarda çok sayıda büyük kripto para hırsızlığı gerçekleştirmekle uzun süredir suçlanıyor.",
+    "Binance son açıklamasında, işe alım görevlisi gibi davranan Kuzey Koreli hacker'ların, şirkette cüzdanlar üzerinde çalışan bir yazılım mühendisiyle iletişime geçtiğini belirtti. Sözde şirketle yapılan iki mülakatın ardından mühendise, mülakat sürecinin bir parçası olarak görünürde bir kodlama görevi indirmesi talimatı verilmiştir. Görev açıldığında, mühendise iş için verilen dizüstü bilgisayarı tehlikeye atan kötü amaçlı bir kod içerdiği ortaya çıkmıştır. Binance, güvenlik araçlarının kötü amaçlı yazılımı tespit etmediğini söyledi.",
+    "Binance ağındaki bu dayanak noktası, hacker'ların cüzdan ekibindeki diğer iki mühendisin iş bilgisayarlarını ele geçirebilecek bir dahili araca erişmelerini sağlamıştır. Bu mühendislerden biri, yazılımı arama motoru sonuçlarında aradıktan sonra, aylar önce farkında olmadan şifre çalan kötü amaçlı yazılım içeren tahrif edilmiş bir uygulamayı indirmişti. Binance, güvenliği ihlal edilen bu mühendisin dizüstü bilgisayarını değiştirirken, hacker'lar mühendisin çalınan kimlik bilgilerini kullanarak, işi gereği milyarlarca dolarlık kripto varlığı kontrol edebilecek sistemlere erişim imkânı bulunan üçüncü bir mühendisin bilgisayarına sızmışlardır.",
+    "Binance, saldırının \"gerçekleşmemesi gerektiğini\" ve hırsızlıktan sonra ağ güvenliğini artırdığını söyledi.",
+    "Bu saldırı, Kuzey Kore rejiminin kripto sektörünü ve yüksek servete sahip kişileri hedef alan saldırılar repertuarındaki sürekli bir taktiği gözler önüne seriyor. Araştırmacılar yıllardır Kuzey Koreli hacker'ların risk sermayedarları, yatırımcılar ve işe alım görevlileri kılığına girerek çalınmış Amerikan kimliklerinden oluşan dosyaları kullandıklarını ve çalışanları sistemlerine erişim izni vermeleri için kandırdıklarını konusunda uyarıyorlar.",
+    "Bu saldırılar kripto sektöründe herkesçe bilinmektedir ve son yıllarda ABD hükümeti ile siber güvenlik devleri tarafından defalarca uyarı konusu olmuştur. Geçen yıl ABD'deki teknoloji şirketlerine yönelik tüm siber saldırıların yaklaşık yarısının, uzaktan çalışan BT uzmanları ve sahte işe alım görevlileri kılığına giren Kuzey Koreliler tarafından gerçekleştirildiği tespit edilmiştir.",
+    "Binance'ın kendi açıklamasına göre şirket, Kuzey Kore'den en az 57 şüpheli saldırıyla karşı karşıya kaldı. Şirket, bunun \"kripto para sektörünü hedef alan devlet destekli aktörlerin oluşturduğu sürekli tehdidi\" yansıttığını belirtti.",
+    "Ancak hacker'ların, bu kadar çok duyurulan bir tehdide rağmen mühendisi kötü amaçlı yazılım indirmeye nasıl ikna edebildikleri ve Binance'in kendi ağındaki güvenlik açıklarını nasıl atlatabildikleri muhtemelen soruşturmayı yürütenlerin dikkatini çekecek.",
+    "Bu vaka, Kuzey Koreli bilgisayar korsanlarının çalışanları sistemlerine erişim izni vermeleri için kandırmak amacıyla iş teklifleri gibi sosyal mühendislik yöntemlerini nasıl kullandığını ortaya koyarken, sistemlerinde güvenlik açığına neden olabilecek yetkisiz veya güvenilmeyen yazılımların çalıştırılamamasını sağlamak nihai olarak şirketin sorumluluğundadır.",
+    "Bir Binance sözcüsü şirketin kamuya açık açıklamasına atıfta bulundu ancak TechCrunch'ın olayla ilgili sorularını kayıt altına almak üzere yanıtlamayı reddetti. Bu sorular arasında Binance'in, varsa, çalışanlarının dizüstü bilgisayarlarında yetkisiz veya kötü amaçlı kodların çalışmasını nasıl engellediği ve saldırıdan önce herhangi bir üçüncü tarafın Binance'in ağında siber güvenlik denetimleri yapıp yapmadığı da yer alıyordu.",
+    "Şirket, olayı incelemek üzere siber güvenlik uzmanlarını görevlendireceğini ve olayın tekrarlanmasını önlemek için yeni güvenlik önlemleri aldığını açıkladı.",
+    "Bu soygun, tarihteki en büyük kripto hırsızlığı olarak kalmaya devam ediyor.",
+    "On üçüncü paragrafta Binance sözcüsünün adı çıkarılmak üzere güncellendi."
+  ],
+  "tags_tr": []
+}
