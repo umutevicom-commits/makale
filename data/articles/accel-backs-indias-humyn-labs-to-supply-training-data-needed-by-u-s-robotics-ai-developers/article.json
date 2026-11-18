@@ -1,0 +1,49 @@
+{
+  "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+  "slug": "accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers",
+  "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+  "news_id": "accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers",
+  "date": "18 November 2026",
+  "author": "Jagmeet Singh",
+  "tags": [],
+  "body_paragraphs": [
+    "As demand grows for real-world data to train robots, India’s Humyn Labs has raised $47 million in Series A financing to help U.S. AI and robotics companies build models that can operate in physical environments.",
+    "The funding comprises $26 million in equity led by Accel, with participation from Prosus Ventures, BeeGlobal, Bajaj Finance’s Finserv Intelligence and Bajaj Alts AI Opportunities Fund, Dallas Venture Capital, Lighthouse Canton, and Jump Trading. It also includes $21 million in venture debt led by Lighthouse Canton, with participation from Trifecta Capital.",
+    "Companies around the world are trying to build robots capable of performing everyday human tasks, but getting enough quality data to train them remains difficult. Startups, including Mecka AI, XDOF, and MicroAGI, are already tackling the problem by collecting real-world data for robotics training. Bengaluru-based Humyn Labs aims to compete with them.",
+    "Humyn Labs has developed its own two-camera hardware to record people performing everyday tasks. It then uses its software to process and label the footage, which means tagging what happens in each clip so AI can learn from it. The startup collects data across over 20 countries in Latin America and Asia, with Brazil, India, and South Korea serving as its main hubs, co-founder Manish Agarwal (pictured above, right) said in an interview.",
+    "Agarwal, the former CEO of Indian gaming company Nazara Technologies, founded Humyn Labs in February with Ishank Gupta (pictured above, left), a former executive at the brewing giant AB InBev. The duo previously founded Kratos Studios, now known as KGeN. KGeN has a network of contributors across emerging markets, and that network helps Humyn Labs collect data in people’s homes, the founders told TechCrunch.",
+    "Collecting footage of human activity is only part of the challenge, Agarwal said. He added that Humyn Labs also uses software to track hand movements, interactions with objects, and other details, turning raw recordings into data that AI models can learn from.",
+    "“Scale, diversity, and quality are important aspects, and they need to work in tandem,” Agarwal said.",
+    "Humyn Labs says it has 12 paying customers, including frontier AI labs, robotics companies, and developers of world models. About 90% of its revenue comes from the U.S., Gupta said, though he declined to name specific customers.",
+    "The startup generated $10 million in revenue between April and October and has another $20 million in signed contracts, Agarwal told TechCrunch, adding that a further $20 million in deals has yet to be finalized.",
+    "That growth has also increased Humyn Labs’ need for working capital, Agarwal said, explaining the $21 million venture debt component. The startup pays workers and data collection partners daily or weekly but typically waits 30 to 60 days to receive payments from its AI lab customers. Borrowing helps bridge that gap and is less dilutive than selling more equity, he said.",
+    "Over the last few months, India has emerged as a hub for collecting training data for so-called physical AI, with startups, including Human Archive and BuildAI, tapping into the country’s large workforce to record people performing everyday tasks. However, the practice has also raised questions about privacy and consent, particularly when people are recorded inside their homes.",
+    "Agarwal said Humyn Labs collects data from people doing their usual work or household chores instead of asking them to perform staged activities. The startup works with local partners to identify collection sites and oversee the process. “The worker is a worker who is incentivized, but he needs to be monitored and supervised for the right input,” he stated.",
+    "Humyn Labs currently has 51 full-time employees, most based in Bengaluru, plus a network of local partners across the countries where it collects data, Agarwal said."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/humyn-labs-co-founders_164602.jpg",
+      "alt": "Humyn Labs co-founders"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-18T18:36:36.894837+00:00",
+  "title_tr": "Hindistan merkezli Humyn Labs, ABD'li robotik şirketlerine ihtiyaç duydukları verileri sağlamak için 47 milyon dolar topladı",
+  "body_paragraphs_tr": [
+    "Robotları eğitmek için gerçek dünya verilerine olan talep arttıkça, Hindistan merkezli Humyn Labs, ABD'li yapay zekâ ve robotik şirketlerinin fiziksel ortamlarda çalışabilen modeller geliştirmesine yardımcı olmak amacıyla A Serisi finansman kapsamında 47 milyon dolar topladı.",
+    "Finansman, Prosus Ventures, BeeGlobal, Bajaj Finance'in Finserv Intelligence ve Bajaj Alts AI Opportunities Fund, Dallas Venture Capital, Lighthouse Canton ve Jump Trading'in katılımıyla Accel liderliğindeki 26 milyon dolarlık öz sermayeden oluşmaktadır. Ayrıca Lighthouse Canton'un öncülüğünde ve Trifecta Capital'in katılımıyla sağlanan 21 milyon dolarlık girişim sermayesi kredisi de dâhildir.",
+    "Dünya genelindeki şirketler, günlük insan işlerini yapabilen robotlar geliştirmeye çalışıyor ancak bu robotları eğitmek için yeterli miktarda kaliteli veri elde etmek hâlâ zor. Mecka AI, XDOF ve MicroAGI gibi girişimler, robotik eğitimine yönelik gerçek dünya verilerini toplayarak bu sorunu şimdiden çözmeye çalışıyor. Bengaluru merkezli Humyn Labs, onlarla rekabet etmeyi hedefliyor.",
+    "Humyn Labs, günlük işlerini yapan kişileri kaydetmek için kendi iki kameralı donanımını geliştirdi. Daha sonra yazılımını kullanarak görüntüleri işliyor ve etiketliyor. Bu da her klipte neler olduğuna dair etiketleme yapılması anlamına geliyor, böylece yapay zekâ bundan ders çıkarabiliyor. Kurucu ortak Manish Agarwal (yukarıda, sağda), bir röportajda startup'ın Latin Amerika ve Asya'da 20'den fazla ülkede veri topladığını ve Brezilya, Hindistan ve Güney Kore'nin ana merkezleri olarak hizmet verdiğini söyledi.",
+    "Hindistan merkezli oyun şirketi Nazara Technologies'in eski CEO'su Agarwal, Şubat ayında bira devi AB InBev'in eski yöneticisi Ishank Gupta (yukarıda, solda) ile birlikte Humyn Labs'i kurdu. İkili daha önce Kratos Studios'u kurmuştu; bu şirket şimdi KGeN olarak biliniyor. Kurucular TechCrunch'a yaptıkları açıklamada, KGeN'in gelişmekte olan pazarlarda bir katkıda bulunanlar ağına sahip olduğunu ve bu ağın Humyn Labs'in insanların evlerinde veri toplamasına yardımcı olduğunu söylediler.",
+    "Agarwal, insan faaliyetlerinin görüntülerini toplamanın zorluğun yalnızca bir parçası olduğunu söyledi. Humyn Labs'in ayrıca el hareketlerini, nesnelerle etkileşimleri ve diğer ayrıntıları izlemek için yazılım kullandığını ve ham kayıtları yapay zekâ modellerinin öğrenebileceği verilere dönüştürdüğünü de sözlerine ekledi.",
+    "Agarwal, \"Ölçek, çeşitlilik ve kalite önemli unsurlardır ve birlikte çalışmaları gerekir.\" dedi.",
+    "Humyn Labs, aralarında öncü yapay zekâ laboratuvarlarının, robotik şirketlerinin ve dünya modelleri geliştiricilerinin de bulunduğu 12 ücretli müşterisi olduğunu söylüyor. Gupta, gelirlerinin yaklaşık %90'ının ABD'den geldiğini söyledi, ancak belirli müşterilerin adını vermeyi reddetti.",
+    "Agarwal, TechCrunch'a verdiği demeçte, girişimin Nisan ve Ekim ayları arasında 10 milyon dolar gelir elde ettiğini ve imzalanmış sözleşmelerle 20 milyon dolar daha kazandığını söyledi ve ayrıca 20 milyon dolarlık anlaşmanın daha sonuçlandırılmayı beklediğini ekledi.",
+    "Agarwal, 21 milyon dolarlık girişim kredisi bileşenini açıklarken, bu büyümenin Humyn Labs'in işletme sermayesi ihtiyacını da artırdığını söyledi. Startup, çalışanlarına ve veri toplama ortaklarına günlük veya haftalık ödeme yapmaktadır, ancak yapay zekâ laboratuvarı müşterilerinden ödeme almak için genellikle 30 ila 60 gün beklemektedir. Agarwal, borçlanmanın bu açığı kapatmaya yardımcı olduğunu ve daha fazla hisse satmaktan daha az seyreltici olduğunu söyledi.",
+    "Son birkaç ay içinde Hindistan, sözde fiziksel yapay zekâ için eğitim verileri toplama merkezi hâline geldi. Human Archive ve BuildAI gibi girişimler, günlük işlerini yapan kişileri kaydetmek için ülkenin geniş iş gücünden yararlanıyor. Ancak bu uygulama, özellikle insanlar evlerinin içinde kaydedilirken mahremiyet ve rıza konularında da soru işaretleri yaratmıştır.",
+    "Agarwal, Humyn Labs'in insanlardan sahnelenmiş faaliyetler gerçekleştirmelerini istemek yerine, olağan işlerini veya ev işlerini yapan kişilerden veri topladığını söyledi. Startup, veri toplama noktalarını belirlemek ve süreci denetlemek için yerel ortaklarla birlikte çalışmaktadır. \"Çalışan, teşvik edilen bir çalışandır, ancak doğru girdiyi sağlaması için izlenmesi ve denetlenmesi gerekir\" dedi.",
+    "Agarwal, Humyn Labs'in şu anda çoğunluğu Bengaluru'da bulunan 51 tam zamanlı çalışanı ve veri topladığı ülkelerdeki yerel ortaklardan oluşan bir ağı olduğunu söyledi."
+  ],
+  "tags_tr": []
+}
