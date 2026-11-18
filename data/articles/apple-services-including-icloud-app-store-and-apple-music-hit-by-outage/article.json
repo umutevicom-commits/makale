@@ -1,0 +1,45 @@
+{
+  "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
+  "slug": "apple-services-including-icloud-app-store-and-apple-music-hit-by-outage",
+  "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
+  "news_id": "apple-services-including-icloud-app-store-and-apple-music-hit-by-outage",
+  "date": "17 November 2026",
+  "author": "Sarah Perez",
+  "tags": [],
+  "body_paragraphs": [
+    "After a recent slew of tech outages, service disruptions, and flight chaos this week, it’s now Apple customers who are facing technical issues.",
+    "The iPhone maker’s System Status page indicates that there are issues with iCloud’s Account & Sign In services affecting “all users,” which could make the service slow or unavailable. The App Store, AppleCare on Device, and Apple Music are also experiencing issues, the page indicates.",
+    "Like all major tech companies, Apple faces outages and other technical issues affecting its cloud services at times. However, today’s issues are likely more noticeable to end users because problems with iCloud can lead to account sign-in problems. This could cause your iPhone to ask for your Apple ID and password, and you could see other attempts to sign in to services with your Apple account information fail.",
+    "On Reddit, some folks also noted that they were unable to activate a new iPhone, which is likely related to these ongoing issues.",
+    "Given the recent increase in AI-driven cyberattacks, users across social media have already begun to speculate about the cause. In particular, users are expressing concerns about the Apple outage, as it arrives only days after technical failures at Microsoft led to its cloud systems that power flagship services like Outlook and Teams failing due to cascading software issues.",
+    "Similarly, a brief outage of Chase’s banking app this week garnered attention, as did an ongoing partial outage (at the time of publication) of the National Security Agency’s internal classified network, both of which were blamed on software glitches.",
+    "So far, none of the outages in the past week have been attributed to cyberattacks, but rather to technical problems.",
+    "Apple responded to TechCrunch’s request for comment (which it initially gave to Bloomberg ), noting that the outages were caused by an internal update and not a cyberattack. “Many of our systems are back up and running after an internal update caused some outages this morning. We’re working to get the remaining systems online as soon as possible,” the statement read.",
+    "After the initial outages were reported, Apple’s status page was updated to include other outages impacting Apple School Manager, iCloud Mail, iCloud Web Apps (iCloud.com), Schoolwork, and the Volume Purchase Program.",
+    "By 6 PM ET on Tuesday, the status page showed all the outages were resolved.",
+    "This article was updated after publication with the status of the outages."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/icloud-pattern-with-key.jpg",
+      "alt": "illustration of key over cloud icon"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-18T09:41:04.469784+00:00",
+  "title_tr": "iCloud, App Store, Apple Music ve daha fazlası dâhil olmak üzere Apple hizmetleri kesintiye uğradı",
+  "body_paragraphs_tr": [
+    "Bu hafta yaşanan bir dizi teknoloji kesintisi, hizmet aksaklığı ve uçuş karmaşasının ardından şimdi de Apple müşterileri teknik sorunlarla karşı karşıya.",
+    "iPhone üreticisinin Sistem Durumu sayfası, iCloud'un \"tüm kullanıcıları\" etkileyen Hesap ve Oturum Açma hizmetlerinde sorunlar olduğunu ve bunun da hizmeti yavaşlatabileceğini veya hizmetin kullanılamaz hâle gelebileceğini gösteriyor. Sayfada, App Store, AppleCare on Device ve Apple Music'in de sorunlar yaşadığı belirtiliyor.",
+    "Tüm büyük teknoloji şirketleri gibi Apple da zaman zaman bulut hizmetlerini etkileyen kesintiler ve diğer teknik sorunlarla karşı karşıya kalmaktadır. Bununla birlikte, iCloud ile ilgili sorunlar hesap oturum açma sorunlarına yol açabileceğinden, bugünkü sorunlar son kullanıcılar tarafından muhtemelen daha fazla fark edilecektir. Bu durum, iPhone'unuzun Apple Kimliğinizi ve parolanızı istemesine neden olabilir ve Apple hesap bilgilerinizle hizmetlere giriş yapma girişimlerinizin başarısız olduğunu görebilirsiniz.",
+    "Reddit'te bazı kişiler de yeni bir iPhone'u etkinleştiremediklerini belirttiler ki bu da muhtemelen devam eden bu sorunlarla ilgili.",
+    "Yapay zekâ destekli siber saldırılardaki son dönemdeki artış göz önüne alındığında, sosyal medya kullanıcıları bunun nedeni hakkında şimdiden spekülasyon yapmaya başladı. Özellikle kullanıcılar, Apple'daki kesintiden duydukları endişeyi dile getiriyorlar çünkü bu kesinti, Microsoft'taki teknik arızaların ardından Outlook ve Teams gibi amiral gemisi hizmetlerine güç veren bulut sistemlerinin ardışık yazılım sorunları nedeniyle çöktüğü olaydan sadece birkaç gün sonra gerçekleşti.",
+    "Benzer şekilde, bu hafta Chase'in bankacılık uygulamasında yaşanan kısa süreli bir kesinti ve (bu haberin yayımlandığı sırada) Ulusal Güvenlik Ajansı'nın (NSA) dahili gizli ağında devam eden kısmi bir kesinti de dikkat çekti. Her iki kesintinin de yazılım arızalarından kaynaklandığı belirtildi.",
+    "Şu ana kadar geçen haftaki kesintilerin hiçbiri siber saldırılara değil, daha ziyade teknik sorunlara bağlandı.",
+    "Apple, TechCrunch'ın yorum talebine (başlangıçta Bloomberg'e verdiği) yanıt vererek kesintilerin bir siber saldırıdan değil, dahili bir güncellemeden kaynaklandığını belirtti. \"Bu sabah bir dahili güncellemenin bazı kesintilere neden olmasının ardından sistemlerimizin çoğu yeniden çalışır hâle geldi. Kalan sistemleri de en kısa sürede çevrim içi hâle getirmek için çalışıyoruz.\" ifadeleri yer aldı.",
+    "İlk kesintiler bildirildikten sonra Apple'ın durum sayfası, Apple School Manager, iCloud Mail, iCloud Web Uygulamaları (iCloud.com), Schoolwork ve Toplu Satın Alma Programı'nı etkileyen diğer kesintileri de içerecek şekilde güncellendi.",
+    "Salı günü TSİ 01.00'e kadar durum sayfasında tüm kesintilerin giderildiği görüldü.",
+    "Bu makale, yayımlandıktan sonra kesintilerin durumuyla ilgili olarak güncellenmiştir."
+  ],
+  "tags_tr": []
+}

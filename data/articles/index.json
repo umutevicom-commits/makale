@@ -1,5 +1,25 @@
 [
   {
+    "slug": "apple-services-including-icloud-app-store-and-apple-music-hit-by-outage",
+    "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
+    "date": "17 November 2026",
+    "fetched_at": "2026-11-18T09:41:04.469784+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "dc95a76f807749ef47b67e09838c042224428de6bac8256eddba4e07d678014e"
+  },
+  {
+    "slug": "ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game",
+    "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+    "date": "17 November 2026",
+    "fetched_at": "2026-11-18T09:40:13.546684+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "cedb0b18b85a1fe9009d33f48b9998859dc0dc51fb481d8372eabb95dbf30d25"
+  },
+  {
     "content_hash": "759cd1e0fc581e0159f5c77cfd207a573a3af261045c40b550daf4dc9df6de06",
     "date": "04 November 2026",
     "fetched_at": "2026-11-17T09:03:23.099161+00:00",
