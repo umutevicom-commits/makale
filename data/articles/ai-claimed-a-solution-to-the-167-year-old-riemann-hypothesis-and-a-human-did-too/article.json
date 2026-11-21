@@ -1,0 +1,55 @@
+{
+  "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+  "slug": "ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
+  "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+  "news_id": "ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
+  "date": "20 November 2026",
+  "author": "Tim Fernholz",
+  "tags": [],
+  "body_paragraphs": [
+    "It’s a big week for Levent Alpöge: The mathematician saw his employer, Anthropic, become the first publicly traded frontier AI lab. He also appears to have solved one of the most important problems in mathematics.",
+    "“The precise timing is horrible,” he wrote in an essay announcing his findings and describing how he messaged Anthropic CEO Dario Amodei last Sunday night to ask how to announce that he had found a Lean-compilable solution to the Riemann hypothesis, which dates back to 1859 and is among the Millennium Prize math problems.",
+    "The hypothesis conjectures that there is a hidden structure underlying the appearance of prime numbers. If the claimed result holds true, we’re entering sublime-mysteries-of-the-universe territory.",
+    "Maybe the best way to understand how exciting this is to the mathematics community is to watch the experts puzzling through the result in a chat on Zulip. Mathematicians like Chris Birkbeck, a number theorist at the University of East Anglia, are posting thoughts like this …",
+    "The cohomology bound is proved by what looks like an automorphy-lifting argument. It genuinely uses the existence of Galois representations attached to regular algebraic, polarized cuspidal automorphic representations of GL_n over CM fields, along with base change, Jacquet–Shalika, Clozel’s purity, Bernstein–Zelevinsky, the main theorem of CM, Deligne–Ribet and more.",
+    "For my part, I tapped out of mathematics at college calculus, so I can’t help decode exactly what that means.",
+    "But that comment was followed by 20 readers reacting 🤯.",
+    "It will be a while before the mathematics community feels like it has a handle on the proof, but most appear confident that the formalized Lean result will hold. Lean is an an open-source coding language used to express mathematical ideas as code, allowing proofs to be formally verified. Several participants in the Zulip chat, including MIT mathematician Andrew Sutherland, say they have successfully confirmed that Alpöge’s solution can be compiled successfully.",
+    "Alpöge appeared in his essay to feel a bit guilty about releasing the proof without a truly human-intelligible explanation, but his obsession with the problem since childhood made him feel he “could not live” if he waited to release the finding.",
+    "Alpöge described a “stream-of-consciousness jaunt through the experience of finding all the pieces of the argument through incredible confusion with Claude” with more than a hint of AI euphoria, describing how the model “flew, and danced, and sparkled near that finish line.”",
+    "However, for all that action to mean anything, we’ll have to wait for humans to be able to understand the result and explain it to each other, something Alpöge has committed to pursue.",
+    "Alpöge and a collaborator, NYU mathematician Tristan Buckmaster, also released another important proof related to the Navier-Stokes equations, problems that helped kick off the race between frontier labs and mathematicians to solve outstanding problems this summer.",
+    "Meanwhile, Ravi Vakil, a Stanford professor and the president of the American Mathematics Association, posted a proof of the General Riemann hypothesis written by Stanford postdoc Alessandro Masullo, noting that “it is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now it seems best to put out the current draft.”",
+    "Without being expressed in Lean, it is too early to say whether the proof checks out, much less if anyone understands it.",
+    "In a brief introduction to his proof, which he said is the result of 12 years of work, Masullo wrote that “if any message at all this work is meant to send to the mathematician who feels discouraged by the pace and tone of the current climate, it is this: we are still here. We are very much alive. We are not going anywhere.”",
+    "This story has been updated to include that Alpöge’s Lean proof has been checked by independent sources."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/makale/data/images/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/GettyImages-1219382595.jpg",
+      "alt": "Image of math equations written on a blackboard."
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-21T01:03:39.625371+00:00",
+  "title_tr": "Yapay zekâ, 167 yıllık Riemann hipotezine bir çözüm bulduğunu iddia etti ve bir insan da bulduğunu iddia etti.",
+  "body_paragraphs_tr": [
+    "Levent Alpöge için önemli bir hafta: Matematikçi, işvereni Anthropic'in halka açılan ilk öncü yapay zekâ laboratuvarı olduğunu gördü. Ayrıca matematiğin en önemli problemlerinden birini çözmüş gibi görünüyor.",
+    "Wiles, bulgularını duyurduğu ve geçen pazar gecesi Anthropic CEO'su Dario Amodei'ye, 1859 yılına dayanan ve Milenyum Ödülü matematik problemlerinden biri olan Riemann hipotezine Lean ile derlenebilir bir çözüm bulduğunu nasıl duyuracağını sormak için mesaj attığını anlattığı bir makalede \"Zamanlamanın bu kadar denk gelmesi korkunç\" diye yazdı.",
+    "Hipotez, asal sayıların ortaya çıkışının altında yatan gizli bir yapı olduğunu öne sürmektedir. İddia edilen sonuç doğruysa evrenin yüce gizemlerinin olduğu bir alana girmiş oluyoruz.",
+    "Bunun matematik camiası için ne kadar heyecan verici olduğunu anlamanın belki de en iyi yolu, uzmanların Zulip'teki bir sohbet sırasında sonucu çözmeye çalışmalarını izlemektir. East Anglia Üniversitesi'nde sayı teorisyeni olan Chris Birkbeck gibi matematikçiler buna benzer düşünceler paylaşıyor...",
+    "Kohomoloji sınırı, bir otomorfizm kaldırma argümanı gibi görünen bir şeyle kanıtlanmaktadır. Bu, CM alanları üzerindeki GL_n'nin düzenli cebirsel, polarize köşeli automorfik gösterimlerine bağlı Galois gösterimlerinin varlığının yanı sıra taban değişimi, Jacquet–Shalika, Clozel'in saflığı, Bernstein–Zelevinsky, CM'nin ana teoremi, Deligne–Ribet ve daha fazlasını gerçekten kullanır.",
+    "Benim açımdan bakarsak, üniversitede kalkülüs dersinden sonra matematikle aramı bozduğum için bunun tam olarak ne anlama geldiğini çözemiyorum.",
+    "Ancak bu yorumu 20 okuyucunun 🤯 tepkisi izledi.",
+    "Matematik camiasının ispatı kavradığını hissetmesi biraz zaman alacak ancak çoğu kişi, Lean ile resmîleştirilen sonucun geçerli olacağından emin görünüyor. Lean, matematiksel fikirleri kod hâlinde ifade etmek için kullanılan ve ispatların resmî olarak doğrulanmasına olanak tanıyan açık kaynaklı bir kodlama dilidir. MIT'den matematikçi Andrew Sutherland de dâhil olmak üzere Zulip sohbetine katılan birkaç kişi, Alpöge'nin çözümünün başarıyla derlenebileceğini teyit ettiklerini söylüyor.",
+    "Alpöge, makalesinde kanıtı gerçekten insanın anlayabileceği bir açıklama olmadan yayımladığı için biraz suçlu hissediyor gibi görünüyordu, ancak çocukluğundan beri bu soruna olan takıntısı, bulguyu yayımlamak için beklerse \"yaşayamayacağını\" hissetmesine neden olmuştu.",
+    "Alpöge, AI coşkusunun fazlasıyla hissedildiği bir şekilde, \"Claude ile yaşanan inanılmaz kafa karışıklığı içinde argümanın tüm parçalarını bulma deneyimi boyunca yaşanan bilinç akışı gezintisini\" anlatmış ve modelin \"bitiş çizgisine yaklaşırken nasıl uçtuğunu, dans ettiğini ve parıldadığını\" tarif etmiştir.",
+    "Ancak tüm bu eylemlerin bir anlam ifade etmesi için insanların sonucu anlayabilmelerini ve birbirlerine açıklayabilmelerini beklememiz gerekecek. Alpöge de bu amaç doğrultusunda çalışmayı taahhüt ediyor.",
+    "Alpöge ve NYU'dan matematikçi Tristan Buckmaster adlı bir iş arkadaşı, bu yaz sınır laboratuvarları ile matematikçiler arasında çözülmemiş problemleri çözme yarışını başlatmaya yardımcı olan Navier-Stokes denklemleriyle ilgili başka bir önemli kanıt daha yayınladılar.",
+    "Bu arada Stanford Üniversitesi profesörü ve Amerikan Matematik Derneği başkanı Ravi Vakil, Stanford'da doktora sonrası araştırmacı olan Alessandro Masullo tarafından yazılan Genel Riemann hipotezinin bir kanıtını yayımlayarak \"Tamamen insan ürünü, yapay zekâ yok\" dedi. Amaç, Alessandro'yu bir yıllığına Stanford'a getirerek yazıyı son hâline getirmek ve yeterli sayıda kişiye gösterdikten sonra duyurmaktı. Şimdi mevcut taslağı yayımlamak en iyisi gibi görünüyor.\"",
+    "Lean'de ifade edilmeden, kanıtın doğrulanıp doğrulanmadığını söylemek için çok erken, hatta birinin bunu anlayıp anlamadığını söylemek içinse daha da erken.",
+    "12 yıllık çalışmasının sonucu olduğunu söylediği ispatına kısa bir giriş yazısında Masullo, \"Bu çalışmanın, mevcut ortamın hızı ve havası nedeniyle cesareti kırılmış hisseden matematikçiye iletmesi gereken bir mesaj varsa o da şudur: Hâlâ buradayız. Biz hâlâ buradayız. Hiçbir yere gitmiyoruz.\"",
+    "Bu haber, Alpöge'nin Lean kanıtının bağımsız kaynaklarca kontrol edildiğini içerecek şekilde güncellenmiştir."
+  ],
+  "tags_tr": []
+}
