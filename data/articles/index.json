@@ -1,33 +1,33 @@
 [
   {
-    "slug": "ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
-    "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+    "content_hash": "455ceb06c225278d93c774f5f9bfaa403e2d7a34dd8595fae4714387f24483eb",
     "date": "20 November 2026",
     "fetched_at": "2026-11-21T01:03:39.625371+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "455ceb06c225278d93c774f5f9bfaa403e2d7a34dd8595fae4714387f24483eb"
+    "retries": 0,
+    "slug": "ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
   },
   {
-    "slug": "a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online",
-    "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+    "content_hash": "7c7227c0c080b6400e286097bcd4fb69b28427deaacfd2b3229c6e02fb3534a1",
     "date": "20 November 2026",
     "fetched_at": "2026-11-21T01:02:55.386359+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "7c7227c0c080b6400e286097bcd4fb69b28427deaacfd2b3229c6e02fb3534a1"
+    "retries": 0,
+    "slug": "a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/"
   },
   {
-    "slug": "6-ai-powered-gadgets-that-could-make-your-home-office-smarter",
-    "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+    "content_hash": "d6eef752886cd2a1e4c7af1b8b84a3c3b6f46219712937f42e8a2e5043aedfa8",
     "date": "20 November 2026",
     "fetched_at": "2026-11-21T01:02:05.573439+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "d6eef752886cd2a1e4c7af1b8b84a3c3b6f46219712937f42e8a2e5043aedfa8"
+    "retries": 0,
+    "slug": "6-ai-powered-gadgets-that-could-make-your-home-office-smarter",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
   },
   {
     "content_hash": "b16945410251abbdd0680c7dae6f7697bca2049713ca09308e002210e5266fdb",
