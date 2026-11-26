@@ -1,0 +1,20 @@
+    <item>
+      <title>1Password, bilgisayar korsanlarının dahili sistemlerine sızdığını ancak müşteri parolalarının güvende olduğunu açıkladı</title>
+      <link>https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <author>Zack Whittaker</author>
+      <description>Parola yöneticisi üreticisi 1Password, yakın zamanda dâhilî sistemlerine yapılan bir saldırıda bazı müşteri bilgilerinin ele geçirildiğini ancak müşteri parola kasalarına ve diğer gizli bilgilere erişilmediğini doğruladı.</description>
+      <media:content url="https://umutevicom-commits.github.io/makale/data/images/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/3-1password.png" medium="image" type="image/png" />
+      <media:thumbnail url="https://umutevicom-commits.github.io/makale/data/images/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/3-1password.png" />
+      <enclosure url="https://umutevicom-commits.github.io/makale/data/images/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/3-1password.png" type="image/png" length="0" />
+      <content:encoded><![CDATA[<p>Parola yöneticisi üreticisi 1Password, yakın zamanda dâhilî sistemlerine yapılan bir saldırıda bazı müşteri bilgilerinin ele geçirildiğini ancak müşteri parola kasalarına ve diğer gizli bilgilere erişilmediğini doğruladı.</p>
+<p>Toronto merkezli teknoloji şirketi, çarşamba günü yayımladığı bir blog yazısında 19 Kasım'da bir saldırganın, şirketin kaynak kodunu paylaşmak ve saklamak için kullandığı GitHub'daki bir çalışanın kurumsal hesabına erişim sağladığı bir izinsiz giriş tespit ettiğini açıkladı.</p>
+<p>Saldırgan, bu çalışanın erişimini kullanarak şirketin dâhilî sunucularına kötü amaçlı kod yükledi. Bu da hacker'ın 1Password müşterileri hakkında, isimleri ve hesaplarına giriş yapmak için kullandıkları e-posta adresleri dâhil olmak üzere bazı verileri indirmesine olanak tanıdı. Şirket, saldırganın ayrıca bir 1Password hesabının ne zaman oluşturulduğu ve bir kullanıcının en son ne zaman oturum açtığına ilişkin bilgileri de ele geçirdiğini belirtti.</p>
+<p>1Password, müşterilerin şifrelerini saklayan kasaların &quot;hiçbir zaman&quot; saldırganın erişimine açık olmadığını belirtti. Şirket ayrıca, müşteri hesaplarının şifrelerine veya şifrelerini 1Password'ün göremeyeceği şekilde karıştırmak için kullanılan gizli anahtarlarına erişimi olmadığını da belirtti.</p>
+<p>Ayrıca şirket, uygulamalarının ve uzantılarının olaydan etkilenmediğini belirtti.</p>
+<p>Saldırganın çalışanın kurumsal hesabına nasıl erişim sağladığı belirsizdir ve 1Password'ın bir sözcüsü, TechCrunch'ın olayla ilgili sorularına hemen yanıt vermemiştir.</p>
+<p>1Password, ihlalde bilgileri çalınan müşterileri bilgilendirip bilgilendirmediğini veya kaç müşterinin bilgilerinin çalındığını açıklamadı. Ayrıca şirkete, hackerlardan herhangi bir iletişim veya talep alıp almadığını da sorduk. 1Password'dan yanıt alırsak bu yazıyı güncelleyeceğiz.</p>
+<p>Şirket, parolalarını, kimlik bilgilerini, ödeme kartı bilgilerini ve daha fazlasını saklamak için parola yöneticisi ürünlerini kullanan milyonlarca müşteriye ve 200.000'den fazla işletmeye sahip olduğunu belirtiyor. Güvenlik uzmanları uzun zamandır daha güçlü kimlik bilgileri oluşturmanın ve çevrim içi hesapları takip etmenin daha iyi bir yolu olarak parola yöneticilerini önermektedir.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/makale/data/images/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/3-1password.png" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
