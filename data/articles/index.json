@@ -1,43 +1,43 @@
 [
   {
-    "slug": "anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
-    "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+    "content_hash": "26d472ecfb00b7efc05aeaf658dc6f7aabed0a87e16fca29d172c419b6c4e768",
     "date": "25 November 2026",
     "fetched_at": "2026-11-26T01:30:13.516214+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "26d472ecfb00b7efc05aeaf658dc6f7aabed0a87e16fca29d172c419b6c4e768"
+    "retries": 0,
+    "slug": "anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
   },
   {
-    "slug": "amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse",
-    "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+    "content_hash": "baf91bd6fee1ffa6df3e55f8ebcfe9592b664233998ed44d3bc0cdebc030bbd4",
     "date": "25 November 2026",
     "fetched_at": "2026-11-26T01:29:54.058865+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "baf91bd6fee1ffa6df3e55f8ebcfe9592b664233998ed44d3bc0cdebc030bbd4"
+    "retries": 0,
+    "slug": "amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
   },
   {
-    "slug": "allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving",
-    "url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
+    "content_hash": "43fa7b8681ff8336269553c1b7bd73101529799b4342b869480d966b33688bc0",
     "date": "25 November 2026",
     "fetched_at": "2026-11-26T01:29:32.929590+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "43fa7b8681ff8336269553c1b7bd73101529799b4342b869480d966b33688bc0"
+    "retries": 0,
+    "slug": "allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/"
   },
   {
-    "slug": "1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe",
-    "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+    "content_hash": "34e93ba74a8e3e72c06e60681e64e8951fcbf293b3e4f95eef84f89152ccae36",
     "date": "25 November 2026",
     "fetched_at": "2026-11-26T01:29:12.718902+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "34e93ba74a8e3e72c06e60681e64e8951fcbf293b3e4f95eef84f89152ccae36"
+    "retries": 0,
+    "slug": "1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe",
+    "status": "ok",
+    "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/"
   },
   {
     "content_hash": "455ceb06c225278d93c774f5f9bfaa403e2d7a34dd8595fae4714387f24483eb",
